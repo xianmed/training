@@ -226,27 +226,27 @@ const fetchCSV = async () => {
   if (record) {
     generate_certificate({
       name: record[1],
-      specialty: record[2],
-      dateAwarded: record[3],
+      specialty: record[3],
+      dateAwarded: record[2],
       institutionName: record[4],
       websiteUrl: "https://xianmed.github.io/training/i.html?q=" + id
     });
   } else {
     console.error('No record found for ID:', id);
+
+    generate_certificate({
+  name: "",
+  specialty: "NO CERTIFICATE FOUND",
+  dateAwarded: "",
+  institutionName: "",
+  websiteUrl: ""
+});
   }
 
 }
 
-// // Placeholder values for now; replace these arguments in your integration.
-// generate_certificate({
-//   name: "Alexandra Morgan",
-//   specialty: "Fellowship in Trauma and Surgical Critical Care",
-//   dateAwarded: "October 12, 2026",
-//   institutionName: "Xi'an Medical",
-//   websiteUrl: "https://xianmed.github.io/training/i.html?q=29320348"
-// });
 
-// window.generate_certificate = generate_certificate;
+window.generate_certificate = generate_certificate;
 
 window.onload = () => {
   main();
