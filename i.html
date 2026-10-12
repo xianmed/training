@@ -13,16 +13,21 @@
   * { box-sizing: border-box; }
   body {
     margin: 0;
-    padding: 24px;
+    height: 100vh;
+    height: 100dvh;
+    padding: 12px;
     background: #f3f4f6;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 16px;
+    gap: 12px;
+    overflow: hidden;
   }
   .certificate-frame {
-    width: min(100%, 1200px);
+    width: auto;
+    height: min(850px, calc(100dvh - 80px), calc(70.8333vw - 17px));
+    max-width: 100%;
     aspect-ratio: 1200 / 850;
     background: white;
   }
@@ -43,9 +48,9 @@
   }
   #download-png:hover { filter: brightness(1.12); }
   @media print {
-    body { padding: 0; background: white; }
+    body { height: auto; padding: 0; background: white; overflow: visible; }
     #download-png { display: none; }
-    .certificate-frame { width: 100vw; }
+    .certificate-frame { width: 100vw; height: auto; max-width: none; }
   }
 </style>
 </head>
