@@ -1,0 +1,5 @@
+# Introduction to Basic Life Support
+
+Basic Life Support is an introductory course that covers emergencies within the medical environment. The main emergencies addressed are bleeding, foreign body airway obstruction (FBAO; choking), and cardiac arrest. By the end of this course, you should be able to effectively manage these emergencies at the basic level in conjunction with a clinical team. Due to the fast reaction needed for these emergencies, MTH mandates that all clinical staff receive at least the BLS training course.
+> Advanced Cardiac Life Support (ACLS) is a course that focuses on cardiac arrest and other cardiovascular emergencies, while Advanced Trauma Life Support (ATLS) covers advanced trauma injury management. These courses are taken in the second and third years, respectively.
+Texts used for the development of this course include Emergency Care and Transportation of the Sick and Injured (AAOS, 12th Edition) and Prehospital Trauma Life Support (NAEMT et al., 10th Edition)

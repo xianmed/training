@@ -1,0 +1,11 @@
+title=BLS
+
+amt-lessons=7
+
+1=Introduction to Basic Life Support
+2=Scene Size-Up and Patient Assessment
+3=Cardiopulmonary Resuscitation (CPR)
+4=Airway Management
+5=Foreign Body Airway Obstruction (FBAO)
+6=Bleeding Control & C-Collar
+7=Team Roles in BLS

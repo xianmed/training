@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meridian Teaching Hospital</title>
+
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<!-- ROBLOX DISCLAIMER -->
+<div id="startupModal" class="modal">
+    <div class="modal-content">
+        <h2>Notice</h2>
+        <p>This educational platform is intended for Roblox roleplay training only.</p>
+        <button id="closeModal">Continue</button>
+    </div>
+</div>
+
+<header>
+    <div class="logo">
+        Meridian Teaching Hospital
+    </div>
+
+    <div class="header-actions">
+        
+    </div>
+</header>
+
+<div class="container">
+
+    <!-- COURSE MENU -->
+    <aside class="course-menu">
+
+        <div class="menu-top">
+
+    <div id="currentProgram" class="program-display">
+        No Transcript Loaded
+
+	
+    </div>
+
+    <button id="importBtn">
+        Import Transcript
+    </button>
+
+</div>
+
+        <div id="courseButtons">
+
+        </div>
+
+    </aside>
+
+    <!-- LESSON SIDEBAR -->
+    <aside id="lessonSidebar" class="lesson-sidebar hidden">
+
+    </aside>
+
+    <!-- MAIN CONTENT -->
+    <main id="content">
+
+        <div class="welcome">
+
+            <h1>Welcome</h1>
+
+            <p>
+                Import your transcript to begin. If courses are already loaded, select one. If you do not know your transcript code, please refer to the table below.
+            </p>
+<table>
+	<tr>
+		<th>Name</th>
+		<th>Year</th>
+		<th>Code</th>
+	</tr>
+	<tr>
+		<th>Medical School</th>
+		<th>1</th>
+		<th>MD-Y1</th>
+	</tr>
+	<tr>
+		<th>Medical School</th>
+		<th>2</th>
+		<th>MD-Y2</th>
+	</tr>
+	<tr>
+		<th>Medical School</th>
+		<th>3</th>
+		<th>MD-Y3</th>
+	</tr>
+	<tr>
+		<th>Medical School</th>
+		<th>4</th>
+		<th>MD-Y4</th>
+	</tr>
+</table>
+
+        </div>
+
+    </main>
+
+</div>
+
+<!-- IMPORT DIALOG -->
+<div id="importModal" class="modal hidden">
+
+    <div class="modal-content">
+
+        <h2>Import Transcript</h2>
+
+        <input
+            id="programIdInput"
+            placeholder="Program ID"
+        >
+
+        <button id="submitProgram">
+            Submit
+        </button>
+
+    </div>
+
+</div>
+
+<!-- TOAST -->
+<div id="toast">
+
+</div>
+
+<script src="js/markdown.js"></script>
+<script src="js/transcript.js"></script>
+<script src="js/app.js"></script>
+
+</body>
+</html>

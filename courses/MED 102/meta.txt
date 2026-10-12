@@ -1,0 +1,14 @@
+title=Diagnostics I
+
+amt-lessons=10
+
+1=Introduction to Diagnostics
+2=Simple Blood Panels
+3=Coagulation Studies
+4=Electrocardiograms (EKG)
+5=Electroencephalogram (EEG)
+6=Other Neurological Exams
+7=Pulmonary Tests
+8=Urinalysis and Body Fluid Analysis
+9=Microbiological Testing
+10=Genetic Testing

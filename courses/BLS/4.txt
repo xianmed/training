@@ -1,0 +1,5 @@
+# Airway Management
+Alongside the two techniques of opening the airway, we will discuss two airway adjuncts (device used to maintain an unobstructed airway) that have application in BLS.
+* Oropharyngeal Airway (OPA): inserted into the mouth. Only used on unconscious patients without a gag reflex, as it could trigger vomiting. If the patient begins to gag upon its insertion, remove quickly. Steps for insertion: lubricate, insert into mouth, rotate.
+* Nasopharyngeal Airway (NPA): better tolerated by conscious or semi-conscious patients. It also protects the airway. Steps for insertion: lubricate, slowly advance through nose. Stop if any resistance is felt. Do not use in basilar skull fracture.
+The purpose of these devices is to keep the airway __patent__, meaning unobstructed and clear. They prevent the tongue from blocking the throat, make it easier to use a BVM, and provide a device for basic medical professionals to use without advancing to other airway devices like the LMA or ETT.

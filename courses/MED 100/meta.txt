@@ -1,0 +1,10 @@
+title=Introduction to Medical School
+
+amt-lessons=10
+
+1=Introduction to Medical School
+2=Ethics
+3=Scope of Practice
+4=The Healthcare System
+5=Documentation and Case Reports
+6=Pager and Communication

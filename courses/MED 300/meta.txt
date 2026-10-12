@@ -1,0 +1,14 @@
+title=Clinical Skills II (Critical Care)
+
+amt-lessons=9
+
+1=Central Venous Catheters (CVC), Rapid EJV
+2=PICC
+3=Arterial Lines
+4=Venous Cutdown
+5=Mechanical Ventilation
+6=Advanced POCUS
+7=ICU Sedation
+8=Sepsis and Shock
+9=NG/OG and Foleys
+10=Artificial Nutrition

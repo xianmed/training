@@ -1,0 +1,9 @@
+# Team Roles in BLS
+As stated earlier in this course, it is important to remain calm during high-intensity scenarios. Each team member should diligently do their assigned task, communicating as best as possible with the rest of the team. Generally, there are six roles in a code:
+* Team leader: directs the overall code. Typically an MD.
+* Compressor: provides compressions, swap every 2 minutes. 
+* Airway manager: typically an RN+. Secures the airway, provides ventilations, may intubate or perform advanced procedures.
+* Defibrillator operator: analyzes rhythm and shocks the patient.
+* Medication nurse: typically an RN, can be any role. Prepares and administers drugs as per the team leader's orders
+* Recorder/scribe: documents events of the code.
+Not all roles may be present, so duties may be combined depending on the direction of the team leader. It is important that if any of the events documented in the BLS course occur, cardiac arrest or FBAO, that the supervising clinical staff are alerted as soon as possible. Code blue should be declared if somebody begins to code ASAP.

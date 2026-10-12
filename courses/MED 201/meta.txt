@@ -1,0 +1,13 @@
+title=Diagnostics II (Imaging)
+
+amt-lessons=
+
+1=Introduction to Imaging **choosing the correct imaging technique
+2=Radiography (XR)
+3=Computed Tomography (CT)
+4=Magnetic Resonance Imaging (MRI)
+5=Ultrasound Techniques
+6=Echocardiography (TTE/TEE)
+7=Fluoroscopy and Contrast Studies
+8=Nuclear Medicine and PET
+9=Interventional Radiology

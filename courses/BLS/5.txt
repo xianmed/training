@@ -1,0 +1,4 @@
+# Foreign Body Airway Obstruction
+Referred to as FBAO, this is simply choking. The following is the choking algorithm approved for usage at MTH:
+* If coughing/gagging allow patient to continue. Must have permission (the patient is not pushing you away); If the patient goes silent, continue. If at any time the patient goes flaccid (they should be rigid while choking), initiate chest compressions (CPR).
+* For __infants__ 5x back slaps + 5x chest compressions until vocal or unconscious; For __adults and children__ Heimlich maneuver until vocal or unconscious; For __late-stage pregnancy or obesity__ wrap arms around chest and squeeze (called the modified chest maneuver).

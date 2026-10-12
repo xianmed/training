@@ -1,0 +1,21 @@
+# The Healthcare System
+
+> There are many different roles in the healthcare system, all of which are valuable for delivering excellent patient care. Meridian Teaching Hospital uses a US-style role organization.
+
+As a medical student, you will one day expected to manage care of patients and lead a team of medical professionals completely independently. This course will help to identify members of the healthcare system and their function.
+
+## Nursing
+
+Nurses are the backbone of care within the medical system. Ideally, nurses deliver medications and bedside care to patients, triage, admit patients, and consult with doctors when patient medical statuses change. Nurses graduate with their degree, a Bachelor's of Science in Nursing (BSN), then take an examination called the NCLEX to achieve the Registered Nurse (RN) title. Some nurses will continue on to nurse practitioner (NP) or nurse anesthetist (CRNA) school, where they learn additional skills which allows them to function somewhat independently on simple cases. For the purposes of MTH, CRNAs may provide adequate anesthesia independently.
+
+## Paramedicine
+
+Paramedicine has a couple of different ranks. EMTs are the lowest rank in paramedicine and generally can only engage in basic life support measures. Paramedics (EMT-P) are able to engage in some advanced life support, including intubation, certain IV medications, and basic trauma care. Further training for paramedics is available: Flight Paramedics (FP-C) run the Helicopter EMS (HEMS) service (alongside medical/nursing staff, it depends; this is the minimum certification for EMS), and Critical Care Transport (CCT) Paramedics have more advanced skills such as ventilator management, surgical airways, and other skills that make them more valuable in complex cases.
+
+## Medicine and Surgery
+
+All doctors, __physicians AND surgeons__, start at medical school. These four years of basic learning provide the skills needed to enter any residency program at an extremely high level. After medical school graduation, you may choose to immediately start practice (generally we will only allow you to function as an emergency medicine doctor) or go to residency for additional specialty training. Residency has far less courses and generally only takes two years (two ranks, not actual years) to complete. The amount of years is dependent on the specialty. However, although you are still in training as a resident, you are a licensed doctor and have full control over your patients and may exert authority on nurses and paramedicine staff (within reason, recall ethics lesson). To emphasize, __even intern residents have a knowledge far above the average maple player__. After completing residency, you will take a board examination in your specialty, at which time you will be __board certified__. Surgeons only start truly learning surgery once in residency, but because of your strong medical foundation, it will be much easier to progress once in residency.
+
+> Medical School (4yrs) &rarr; Residency (2-3yrs) &rarr; Board-Certified Attending Physician
+
+As a doctor, you will be expected to cooperate and interface with all sorts of medical professionals. There are other medical roles not included at MTH (currently), such as respiratory therapists (RT) or physician assistants (PA). These roles will be discussed if the decision is made to include their programs, but for now, these are the only roles that exist.

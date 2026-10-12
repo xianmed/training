@@ -1,0 +1,37 @@
+# Ethics
+
+> These are common-sense principles for MTH that will allow us to interact professionally and morally.
+
+The **four principles of ethics** are guiding points to ensure that care delivered is to the top standard.
+* Autonomy: patients have a right to self-determination. You must provide a fully detailed explanation of treatment options (informed consent), and respect the patient's choices about their own care. Remember, the patient should sign an Against Medical Advice (AMA) form if there is a discrepancy between the recommended goals of care versus the patient's elected goals. Document this in their chart.
+* Beneficence: acting in the best interest of the patient. Medical decisions should always be made to improve the patient's outcome. For instance, if a surgery will have a minor improvement to the patient at best, but has significant risk, it may violate this principle and the next.
+* Non-maleficence: an obligation to avoid inflicting intentional or unintentional harm on patients. This is popularized with the latin phrase *primum non nocere* ("first, do no harm"). This should be an obvious principle to adhere to.
+* Justice: patients must be treated impartially, fairly, and reasonably. Doctors do not have the authority to choose who will die and may not act in discrimination even despite negative morals of the patient (e.g., convicted felon).
+---
+**Informed consent** is also an important concept to know. The patient must have the capacity for decision-making (no decreased level of consciousness, fully aware), must be made out of complete free will, must understand risks and benefits to treatments, must be made aware of alternatives, and must be allowed to refuse care. 
+
+> If care is refused, RP the PT signing an AMA, and document.
+
+> Minors (<18) do __not__ have the capacity for decision-making unless they are emancipated, pregnant, married, or serving in the armed forces.
+
+Surrogate decision-makers are lawfully elected decision-makers for patients (ie., it is a document) intended for patients who may not be competent for decision-making but are above the age of 18. If a minor presents, their parents or legal guardians must provide consent for refusal of care. If they are unable to be __physically__ reached, then the principle of implied consent applies.
+
+* **Implied consent**: if a patient is incapacitated, unconscious, or in a life-threatening situation, then the medical professional may act accordingly, following all ethical obligations.
+* Notice that this does __not__ apply to conscious minors. Conscious minors may not be treated (unless life-threatening injuries exist) without parental permission or contact.
+
+---
+
+**Health Insurance Portability and Accountability Act (HIPAA)**: essentially, patient information should not be shared with those outside of the relevant treatment of a patient. Patient information should be kept protected and private. Follow the "need-to-know" principle: only those who need to know *should* know. Note that you may actually share patient cases, as long as they do not include any personally-identifying information (PII). In this case, just remove the patient name when discussing a case for medical education purposes.
+
+When disclosing information to the patient, you should be direct and clear. Documentation in the chart should remain honest and objective (ie., do not describe patient negatively outside of objective, relevant information). Medical errors should be communicated to the patient.
+
+**Professional standards**:
+* Take accountability for your actions. This is only Roblox, and you are still a student. Even attendings make mistakes.
+* Be reliable. If you say you will do something, do it.
+* Respect for colleagues. All positions in the healthcare system matter. Although there is an intrinsic hierarchy to medicine, nobody should be disrespected for their position. Report any misbehavior to administration, if needed. Also, without stating, upmost respect should be observed towards patients, as well.
+
+**Conflicts of interest**: you should avoid cases wherein you will have a personal bias, financial interest, receive gifts, or engage in favoritism. This applies for both patients and to students/residents; You should not behave in favoritism.
+
+**End-of-Life Ethics**: Do Not Resuscitate (DNR) orders, DNI, hospice, palliative care, advanced directives, and goals of care should be made clear in the chart. If you have any questions, contact a resident. These concepts are discussed in the MED 400 course in-depth, but should be obvious as to their function.
+
+Triage: although we do not have the capacity to decide who lives or dies, we do have limited resources during certain times, such as a mass casualty incident (MCI). Therefore, we must allocate resources depending on who will have the best chance of survival. This is covered more in future courses.

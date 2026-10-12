@@ -1,0 +1,8 @@
+# Pager and Communication
+
+Fast, accurate communication between medical professionals is paramount for the timely care of patients. Especially during trauma and critical care situations, the ability to quickly communicate patient status is an important skill. There are two primary systems used for patient status communication, SOAP and SBAR:
+* SOAP: __S__ituation, __O__bjective, __A__ssessment, and __P__lan. Situation includes the chief complaint, history of present illness, and additional history on the patient. Objective describes vital signs, physical exam findings, or other diagnostic results (labs or imaging). Assessment provides a prioritized list of issues with the patient, providing differential diagnoses and an explanation of their evidence. Finally, the plan should address the next steps in the patient's care.
+> Visit the following website and practice your SOAP skills. https://www.nbome.org/eSoapDemo/demo.php
+* SBAR: __S__ituation, __B__ackground, __A__ssessment, __R__ecommendation. Currently, we recommend SOAP format at MTH. However, the formats are roughly equivalent. If you are interested you may search more about this technique.
+
+The pager is a system for calling for other staff, typically those specialized. If you are assigned the lead to a case, and need a consult with a specialist physician/surgeon, you simply should notify the online members of that specialty and request a consult. Pager pings should be short, as the consultant can always ask for more information. As a rule of thumb, no more than 5 words should describe most patient situations.

@@ -1,0 +1,15 @@
+title=Clinical Skills I
+
+amt-lessons=11
+
+1=Introductory Patient Assessment
+2=Head-to-Toe and DCAP-BTLS
+3=Vital Signs +CRT, Skin Pallor, General Impression
+4=Physical Examinations
+5=Mental Status Exam (MSE)
+6=Neurological Exam
+7=GCS, AVPU
+8=LEMON and Mallampati
+9=IV/IO
+10=Airway Devices and Suction
+11=Oxygen Administration

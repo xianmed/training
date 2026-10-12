@@ -1,0 +1,15 @@
+title=Pharmacology
+
+amt-lessons=11
+
+1=Introduction prescription abbreviations, routes, schedules, generic vs brand, contra, side effect, adverse, drug interactions, kinetics
+2=Analgesics and Sedatives nsaids, acetam, opioids, benzos, propofol, dexmedtomidine
+3=Antimicrobials pencicilin, cephalosporin, macrolides, fluoroquinolones, vancomycin, antifungal, antivirals
+4=Cardiovascular ACEi,ARBs,Beta blockers, CCBs, vasopressors & dilators, diuretics, anticoags
+5=Respiratory beta agonists, anticholinergics, corticosteroids, leukotriene inhibitors
+6=Endocrine insulin, antidiabetics, thyroid, corticosteroids
+7=Gastrointestinal PPIs,H2 blockers, antiemetics, laxatives
+8=Neuro/Psych antidepressants, antipsych, antiepileptics
+9=EM/CC epi,norepi,dopamine,adenosine,amiodarone,atropine,Ca,Mg ***May delete this lesson.
+10=Toxicology and Antidotes naloxone, flumazenil, N-acetylcysteine, protamine, vit K
+11=Volume Expanders and Electrolytes *for correcting the electrolyte derangements.

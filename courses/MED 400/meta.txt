@@ -1,0 +1,14 @@
+title=Pediatric and Geriatric Populations
+
+amt-lessons=10
+
+1=Introduction to Age-Specific Medicine *diff in physiology, disease presentation, risk factors, important of age-specific care
+2=Growth, Development, and Aging *changes in age; fraility,sarcopenia,cognitive decline, normal aging
+3=Pediatric Assessment and Communication
+4=Geriatric Assessment and Communication
+5=Age-Related Physiological Changes *dec. cardio reserve, dec. complicance, dec. lung elasticity, dec. GFR, dec. metabolism, osteoporosis, sarcopenia; etc
+6=Pediatric Emergencies *respiratory distress, croup, epiglottitis, bronchiolitis, febrile seizure, dehydration
+7=Geriatric Emergencies *fall, hip fx, sepsis, stroke, ACS, delirium
+8=Medication Considerations Across the Lifespan *weight based dosing, Beers criteria
+9=Abuse, Neglect, and Capacity
+10=End-of-Life Care and Advanced Directives *palliative care, goals of care, DNR/DNI/Adv directive

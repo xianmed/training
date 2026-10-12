@@ -1,0 +1,29 @@
+## Education
+
+> Go to the Training and Education site. Input your transcript code as it appears on the table listed on that site. Go through each course and lesson, being sure to take notes, memorize, or learn in your own style as needed.
+
+### Rank Progression
+Many courses have more than one "year" of training, which means that you must take an exam in order to progress to the next year. Before doing so, you should be comfortable in all of the content that was presented in your current years of training. It is also recommended not to completely forget previous years of training. Once you are ready, open an interview ticket in #ticket-create .
+
+**Notice for Residents**
+You will also require an endorsement from your specialty director or other clinical leadership in order to progress, because exams are not as standardized at that level. If you suspect toxicity or favoritism, please open a general support ticket in #ticket-create so that administrative personnel may assist you.
+
+### Graduation
+After you finish your course and capstone examination, you will receive your certificate/degree, and have your roles updated. The options after graduation are listed below:
+
+**Medical School**
+* Directly into Emergency Medicine attending status
+* Progress into Residency (Recommended, required for all surgical specialties)
+**Residency**
+* Enter attending status in your specialty as a board-certified physician/surgeon
+* Take a fellowship (you remain at attending status, but receive additional training)
+* Take an additional residency (you will be demoted to resident status, but may always end early and return to attending status)
+* Enter attending status AND progress to professorship status
+**Nursing**
+* Enter as a Registered Nurse
+* Work as a registered nurse while undertaking specialty training (Family NP or CRNA) (CRNA/NP may still become professors)
+* Enter as a Registered Nurse AND progress to professorship status
+
+---
+
+Notice: some roles, such as Physician Assistant and Paramedicine, have not received handbook space yet as their programs are not in-progress yet. Once suitable leadership are available for the development of their programs, they will also be added to the handbook and other material.

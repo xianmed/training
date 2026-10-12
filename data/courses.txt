@@ -1,0 +1,99 @@
+*** Nursing Programs ***
+
+Nursing School/BSN-RN 2yrs
+
+Family NP MSN10 1yr
+CRNA DNAP 2yrs
+
+*** MD Programs ***
+
+Medical School/MD 4yrs
+
+General Surgery GME10 2yrs
+Orthopedic Surgery GME11 2yrs
+Cardiothoracic Surgery GME12 2yrs
+Neurosurgery GME13 3yrs
+
+Internal Medicine/Anesthesia GME20 2yrs
+Internal Medicine/Pediatrics GME21 2yrs
+
+*** EMS ***
+
+EMT 1yr
+EMTP 1yr
+
+FPC 1yr
+CCT 1yr
+
+*** Courses ***
+
+BLS
+ATLS
+ACLS
+
+MED 100 Introduction to Medical School
+MED 101 Clinical Skills I
+MED 102 Diagnostics I (Blood, Misc)
+MED 200 Pharmacology
+MED 201 Diagnostics II (Imaging)
+MED 300 Clinical Skills II (Critical Care)
+MED 301 Clinical Skills III (Perioperative)
+MED 400 Pediatric and Geriatric Populations
+
+APP 100 Cardiovascular
+APP 101 Pulmonary
+APP 102 Gastrointestinal
+APP 103 Ophthalmology
+APP 200 Neurology
+APP 201 Psychiatry
+APP 202 Nephrology
+APP 203 Dermatology
+APP 300 Musculoskeletal
+APP 301 GI/OBGYN
+APP 302 Infectious Disease
+APP 303 Toxicology
+APP 400 Endocrine
+APP 401 Immunology
+APP 402 Hematology
+APP 403 Ear, Nose, and Throat
+
+NUR 100 Nursing Fundamentals
+NUR 101 Pharmacology for Nurses
+NUR 102 Nursing Skills I
+NUR 200 Medical-Surgical Nursing
+NUR 201 Critical Care/Trauma Nursing
+NUR 202 Pediatrics/Obstetrics Nursing
+NUR 203 Nursing Skills II
+NUR 300 Family Medicine Compendium
+NUR 301 Adv Critical Care
+NUR 302 Adv Perioperative Care
+NUR 303 Anesthesia Principles I
+NUR 400 General Anesthesia for Nurses
+NUR 401 Regional Anesthesia for Nurses
+NUR 402 Anesthesia Principles II
+
+GME 510 Introduction to Surgery
+GME 511 Trauma/Surgical Critical Care
+GME 512 Orthopedic Pathophysiology
+GME 513 Interventional Techniques (Cardiac)
+GME 518 Interventional Techniques (Neurological)
+
+GME 514 Techniques in General Surgery I
+GME 515 Techniques in Orthopedic Surgery I
+GME 516 Techniques in Cardiothoracic Surgery I
+GME 517 Techniques in Neurological Surgery I
+
+GME 610 Techniques in General Surgery II
+GME 611 Techniques in Orthopedic Surgery II
+GME 612 Techniques in Cardiothoracic Surgery II
+GME 613 Techniques in Neurological Surgery II
+
+GME 710 Techniques in Spinal Surgery
+GME 720 Neurological Pathophysiology
+
+GME 520 Internal Medicine Seminar
+GME 521 General Anesthesia
+GME 522 Regional and Complex Anesthesia
+GME 523 Considerations and Crisis in Anesthesia
+GME 524 Pediatrics Core I
+GME 525 Pediatrics Core II

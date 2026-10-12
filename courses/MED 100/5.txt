@@ -1,0 +1,5 @@
+# Documentation and Case Reports
+
+**The Chart**: where all of the details on a patient's care are logged for other medical providers to view. It should remain orderly, containing all pertinent information. It should remain objective, and never be insulting towards the patient. It is absolutely vital that all actions taken and findings observed are eventually documented in the chart. Use the guiding principle "if it went undocumented, it never happened." Often, when accidents or malpractice occur, charts are the first places that people go to identify the source of the error. Medical terminology and abbreviations are recommended and allowed within MTH charts, but always be sure to ask or clarify if any confusion arises regarding their use.
+
+**Case Reports**: these occur when a medical professional wants to share a case for educational purposes. For instance, if a trauma patient had a particularly challenging treatment or an interesting surgical case; regardless, the most important principle is that personally-identifiable information is removed.

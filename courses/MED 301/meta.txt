@@ -1,0 +1,16 @@
+title=Clinical Skills III (Perioperative)
+
+amt-lessons=9
+
+1=Risk Assessment
+2=Fluid and SSI Management
+3=Postoperative Complications
+4=Surgical Closure Techniques
+5=Cricothyrotomy
+6=Thoracentesis and Paracentesis
+7=Pericardiocentesis
+8=Surgical Drains
+9=Tube Thoracostomy
+10=Resuscitative Thoracotomy
+11=Escharotomy and Burn Management
+12=Fasciotomy and Compartment Syndromes
