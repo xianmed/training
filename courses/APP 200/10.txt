@@ -1,0 +1,151 @@
+# Headache Disorders
+
+Headache is one of the most common human complaints. Most headaches are primary (benign and recurrent), and a minority are secondary to a dangerous cause. The central clinical task is separating them.
+
+## Primary Versus Secondary Headache
+
+* **Primary:** migraine, tension-type headache, cluster headache. The headache is the disease. Normal exam and imaging.
+* **Secondary:** caused by another condition, such as hemorrhage, infection, tumor, giant cell arteritis, or dissection.
+
+## Red Flags: The SNNOOP10 List
+
+Think about a secondary cause when any of these are present:
+
+* **S**ystemic symptoms (fever, weight loss) or **S**econdary risk factors (cancer, HIV)
+* **N**eurologic deficit or **N**ew cognitive change
+* **O**nset **s**udden (thunderclap)
+* **O**lder age at onset (over 50)
+* **P**attern change or **P**rogressive worsening
+* **P**ositional (worse lying or standing), **P**recipitated by Valsalva, cough, or exertion
+* **P**apilledema
+* **P**regnancy or postpartum
+* **P**ainful eye with autonomic features, or **P**ost-traumatic onset
+* **P**athology of the immune system
+* **P**ainkiller overuse
+
+> **Clinical Pearl:** A new headache after age 50 should prompt checking an **ESR and CRP** for giant cell arteritis. Missed GCA can cause blindness.
+
+## Migraine
+
+A recurrent headache disorder affecting about 15 percent of people, more often women. Often begins in the teens to 30s.
+
+### Diagnostic Features
+* At least **five attacks** lasting **4 to 72 hours** untreated
+* **At least two of:** one-sided, pulsating, moderate to severe intensity, worsened by routine activity
+* **At least one of:** nausea or vomiting, or both light and sound sensitivity
+
+### Phases
+* **Prodrome:** hours to days before. Mood change, yawning, food cravings, neck stiffness.
+* **Aura (in about one third):** reversible neurologic symptoms lasting **5 to 60 minutes,** most commonly **visual** (zigzag lines, scintillating scotoma), then sensory (spreading tingling), or language disturbance. Evolves gradually over minutes. Followed by the headache.
+* **Headache phase**
+* **Postdrome:** exhaustion and fogginess
+
+### Triggers
+Stress, sleep disruption, skipped meals, menstruation, hormonal changes, alcohol (red wine), certain foods, weather change, and bright lights.
+
+### Special Types
+* **Migraine with brainstem aura:** vertigo, dysarthria, double vision
+* **Hemiplegic migraine:** reversible motor weakness during the aura
+* **Vestibular migraine:** episodic vertigo
+* **Menstrual migraine**
+* **Chronic migraine:** 15 or more headache days per month
+
+### Acute Treatment
+* **Mild to moderate:** NSAIDs (ibuprofen, naproxen), aspirin, or acetaminophen, early in the attack
+* **Antiemetics:** metoclopramide, prochlorperazine (also help the headache)
+* **Moderate to severe:** **triptans** (sumatriptan, rizatriptan, and others), taken early in the headache phase. **Contraindicated** in coronary artery disease, uncontrolled hypertension, prior stroke, and hemiplegic or brainstem aura migraine.
+* **Newer options:** **gepants** (ubrogepant, rimegepant, which block CGRP receptors) and **ditans** (lasmiditan), which have no vasoconstrictive effect
+* **Emergency department:** IV fluids, antiemetic, ketorolac, magnesium, and IV dihydroergotamine. Avoid opioids.
+
+### Preventive Treatment
+Consider when attacks are frequent (for example 4 or more headache days a month), disabling, or not controlled by acute therapy.
+* **Propranolol** or other beta blockers
+* **Topiramate** (side effects: tingling, cognitive slowing, kidney stones, glaucoma, and birth defects)
+* **Amitriptyline** or venlafaxine
+* **Candesartan**
+* **CGRP monoclonal antibodies** (erenumab, fremanezumab, galcanezumab, eptinezumab)
+* **OnabotulinumtoxinA** for chronic migraine
+* **Lifestyle:** regular sleep, hydration, exercise, trigger management
+
+### Medication-Overuse Headache
+Frequent use of acute headache medicines (simple analgesics on 15 or more days a month, or triptans and opioids on 10 or more days a month) causes a daily headache. Treatment is **withdrawal of the overused drug** and starting preventive treatment.
+
+## Tension-Type Headache
+
+The most common headache.
+
+* **Bilateral, pressing or band-like,** mild to moderate in intensity
+* **Not** worsened by activity, **no** nausea or vomiting
+* May have mild light or sound sensitivity (but not both)
+* **Treatment:** simple analgesics (acetaminophen or NSAIDs), stress management, sleep, and exercise. **Amitriptyline** for frequent chronic cases.
+
+## Cluster Headache (Trigeminal Autonomic Cephalalgia)
+
+* Mostly **men,** age 20 to 40, often smokers
+* **Severe, unilateral, stabbing pain** around or behind one eye, lasting **15 to 180 minutes**
+* **Ipsilateral autonomic symptoms:** tearing, red eye, nasal congestion or runny nose, ptosis, miosis, eyelid swelling
+* **Restlessness and agitation:** patients pace, unlike migraine patients who lie still
+* Attacks come in **clusters** (daily, often at the same time, often at night) over weeks to months, then remission
+
+### Treatment
+* **Acute:** **100 percent oxygen at 12 to 15 L/min via a non-rebreather mask for 15 minutes,** and **subcutaneous sumatriptan** (or intranasal triptans)
+* **Preventive:** **verapamil** (first-line, needs ECG monitoring for PR prolongation), short-term prednisone, and lithium
+* Occipital nerve block
+
+### Other Trigeminal Autonomic Cephalalgias
+**Paroxysmal hemicrania** (shorter, more frequent attacks that respond to **indomethacin**) and **SUNCT.**
+
+## Trigeminal Neuralgia
+
+* Sudden, **brief, electric-shock-like** pain in the V2 or V3 distribution, triggered by touch, chewing, brushing teeth, or a cool breeze
+* Often from **vascular compression** of the nerve root. Secondary causes: multiple sclerosis and tumors.
+* **First-line treatment: carbamazepine** (or oxcarbazepine). Surgery (microvascular decompression) for refractory cases.
+
+## Secondary Headache Causes
+
+### Subarachnoid Hemorrhage
+Thunderclap onset. See Lesson 8.
+
+### Giant Cell Arteritis
+* Age over 50, new headache, **jaw claudication,** scalp tenderness, visual symptoms, polymyalgia rheumatica
+* **Treatment:** start high-dose steroids immediately, and arrange temporal artery biopsy
+
+### Meningitis and Encephalitis
+Fever, neck stiffness, altered consciousness.
+
+### Mass Lesions
+Progressive headache, often worse in the morning, with vomiting, focal signs, or seizures.
+
+### Idiopathic Intracranial Hypertension
+Overweight young women, papilledema, transient visual obscurations, and high opening pressure. Treated with weight loss and acetazolamide.
+
+### Spontaneous Intracranial Hypotension
+Headache that **is worse upright** and better lying down, from a CSF leak. MRI shows diffuse pachymeningeal enhancement and brain sagging. Treated with bed rest, hydration, epidural blood patch.
+
+### Cervical Artery Dissection
+Neck pain and headache, often after minor trauma or neck manipulation, with **Horner syndrome** and risk of stroke. Diagnosis by CT or MR angiography. Treatment is antithrombotic therapy.
+
+### Reversible Cerebral Vasoconstriction Syndrome
+Recurrent thunderclap headaches, triggered by sex, exertion, or **serotonergic and vasoactive drugs.**
+
+### Pituitary Apoplexy
+Sudden severe headache with visual loss and ophthalmoplegia from bleeding into a pituitary tumor.
+
+### Acute Angle-Closure Glaucoma
+Eye pain, halos, and vomiting. See the Ophthalmology course.
+
+### Carbon Monoxide Poisoning
+Headache, nausea, and confusion in several people in the same household, especially in winter.
+
+### Sinusitis, Dental Disease, and Cervicogenic Headache
+Common but often over-diagnosed.
+
+## Evaluation Approach
+
+1. **History:** onset, duration, character, location, associated symptoms, red flags.
+2. **Exam:** vital signs, **fundoscopy,** neurologic exam, neck stiffness, temporal arteries.
+3. **Imaging** is **not needed** for typical migraine or tension headache with a normal exam. Obtain **CT or MRI** for red flags. Add vascular imaging and LP as indicated.
+4. **Reassurance and a headache diary** for primary headaches.
+
+> **Summary**
+> Most headaches are primary, but red flags (thunderclap onset, age over 50, fever, neurologic signs, papilledema, positional or Valsalva triggers, and immunosuppression) point to secondary causes. Migraine is unilateral, pulsatile, and lasts 4 to 72 hours with nausea or light and sound sensitivity, and is treated with NSAIDs, triptans, gepants, and preventives such as propranolol, topiramate, and CGRP antibodies. Cluster headache causes severe periorbital pain with autonomic features, and is treated with oxygen and sumatriptan. Always think of SAH, GCA, meningitis, and dissection.

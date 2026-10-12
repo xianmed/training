@@ -1,0 +1,115 @@
+# Uveitis and Intraocular Infection
+
+The uvea is the middle, vascular layer of the eye: the iris, ciliary body, and choroid. Uveitis is inflammation of any part of it. It is a leading cause of preventable blindness, and many cases are linked to systemic disease.
+
+## Classification
+
+By location of the main inflammation:
+
+* **Anterior uveitis:** iris and ciliary body (iritis, iridocyclitis). Most common, about 75 to 90 percent.
+* **Intermediate uveitis:** vitreous and peripheral retina (pars planitis).
+* **Posterior uveitis:** choroid and retina (choroiditis, retinitis).
+* **Panuveitis:** all layers.
+
+## Anterior Uveitis
+
+### Presentation
+* **Pain** (aching, deep), **photophobia**, redness, tearing, blurred vision
+* Often unilateral and sudden in onset
+
+### Signs
+* **Ciliary flush** (circumcorneal redness)
+* **Small, irregular pupil** from spasm and adhesion to the lens
+* **Cells and flare** in the anterior chamber at the slit lamp. Cells are white blood cells. Flare is protein leaking from inflamed vessels, seen as a haze.
+* **Keratic precipitates (KPs):** clumps of cells on the corneal endothelium. Large, greasy "mutton-fat" KPs suggest granulomatous disease such as sarcoidosis or tuberculosis.
+* **Hypopyon** in severe disease
+* **Posterior synechiae:** the iris sticks to the lens, giving an irregular pupil
+* **Intraocular pressure** is often low early (decreased aqueous production) but can be high later
+
+> **Clinical Pearl:** Photophobia is the hallmark. Shining a light in the unaffected eye causes pain in the affected eye (consensual photophobia), a very specific sign of iritis.
+
+### Causes
+* **Idiopathic:** about half.
+* **HLA-B27 associated:** ankylosing spondylitis, reactive arthritis, psoriatic arthritis, inflammatory bowel disease. Often recurrent, unilateral, and alternating between eyes.
+* **Juvenile idiopathic arthritis (JIA):** often **painless and white eye**, so it can be missed. Children with JIA need regular screening, especially with positive ANA.
+* **Sarcoidosis**
+* **Infections:** herpes simplex and zoster, syphilis, tuberculosis, Lyme disease, cytomegalovirus.
+* **Behçet disease:** with oral and genital ulcers.
+* **Trauma, post-surgical, Fuchs heterochromic uveitis, and medications** (rifabutin, bisphosphonates, some biologics).
+
+### Workup
+A first episode of unilateral, non-granulomatous anterior uveitis with a clear cause usually needs no extensive testing. Order tests if the uveitis is:
+
+* Recurrent, bilateral, or granulomatous
+* Posterior or intermediate
+* Associated with systemic symptoms
+
+Common tests include CBC, ESR/CRP, syphilis serology (RPR and FTA-ABS), TB testing (IGRA), chest X-ray or CT (sarcoidosis), ACE or lysozyme, HLA-B27, and ANA.
+
+### Treatment
+* **Topical corticosteroids** (such as prednisolone acetate 1%) frequently at first (every 1 to 2 hours), then slowly tapered over weeks to avoid rebound.
+* **Cycloplegic drops** (cyclopentolate, homatropine, or atropine for severe disease) to relieve ciliary muscle spasm and **prevent posterior synechiae**.
+* Treat the underlying cause.
+* Recurrent or severe disease: oral steroids, methotrexate, or biologics such as adalimumab, usually through specialists.
+
+### Complications
+Posterior synechiae and pupillary block, cataract, glaucoma, cystoid macular edema, band keratopathy, hypotony, and permanent vision loss.
+
+> **Clinical Pearl:** Steroid drops can cause glaucoma and cataract and can worsen herpetic keratitis. Treat uveitis only after the cornea has been checked with fluorescein and an infection has been excluded.
+
+## Intermediate Uveitis (Pars Planitis)
+
+Inflammation of the vitreous and peripheral retina. Typical in young people, with floaters and blurred vision but little pain or redness. Associated with multiple sclerosis and sarcoidosis. Treated with steroids and immunosuppression, with attention to macular edema.
+
+## Posterior Uveitis
+
+### Toxoplasmosis
+The most common cause of infectious posterior uveitis.
+
+* **Cause:** *Toxoplasma gondii* (undercooked meat, cat feces, congenital).
+* **Signs:** focal white, fluffy retinal lesion next to an old pigmented scar, with overlying vitreous inflammation. Described as a **"headlight in the fog."**
+* **Treatment:** antiparasitic regimens such as pyrimethamine plus sulfadiazine or trimethoprim-sulfamethoxazole, with steroids under specialist guidance. Many small lesions away from the macula resolve without treatment.
+
+### Cytomegalovirus (CMV) Retinitis
+* **Risk:** severe immunosuppression, typically **HIV with CD4 below 50**, and organ transplant recipients.
+* **Signs:** retinal necrosis with hemorrhage, often described as a "pizza pie" or "cottage cheese and ketchup" appearance, spreading along the vessels. Little inflammation.
+* **Symptoms:** painless blurring, floaters, field defects.
+* **Treatment:** oral valganciclovir, IV ganciclovir, foscarnet, or intravitreal injections. Restore immunity with antiretroviral therapy.
+* Untreated, it leads to retinal detachment and blindness.
+
+### Acute Retinal Necrosis
+Caused by herpes viruses (varicella zoster, HSV). A rapidly progressing retinitis with vitritis and occlusive vasculitis. Treated with IV acyclovir followed by oral antivirals, with prophylactic laser to prevent detachment.
+
+### Syphilis and Tuberculosis
+Both are "great mimickers" and can cause any form of uveitis. Test for them in unexplained cases.
+
+### Ocular Syphilis
+Can cause uveitis, optic neuritis, and retinitis at any stage. Needs IV penicillin, and examination for neurosyphilis.
+
+## Endophthalmitis
+
+Infection of the inside of the eye (vitreous and aqueous). **An emergency.**
+
+### Causes
+* **Exogenous (most common):** after **cataract surgery**, intravitreal injections, penetrating trauma, glaucoma surgery.
+* **Endogenous:** bloodstream spread in patients with endocarditis, IV drug use, indwelling lines, or immunosuppression.
+
+### Presentation
+* Rapid onset of **severe pain, reduced vision, redness, and swollen lids**
+* Hypopyon
+* Hazy view of the retina
+
+### Treatment
+* **Immediate ophthalmology** referral.
+* **Vitreous tap and intravitreal antibiotics** (typically vancomycin plus ceftazidime), with vitrectomy in severe cases.
+* Systemic antibiotics for endogenous cases and workup for the source.
+* Fungal endophthalmitis (often Candida) in IV drug users and ICU patients with candidemia: treat with antifungals.
+
+> **Clinical Pearl:** A post-operative eye that becomes more painful and red, with worsening vision in the first days to weeks after surgery, is endophthalmitis until proven otherwise.
+
+## Masquerade Syndromes
+
+Conditions that mimic uveitis, such as **intraocular lymphoma**, leukemia, and retinoblastoma. Suspect them in older patients with poor steroid response or vitritis without clear cause.
+
+> **Summary**
+> Uveitis is inflammation of the iris, ciliary body, or choroid. Anterior uveitis presents with pain, photophobia, ciliary flush, and cells and flare, and is treated with topical steroids and cycloplegics. HLA-B27 diseases, sarcoidosis, and JIA are key associations. Posterior uveitis includes toxoplasmosis and CMV retinitis. Endophthalmitis after surgery or injection is a blinding emergency requiring intravitreal antibiotics.

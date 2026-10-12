@@ -1,0 +1,168 @@
+# The Neurologic Examination and Localization
+
+A good neurologic exam is systematic and reproducible. Done in a fixed order, it takes 5 to 10 minutes for a screening exam, and it lets you localize the lesion before any scan is ordered.
+
+> **Clinical Pearl:** Always compare left with right. Subtle asymmetries are often the only sign.
+
+## The Order of the Exam
+
+1. Mental status
+2. Cranial nerves
+3. Motor system
+4. Reflexes
+5. Sensation
+6. Coordination
+7. Gait
+8. Meningeal signs and special tests
+
+## 1. Mental Status
+
+### Level of Consciousness
+Describe what the patient does, not just a label: alert, drowsy (wakes to voice), stuporous (wakes only to painful stimuli), or comatose (does not wake).
+
+### Glasgow Coma Scale (GCS)
+Scores from 3 to 15:
+* **Eye opening (1 to 4):** none, to pain, to voice, spontaneous
+* **Verbal (1 to 5):** none, sounds, inappropriate words, confused, oriented
+* **Motor (1 to 6):** none, extension (decerebrate), abnormal flexion (decorticate), withdrawal, localizes pain, obeys commands
+
+A GCS of **8 or less** generally indicates severe impairment and a need to consider airway protection.
+
+### Orientation, Attention, and Memory
+* **Orientation:** person, place, time, situation
+* **Attention:** spell WORLD backward, count backward from 20, months of the year backward
+* **Memory:** three-word recall at 5 minutes
+* **Screening tools:** **MoCA** (Montreal Cognitive Assessment, scored out of 30, with below 26 suggesting impairment) or **MMSE**
+
+### Language
+Test fluency, comprehension, repetition, naming, reading, and writing.
+
+* **Broca (expressive) aphasia:** non-fluent, effortful speech with preserved comprehension. The patient is aware and frustrated. Lesion in the **dominant inferior frontal lobe.**
+* **Wernicke (receptive) aphasia:** fluent but meaningless speech ("word salad") with poor comprehension. Often unaware. Lesion in the **dominant superior temporal lobe.**
+* **Conduction aphasia:** fluent speech and good comprehension but **poor repetition.** Lesion in the arcuate fasciculus.
+* **Global aphasia:** all aspects impaired. Large MCA stroke.
+* **Dysarthria:** slurred speech with normal language (a motor problem).
+
+### Higher Cortical Signs
+* **Hemispatial neglect:** ignoring one side of space, typically the left, after a right parietal lesion
+* **Apraxia:** inability to perform a learned movement despite intact strength
+* **Agnosia:** failure to recognize objects despite intact sensation
+
+## 2. Cranial Nerves
+
+Use the screening sequence: acuity and fields (II), pupils (II, III), eye movements (III, IV, VI), facial sensation (V), facial strength (VII), hearing (VIII), palate and gag (IX, X), shoulder shrug (XI), and tongue (XII). Review Lesson 3 for patterns.
+
+## 3. Motor System
+
+### Bulk
+Look for wasting (atrophy) or fasciculations (twitching, a sign of LMN disease).
+
+### Tone
+Passively move the limb. Look for **spasticity** (velocity-dependent, "clasp-knife"), **rigidity** (constant, "lead pipe," with cogwheeling in Parkinson disease), or **hypotonia.**
+
+### Power (MRC Scale)
+* **0:** no contraction
+* **1:** flicker of contraction
+* **2:** movement with gravity eliminated
+* **3:** movement against gravity
+* **4:** movement against some resistance
+* **5:** normal strength
+
+### Pronator Drift
+Ask the patient to hold both arms out, palms up, eyes closed, for 20 to 30 seconds. **Drift downward and inward with pronation** is a subtle sign of a corticospinal tract lesion.
+
+## 4. Reflexes
+
+Grade 0 to 4+:
+* **0:** absent
+* **1+:** diminished
+* **2+:** normal
+* **3+:** brisk
+* **4+:** very brisk with clonus
+
+### Babinski Sign
+Stroke the lateral sole from heel to toes. A normal response is plantar flexion. An **upgoing great toe with fanning of the other toes** is an **upper motor neuron sign** (except in infants under about 1 to 2 years).
+
+## 5. Sensation
+
+Test each modality in each limb, comparing sides and proximal with distal.
+
+* **Pinprick and temperature:** spinothalamic tract and small fibers
+* **Light touch:** multiple pathways
+* **Vibration** (128 Hz tuning fork) and **joint position:** dorsal columns and large fibers
+* **Romberg test:** feet together, eyes closed. Loss of balance with eyes closed indicates **sensory ataxia** (dorsal column or large fiber neuropathy).
+
+### Patterns
+* **Stocking-glove:** distal, symmetric loss, typical of polyneuropathy
+* **Dermatomal:** nerve root
+* **Peripheral nerve distribution:** single nerve
+* **Sensory level:** a horizontal line below which sensation is lost, indicating a spinal cord lesion
+* **Hemisensory loss:** thalamus or brainstem or cortex
+
+## 6. Coordination
+
+* **Finger-to-nose and heel-to-shin:** tremor on approach (intention tremor), overshooting (dysmetria)
+* **Rapid alternating movements:** slow, clumsy movements (dysdiadochokinesia)
+* Cerebellar signs appear on the **same side** as a cerebellar hemisphere lesion.
+
+## 7. Gait
+
+Watch the patient walk normally, on heels, on toes, and in tandem (heel-to-toe).
+
+* **Hemiparetic:** one leg swings in a stiff arc (circumduction) after stroke
+* **Spastic (scissoring):** both legs stiff and crossing, in spinal cord disease
+* **Ataxic (wide-based, staggering):** cerebellar disease, intoxication
+* **Parkinsonian:** shuffling, small steps, stooped posture, reduced arm swing, difficulty turning
+* **Steppage (foot drop):** high lifting of the knee, with slapping foot. Peroneal nerve or L5 lesion.
+* **Waddling:** proximal muscle weakness, such as myopathy
+* **Magnetic (frontal):** feet stuck to the floor, as in normal pressure hydrocephalus
+* **Functional:** inconsistent, dramatic, not matching any anatomic pattern
+
+## 8. Meningeal Signs
+
+* **Neck stiffness** (resistance to passive neck flexion)
+* **Kernig sign:** pain on extending the knee with the hip flexed
+* **Brudzinski sign:** neck flexion causes the hips and knees to flex
+
+These signs have **low sensitivity.** Their absence does not exclude meningitis.
+
+## The NIH Stroke Scale (NIHSS)
+
+A standardized 15-item exam scoring stroke severity from **0 to 42.** It covers consciousness, gaze, visual fields, facial palsy, arm and leg motor, ataxia, sensory, language, dysarthria, and neglect. Higher scores mean a more severe stroke. It guides treatment decisions and tracks change.
+
+## Localization Rules
+
+### Cortex
+Aphasia, neglect, cortical sensory loss, visual field cuts, seizures, and **contralateral face and arm** weakness (MCA).
+
+### Deep Structures (Internal Capsule)
+**Pure motor or pure sensory** deficits affecting the face, arm, and leg equally.
+
+### Brainstem
+**Crossed findings:** cranial nerve deficits on one side with body weakness or sensory loss on the other. Also double vision, vertigo, dysphagia, and ataxia.
+
+### Cerebellum
+Ipsilateral ataxia, dysmetria, nystagmus, and truncal instability.
+
+### Spinal Cord
+A **sensory level**, bilateral or one-sided weakness below the lesion, bladder and bowel dysfunction, and UMN signs below the lesion.
+
+### Nerve Root
+Radiating pain in a dermatomal distribution, with myotomal weakness and a reduced reflex.
+
+### Peripheral Nerve
+Weakness and sensory loss in a single nerve's distribution.
+
+### Polyneuropathy
+Distal, symmetric, stocking-glove loss, with reduced ankle reflexes.
+
+### Neuromuscular Junction
+Fatigable weakness, ptosis, and diplopia, **without sensory loss** and with normal reflexes.
+
+### Muscle
+Proximal, symmetric weakness without sensory loss, usually with preserved reflexes.
+
+> **Clinical Pearl:** A UMN pattern (spasticity, hyperreflexia, Babinski) puts the lesion in the brain or spinal cord. An LMN pattern (atrophy, fasciculations, hyporeflexia) puts it in the anterior horn, root, nerve, or muscle. A **sensory level** is spinal cord until proven otherwise.
+
+> **Summary**
+> The neurologic exam follows a fixed order: mental status, cranial nerves, motor, reflexes, sensory, coordination, and gait. The GCS and NIHSS give standardized severity scores. Broca aphasia is non-fluent, Wernicke is fluent and meaningless, and conduction aphasia has poor repetition. UMN signs mean brain or spinal cord, and LMN signs mean anterior horn, root, nerve, or muscle. A sensory level points to the spinal cord.

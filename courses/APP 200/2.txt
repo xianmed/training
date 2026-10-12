@@ -1,0 +1,129 @@
+# Anatomy of the Central Nervous System
+
+The central nervous system (CNS) is made up of the **brain and spinal cord.** This lesson covers its structure, protective layers, fluid system, and blood supply. Knowing these structures is what lets you localize a lesion from the exam.
+
+## Overview of the Brain
+
+The brain has three major parts: the **cerebrum, the cerebellum, and the brainstem.** Deep within the cerebrum sit the diencephalon (thalamus and hypothalamus) and the basal ganglia.
+
+## The Cerebral Hemispheres
+
+Each hemisphere is divided into four lobes. The surface is folded into **gyri** (ridges) and **sulci** (grooves). The two hemispheres are linked by the **corpus callosum.**
+
+### Frontal Lobe
+* **Primary motor cortex** (precentral gyrus): voluntary movement of the opposite side of the body
+* **Broca area** (dominant hemisphere): production of speech
+* **Prefrontal cortex:** judgment, planning, personality, attention, and impulse control
+* **Frontal eye fields:** voluntary eye movements toward the opposite side
+* Damage causes weakness, expressive aphasia, personality change, apathy (abulia), and disinhibition
+
+### Parietal Lobe
+* **Primary sensory cortex** (postcentral gyrus): touch, pain, position sense of the opposite side
+* **Dominant side:** calculation, writing, left-right orientation, finger recognition (Gerstmann syndrome)
+* **Non-dominant side:** spatial awareness. Damage causes **hemispatial neglect.**
+* Damage can also cause sensory loss and the inferior quadrantanopia
+
+### Temporal Lobe
+* **Primary auditory cortex**
+* **Wernicke area** (dominant hemisphere): comprehension of language
+* **Hippocampus:** forming new memories
+* **Amygdala:** emotion and fear
+* Damage causes receptive aphasia, memory loss, and superior quadrantanopia. A common source of **focal seizures.**
+
+### Occipital Lobe
+* **Primary visual cortex.** Damage causes contralateral homonymous hemianopia, often with macular sparing.
+
+### Insula and Limbic System
+Involved in taste, autonomic function, emotion, and memory.
+
+## Deep Structures
+
+### Basal Ganglia
+A group of nuclei that help select and smooth movement: the **caudate, putamen, globus pallidus, subthalamic nucleus, and substantia nigra.**
+* Dopamine from the **substantia nigra** supports movement. Its loss causes Parkinson disease.
+* Damage to the caudate and putamen is seen in Huntington disease.
+
+### Thalamus
+The main **relay station** for sensory information on its way to the cortex. A thalamic stroke may cause contralateral sensory loss and, later, a burning pain syndrome.
+
+### Hypothalamus
+Controls temperature, hunger, thirst, sleep-wake cycles, and hormone release through the pituitary.
+
+### Internal Capsule
+A tight band of white matter carrying motor and sensory fibers between the cortex and brainstem. A small stroke here can cause dense weakness of the face, arm, and leg on one side (a pure motor lacunar stroke).
+
+## The Brainstem
+
+Three parts, from top to bottom:
+* **Midbrain:** cranial nerves III and IV, eye movements, and pupil reflexes
+* **Pons:** cranial nerves V, VI, VII, and VIII, and relays to the cerebellum
+* **Medulla:** cranial nerves IX, X, XI, and XII, and centers for breathing and blood pressure. The motor pathways cross here.
+
+The brainstem also contains the **reticular activating system (RAS)**, which maintains wakefulness.
+
+> **Clinical Pearl:** The brainstem packs cranial nerves, long motor and sensory tracts, and consciousness centers into a tiny space. A small brainstem lesion can cause widespread deficits, such as crossed findings (face on one side and body on the other).
+
+## The Cerebellum
+
+Sits below the occipital lobes. It coordinates movement, balance, and muscle tone.
+
+* The **vermis** controls trunk and gait.
+* The **hemispheres** control limb coordination and affect the **same side** of the body.
+* Damage causes ataxia, intention tremor, dysmetria, dysarthria, nystagmus, and a wide-based gait.
+
+## The Spinal Cord
+
+* About 45 cm long, extending from the base of the skull to **L1-L2**, where it ends as the **conus medullaris.**
+* Below the conus, the roots of the lumbar and sacral nerves hang in the spinal canal as the **cauda equina** ("horse's tail").
+* **31 pairs of spinal nerves:** 8 cervical, 12 thoracic, 5 lumbar, 5 sacral, and 1 coccygeal.
+* **Gray matter** (butterfly shaped, containing cell bodies) lies in the center. **White matter** (axon tracts) surrounds it.
+
+### Major Spinal Tracts
+* **Corticospinal tract (motor):** carries voluntary movement. Most fibers **cross in the medulla**, so the right brain controls the left body. It carries upper motor neuron signals.
+* **Dorsal columns (sensory):** carry fine touch, vibration, and proprioception. They stay on the **same side** and cross in the medulla.
+* **Spinothalamic tract (sensory):** carries pain and temperature. Fibers cross **within a few segments of entering the cord.**
+
+> **Clinical Pearl:** Because pain fibers cross at the spinal level and position fibers cross in the medulla, a half-cord lesion (Brown-Séquard) causes ipsilateral weakness and position loss with contralateral pain and temperature loss.
+
+## The Meninges
+
+Three layers protect the brain and cord:
+
+* **Dura mater:** thick outer layer. The **epidural space** lies outside it, and the **subdural space** lies beneath it.
+* **Arachnoid mater:** thin, web-like middle layer.
+* **Pia mater:** delicate layer attached to the brain surface.
+
+The **subarachnoid space** between the arachnoid and pia contains CSF and the major blood vessels.
+
+## Ventricles and Cerebrospinal Fluid
+
+* CSF is made by the **choroid plexus** in the ventricles, at about **500 mL per day.** The total volume is about 150 mL, so it turns over several times daily.
+* **Flow:** lateral ventricles &rarr; foramen of Monro &rarr; third ventricle &rarr; cerebral aqueduct &rarr; fourth ventricle &rarr; foramina of Luschka and Magendie &rarr; subarachnoid space &rarr; **arachnoid granulations** &rarr; superior sagittal sinus (venous blood).
+* **Functions:** cushions the brain, removes waste, and provides buoyancy.
+* Blockage causes **hydrocephalus.**
+
+## Blood Supply
+
+### Anterior Circulation (from the internal carotid arteries)
+* **Anterior cerebral artery (ACA):** medial frontal and parietal lobes (leg motor and sensory areas)
+* **Middle cerebral artery (MCA):** the lateral surface of the hemisphere (face and arm motor and sensory areas, language areas)
+
+### Posterior Circulation (from the vertebral arteries, which join to form the basilar artery)
+* **Posterior cerebral artery (PCA):** occipital lobe and inferior temporal lobe
+* **Basilar and vertebral branches:** brainstem and cerebellum, including the **posterior inferior cerebellar artery (PICA)**
+
+### Circle of Willis
+A ring of arteries at the base of the brain linking the anterior and posterior circulations, which allows some collateral flow. Most **berry aneurysms** form at branch points of this circle.
+
+### Venous Drainage
+Blood drains into **dural venous sinuses** (such as the superior sagittal and transverse sinuses) and then to the internal jugular veins. Thrombosis here causes cerebral venous sinus thrombosis.
+
+### Watershed Zones
+Regions at the border of two arterial territories are vulnerable to low blood flow (as in hypotension or carotid stenosis).
+
+## The Blood-Brain Barrier
+
+Tight junctions between brain capillary endothelial cells, supported by astrocytes, restrict what enters the brain. This protects the brain from toxins but also blocks many drugs. It is disrupted by infection, tumors, and stroke.
+
+> **Summary**
+> The cerebrum has four lobes with distinct functions. Basal ganglia, thalamus, and the internal capsule lie deep. The brainstem packs cranial nerves, tracts, and consciousness centers, and the cerebellum coordinates movement on the same side. The cord ends at L1-L2, with the cauda equina below. Motor fibers cross in the medulla, pain fibers cross in the cord. CSF flows from the ventricles to the subarachnoid space and drains through arachnoid granulations. The ACA, MCA, and PCA each supply distinct territories.

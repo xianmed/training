@@ -1,0 +1,188 @@
+# Arterial Blood Gases and Acid-Base Analysis
+
+An **arterial blood gas (ABG)** measures the pH, the partial pressures of oxygen and carbon dioxide, and bicarbonate in arterial blood. It tells you how well the patient is **oxygenating, ventilating, and maintaining acid-base balance.** It is one of the most important tests in critical care.
+
+## Normal Values
+
+* **pH:** **7.35 to 7.45**
+* **PaCO2** (partial pressure of carbon dioxide): **35 to 45 mmHg**
+* **PaO2** (partial pressure of oxygen): about **80 to 100 mmHg** (on room air)
+* **HCO3** (bicarbonate): **22 to 28 mmol/L**
+* **SaO2** (arterial oxygen saturation): **95 to 100 percent**
+* **Base excess:** about **-2 to +2**
+* **Lactate** (often reported with the gas): below about **2 mmol/L**
+
+## Obtaining an Arterial Sample
+
+### Site
+* **Radial artery** (most common, easy to reach and compress, with collateral ulnar supply)
+* **Brachial or femoral arteries** if needed
+* **Arterial line** in critical patients, for frequent sampling
+
+### Technique
+* Use a **heparinized syringe** (or a pre-heparinized gas kit)
+* **Palpate the pulse,** clean the skin, anesthetize with local anesthetic, insert at about 30 to 45 degrees, and allow the **arterial pressure to fill the syringe**
+* **Remove air bubbles** and **seal the syringe**
+* **Apply firm pressure for at least 5 minutes** (longer in anticoagulated patients)
+* **Analyze immediately** (within 15 minutes at room temperature, or on ice within 30 minutes). Cells keep consuming oxygen and producing CO2.
+* Record the **FiO2** (or oxygen flow), the patient's temperature, and the time.
+
+### Complications
+Pain, hematoma, arterial spasm, thrombosis, infection, and rarely nerve injury and limb ischemia. **Avoid** sampling through infected skin, with **no pulse,** or when there is **a lack of collateral circulation.**
+
+### Venous Blood Gas (VBG)
+Easier to obtain. Compared with arterial blood:
+* **pH is about 0.03 lower**
+* **PCO2 is about 4 to 5 mmHg higher**
+* **Bicarbonate is similar**
+
+A VBG is acceptable for estimating **pH, bicarbonate, and lactate.** It does **not** reliably assess **oxygenation** (use pulse oximetry or ABG).
+
+## A Systematic Approach to Acid-Base Disorders
+
+### Step 1: Look at the pH
+* **Below 7.35:** **acidemia**
+* **Above 7.45:** **alkalemia**
+* **Normal:** may still have a mixed disorder
+
+### Step 2: Identify the Primary Process
+* **Acidemia with high PaCO2:** **respiratory acidosis**
+* **Acidemia with low HCO3:** **metabolic acidosis**
+* **Alkalemia with low PaCO2:** **respiratory alkalosis**
+* **Alkalemia with high HCO3:** **metabolic alkalosis**
+
+### Step 3: Check Whether Compensation Is Appropriate
+The body compensates, but never overcorrects. If the compensation is not as expected, there is a **second, mixed disorder.**
+
+#### Metabolic Acidosis
+**Winter formula:** expected **PaCO2 = (1.5 × HCO3) + 8, plus or minus 2.**
+* Actual PaCO2 **higher** than expected: additional **respiratory acidosis**
+* Actual PaCO2 **lower** than expected: additional **respiratory alkalosis**
+
+#### Metabolic Alkalosis
+PaCO2 rises by about **0.7 mmHg for every 1 mmol/L rise in HCO3.**
+
+#### Respiratory Acidosis
+* **Acute:** HCO3 rises by about **1** for every **10 mmHg** rise in PaCO2
+* **Chronic:** HCO3 rises by about **3.5 to 4** for every **10 mmHg** rise in PaCO2
+
+#### Respiratory Alkalosis
+* **Acute:** HCO3 falls by about **2** for every **10 mmHg** fall in PaCO2
+* **Chronic:** HCO3 falls by about **4 to 5** for every **10 mmHg** fall in PaCO2
+
+### Step 4: Calculate the Anion Gap (in Metabolic Acidosis)
+**Anion gap = Na minus (Cl plus HCO3).** Normal about 8 to 12. Correct for albumin.
+
+### Step 5: Delta-Delta (Delta Ratio)
+In a high anion gap acidosis, compare the **rise in the anion gap** with the **fall in bicarbonate:**
+* **Delta gap = (anion gap − 12)**
+* **Delta bicarbonate = (24 − HCO3)**
+* **Ratio about 1 to 2:** a pure high-gap acidosis
+* **Ratio below 1:** a **concurrent non-gap acidosis**
+* **Ratio above 2:** a **concurrent metabolic alkalosis** (or pre-existing high bicarbonate)
+
+### Step 6: Interpret in Clinical Context
+Always link the numbers to the patient, the symptoms, and the cause.
+
+## Metabolic Acidosis
+
+### High Anion Gap (MUDPILES)
+* **M**ethanol
+* **U**remia
+* **D**KA and other ketoacidosis
+* **P**ropylene glycol
+* **I**soniazid and iron
+* **L**actic acidosis
+* **E**thylene glycol
+* **S**alicylates
+
+### Normal Anion Gap (Hyperchloremic)
+* **Diarrhea** (loss of bicarbonate)
+* **Renal tubular acidosis**
+* **Large-volume saline infusion**
+* **Acetazolamide**
+* **Adrenal insufficiency** and aldosterone problems
+* Remember **"HARDASS":** hyperalimentation, acetazolamide, renal tubular acidosis, diarrhea, adrenal insufficiency, spironolactone, saline
+
+### Clinical Features and Management
+Hyperventilation (**Kussmaul respirations**), confusion, and hypotension. **Treat the cause.** Bicarbonate is used only in selected situations (severe acidemia with pH below about 7.1 to 7.2, or specific poisonings).
+
+## Metabolic Alkalosis
+
+* **Causes:** **vomiting and nasogastric suction** (loss of acid), **diuretics** (contraction alkalosis), **hypokalemia,** **hyperaldosteronism,** Cushing syndrome, and **milk-alkali syndrome**
+* **Urine chloride** helps classify:
+* **Low (below 20):** chloride-responsive (vomiting, diuretics). Treated with **saline** and potassium.
+* **High:** chloride-resistant (hyperaldosteronism, Cushing, severe hypokalemia)
+* Features: weakness, cramps, arrhythmias, and tetany
+
+## Respiratory Acidosis (Hypoventilation)
+
+* **Causes:** **COPD exacerbation, severe asthma,** **opioid and sedative overdose,** neuromuscular weakness (Guillain-Barré, myasthenia gravis, ALS), **obesity hypoventilation,** brainstem injury, pneumonia, and chest wall problems
+* **Features:** confusion, drowsiness, headache, flapping tremor, and warm flushed skin
+* **Management:** support ventilation (**non-invasive ventilation** or intubation), treat the cause, reverse opioids (naloxone). **Avoid excessive oxygen** in chronic CO2 retainers (target SpO2 88 to 92 percent).
+
+## Respiratory Alkalosis (Hyperventilation)
+
+* **Causes:** **anxiety and panic,** **pain,** **hypoxemia,** **pulmonary embolism,** pneumonia, **pregnancy,** fever and sepsis, **salicylate poisoning** (a mixed picture of respiratory alkalosis and high anion gap metabolic acidosis), liver failure, and central nervous system disease
+* **Features:** tingling around the mouth and in the hands, light-headedness, and carpopedal spasm (low ionized calcium)
+
+> **Clinical Pearl:** **Salicylate (aspirin) poisoning** classically causes a **mixed respiratory alkalosis and high anion gap metabolic acidosis.** Think of it in any patient with unexplained tachypnea, tinnitus, and confusion.
+
+## Oxygenation
+
+### Causes of Hypoxemia
+* **Hypoventilation:** high PaCO2, **normal A-a gradient**
+* **Low inspired oxygen:** altitude
+* **Ventilation-perfusion (V/Q) mismatch:** pneumonia, COPD, asthma, pulmonary embolism. **Improves with supplemental oxygen.**
+* **Shunt:** blood passes through the lung without being oxygenated (ARDS, large pneumonia, atelectasis, congenital heart disease). **Responds poorly to supplemental oxygen.**
+* **Diffusion limitation:** pulmonary fibrosis, emphysema
+
+### Alveolar-Arterial (A-a) Gradient
+* **PAO2 = FiO2 × (barometric pressure − 47) − (PaCO2 / 0.8)**
+* **A-a gradient = PAO2 − PaO2**
+* **Normal** about **(age / 4) + 4** mmHg (so about 10 to 15 in young adults, higher in older adults)
+* **Normal gradient with hypoxemia:** hypoventilation or low inspired oxygen
+* **Raised gradient:** V/Q mismatch, shunt, or diffusion problems
+
+### PaO2/FiO2 Ratio (P/F Ratio)
+Used to grade **acute respiratory distress syndrome (ARDS):**
+* **Mild:** 200 to 300
+* **Moderate:** 100 to 200
+* **Severe:** below 100
+
+(With PEEP of at least 5 cmH2O, bilateral opacities on imaging, and a non-cardiac cause.)
+
+### Oxygen Content and Delivery
+Oxygen is carried almost entirely on **hemoglobin.** **Anemia lowers oxygen content** even if PaO2 and SaO2 are normal.
+
+## Co-oximetry and Abnormal Hemoglobins
+
+Standard pulse oximeters use two wavelengths and cannot detect abnormal hemoglobins. **Co-oximetry** (on a blood gas analyzer) measures them directly.
+
+* **Carbon monoxide poisoning:** **carboxyhemoglobin** is raised. **Pulse oximetry reads falsely normal** because it cannot tell carboxyhemoglobin from oxyhemoglobin. Suspect it with headache, confusion, and a cherry-red appearance (late and rare). **Treat with 100 percent oxygen** (hyperbaric oxygen in selected cases).
+* **Methemoglobinemia:** (drugs like dapsone, benzocaine, nitrites). Blood appears **chocolate brown,** the patient looks **cyanotic** with a **pulse oximeter reading stuck around 85 percent** despite oxygen, and **PaO2 is normal.** **Treat with methylene blue** (avoid in G6PD deficiency).
+
+## Interpreting Examples
+
+### Example 1
+pH 7.22, PaCO2 28, HCO3 11, Na 140, Cl 105.
+* **Acidemia:** metabolic acidosis (low HCO3)
+* **Anion gap:** 140 − (105 + 11) = **24** (high)
+* **Winter formula:** expected PaCO2 = 1.5 × 11 + 8 = 24.5, plus or minus 2. Actual 28 is slightly **above** the expected range, suggesting incomplete compensation or an added respiratory acidosis from fatigue.
+* **Interpretation:** a **high anion gap metabolic acidosis** (consider DKA, lactic acidosis, toxins).
+
+### Example 2
+pH 7.28, PaCO2 70, HCO3 32, with known COPD.
+* **Acidemia, high PaCO2:** respiratory acidosis
+* **HCO3** is raised more than expected for an acute change (**chronic compensation**)
+* **Interpretation:** **chronic respiratory acidosis** (compensated by a high bicarbonate), with a likely **acute-on-chronic** component given the low pH (acute COPD exacerbation).
+
+### Example 3
+pH 7.52, PaCO2 28, HCO3 22.
+* **Alkalemia with low PaCO2:** respiratory alkalosis
+* **Interpretation:** acute hyperventilation (anxiety, pain, hypoxia, PE, early sepsis). Check the oxygenation.
+
+> **Clinical Pearl:** Treat the **patient,** not the gas. A "normal" ABG can mask a patient who is tiring. A patient with severe asthma whose PaCO2 is **rising toward normal** may be about to fail.
+
+> **Summary**
+> The ABG shows pH, PaCO2, PaO2, and bicarbonate. Work through the same steps each time: identify acidemia or alkalemia, find the primary disorder, check compensation (Winter formula for metabolic acidosis), calculate the anion gap, and use delta-delta to find hidden disorders. High anion gap acidosis is MUDPILES, and normal gap acidosis is diarrhea or renal tubular acidosis. Use the A-a gradient to separate hypoventilation from V/Q mismatch or shunt. Pulse oximetry misses carbon monoxide and methemoglobin, so use co-oximetry.

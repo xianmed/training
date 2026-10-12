@@ -1,0 +1,254 @@
+# Urinalysis and Body Fluid Analysis
+
+Urine and body fluids are easily accessible windows into disease. Urinalysis is a quick, cheap test that can reveal kidney disease, infection, diabetes, liver disease, and more. Analysis of **pleural, peritoneal, synovial, and pericardial fluid** helps diagnose the cause of fluid collections and joint problems.
+
+## Part 1: Urinalysis
+
+## Specimen Collection
+
+* **Midstream clean-catch:** the preferred sample. The patient cleans the genital area, begins urinating into the toilet, and then collects the middle portion.
+* **Catheter specimen:** a fresh sample from a sterile catheter. Do **not** sample from the drainage bag.
+* **Suprapubic aspiration:** for infants and special cases
+* **First morning sample:** most concentrated, and best for protein and pregnancy tests
+* **24-hour collection:** for protein, creatinine clearance, and cortisol, metanephrines, and others
+* **Timing:** analyze within about **1 hour** (or refrigerate), because bacteria multiply, and cells and casts break down
+
+## The Three Components of Urinalysis
+
+1. **Physical (appearance)**
+2. **Chemical (dipstick)**
+3. **Microscopic**
+
+## Physical Examination
+
+* **Color:**
+* **Pale yellow:** normal
+* **Dark amber:** concentrated, dehydration
+* **Red or brown:** **blood,** hemoglobin, myoglobin (rhabdomyolysis), porphyria, beets, rifampin, and drugs
+* **Tea- or cola-colored:** glomerulonephritis, **bilirubin,** myoglobin
+* **Orange:** phenazopyridine, rifampin, bilirubin
+* **Green or blue:** propofol, methylene blue, and Pseudomonas
+* **Dark brown or black:** melanin, alkaptonuria, methyldopa
+* **Clarity:** **cloudy** urine suggests infection, crystals, or cells. Not specific.
+* **Odor:** sweet or fruity (ketones), ammonia (infection)
+* **Specific gravity (SG):** **1.003 to 1.030.**
+* **Low and fixed** (about 1.010, "isosthenuria"): kidney failure, diabetes insipidus (low)
+* **High:** dehydration, glucosuria, and contrast agent
+
+## Dipstick (Chemical) Analysis
+
+A strip with reagent pads for each test, read at the specified time.
+
+* **pH:** normal about **4.5 to 8.** **Alkaline** (above 7.5): **urease-producing bacteria** (*Proteus*), renal tubular acidosis, vomiting, vegetarian diet, and stale specimens. **Acidic:** metabolic acidosis, high protein diet, and uric acid stones.
+* **Protein:** detects mainly **albumin.** **Trace to 1+** can be normal after exercise or in concentrated urine. **Persistent, significant proteinuria** suggests kidney disease. It is **insensitive to light chains** (in myeloma) and low levels of albumin. Use a **urine albumin-to-creatinine ratio (UACR).**
+* **Glucose:** appears when blood glucose exceeds about **180 mg/dL** (the renal threshold). Positive in uncontrolled diabetes, **SGLT2 inhibitor use** (expected), and pregnancy.
+* **Ketones:** DKA, starvation, alcoholic ketoacidosis, and fasting. Detects acetoacetate (not beta-hydroxybutyrate).
+* **Blood (hemoglobin):** positive for **red cells, free hemoglobin, or myoglobin.** **Positive dipstick without red cells on microscopy** suggests **hemoglobinuria or myoglobinuria.** **False positives:** menstruation, vigorous exercise, and contamination.
+* **Leukocyte esterase:** an enzyme from **white cells.** **Pyuria** (a marker for UTI, though also positive in other inflammatory conditions).
+* **Nitrite:** produced by **bacteria** that convert nitrate. **Highly specific** for UTI (especially Enterobacterales like *E. coli*), but **not sensitive.** **Negative** in infections caused by organisms that do not produce nitrite (*Enterococcus,* *Staphylococcus saprophyticus*) or with short bladder contact time.
+* **Bilirubin:** conjugated bilirubin in urine suggests **liver disease or bile duct obstruction.** Appears before jaundice.
+* **Urobilinogen:** raised in hemolysis and liver disease, absent in complete biliary obstruction.
+* **Specific gravity**
+
+### Sources of Error
+* **Vitamin C (ascorbic acid)** causes false negatives for glucose, blood, nitrite, and leukocyte esterase
+* **Contaminated specimen**
+* **Gross hematuria** and **strongly colored urine** interfere with colorimetric reading
+* **Time:** an old sample gives unreliable results
+* **Quality control:** use fresh strips
+
+## Microscopic Examination
+
+The **urine sediment** is examined after centrifugation (a fresh specimen is key).
+
+### Cells
+* **Red blood cells (RBCs):** more than **3 per high-power field** is abnormal.
+* **Dysmorphic RBCs** and **RBC casts** point to **glomerular** disease.
+* **Isomorphic RBCs** suggest a **lower tract** source (stones, tumor, infection, trauma).
+* **White blood cells (WBCs):** more than **5 to 10 per high-power field** is **pyuria.** Infection, interstitial nephritis, and stones.
+* **Epithelial cells:**
+* **Squamous cells:** contamination from skin or genitals. Many cells mean a **poor specimen.**
+* **Renal tubular cells:** suggest tubular injury (acute tubular necrosis)
+* **Transitional cells:** bladder or ureter. Atypical cells need cytology.
+
+### Casts
+Cylindrical structures formed in the renal tubules from **Tamm-Horsfall protein,** with trapped cells or material. **Casts indicate a kidney origin.**
+
+* **Hyaline casts:** **normal** in small numbers. Increased with dehydration and exercise.
+* **RBC casts:** **glomerulonephritis** (nephritic syndrome) or vasculitis. **Highly specific.**
+* **WBC casts:** **pyelonephritis** and **acute interstitial nephritis**
+* **Granular casts** ("muddy brown"): **acute tubular necrosis.** Also non-specific in many kidney diseases.
+* **Waxy casts:** **chronic kidney disease**
+* **Fatty casts and oval fat bodies ("Maltese cross" under polarized light):** **nephrotic syndrome**
+* **Epithelial cell casts:** tubular damage
+
+### Crystals
+* **Calcium oxalate:** envelope-shaped (dihydrate) or dumbbell (monohydrate). Common in stones. **Ethylene glycol** poisoning produces large numbers.
+* **Uric acid:** rhomboid, rosette, in acidic urine. Gout and tumor lysis.
+* **Struvite (triple phosphate):** **"coffin lid"** shape, in **alkaline urine** with urease-producing bacteria.
+* **Cystine:** **hexagonal** crystals, diagnostic of **cystinuria.**
+* **Calcium phosphate, amorphous urates, and drug crystals** (sulfonamides, acyclovir, indinavir)
+
+### Microorganisms
+* **Bacteria:** more than a few per high-power field in a fresh clean specimen may indicate infection
+* **Yeast** (*Candida*): diabetes, catheters, immunosuppression
+* ***Trichomonas vaginalis*** (motile trophozoites)
+
+## Interpreting Urinalysis in Common Conditions
+
+### Urinary Tract Infection (UTI)
+* **Cystitis:** dysuria, frequency, and urgency. Pyuria (positive leukocyte esterase), **positive nitrite,** and bacteria.
+* **Culture** shows growth (traditionally **above 100,000 CFU/mL** of a single organism, but a lower count of **above 1,000 to 100,000** is significant in symptomatic patients, especially women with typical symptoms).
+* **Pyelonephritis:** fever, flank pain, and **WBC casts.**
+* **Asymptomatic bacteriuria** (bacteria without symptoms) generally **should not be treated,** except in **pregnancy and before certain urologic procedures.**
+* **Sterile pyuria** (white cells with negative routine culture): consider **chlamydia, gonorrhea, tuberculosis,** interstitial nephritis, stones, and recent antibiotics.
+
+### Hematuria
+* **Glomerular causes:** IgA nephropathy, post-infectious glomerulonephritis, lupus nephritis. Dysmorphic RBCs, RBC casts, proteinuria.
+* **Non-glomerular:** **stones, infection, tumor (bladder, kidney, prostate), trauma, benign prostatic hyperplasia, and polycystic kidneys**
+* **Painless gross hematuria** in an adult needs **urological evaluation** (imaging and cystoscopy) to exclude **malignancy.**
+
+### Proteinuria
+* **Urine albumin-to-creatinine ratio (UACR):** normal below **30 mg/g.** **30 to 300** is moderately raised (formerly "microalbuminuria"), and **above 300** is severely raised.
+* **Nephrotic range:** more than **3.5 g per day** (or UPCR above about 3.5 g/g), with **low serum albumin, edema, hyperlipidemia.**
+* **Causes:** diabetic nephropathy, glomerulonephritis, minimal change disease, membranous nephropathy, and focal segmental glomerulosclerosis.
+* **Orthostatic proteinuria:** benign, in adolescents.
+* **Annual screening** in diabetes and hypertension.
+
+### Acute Kidney Injury Patterns
+* **Prerenal:** bland sediment, hyaline casts, **concentrated urine,** **urine sodium below 20 mmol/L, FeNa below 1 percent**
+* **Acute tubular necrosis (ATN):** **muddy brown granular casts,** tubular epithelial cells, **FeNa above 2 percent,** urine sodium above 40
+* **Acute interstitial nephritis:** WBC casts, eosinophils (limited value), pyuria
+* **Glomerulonephritis:** RBC casts, dysmorphic RBCs, protein
+* **Postrenal:** possibly normal sediment, with hematuria or crystals
+
+### Fractional Excretion of Sodium (FeNa)
+**FeNa = (urine Na × plasma creatinine) / (plasma Na × urine creatinine) × 100.**
+Unreliable in patients on **diuretics** (use **fractional excretion of urea,** below 35 percent suggests prerenal), and in chronic kidney disease.
+
+### Other Urine Tests
+* **Urine osmolality and electrolytes:** SIADH (inappropriately concentrated urine), diabetes insipidus (dilute urine)
+* **Urine drug screen (UDS):** a **qualitative immunoassay** for drug classes. **False positives** (for example, some antibiotics, antihistamines, and dietary poppy seeds) and **false negatives** (many synthetic drugs are not detected) occur. **Confirm with GC-MS or LC-MS** when it matters.
+* **Urine pregnancy test (hCG):** about 99 percent accurate after a missed period. **Test every woman of childbearing age before imaging with radiation or teratogenic drugs.**
+* **Urine culture** and sensitivity
+* **24-hour urine:** protein, creatinine clearance, cortisol, metanephrines, oxalate, citrate, and calcium for stone workup
+* **Urine cytology:** bladder cancer
+* **Urine antigen tests:** *Legionella,* pneumococcus
+
+## Part 2: Body Fluid Analysis
+
+Fluid collects in body spaces (pleura, peritoneum, pericardium, joints) in disease. Sampling the fluid shows **why.** Always send fluid for **cell count with differential, chemistry, Gram stain and culture, and cytology** as indicated, and compare with **simultaneous blood** values.
+
+## Transudate Versus Exudate
+
+* **Transudate:** fluid pushed out by **high hydrostatic pressure or low oncotic pressure.** Low protein, few cells. Heart failure, cirrhosis, nephrotic syndrome.
+* **Exudate:** fluid leaking from **inflamed or damaged tissue.** High protein, cells. Infection, cancer, inflammation, and pulmonary embolism.
+
+## Pleural Fluid (Thoracentesis)
+
+### Indications
+New or unexplained pleural effusion. **Diagnostic thoracentesis** (and therapeutic when symptomatic).
+
+### Light Criteria
+The fluid is an **exudate** if **any** of the following is met:
+* **Pleural fluid protein / serum protein above 0.5**
+* **Pleural fluid LDH / serum LDH above 0.6**
+* **Pleural fluid LDH above two-thirds of the upper limit of normal serum LDH**
+
+If none is met, it is a **transudate.** (**Light criteria can misclassify** a transudate as an exudate in patients on **diuretics.** Use the serum-effusion albumin gradient above 1.2 g/dL, which favors transudate.)
+
+### Common Causes
+* **Transudate:** **congestive heart failure** (most common), cirrhosis (hepatic hydrothorax), nephrotic syndrome, hypoalbuminemia, peritoneal dialysis, **atelectasis**
+* **Exudate:** **parapneumonic effusion and empyema,** **malignancy,** **pulmonary embolism,** tuberculosis, rheumatoid arthritis and lupus, pancreatitis, esophageal rupture, drug-induced, and chylothorax
+
+### Additional Pleural Fluid Tests
+* **pH:**
+* **Below 7.2:** a **complicated parapneumonic effusion or empyema,** needing **chest tube drainage**
+* Also seen in rheumatoid pleurisy, esophageal rupture, and malignancy
+* **Glucose:** **below 60 mg/dL** in **empyema, rheumatoid disease, TB, malignancy**
+* **Cell count and differential:**
+* **Neutrophils:** acute process (pneumonia, pulmonary embolism, pancreatitis)
+* **Lymphocytes (above 50 percent):** **tuberculosis, malignancy,** and chylothorax
+* **Eosinophils:** blood, air (pneumothorax), drugs, parasites
+* **Cytology:** malignancy (sensitivity about 60 percent, so a negative test does not exclude cancer)
+* **Amylase:** raised in **pancreatitis and esophageal rupture**
+* **Triglycerides (above 110 mg/dL) and cholesterol:** **chylothorax** and pseudochylothorax
+* **Adenosine deaminase (ADA):** raised in **tuberculous pleuritis**
+* **Hematocrit:** a pleural hematocrit above 50 percent of blood suggests **hemothorax**
+* **NT-proBNP** in fluid or blood for heart failure
+* **Gram stain and culture,** AFB, and fungal studies
+
+### Procedure Notes
+Perform under **ultrasound guidance** where possible. Complications: **pneumothorax,** bleeding, re-expansion pulmonary edema (when more than about 1.5 L is removed), and infection.
+
+## Peritoneal Fluid (Paracentesis)
+
+### Indications
+New ascites, and **any patient with ascites who is admitted** or who has **fever, abdominal pain, encephalopathy, or kidney injury** (to exclude **spontaneous bacterial peritonitis**).
+
+### Serum-Ascites Albumin Gradient (SAAG)
+**SAAG = serum albumin minus ascitic fluid albumin** (obtained on the same day).
+
+* **SAAG 1.1 g/dL or higher: portal hypertension**
+* **Cirrhosis** (most common), alcoholic hepatitis, **heart failure,** Budd-Chiari, portal vein thrombosis, massive liver metastases
+* **Ascitic protein** helps distinguish: **above 2.5 g/dL** (heart failure, Budd-Chiari), **below 2.5 g/dL** (cirrhosis)
+* **SAAG below 1.1 g/dL: no portal hypertension**
+* **Peritoneal carcinomatosis,** tuberculous peritonitis, **nephrotic syndrome,** pancreatic ascites, bowel obstruction or infarction
+
+### Spontaneous Bacterial Peritonitis (SBP)
+Infection of ascitic fluid in a patient with cirrhosis, without a surgical source.
+* **Diagnosis:** **ascitic fluid neutrophil (PMN) count of 250 cells per microliter or more**
+* **Presentation:** fever, abdominal pain, ileus, worsening encephalopathy, or kidney injury (but can be subtle or silent)
+* **Cultures:** inoculate **blood culture bottles at the bedside**
+* **Common organisms:** *E. coli, Klebsiella,* and *Streptococcus*
+* **Treatment:** **IV third-generation cephalosporin** (cefotaxime or ceftriaxone) and **IV albumin** (to reduce the risk of hepatorenal syndrome)
+* **Secondary peritonitis** (perforation) suggested by **multiple organisms, very high neutrophils, high protein, very low glucose, and high LDH**
+
+### Other Ascitic Tests
+* **Cell count** and differential
+* **Total protein,** glucose, LDH
+* **Culture** and Gram stain
+* **Cytology** for malignancy
+* **Amylase** (pancreatic ascites), **triglycerides** (chylous ascites)
+* **Bilirubin** (bile leak)
+
+## Synovial Fluid (Arthrocentesis)
+
+**Any acutely swollen, painful, hot joint needs aspiration** to exclude **septic arthritis,** a joint emergency.
+
+### Appearance and Cell Count
+* **Normal:** clear, pale yellow, highly viscous, **WBC below 200 per microliter**
+* **Non-inflammatory (such as osteoarthritis, trauma):** clear, **WBC 200 to 2,000,** mostly mononuclear
+* **Inflammatory (gout, pseudogout, rheumatoid arthritis, other):** cloudy, **WBC 2,000 to 50,000,** neutrophil predominant
+* **Septic:** turbid or purulent, **WBC above 50,000** (sometimes lower, especially early or in immunocompromised patients), neutrophils above 90 percent. **Septic arthritis can occur with any WBC count,** so **culture** is essential.
+* **Hemorrhagic:** trauma (fracture, ligament tear), hemophilia, anticoagulation, and pigmented villonodular synovitis
+
+### Crystal Analysis (Polarized Light Microscopy)
+* **Gout (monosodium urate):** **needle-shaped** crystals, **strongly negatively birefringent** (appear **yellow when parallel** to the compensator axis, and blue when perpendicular)
+* **Pseudogout (calcium pyrophosphate dihydrate, CPPD):** **rhomboid-shaped** crystals, **weakly positively birefringent** (blue when parallel)
+* **Crystals and infection can coexist.**
+
+### Other Tests
+* **Gram stain and culture** (always)
+* **Glucose** (low in infection)
+* **Lactate**
+
+> **Clinical Pearl:** A hot swollen joint is **septic arthritis until proven otherwise,** even if crystals are present. **Do not delay aspiration** (and antibiotics after cultures).
+
+## Pericardial Fluid (Pericardiocentesis)
+
+Usually performed for **cardiac tamponade** (both diagnostic and therapeutic) or unexplained effusions. Tests: cell count, protein, LDH, cytology, Gram stain, AFB, and culture. **Bloody** effusions are common in malignancy, TB, uremia, and after trauma or myocardial rupture.
+
+## CSF
+
+Covered in **Lesson 9** (and the Neurology course).
+
+## Practical Points for Body Fluid Collection
+
+* **Obtain informed consent** and use sterile technique
+* **Label and send promptly,** in the right tubes: **EDTA** (lavender) for cell count, **sterile container** (or blood culture bottles) for culture, **heparinized** (or plain) tubes for chemistry and cytology, and **fluoride** (gray) for glucose where needed
+* **Serum samples** drawn at the same time for comparisons (protein, LDH, albumin, glucose)
+* **Document** the volume removed, appearance, and complications
+
+> **Summary**
+> Urinalysis has three parts: appearance, dipstick, and microscopy. Nitrite is specific but not sensitive for UTI, and vitamin C causes false negatives. RBC casts mean glomerulonephritis, WBC casts mean pyelonephritis or interstitial nephritis, muddy brown casts mean ATN, and a FeNa below 1 percent suggests prerenal injury. Painless gross hematuria in adults needs a malignancy workup. For effusions, use Light criteria (pleural fluid), SAAG (ascites), and a count of 250 neutrophils or more to diagnose SBP. A synovial WBC above 50,000 suggests infection, and crystals do not exclude it. Needle-shaped, negatively birefringent crystals mean gout.

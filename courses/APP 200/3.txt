@@ -1,0 +1,133 @@
+# Cranial Nerves and the Peripheral Nervous System
+
+The peripheral nervous system (PNS) connects the CNS to the body. It includes the 12 pairs of cranial nerves, the spinal nerves, and the autonomic nervous system. This lesson gives you the map you will use for every localization.
+
+## The Twelve Cranial Nerves
+
+### CN I: Olfactory (sensory)
+* **Function:** smell
+* **Test:** identify a familiar smell in each nostril
+* **Lesion causes:** head trauma (shearing at the cribriform plate), frontal tumors (meningioma), upper respiratory infection, early Parkinson and Alzheimer disease
+
+### CN II: Optic (sensory)
+* **Function:** vision
+* **Test:** acuity, visual fields, pupils, fundoscopy
+* **Pathway:** detailed in the Ophthalmology course
+
+### CN III: Oculomotor (motor, parasympathetic)
+* **Function:** moves most eye muscles, lifts the eyelid, constricts the pupil
+* **Lesion:** eye down and out, ptosis, dilated pupil. A dilated pupil with a CN III palsy suggests compression (posterior communicating artery aneurysm or uncal herniation).
+
+### CN IV: Trochlear (motor)
+* **Function:** superior oblique muscle (depresses and intorts the eye)
+* **Lesion:** vertical double vision, head tilt
+
+### CN V: Trigeminal (sensory and motor)
+* **Sensory:** three divisions: **V1** (ophthalmic, forehead), **V2** (maxillary, cheek), **V3** (mandibular, jaw). Also the afferent limb of the corneal reflex.
+* **Motor:** muscles of chewing (masseter, temporalis, pterygoids)
+* **Test:** light touch and pinprick on each division, jaw clench, jaw deviation (the jaw deviates toward the weak side)
+* **Lesion:** facial numbness, jaw weakness. **Trigeminal neuralgia** causes severe, brief, electric-shock pain in V2 or V3.
+
+### CN VI: Abducens (motor)
+* **Function:** lateral rectus (abducts the eye)
+* **Lesion:** horizontal diplopia, esotropia. A common false localizing sign in raised intracranial pressure.
+
+### CN VII: Facial (motor, sensory, parasympathetic)
+* **Motor:** muscles of facial expression, stapedius
+* **Sensory:** taste from the anterior two-thirds of the tongue
+* **Parasympathetic:** tear and salivary glands
+* **Test:** raise eyebrows, close eyes tightly, smile, puff cheeks
+* **Upper versus lower motor neuron facial palsy:**
+  * **Lower motor neuron (nerve lesion, such as Bell palsy):** weakness of the **entire** side of the face, including the forehead.
+  * **Upper motor neuron (stroke):** weakness of the **lower face only**, with the **forehead spared**, because the forehead has bilateral cortical input.
+
+### CN VIII: Vestibulocochlear (sensory)
+* **Function:** hearing and balance
+* **Test:** finger rub, whisper, Rinne and Weber tests
+* **Lesion:** hearing loss, tinnitus, vertigo. A **vestibular schwannoma** (acoustic neuroma) classically causes unilateral hearing loss.
+
+### CN IX: Glossopharyngeal (sensory and motor)
+* **Function:** taste from the posterior third of the tongue, sensation of the pharynx, stylopharyngeus muscle, carotid body
+* **Test:** gag reflex (afferent limb)
+
+### CN X: Vagus (sensory, motor, parasympathetic)
+* **Function:** palate, pharynx, larynx, and the parasympathetic supply to the thorax and abdomen
+* **Test:** say "ahh" (the uvula deviates **away** from the side of the lesion), gag reflex (efferent limb), voice quality
+* **Lesion:** hoarseness, difficulty swallowing, nasal speech
+
+### CN XI: Accessory (motor)
+* **Function:** sternocleidomastoid and upper trapezius
+* **Test:** shrug shoulders and turn the head against resistance
+
+### CN XII: Hypoglossal (motor)
+* **Function:** tongue muscles
+* **Test:** stick out the tongue. It deviates **toward** the side of a lower motor neuron lesion.
+* **Lesion:** atrophy and fasciculations in motor neuron disease
+
+> **Clinical Pearl:** The tongue deviates toward the weak side; the uvula deviates away from the weak side; the jaw deviates toward the weak side.
+
+## Spinal Nerves, Dermatomes, and Myotomes
+
+### Dermatomes
+Each spinal nerve root supplies a strip of skin. Useful landmarks:
+* **C6:** thumb
+* **C7:** middle finger
+* **C8:** little finger
+* **T4:** nipple line
+* **T10:** umbilicus
+* **L4:** medial leg and ankle
+* **L5:** dorsum of the foot and great toe
+* **S1:** lateral foot and little toe
+* **S2-S4:** perineum (saddle area)
+
+### Myotomes (Key Muscle Actions)
+* **C5:** shoulder abduction, elbow flexion
+* **C6:** wrist extension
+* **C7:** elbow extension, wrist flexion
+* **C8:** finger flexion
+* **T1:** finger abduction
+* **L2:** hip flexion
+* **L3-L4:** knee extension
+* **L4:** ankle dorsiflexion
+* **L5:** great toe extension, hip abduction
+* **S1:** ankle plantarflexion
+
+### Reflexes and Their Roots
+* **Biceps:** C5-C6
+* **Brachioradialis:** C6
+* **Triceps:** C7
+* **Patellar (knee):** L3-L4
+* **Achilles (ankle):** S1
+
+## Plexuses
+
+### Brachial Plexus
+Formed from roots **C5 to T1.** It runs through trunks, divisions, and cords to give the nerves of the arm. Injury patterns include:
+* **Erb palsy** (upper trunk, C5-C6): "waiter's tip" arm, often from birth injury or a fall onto the shoulder
+* **Klumpke palsy** (lower trunk, C8-T1): weak hand, with possible Horner syndrome
+
+### Lumbosacral Plexus
+Gives the femoral, obturator, and sciatic nerves to the leg.
+
+## Major Peripheral Nerves
+
+* **Median nerve (C6-T1):** thumb opposition and wrist flexion, sensation of the lateral palm and first three fingers. Compressed at the wrist in **carpal tunnel syndrome.**
+* **Ulnar nerve (C8-T1):** hand intrinsic muscles, little and ring finger sensation. Compressed at the elbow (cubital tunnel). Injury causes a "claw hand."
+* **Radial nerve (C5-T1):** extends the wrist and fingers. Injury causes **wrist drop** (for example, "Saturday night palsy").
+* **Axillary nerve (C5-C6):** deltoid. Injured in shoulder dislocation.
+* **Femoral nerve (L2-L4):** hip flexion and knee extension.
+* **Sciatic nerve (L4-S3):** divides into the **tibial** and **common peroneal** nerves.
+* **Common peroneal nerve:** ankle dorsiflexion and eversion. Injury at the fibular head causes **foot drop.**
+
+## The Motor Unit and Neuromuscular Junction
+
+A **motor unit** is one lower motor neuron and all the muscle fibers it supplies. At the **neuromuscular junction,** acetylcholine is released from the nerve terminal and binds nicotinic receptors on the muscle, triggering contraction. Diseases of this junction (myasthenia gravis, Lambert-Eaton syndrome) are covered in Lesson 16.
+
+## The Autonomic Nervous System
+
+* **Sympathetic ("fight or flight"):** arises from the thoracolumbar spinal cord (T1-L2). Increases heart rate, dilates the pupils, and constricts blood vessels. Uses norepinephrine at target organs (acetylcholine for sweat glands).
+* **Parasympathetic ("rest and digest"):** arises from cranial nerves III, VII, IX, X, and the sacral cord (S2-S4). Slows the heart, increases gut activity, and constricts the pupils. Uses acetylcholine.
+* **Autonomic failure** causes orthostatic hypotension, bladder and bowel dysfunction, and sexual dysfunction. It is seen in diabetes, Parkinson disease, and Guillain-Barré syndrome.
+
+> **Summary**
+> The 12 cranial nerves each have defined functions and tests. Forehead sparing distinguishes central facial palsy from peripheral (Bell palsy). Dermatomes, myotomes, and reflexes follow the spinal roots, and knowing the key levels (C5, C6, C7, L4, L5, S1) allows you to localize root lesions. Peripheral nerves such as median, ulnar, radial, and peroneal have characteristic injury patterns. The autonomic system has sympathetic (thoracolumbar) and parasympathetic (craniosacral) divisions.

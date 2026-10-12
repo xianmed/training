@@ -1,0 +1,152 @@
+# CNS Infections
+
+Infections of the nervous system are among the most dangerous in medicine. Many are curable if treated early, and delays in treatment worsen outcome. This lesson focuses on rapid recognition and empiric treatment.
+
+## Bacterial Meningitis
+
+Infection of the **meninges and subarachnoid space.** A medical emergency with mortality of 10 to 30 percent and significant risk of long-term deficits.
+
+### Causes by Age
+* **Neonates (up to 1 month):** **Group B Streptococcus, Escherichia coli, Listeria monocytogenes**
+* **Infants and children:** **Streptococcus pneumoniae, Neisseria meningitidis** (and Haemophilus influenzae type b in unvaccinated children)
+* **Adolescents and young adults:** ***N. meningitidis,* *S. pneumoniae***
+* **Adults over 50, pregnancy, and immunocompromised:** ***S. pneumoniae, Listeria monocytogenes,*** gram-negative bacilli
+* **After neurosurgery or head trauma, or with shunts:** *Staphylococcus aureus,* coagulase-negative staphylococci, gram-negative rods
+
+### Presentation
+**Classic triad:** **fever, neck stiffness, and altered mental status.** Most patients have at least two of **headache, fever, neck stiffness, and altered consciousness.** Also vomiting, photophobia, seizures, and cranial nerve palsies.
+
+* **Meningococcal disease:** a **non-blanching petechial or purpuric rash** that spreads rapidly, with shock (meningococcemia). Treat promptly.
+* **Infants:** may only have fever, irritability, poor feeding, a **bulging fontanelle,** or lethargy.
+* **Older adults:** may present with confusion and no fever.
+
+### Examination
+Neck stiffness, Kernig and Brudzinski signs (low sensitivity), and a careful look for papilledema, focal deficits, and rash.
+
+### Management: The Critical Steps
+1. **Draw blood cultures** (and do not wait for the LP result).
+2. **Give empiric antibiotics immediately,** ideally within 1 hour. **Do not delay treatment for CT or LP.**
+3. **Give dexamethasone** (0.15 mg/kg every 6 hours for 4 days) **just before or with the first antibiotic dose.** It reduces hearing loss and mortality, especially in pneumococcal disease.
+4. **CT before LP** if there are focal neurologic signs, papilledema, new seizures, immunocompromise, or reduced consciousness.
+5. **Lumbar puncture** to confirm (cell count, protein, glucose, Gram stain, culture, and PCR).
+6. **Admit,** usually to a monitored or intensive care setting.
+
+### Empiric Antibiotics (Adults)
+* **Ceftriaxone 2 g IV every 12 hours** (or cefotaxime), **plus**
+* **Vancomycin** (to cover resistant pneumococci), **plus**
+* **Ampicillin 2 g IV every 4 hours** if age over 50, pregnant, or immunocompromised (to cover *Listeria*)
+* Add **meropenem or ceftazidime** with vancomycin for post-neurosurgical or shunt-related infection
+
+### CSF Findings
+**Cloudy, high opening pressure, very high neutrophils (hundreds to thousands), high protein, and low glucose** (CSF to blood glucose ratio below 0.4). Gram stain is positive in many cases.
+
+### Meningococcal Prophylaxis
+Close contacts (household, kissing, shared eating, and healthcare workers with unprotected airway exposure) should receive **ciprofloxacin, rifampin, or ceftriaxone.** Report to public health.
+
+### Complications
+Hearing loss, seizures, hydrocephalus, cerebral edema, stroke, subdural effusion, cranial nerve palsies, cognitive impairment, and Waterhouse-Friderichsen syndrome (adrenal hemorrhage in meningococcemia).
+
+### Prevention
+Vaccines: **pneumococcal, meningococcal (ACWY and B), and Hib.**
+
+> **Clinical Pearl:** Antibiotics first, imaging second, LP third. A delay of even a few hours in antibiotics raises mortality.
+
+## Viral (Aseptic) Meningitis
+
+* **Causes:** **enteroviruses** (most common, in summer and fall), HSV-2, mumps, varicella zoster, HIV
+* **Presentation:** fever, headache, neck stiffness, photophobia. **Usually less severe** than bacterial. The patient is generally alert.
+* **CSF:** **lymphocytic** pleocytosis (tens to hundreds of cells), mildly raised protein, **normal glucose.** PCR identifies the virus.
+* **Treatment:** supportive (rest, fluids, analgesia). Self-limited over 7 to 10 days.
+* **Early on, a bacterial cause cannot always be excluded,** so empiric antibiotics are often started until cultures are negative.
+
+## Encephalitis
+
+Inflammation of the **brain parenchyma.** Distinguished from meningitis by **altered mental status, behavior change, seizures, and focal deficits.**
+
+### Herpes Simplex Encephalitis (HSE)
+The most common cause of sporadic fatal viral encephalitis.
+
+* Usually **HSV-1,** affecting the **temporal and inferior frontal lobes**
+* **Presentation:** fever, headache, confusion, **personality or behavior change, seizures, focal signs, aphasia, memory loss**
+* **MRI:** abnormal signal in the **medial temporal and frontal lobes.** EEG may show periodic lateralized discharges.
+* **CSF:** lymphocytes, **red blood cells** (hemorrhagic), raised protein. **HSV PCR** is highly sensitive and specific.
+* **Treatment: IV acyclovir 10 mg/kg every 8 hours for 14 to 21 days.** **Start immediately** in any patient with suspected encephalitis, **before test results.** Maintain good hydration to protect the kidneys.
+
+### Other Causes of Encephalitis
+* **Varicella zoster virus, EBV, CMV, HHV-6**
+* **Arboviruses:** **West Nile virus** (summer, with possible flaccid paralysis), Japanese encephalitis, eastern equine, St. Louis
+* **Rabies:** after an animal bite, with hydrophobia, agitation, and 100 percent fatality once symptoms appear. **Post-exposure prophylaxis** (immunoglobulin plus vaccine) must be given early.
+* **HIV, measles (subacute sclerosing panencephalitis)**
+* **Autoimmune encephalitis** (Lesson 14): always consider if infectious tests are negative
+
+## Brain Abscess
+
+A focal collection of pus in the brain.
+
+### Causes
+* **Contiguous spread:** otitis media, mastoiditis, sinusitis, dental infection
+* **Hematogenous spread:** endocarditis, lung abscess, **congenital cyanotic heart disease** (right-to-left shunt), IV drug use
+* **Penetrating trauma or neurosurgery**
+
+### Organisms
+Streptococci (including *S. milleri* group), anaerobes, *Staphylococcus aureus,* gram-negative bacilli. In immunocompromised patients: *Nocardia, Toxoplasma,* fungi.
+
+### Presentation
+**Headache** (most common), fever (only about half), **focal neurologic deficits, seizures,** and signs of raised ICP. Symptoms develop over days to weeks.
+
+### Diagnosis
+**MRI or CT with contrast:** a **ring-enhancing lesion** with surrounding edema. **DWI shows restricted diffusion** (bright) within an abscess, which helps distinguish it from a necrotic tumor.
+
+> **Warning:** **Do not perform a lumbar puncture** if a brain abscess is suspected, because of the risk of herniation.
+
+### Treatment
+* **Neurosurgical aspiration or drainage** for most abscesses (and to obtain cultures)
+* **Prolonged IV antibiotics** (6 to 8 weeks): **ceftriaxone (or cefotaxime) plus metronidazole,** with **vancomycin** added if *S. aureus* is possible
+* Treat the source (sinus, ear, dental, endocarditis)
+* **Steroids** only when there is significant mass effect
+* Seizure management
+
+## Chronic and Opportunistic CNS Infections
+
+### Tuberculous Meningitis
+* **Subacute** onset over weeks, with headache, low-grade fever, weight loss, cranial nerve palsies (especially CN VI), and altered consciousness
+* **CSF:** lymphocytes, **very high protein, low glucose.** AFB smear is insensitive, and PCR helps.
+* **MRI:** **basal meningeal enhancement,** hydrocephalus, and infarcts
+* **Treatment:** **prolonged four-drug anti-TB therapy** (isoniazid, rifampin, pyrazinamide, ethambutol) plus **dexamethasone.** Treat hydrocephalus.
+
+### Cryptococcal Meningitis
+* **HIV with CD4 count below 100,** and other immunocompromise
+* Subacute headache, fever, **markedly raised ICP,** vision problems, and confusion. Neck stiffness may be absent.
+* **Diagnosis:** **cryptococcal antigen** in serum and CSF, India ink stain, culture
+* **Treatment:** **amphotericin B plus flucytosine** (induction), then fluconazole. **Repeated therapeutic lumbar punctures** to control high opening pressure.
+
+### Cerebral Toxoplasmosis
+* HIV with **CD4 below 100**
+* **Multiple ring-enhancing lesions,** often in basal ganglia, with headache, fever, and focal signs
+* **Treatment:** pyrimethamine, sulfadiazine, and folinic acid (or trimethoprim-sulfamethoxazole)
+
+### Progressive Multifocal Leukoencephalopathy (PML)
+**JC virus reactivation** in immunosuppressed patients (HIV, natalizumab, other immunosuppressants). Progressive focal deficits, cognitive decline, and **non-enhancing white matter lesions.** No specific therapy. Restore immunity.
+
+### Neurosyphilis
+Can occur at any stage of syphilis.
+* **Early:** meningitis, cranial nerve palsies, stroke, ocular syphilis
+* **Late:** **general paresis** (dementia, personality change) and **tabes dorsalis** (sensory ataxia, lightning pains, Argyll Robertson pupils, Charcot joints)
+* **Diagnosis:** serology and CSF testing (VDRL)
+* **Treatment: IV penicillin G** for 10 to 14 days
+
+### Lyme Neuroborreliosis
+Facial palsy (can be bilateral), meningitis, radiculopathy. Treated with doxycycline or IV ceftriaxone.
+
+### Neurocysticercosis
+Larval stage of the pork tapeworm *Taenia solium.* A leading cause of **adult-onset seizures** worldwide. Cystic lesions with a visible scolex on CT or MRI. Treated with albendazole plus corticosteroids and antiseizure drugs.
+
+### Prion Disease
+Covered in Lesson 12 (CJD).
+
+### Tetanus and Botulism (Toxin-Mediated)
+* **Tetanus:** *Clostridium tetani* toxin blocks inhibitory neurotransmission, causing **trismus (lockjaw), muscle spasms, and risus sardonicus.** Treat with immunoglobulin, wound care, and metronidazole.
+* **Botulism:** toxin blocks acetylcholine release, causing **descending flaccid paralysis,** blurred vision, dilated pupils, and dry mouth, with intact sensation. Treat with **antitoxin** and supportive care.
+
+> **Summary**
+> In suspected bacterial meningitis, draw cultures and give antibiotics (ceftriaxone, vancomycin, plus ampicillin over age 50) with dexamethasone immediately, and do not wait for CT or LP. CSF shows many neutrophils, high protein, and low glucose. Viral meningitis has lymphocytes and normal glucose. HSV encephalitis affects the temporal lobes and needs IV acyclovir at once. Brain abscess is a ring-enhancing lesion treated by drainage and ceftriaxone plus metronidazole, and LP is avoided. HIV-related CNS infections include cryptococcus, toxoplasma, and PML.

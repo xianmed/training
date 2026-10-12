@@ -1,0 +1,188 @@
+# Spinal Cord and Spine Disorders
+
+Spinal cord disease is a leading cause of paralysis, and some forms are among the most time-critical emergencies in neurology. The key skills are recognizing cord compression and cauda equina syndrome early, and knowing the cord syndromes.
+
+## Spinal Cord Syndromes
+
+### Complete Cord Lesion
+Loss of all motor, sensory, and autonomic function **below the level of injury,** with a **sensory level.**
+
+### Anterior Cord Syndrome
+* **Loss of motor function** (corticospinal tract) and **pain and temperature** (spinothalamic tract) below the lesion
+* **Preserved** dorsal column functions (vibration, position sense)
+* Cause: **anterior spinal artery infarction** (aortic surgery, dissection), flexion injuries
+* Poor prognosis
+
+### Posterior Cord Syndrome
+Loss of **vibration and proprioception** with preserved strength and pain sense. Rare. Cause: **tabes dorsalis (syphilis), B12 deficiency,** and posterior spinal artery infarction.
+
+### Central Cord Syndrome
+* **Weakness greater in the arms than the legs,** with variable sensory loss and bladder dysfunction
+* Typical cause: **hyperextension injury in an older patient with cervical spondylosis**
+* Better prognosis, especially for legs
+
+### Brown-Séquard Syndrome (Hemisection)
+* **Ipsilateral** weakness and loss of **vibration and proprioception** below the lesion
+* **Contralateral** loss of **pain and temperature** (starting a few levels below)
+* Causes: penetrating trauma (stab wound), tumors, and demyelination
+
+### Conus Medullaris Syndrome
+Lesion at **L1-L2.** Early **bladder and bowel dysfunction,** saddle anesthesia, sexual dysfunction, **perianal sensory loss,** and relatively **symmetric** and less severe leg weakness. Mixed UMN and LMN signs.
+
+### Cauda Equina Syndrome
+See below.
+
+### Syringomyelia
+A fluid-filled cavity within the cord, often in the cervical region.
+* **Cape-like (suspended) loss of pain and temperature** over the shoulders and arms, with **preserved touch and proprioception** (dissociated sensory loss)
+* Hand weakness and atrophy, painless burns and injuries
+* Associated with **Chiari I malformation**
+
+## Acute Spinal Cord Compression
+
+A neurologic emergency. **Permanent paralysis can occur within hours.**
+
+### Causes
+* **Metastatic cancer** (spine metastases from breast, lung, prostate, myeloma). The most common cause of nontraumatic compression.
+* **Spinal epidural abscess**
+* **Epidural hematoma** (anticoagulation, trauma, after a spinal procedure)
+* **Disc herniation** and spondylosis
+* **Trauma** and fracture
+* **Primary tumors:** meningioma, schwannoma, astrocytoma
+
+### Features
+* **Back pain** (often severe, worse lying down, with percussion tenderness)
+* **Progressive weakness** of the legs
+* **Sensory level**
+* **Urinary retention** or incontinence (a late sign)
+* **UMN signs** below the level (after the initial spinal shock)
+
+### Management
+* **Urgent MRI of the whole spine** (multiple levels can be involved)
+* **Malignant cord compression:** **dexamethasone 10 mg IV** (loading dose, then continued), **urgent radiotherapy** or **surgical decompression**, oncology and neurosurgery involvement
+* **Spinal epidural abscess:** **vancomycin plus a third-generation cephalosporin (and sometimes metronidazole),** with surgical drainage if neurologic signs or large collection
+* **Epidural hematoma:** reverse anticoagulation and urgent decompression
+
+## Spinal Epidural Abscess
+
+* **Classic triad:** **back pain, fever, and neurologic deficit** (often not all present early)
+* **Risk factors:** IV drug use, diabetes, immunosuppression, recent spinal procedure, bacteremia, and indwelling catheters
+* **Organism:** *Staphylococcus aureus* most commonly
+* **Evolution:** back pain &rarr; radicular pain &rarr; weakness &rarr; paralysis
+* **Diagnosis:** raised ESR and CRP, **urgent MRI with contrast,** blood cultures
+* Avoid LP through an infected area.
+
+> **Clinical Pearl:** Fever with severe back pain in an IV drug user is a spinal epidural abscess until proven otherwise. The window to prevent paralysis is short.
+
+## Cauda Equina Syndrome
+
+Compression of the lumbosacral nerve roots below the conus. A surgical emergency.
+
+### Causes
+**Massive central lumbar disc herniation** (most common), tumors, epidural abscess or hematoma, trauma, and spinal stenosis.
+
+### Red Flag Features
+* **Severe low back pain** with **bilateral sciatica** or leg weakness
+* **Saddle (perineal) numbness or anesthesia**
+* **Urinary retention,** with later **overflow incontinence**
+* **Bowel incontinence** or loss of anal tone
+* **Sexual dysfunction**
+* **Reduced or absent ankle jerks**
+* Leg weakness that is **LMN in type** (flaccid, reflexes reduced)
+
+### Management
+* **Urgent MRI of the lumbosacral spine.**
+* **Emergency neurosurgical decompression,** ideally within 24 to 48 hours of onset of retention. Outcomes are much better if done **before** bladder involvement is complete.
+* Bladder scan to assess post-void residual volume.
+
+> **Clinical Pearl:** Ask every patient with low back pain: "Any numbness in the groin or inner thighs? Any trouble passing urine or controlling your bowels?" A bladder scan is a simple bedside test.
+
+## Radiculopathy and Back Pain
+
+### Acute Low Back Pain
+Most acute low back pain is **mechanical** and self-limited, improving in 4 to 6 weeks.
+
+#### Red Flags for Serious Pathology
+* **Cancer** (history, unexplained weight loss, age over 50)
+* **Infection** (fever, IV drug use, immunosuppression)
+* **Fracture** (trauma, osteoporosis, steroid use, age over 70)
+* **Cauda equina syndrome** or progressive neurologic deficit
+* Pain at night or at rest, or not improving
+
+#### Management Without Red Flags
+Reassurance, **stay active,** NSAIDs, heat, brief use of muscle relaxants if needed, and physiotherapy. **No imaging** is needed in the first 4 to 6 weeks. Avoid bed rest and opioids.
+
+### Lumbar Radiculopathy ("Sciatica")
+Compression or inflammation of a nerve root, usually from a **disc herniation.**
+
+* **Radiating leg pain** in the distribution of a nerve root, **worse with coughing, sneezing, or straining**
+* **Straight leg raise** reproduces the pain (L5 and S1 roots). The **femoral stretch test** is for upper lumbar roots.
+* **L4:** knee extension weakness, **patellar reflex reduced,** medial leg numbness
+* **L5:** **foot dorsiflexion and great toe extension weakness** (foot drop), numbness on the dorsum of the foot
+* **S1:** plantarflexion weakness, **Achilles reflex reduced,** lateral foot numbness
+* **Imaging (MRI)** only if red flags, severe or progressive deficit, or persistent symptoms beyond 6 weeks
+* **Treatment:** most improve within 6 to 12 weeks. NSAIDs, physical therapy, neuropathic agents (gabapentin), short courses of oral steroids (limited benefit), epidural steroid injections, and **surgery (discectomy) for progressive deficits, cauda equina, or persistent disabling pain.**
+
+### Cervical Radiculopathy
+Neck and arm pain, with weakness and numbness in a root distribution. **C7 (triceps, middle finger) and C6 are most common.** Managed conservatively in most cases.
+
+## Spinal Stenosis
+
+### Lumbar Spinal Stenosis
+* Older adults with narrowing of the spinal canal from degeneration
+* **Neurogenic claudication:** leg pain, heaviness, and weakness on **walking and standing,** relieved by **sitting or bending forward** (as when leaning on a shopping cart)
+* Normal pulses (differentiating from vascular claudication)
+* **Treatment:** exercise, physical therapy, epidural injections, and surgical decompression for severe or refractory disease
+
+### Cervical Spondylotic Myelopathy
+The most common cause of spinal cord dysfunction in older adults.
+* **Gradual** hand clumsiness (trouble with buttons and handwriting), **gait unsteadiness,** neck stiffness, and **bladder dysfunction** in advanced stages
+* **Signs:** UMN signs in the legs (hyperreflexia, spasticity, Babinski), **Hoffmann sign,** and a **wide-based, spastic gait**
+* **MRI** shows cord compression.
+* **Treatment:** surgical decompression, and **avoidance of falls** and neck hyperextension.
+
+## Non-Compressive Myelopathies
+
+* **Transverse myelitis** (Lesson 14)
+* **Subacute combined degeneration (vitamin B12 deficiency):** degeneration of the **dorsal columns and corticospinal tracts.** Presents with **numbness, sensory ataxia, spasticity, and weakness,** often with anemia and macrocytosis. **Treat with B12 replacement (injection).** Nitrous oxide abuse can precipitate it.
+* **Spinal cord infarction:** sudden onset of back pain and weakness (anterior spinal artery syndrome)
+* **HIV, HTLV-1 (tropical spastic paraparesis), syphilis**
+* **Radiation myelopathy**
+* **Spinal dural arteriovenous fistula:** slowly progressive myelopathy in middle-aged men
+
+## Traumatic Spinal Cord Injury
+
+### Initial Management
+* **Spinal immobilization** (cervical collar and backboard) in any trauma with potential spinal injury
+* **ABCs,** with careful airway management that minimizes neck movement
+* **Neurogenic shock:** **hypotension with bradycardia** from loss of sympathetic tone (injury above T6). Treat with fluids and vasopressors. Different from hemorrhagic shock (tachycardia).
+* **Maintain mean arterial pressure at 85 to 90 mmHg** for the first several days to maintain cord perfusion
+* **Early surgical decompression and stabilization** for unstable fractures and compression
+* **High-dose methylprednisolone** is **not recommended** routinely (no clear benefit, increased complications)
+* **Prevent complications:** DVT prophylaxis, pressure ulcers, pneumonia, urinary tract infections, and autonomic dysreflexia
+
+### Spinal Shock
+Temporary loss of all reflexes and tone below the lesion, from hours to weeks. **Flaccid paralysis and areflexia,** then spasticity and hyperreflexia develop.
+
+### ASIA Impairment Scale
+Standard grading (A to E):
+* **A:** complete, no motor or sensory function in the lowest sacral segments
+* **B:** sensory incomplete
+* **C and D:** motor incomplete
+* **E:** normal
+
+### Autonomic Dysreflexia
+An emergency in patients with spinal cord injury **above T6.** A noxious stimulus below the level (full bladder, constipation, pressure ulcer, ingrown toenail) triggers an uncontrolled sympathetic surge.
+* **Severe hypertension, pounding headache, sweating and flushing above the injury,** and **bradycardia**
+* **Management:** **sit the patient upright,** loosen tight clothing, and **find and remove the trigger** (check the bladder first, catheter, then bowel). If blood pressure remains high, give a fast-acting antihypertensive (such as nifedipine or nitrates). It can cause stroke or seizure.
+
+## Spinal Tumors
+
+* **Extradural (most common):** metastases, from breast, lung, and prostate cancer, myeloma, and lymphoma
+* **Intradural-extramedullary:** **meningioma, schwannoma, neurofibroma**
+* **Intramedullary:** **ependymoma and astrocytoma**
+* Presentation is progressive back pain and myelopathy.
+* **MRI with contrast** is the key test.
+
+> **Summary**
+> Cord syndromes localize lesions: central cord (arms worse than legs), anterior (motor and pain loss), Brown-Séquard (ipsilateral weakness and position loss with contralateral pain loss), and syringomyelia (cape-like pain loss). Cord compression and epidural abscess need urgent MRI, with steroids, radiotherapy, antibiotics, or surgery. Cauda equina syndrome (saddle numbness, urinary retention, bilateral leg weakness) is a surgical emergency. Most back pain is benign and does not need imaging. In trauma, immobilize, treat neurogenic shock, maintain MAP 85 to 90, and watch for autonomic dysreflexia above T6.

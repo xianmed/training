@@ -1,0 +1,168 @@
+# Coagulation Studies
+
+Hemostasis (stopping bleeding) depends on platelets, clotting factors, and the vessel wall. Coagulation tests measure the clotting-factor pathway, and are essential for monitoring anticoagulants, evaluating bleeding, and screening for clotting disorders.
+
+> **Specimen:** **Light blue-top tube (sodium citrate).** The tube must be **filled to the line** (a 9:1 ratio of blood to citrate). **Underfilling** falsely prolongs clotting times. Draw it **after** blood culture bottles and **before** other additive tubes.
+
+## The Clotting Cascade in Brief
+
+* **Extrinsic pathway:** triggered by tissue factor. Involves **factor VII.** Measured by the **PT.**
+* **Intrinsic pathway:** involves **factors XII, XI, IX, and VIII.** Measured by the **aPTT.**
+* **Common pathway:** **factors X, V, II (prothrombin), and I (fibrinogen).** Measured by both.
+
+Clot formation also requires **platelets** and **calcium.** The natural brakes include **antithrombin, protein C,** and **protein S.**
+
+## Prothrombin Time (PT) and INR
+
+* **PT:** normal about **11 to 13.5 seconds**
+* **INR (International Normalized Ratio):** standardizes PT results across laboratories. Normal about **0.8 to 1.1.**
+* **Measures:** the extrinsic and common pathways (factors VII, X, V, II, and fibrinogen)
+* **Most sensitive to factor VII,** which has the shortest half-life (about 6 hours). That is why the PT rises first with vitamin K deficiency, early liver disease, and early warfarin therapy.
+
+### Uses
+* **Monitoring warfarin:**
+* Typical target INR **2.0 to 3.0** (for atrial fibrillation, venous thromboembolism, and most indications)
+* **2.5 to 3.5** for mechanical mitral valves and some high-risk situations
+* **Assessing liver function** (synthetic capacity)
+* **Evaluating bleeding or coagulopathy**
+* **Detecting vitamin K deficiency**
+
+### Causes of a Prolonged PT/INR
+* **Warfarin**
+* **Vitamin K deficiency** (malnutrition, fat malabsorption, long-term antibiotics, newborns)
+* **Liver disease**
+* **DIC**
+* **Factor VII deficiency**
+* **Direct oral anticoagulants** (mild effect, especially rivaroxaban)
+
+## Activated Partial Thromboplastin Time (aPTT)
+
+* **Normal:** about **25 to 35 seconds**
+* **Measures:** the intrinsic and common pathways
+* **Monitors unfractionated heparin:** the therapeutic target is typically **1.5 to 2.5 times the control value** (about 60 to 80 seconds, depending on laboratory protocol)
+
+### Causes of a Prolonged aPTT
+* **Heparin** (unfractionated)
+* **Hemophilia A (factor VIII deficiency) and hemophilia B (factor IX deficiency)**
+* **Factor XI deficiency**
+* **Von Willebrand disease** (because von Willebrand factor carries factor VIII)
+* **Antiphospholipid antibodies (lupus anticoagulant):** prolonged aPTT in vitro but **thrombosis** (not bleeding) in vivo
+* **Factor XII deficiency:** prolonged aPTT but **no bleeding**
+* **Liver disease, DIC, vitamin K deficiency, and warfarin** (when severe)
+* **Direct thrombin inhibitors** (dabigatran, argatroban, bivalirudin)
+
+### Mixing Study
+When the aPTT (or PT) is prolonged, mix the patient plasma 1:1 with normal plasma:
+* **Corrects** to normal: a **factor deficiency**
+* **Does not correct:** an **inhibitor** (such as lupus anticoagulant, an acquired factor VIII inhibitor, or heparin)
+
+## Interpreting PT and aPTT Together
+
+* **Prolonged PT only:** factor VII deficiency, early warfarin, early vitamin K deficiency, mild liver disease
+* **Prolonged aPTT only:** hemophilia A or B, factor XI deficiency, von Willebrand disease, heparin, lupus anticoagulant
+* **Both prolonged:** common pathway deficiency (factors X, V, II, fibrinogen), **liver disease, DIC, severe vitamin K deficiency, warfarin overdose, heparin at high levels, DOACs**
+* **Both normal, but bleeding:** **platelet disorders** (low count or poor function), **von Willebrand disease** (can have normal aPTT), factor XIII deficiency, vascular disorders, mild factor deficiencies, and **fibrinolytic problems**
+
+> **Clinical Pearl:** Normal PT and aPTT **do not rule out a bleeding disorder.** Platelet function problems and von Willebrand disease are common causes of mucosal bleeding with normal screening times.
+
+## Other Coagulation Tests
+
+### Thrombin Time (TT)
+Tests the conversion of fibrinogen to fibrin. **Prolonged** by heparin, **direct thrombin inhibitors (dabigatran),** low or abnormal fibrinogen, and high fibrin degradation products.
+
+### Fibrinogen
+Normal about **200 to 400 mg/dL.** Low in **DIC,** liver disease, massive transfusion, and thrombolysis. **Raised** as an acute phase reactant. **Below 100 mg/dL** carries a high bleeding risk.
+
+### D-Dimer
+A breakdown product of **cross-linked fibrin.** Raised when a clot has formed and is being broken down.
+
+* **Normal:** below about **500 ng/mL FEU.** Use an **age-adjusted cutoff** (age multiplied by 10 ng/mL for patients over 50) to improve specificity in older patients.
+* **High sensitivity, poor specificity.** Used to **rule out** venous thromboembolism and pulmonary embolism **in patients with a low or intermediate pretest probability.**
+* **Raised in:** DVT and PE, DIC, aortic dissection, surgery and trauma, **pregnancy,** infection, cancer, older age, and inflammation.
+* **Do not use** D-dimer in patients with **high pretest probability.** Go directly to imaging.
+
+### Anti-Factor Xa Assay
+Measures the level of drug activity.
+* **Low molecular weight heparin** (enoxaparin) monitoring in kidney disease, pregnancy, obesity, and extremes of weight
+* **Unfractionated heparin** monitoring, which is not affected by baseline abnormalities like lupus anticoagulant
+* **Factor Xa inhibitors** (apixaban, rivaroxaban) when a **drug-calibrated** assay is available
+
+### Activated Clotting Time (ACT)
+A bedside test used during **cardiac surgery, cardiac catheterization, and ECMO** to monitor high-dose heparin. Baseline about 100 to 140 seconds, targeting **300 to 400 seconds or higher** for bypass.
+
+### Platelet Function Tests
+* **PFA-100:** screens for platelet dysfunction and von Willebrand disease
+* **Light transmission aggregometry:** the gold standard
+* **Bleeding time:** obsolete
+
+### Viscoelastic Tests (TEG and ROTEM)
+Whole-blood tests that show the clot's **formation, strength, and breakdown** in real time. Used in **trauma, liver transplantation, cardiac surgery, and obstetric hemorrhage** to guide targeted transfusion (red cells, plasma, platelets, cryoprecipitate, fibrinogen, and antifibrinolytics).
+
+### Specific Factor Assays
+Factor VIII, IX, XI, and others, when a deficiency is suspected. **Von Willebrand testing:** vWF antigen, vWF activity (ristocetin cofactor), and factor VIII.
+
+## Monitoring Anticoagulants
+
+* **Warfarin:** **INR** (check regularly, after dose changes, and with new drugs)
+* **Unfractionated heparin:** **aPTT** or **anti-Xa**
+* **LMWH:** usually no monitoring. Anti-Xa in special populations.
+* **DOACs (apixaban, rivaroxaban, edoxaban, dabigatran):** routine monitoring is **not needed.** Check kidney function. In emergencies, drug-specific assays (anti-Xa or dilute thrombin time) help. **A normal PT or aPTT does not exclude a clinically significant DOAC effect.**
+* **Argatroban and bivalirudin:** aPTT or ACT
+
+### Reversal Agents (Brief)
+* **Warfarin:** **vitamin K** and **four-factor prothrombin complex concentrate (4F-PCC)**
+* **Dabigatran:** **idarucizumab**
+* **Apixaban and rivaroxaban:** **andexanet alfa** or **4F-PCC**
+* **Unfractionated heparin:** **protamine**
+
+## Disseminated Intravascular Coagulation (DIC)
+
+Widespread activation of clotting that consumes platelets and clotting factors, causing both **clots and bleeding.** It is always **secondary** to another condition.
+
+* **Triggers:** sepsis, trauma, obstetric complications (placental abruption, amniotic fluid embolism), cancer (especially acute promyelocytic leukemia), and burns
+* **Laboratory pattern:**
+* **Low platelets**
+* **Prolonged PT and aPTT**
+* **Low fibrinogen**
+* **High D-dimer**
+* **Schistocytes** on the smear
+* **Treatment:** **treat the underlying cause,** and replace blood products if bleeding
+
+## Heparin-Induced Thrombocytopenia (HIT)
+
+An immune reaction to heparin-PF4 complexes, causing **thrombocytopenia and paradoxical thrombosis.**
+
+* **Timing:** platelets fall **5 to 10 days** after starting heparin (sooner with recent exposure). A fall of **more than 50 percent** from baseline.
+* **Assess probability** using the **4Ts score** (Thrombocytopenia, Timing, Thrombosis, oTher causes).
+* **Tests:** **PF4/heparin antibody ELISA** (sensitive), then the **serotonin release assay** (specific).
+* **Management:** **stop all heparin immediately** (including flushes and heparin-coated catheters), and give a **non-heparin anticoagulant** (argatroban, bivalirudin, or fondaparinux). **Avoid platelet transfusions** unless life-threatening bleeding. **Do not start warfarin** until platelets recover.
+
+## Thrombotic Microangiopathies
+
+* **TTP:** **ADAMTS13 deficiency.** Low platelets, microangiopathic hemolysis (schistocytes), neurologic symptoms, kidney problems, and fever. **Normal PT and aPTT** (this distinguishes it from DIC). **Plasma exchange** is urgent.
+* **HUS:** typically after Shiga toxin-producing *E. coli* in children, with kidney failure.
+
+## Thrombophilia Testing
+
+Used selectively in unexplained or recurrent clotting, thrombosis at a young age or unusual sites, or a strong family history.
+
+* **Factor V Leiden and prothrombin G20210A** (genetic tests, can be done at any time)
+* **Antithrombin, protein C, protein S levels**
+* **Antiphospholipid antibodies:** lupus anticoagulant, anticardiolipin, and anti-beta-2 glycoprotein I (repeat at least 12 weeks apart)
+* **Homocysteine, JAK2, and PNH testing** in selected cases
+
+> **Clinical Pearl:** Several of these tests are **unreliable during acute thrombosis or while on anticoagulants** (levels of antithrombin, protein C, and protein S fall, and lupus anticoagulant testing is affected by heparin and DOACs). Time testing carefully.
+
+## Pre-Analytic Pitfalls
+
+* **Underfilled tube,** clotted sample, or **hemolysis**
+* **High hematocrit** (above 55 percent) requires adjusted citrate
+* **Drawing from a heparinized line** contaminates the sample
+* **Delay** in processing
+
+## Pre-Operative Screening
+
+Routine PT/aPTT in patients with **no bleeding history** is **not recommended.** A **structured bleeding history** (previous surgery, dental extractions, easy bruising, nosebleeds, heavy periods, family history) is a better screening tool.
+
+> **Summary**
+> The PT/INR tests the extrinsic and common pathways and monitors warfarin (target 2 to 3 in most patients). The aPTT tests the intrinsic and common pathways and monitors unfractionated heparin. Use a mixing study to tell a factor deficiency from an inhibitor. A normal PT and aPTT do not exclude platelet disorders or von Willebrand disease. D-dimer rules out clots in low-risk patients but cannot confirm them. DIC shows low platelets, prolonged times, low fibrinogen, and high D-dimer. In HIT, stop heparin and use a non-heparin anticoagulant. TTP has normal PT and aPTT.

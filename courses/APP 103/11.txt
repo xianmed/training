@@ -1,0 +1,135 @@
+# Glaucoma
+
+Glaucoma is a group of diseases in which the optic nerve is progressively damaged, producing characteristic **cupping of the optic disc and loss of visual field.** Intraocular pressure (IOP) is the main modifiable risk factor. It is the leading cause of irreversible blindness worldwide.
+
+> **Clinical Pearl:** Glaucoma damage is permanent. Treatment preserves remaining vision but does not restore what is lost. That is why screening and early detection matter.
+
+## Pathophysiology
+
+Aqueous humor is produced by the ciliary body and drains through the trabecular meshwork at the angle. Glaucoma develops when drainage is impaired or pressure is too high for that particular optic nerve to tolerate. The **retinal ganglion cell axons** at the optic nerve head are damaged and die, which enlarges the **cup** and thins the rim.
+
+## Primary Open-Angle Glaucoma (POAG)
+
+The most common type in many countries.
+
+### Features
+* **Open, normal-appearing angle,** but increased resistance to outflow through the trabecular meshwork
+* **Slowly progressive and painless.** Patients are usually unaware until late.
+* Peripheral field is lost first, then central vision in advanced disease ("tunnel vision")
+
+### Risk Factors
+* Elevated IOP
+* Age over 40 and increasing with age
+* **African ancestry** (earlier onset and more severe), Hispanic ancestry
+* Family history
+* Thin central corneas
+* Myopia, diabetes, hypertension, and prolonged steroid use
+
+### Examination Findings
+* **Increased cup-to-disc ratio** (above about 0.6) or **asymmetry** between the eyes (difference above 0.2)
+* **Neuroretinal rim thinning** and notching
+* **Disc hemorrhage**
+* Nerve fiber layer defects
+* **Visual field loss:** arcuate scotomas or nasal steps, mapped by automated perimetry
+* IOP often above 21 mmHg, but not always
+
+### Diagnostic Tests
+* **Tonometry** (IOP)
+* **Gonioscopy** (viewing the angle with a special lens)
+* **Optic nerve head and OCT** of the nerve fiber layer
+* **Visual fields** (Humphrey)
+* **Central corneal thickness** (pachymetry)
+
+### Normal-Tension Glaucoma
+Glaucomatous damage with IOP in the normal range. Associated with vascular factors, low blood pressure at night, migraines, and sleep apnea. Treated by lowering IOP further.
+
+## Treatment of Open-Angle Glaucoma
+
+The goal is to lower IOP by about 20 to 30 percent from baseline, which slows progression.
+
+### Eye Drops
+
+* **Prostaglandin analogs** (latanoprost, bimatoprost, travoprost): **first line.** Increase uveoscleral outflow. Once a day at night. Side effects: eyelash growth, darkening of iris and periocular skin, redness, and orbital fat atrophy.
+* **Beta blockers** (timolol): reduce aqueous production. **Contraindicated or used with care in asthma, COPD, bradycardia, and heart block.**
+* **Alpha-2 agonists** (brimonidine): reduce production and increase uveoscleral outflow. Side effects include allergic reaction, dry mouth, and drowsiness. Avoid in young children.
+* **Carbonic anhydrase inhibitors** (dorzolamide, brinzolamide drops; **acetazolamide** orally): reduce aqueous production. Systemic drug side effects include tingling, kidney stones, and metabolic acidosis. Sulfa-related.
+* **Rho kinase inhibitors** (netarsudil): improve trabecular outflow.
+* **Miotics** (pilocarpine): contract the pupil and open the trabecular meshwork. Less commonly used.
+
+### Laser and Surgery
+* **Selective laser trabeculoplasty (SLT):** treats the trabecular meshwork with laser to improve outflow. Can be first-line.
+* **Minimally invasive glaucoma surgery (MIGS):** small implants, often during cataract surgery.
+* **Trabeculectomy and tube shunts:** create new drainage pathways for advanced disease.
+
+### Adherence
+Patients often stop drops because the disease is painless. Teaching, simple regimens, and follow-up improve adherence.
+
+## Angle-Closure Glaucoma
+
+The iris physically blocks the drainage angle.
+
+### Risk Factors
+* **Hyperopia** (short eyes with shallow chambers)
+* **Older age and female sex**
+* **Asian ancestry**
+* **Family history**
+* Enlarged lens with age
+
+### Mechanism: Pupillary Block
+The iris sticks to the front of the lens, so aqueous humor trapped in the posterior chamber pushes the iris forward and closes the angle. IOP rises rapidly.
+
+### Acute Angle-Closure Attack
+A **true ophthalmic emergency.**
+
+#### Presentation
+* **Sudden severe eye pain and headache**
+* **Nausea and vomiting** (can mimic abdominal or neurologic disease)
+* **Blurred vision with halos around lights**
+* **Red eye** with ciliary flush
+* **Mid-dilated, fixed pupil**
+* **Hazy, steamy cornea** (corneal edema)
+* **Very high IOP** (often 40 to 80 mmHg or higher) and a **rock-hard eye** on palpation
+* Often starts in dim light, which dilates the pupil
+
+#### Triggers
+Dim environments, mydriatic eye drops, and medications with anticholinergic or sympathomimetic effects (antihistamines, tricyclics, decongestants, some anti-nausea medications, topiramate, SSRIs).
+
+#### Emergency Management
+1. Call ophthalmology urgently.
+2. **Lower IOP quickly** with combined treatment:
+   * Topical **timolol** (if no contraindication)
+   * Topical **apraclonidine or brimonidine**
+   * Topical **dorzolamide**
+   * **Acetazolamide** 500 mg orally or IV
+   * **Hyperosmotic agent** (mannitol IV or glycerol orally) if still high
+3. **Pilocarpine** drops once pressure is lower and the iris is able to respond, to pull the iris away from the angle.
+4. Topical steroids to reduce inflammation.
+5. Analgesics and antiemetics.
+6. **Definitive treatment:** laser peripheral iridotomy, creating a small hole in the iris to bypass the block.
+7. **Treat the other eye prophylactically** with laser iridotomy, since it is at risk.
+
+> **Clinical Pearl:** Never dilate a patient with a suspected narrow angle. If a headache with nausea and halos is associated with a red, hazy eye with a mid-dilated pupil, think angle closure before migraine.
+
+### Chronic Angle Closure
+A slower, painless form with progressive synechial closure, resembling open-angle glaucoma.
+
+## Secondary Glaucomas
+
+* **Neovascular glaucoma:** new vessels block the angle after ischemia (proliferative diabetic retinopathy, central retinal vein occlusion). Very high pressure and painful. Treat the retinal ischemia with laser and anti-VEGF.
+* **Uveitic glaucoma:** from inflammatory debris and synechiae.
+* **Steroid-induced glaucoma:** raised pressure from steroids in susceptible people. Monitor IOP in anyone on prolonged steroid drops.
+* **Pigment dispersion:** young, myopic men. Pigment released from the iris clogs the angle.
+* **Pseudoexfoliation:** flaky material deposits on the lens and angle in older adults.
+* **Traumatic:** angle recession after blunt injury, possibly decades later.
+* **Lens-induced:** phacomorphic and phacolytic.
+
+## Congenital Glaucoma
+
+Rare. Presents in infants with **tearing, photophobia, and blepharospasm**, and enlarged, hazy corneas (**buphthalmos**, "ox eye"). Needs urgent surgery.
+
+## Screening
+
+There is no good population screening test. Examination is recommended for those at risk, and routine eye exams after age 40, earlier with a family history or African ancestry.
+
+> **Summary**
+> Glaucoma is progressive optic neuropathy with cupping and field loss, and IOP is the key treatable risk factor. Open-angle glaucoma is painless and chronic. First-line treatment is a prostaglandin drop, with beta blockers, CAIs, and alpha agonists as alternatives, plus laser and surgery. Acute angle closure is an emergency with severe pain, halos, vomiting, a hazy cornea, and a fixed mid-dilated pupil, treated with rapid pressure-lowering drugs and iridotomy.

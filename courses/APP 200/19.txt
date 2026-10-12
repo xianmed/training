@@ -1,0 +1,135 @@
+# Dizziness and Vertigo
+
+Dizziness is one of the most common complaints in emergency and primary care, and also one of the most frequently misdiagnosed. The key is to ask **what kind of dizziness** the patient has, and then decide **whether the cause is peripheral (usually benign) or central (potentially deadly).**
+
+## Categorizing Dizziness
+
+Patients use "dizzy" to describe four different things:
+
+* **Vertigo:** an illusion of **spinning or movement** of the patient or the room. Points to the **vestibular system.**
+* **Presyncope (lightheadedness):** feeling about to faint. Points to **reduced cerebral perfusion** (orthostatic hypotension, arrhythmia, anemia).
+* **Disequilibrium:** unsteadiness on walking, with no head sensation. Points to **neurologic or sensory** problems (neuropathy, cerebellar disease, parkinsonism).
+* **Nonspecific dizziness:** vague, often linked to anxiety, depression, medications, or hyperventilation.
+
+> **Clinical Pearl:** Instead of asking "Are you dizzy?", ask about **timing and triggers.** This approach is more useful than describing the sensation.
+
+## Timing and Triggers: The TiTrATE Approach
+
+### 1. Episodic Vestibular Syndrome, Triggered
+Brief attacks (seconds to minutes) triggered by a specific head movement or position.
+* **Benign paroxysmal positional vertigo (BPPV)**
+* Orthostatic hypotension (when standing)
+* Central positional vertigo (less common)
+
+### 2. Episodic Vestibular Syndrome, Spontaneous
+Attacks (minutes to hours) occurring without a trigger.
+* **Vestibular migraine**
+* **Meniere disease**
+* **TIA** of the posterior circulation
+* Panic attacks
+
+### 3. Acute Vestibular Syndrome (AVS)
+**Continuous vertigo lasting days,** with nausea and vomiting, unsteadiness, and nystagmus.
+* **Vestibular neuritis** (peripheral)
+* **Posterior circulation stroke** (central) such as a cerebellar infarct
+* Multiple sclerosis, Wernicke encephalopathy, and others
+
+## Peripheral Vertigo
+
+### Benign Paroxysmal Positional Vertigo (BPPV)
+The most common cause of vertigo.
+
+* **Mechanism:** calcium carbonate crystals (otoconia) displaced into a semicircular canal, most often the **posterior canal.**
+* **Presentation:** brief (usually under 1 minute) spinning triggered by **rolling over in bed, looking up, or bending forward.** Nausea is common. No hearing loss, no neurologic symptoms.
+* **Diagnosis:** **Dix-Hallpike maneuver.** The patient sits, the head is turned 45 degrees to one side, then the patient is quickly lowered to lie back with the head hanging slightly over the end of the bed. A positive test shows **delayed (a few seconds), torsional upbeating nystagmus** with vertigo that **fatigues** over about 30 seconds and reverses on sitting up.
+* **Treatment:** the **Epley maneuver** (canalith repositioning) is very effective, resolving symptoms in most patients with one or two treatments. Medications (meclizine) are **not** effective for BPPV. Recurrence is common.
+* **Horizontal canal BPPV:** treated with the Gufoni or barbecue roll maneuver.
+
+### Vestibular Neuritis and Labyrinthitis
+* **Vestibular neuritis:** often after a viral infection. **Acute, continuous severe vertigo** for days, nausea, vomiting, **unidirectional horizontal nystagmus** beating **away** from the affected ear, and difficulty walking. **No hearing loss.**
+* **Labyrinthitis:** the same, but **with hearing loss and tinnitus.**
+* **Treatment:** short course of **vestibular suppressants** (meclizine, antiemetics) for the first 1 to 3 days only, then **vestibular rehabilitation** therapy, because prolonged suppressants delay central compensation. A short course of **corticosteroids** may help recovery.
+* Most improve over days to weeks.
+
+### Meniere Disease
+* **Episodic vertigo lasting 20 minutes to hours,** with **fluctuating low-frequency hearing loss, tinnitus, and aural fullness.**
+* Thought to result from **endolymphatic hydrops.**
+* **Treatment:** salt restriction, **diuretics,** avoidance of caffeine and alcohol, vestibular suppressants for attacks, intratympanic steroids or gentamicin for refractory disease, and surgery in rare cases. Hearing loss is progressive.
+
+### Other Peripheral Causes
+* **Vestibular migraine:** recurrent vertigo with migrainous features, with or without headache. Treated like migraine.
+* **Perilymph fistula:** after trauma or barotrauma
+* **Ototoxicity:** aminoglycosides, loop diuretics, cisplatin, and aspirin in high doses
+* **Superior canal dehiscence**
+* **Ramsay Hunt syndrome:** vertigo and hearing loss with facial paralysis and ear vesicles
+* **Acoustic neuroma:** gradual unilateral hearing loss and imbalance
+
+## Central Causes of Vertigo
+
+### Posterior Circulation Stroke
+* **Cerebellar infarction or hemorrhage** and **lateral medullary (Wallenberg) syndrome**
+* May present as **isolated vertigo** without other obvious neurologic signs, mimicking vestibular neuritis
+* Risk factors: vascular disease, hypertension, diabetes, atrial fibrillation, older age
+* **Cerebellar stroke can swell** and cause brainstem compression and hydrocephalus, so it is potentially fatal and requires monitoring and neurosurgical review.
+* **CT is insensitive** for posterior fossa stroke. **MRI with DWI** is better, though early MRI can be falsely negative within the first 24 to 48 hours.
+
+### Other Central Causes
+* **Multiple sclerosis** (brainstem plaque)
+* **Vertebral artery dissection** (neck pain, headache)
+* **Cerebellar tumor,** and **Chiari malformation**
+* **Wernicke encephalopathy**
+* **Vestibular migraine**
+* **Medications and toxins** (anticonvulsants, alcohol)
+
+## Examining the Patient With Acute Vertigo
+
+### Nystagmus
+* **Peripheral:** unidirectional, mostly horizontal with a torsional component, beats away from the affected side, **suppressed by visual fixation,** and **worse when looking in the direction of the fast phase** (Alexander law)
+* **Central:** **direction-changing** (beats in the direction of gaze), **purely vertical or purely torsional,** or **not suppressed with fixation**
+
+### The HINTS Exam
+In patients with **acute continuous vertigo and ongoing nystagmus** (acute vestibular syndrome), the **HINTS exam** is more sensitive than early MRI for detecting stroke when performed by trained examiners. It has three parts:
+
+* **H**ead **I**mpulse test: turn the head rapidly to each side while the patient fixes on your nose. **A corrective "catch-up" saccade** indicates a **peripheral** lesion. A **normal** head impulse test in a patient with acute vertigo indicates **central** (stroke) disease.
+* **N**ystagmus: direction-changing or vertical nystagmus indicates **central** disease.
+* **T**est of **S**kew: cover and uncover each eye. A **vertical re-alignment** (skew deviation) indicates **central** disease.
+
+**Any one central sign suggests stroke.** Remember "**INFARCT**": **I**mpulse **N**ormal, **F**ast-phase **A**lternating, **R**efixation on **C**over **T**est.
+
+> **Warning:** The HINTS exam **applies only to patients with continuous vertigo and nystagmus.** Do not use it in patients with brief or episodic dizziness, or in patients without nystagmus.
+
+### Other Findings Suggesting a Central Cause
+* **Inability to walk or sit unaided** (severe truncal ataxia)
+* **New severe headache or neck pain**
+* **Other neurologic signs:** diplopia, dysarthria, dysphagia, facial numbness, limb ataxia
+* **Vascular risk factors**
+* **Hearing loss** of sudden onset with vertigo (may be a stroke in the AICA territory)
+
+### Hearing and Other Tests
+* **Rinne and Weber tests,** and a bedside hearing check
+* **Orthostatic blood pressure** and an ECG
+* **Glucose**
+
+## Disequilibrium and Presyncope
+
+### Presyncope
+* **Orthostatic hypotension:** a fall of 20 mmHg systolic or 10 mmHg diastolic on standing. Causes: dehydration, drugs (antihypertensives, diuretics, antidepressants, Parkinson drugs), autonomic failure, and blood loss.
+* **Arrhythmias,** aortic stenosis, and other cardiac causes
+* **Anemia, hypoglycemia**
+* **Vasovagal syncope**
+
+### Disequilibrium in Older Adults
+Often **multifactorial:** peripheral neuropathy, vision loss, vestibular loss, cerebellar disease, medication effects, and musculoskeletal problems. **Review medications, check vision, and assess falls risk.**
+
+## Treatment Principles
+
+* **Treat the cause.**
+* **Vestibular suppressants** (meclizine, benzodiazepines, antiemetics) for **short courses only** in acute peripheral vertigo. They **delay compensation** if used long-term, and can cause sedation and falls in older adults.
+* **Vestibular rehabilitation** exercises for chronic imbalance and after vestibular neuritis
+* **Canalith repositioning** for BPPV
+* **Reassure** patients with benign causes, and counsel on **falls prevention.**
+
+> **Clinical Pearl:** Do not assume dizziness in a patient with vascular risk factors is benign. Acute vertigo with a normal head impulse, vertical or direction-changing nystagmus, or severe gait ataxia is a stroke until proven otherwise.
+
+> **Summary**
+> Characterize dizziness by timing and triggers rather than by quality. BPPV causes brief positional vertigo, is confirmed with the Dix-Hallpike test, and is cured with the Epley maneuver. Vestibular neuritis causes continuous vertigo without hearing loss and is treated with brief suppressants then rehabilitation. Meniere disease causes episodic vertigo with hearing loss and tinnitus. In acute continuous vertigo with nystagmus, use HINTS: a normal head impulse, direction-changing nystagmus, or skew deviation indicates a central cause such as cerebellar stroke, which needs urgent imaging.

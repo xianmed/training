@@ -1,0 +1,135 @@
+# Ischemic Stroke and TIA
+
+Stroke is the sudden loss of brain function from a vascular cause. About **87 percent are ischemic** (blocked artery) and the rest are hemorrhagic. It is among the most common and most treatable emergencies in neurology.
+
+> **Clinical Pearl:** Time is brain. In a large vessel stroke, about 1.9 million neurons are lost every minute. Every system in the hospital should be built to cut the time to treatment.
+
+## Pathophysiology
+
+An artery to the brain is blocked by a clot or plaque. Brain tissue downstream loses oxygen and glucose, and within minutes the central **core** infarcts. The surrounding **penumbra** is hypoperfused but still viable, and it dies progressively unless blood flow is restored.
+
+## Causes of Ischemic Stroke
+
+* **Large artery atherosclerosis:** carotid or intracranial stenosis, with plaque rupture or emboli
+* **Cardioembolic:** **atrial fibrillation** (most common), recent myocardial infarction, valvular disease and mechanical valves, endocarditis, left ventricular thrombus, patent foramen ovale
+* **Small vessel disease (lacunar):** hypertension and diabetes damaging small penetrating arteries
+* **Other determined causes:** **arterial dissection** (common in young adults), hypercoagulable states, vasculitis, sickle cell disease, drug use (cocaine)
+* **Cryptogenic:** no cause found despite workup
+
+## Risk Factors
+
+**Modifiable:** hypertension (the strongest), smoking, diabetes, atrial fibrillation, high cholesterol, obesity, physical inactivity, heavy alcohol use, sleep apnea.
+**Non-modifiable:** age, male sex (until older age), family history, prior stroke or TIA.
+
+## Presentation: Recognize Stroke Fast
+
+### FAST
+* **F**ace drooping
+* **A**rm weakness
+* **S**peech difficulty
+* **T**ime to call emergency services
+
+### Other Sudden Symptoms
+Vision loss, double vision, vertigo with inability to walk, severe imbalance, new severe headache, and loss of coordination. **Painless, sudden, focal** symptoms are the hallmark.
+
+> **Clinical Pearl:** Stroke mimics include hypoglycemia, seizure with a post-ictal (Todd) paralysis, complicated migraine, and functional disorder. **Always check the glucose first.**
+
+## Vascular Syndromes
+
+### Middle Cerebral Artery (MCA)
+* **Contralateral face and arm weakness** (more than the leg) and sensory loss
+* **Dominant hemisphere:** aphasia
+* **Non-dominant hemisphere:** hemispatial neglect and anosognosia (unawareness of the deficit)
+* Contralateral homonymous hemianopia
+* Gaze preference toward the side of the lesion
+
+### Anterior Cerebral Artery (ACA)
+* **Contralateral leg weakness** and sensory loss (greater than the arm)
+* Abulia (lack of will), urinary incontinence, and personality change
+
+### Posterior Cerebral Artery (PCA)
+* **Contralateral homonymous hemianopia** with **macular sparing**
+* Memory problems if the medial temporal lobe is involved, and alexia without agraphia in dominant hemisphere strokes
+
+### Vertebrobasilar (Posterior Circulation)
+* Vertigo, double vision, dysarthria, dysphagia, ataxia, and "crossed" deficits
+* **Basilar artery occlusion:** devastating, with quadriparesis, coma, or **locked-in syndrome**
+* **Lateral medullary (Wallenberg) syndrome (PICA or vertebral artery):** ipsilateral facial pain and temperature loss, ipsilateral Horner syndrome, ipsilateral ataxia, dysphagia and hoarseness, and **contralateral** body pain and temperature loss. Vertigo and vomiting are prominent.
+
+### Lacunar Syndromes (Small Vessel)
+* **Pure motor:** face, arm, and leg weakness (internal capsule)
+* **Pure sensory:** hemisensory loss (thalamus)
+* **Ataxic hemiparesis**
+* **Dysarthria-clumsy hand**
+* No cortical signs (no aphasia, neglect, or visual field loss)
+
+## Acute Evaluation
+
+1. **ABCs and vital signs.**
+2. **Blood glucose** immediately.
+3. **Last known well time.** This is critical for treatment eligibility.
+4. **NIHSS** for severity.
+5. **Non-contrast CT head** without delay to exclude hemorrhage.
+6. **CT angiography** of the head and neck to identify a large vessel occlusion.
+7. **ECG, troponin, CBC, coagulation tests, and basic chemistry.** Do not delay thrombolysis for results unless a coagulopathy is suspected.
+8. MRI with DWI if the diagnosis is uncertain.
+
+## Acute Treatment
+
+### Intravenous Thrombolysis
+* **Eligibility:** within **4.5 hours** of last known well, with disabling symptoms and no hemorrhage on CT.
+* **Drugs:** **alteplase** (0.9 mg/kg, maximum 90 mg, 10 percent as a bolus and the rest over 60 minutes) or **tenecteplase** (0.25 mg/kg single bolus, maximum 25 mg).
+* **Blood pressure must be below 185/110** before treatment and kept below **180/105** after.
+* **Contraindications (main ones):**
+  * Intracranial hemorrhage on imaging
+  * Recent major surgery, serious head trauma, or prior stroke within about 3 months
+  * Known intracranial hemorrhage or bleeding disorder
+  * Platelets below 100,000, INR above 1.7, or recent therapeutic anticoagulation (such as a DOAC within 48 hours)
+  * Blood glucose below 50 mg/dL
+  * Suspected aortic dissection, infective endocarditis, or active internal bleeding
+* **Major risk:** symptomatic intracranial hemorrhage (about 6 percent).
+
+### Endovascular Thrombectomy
+* A catheter is used to remove the clot from a **large vessel occlusion** (internal carotid, M1 or proximal M2 MCA, and sometimes basilar).
+* Benefits are large. It is done **within 6 hours** and in carefully selected patients **up to 24 hours** using perfusion or MRI imaging to find salvageable brain.
+* Patients eligible for thrombolysis should receive it **without waiting** for thrombectomy.
+
+### Blood Pressure Management
+* **Without thrombolysis:** allow **permissive hypertension** (treat only if above about 220/120) for the first 24 to 48 hours, to maintain flow to the penumbra.
+* **After thrombolysis or thrombectomy:** keep below about 180/105.
+
+### Other Acute Care
+* **Aspirin** (160 to 325 mg) within 24 to 48 hours of onset if no thrombolysis. Delay for 24 hours after thrombolysis.
+* **Dual antiplatelet therapy** (aspirin plus clopidogrel for about 21 days) for **minor stroke** (NIHSS 3 or less) and **high-risk TIA.**
+* **Swallow screen before any oral intake** to prevent aspiration.
+* Treat **hyperglycemia and hypoglycemia,** fever, and hypoxia.
+* **Admit to a stroke unit.**
+* **DVT prophylaxis,** early mobilization, and rehabilitation.
+* **Malignant MCA infarction:** massive swelling can cause herniation. **Decompressive hemicraniectomy** can be life-saving in younger patients.
+
+## Transient Ischemic Attack (TIA)
+
+A brief episode of focal neurologic dysfunction from ischemia **without infarction,** typically lasting minutes (always less than 24 hours, and usually less than an hour).
+
+* **A TIA is a medical emergency.** The risk of stroke in the next 48 hours can be about 5 percent, and up to 10 percent within 90 days.
+* **ABCD2 score** (age, blood pressure, clinical features, duration, diabetes) estimates early stroke risk.
+* **Management:** urgent evaluation, brain and vessel imaging (CTA or MRA), ECG and rhythm monitoring, and **early treatment** (dual antiplatelet therapy for high-risk TIA, statin, blood pressure control).
+
+## Secondary Prevention
+
+* **Antithrombotic therapy:** single antiplatelet (aspirin or clopidogrel) for most non-cardioembolic strokes.
+* **Anticoagulation** (a DOAC such as apixaban) for **atrial fibrillation.** Timing of starting depends on infarct size, from a few days for small infarcts to a couple of weeks for large ones.
+* **High-intensity statin** (atorvastatin 40 to 80 mg), with an LDL goal below about 70 mg/dL.
+* **Blood pressure control** (goal generally below 130/80).
+* **Carotid revascularization** (endarterectomy or stenting) for symptomatic stenosis of **70 to 99 percent** (and selected 50 to 69 percent), ideally within **2 weeks.**
+* **Treat diabetes,** stop smoking, lose weight, exercise, and reduce alcohol.
+* Close the **PFO** in selected younger patients with cryptogenic stroke and high-risk features.
+* **Treat sleep apnea.**
+
+## Complications and Rehabilitation
+
+* Cerebral edema, hemorrhagic transformation, seizures, aspiration pneumonia, DVT and pulmonary embolism, pressure ulcers, depression, and spasticity
+* Rehabilitation (physical, occupational, and speech therapy) should start early, and is a core part of recovery.
+
+> **Summary**
+> Ischemic stroke is a sudden, painless focal deficit from an arterial blockage. Check glucose, get a non-contrast CT, and add CTA for large vessel occlusion. Thrombolysis is given within 4.5 hours if there is no hemorrhage and BP is under 185/110. Thrombectomy treats large vessel occlusions up to 24 hours in selected patients. MCA strokes cause contralateral face and arm weakness plus aphasia or neglect. TIAs are emergencies. Secondary prevention includes antiplatelets or anticoagulation, a statin, blood pressure control, and carotid surgery for tight symptomatic stenosis.

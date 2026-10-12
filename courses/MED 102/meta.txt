@@ -1,14 +1,16 @@
 title=Diagnostics I
-
-amt-lessons=10
-
+amt-lessons=14
 1=Introduction to Diagnostics
-2=Simple Blood Panels
-3=Coagulation Studies
-4=Electrocardiograms (EKG)
-5=Electroencephalogram (EEG)
-6=Other Neurological Exams
-7=Pulmonary Tests
-8=Urinalysis and Body Fluid Analysis
-9=Microbiological Testing
-10=Genetic Testing
+2=Complete Blood Count and Hematologic Testing
+3=Metabolic Panels: Electrolytes, Kidney Function, and Glucose
+4=Liver, Cardiac, Lipid, Thyroid, and Other Blood Chemistries
+5=Coagulation Studies
+6=Arterial Blood Gases and Acid-Base Analysis
+7=Electrocardiogram (EKG)
+8=Electroencephalogram (EEG)
+9=Other Neurological Tests
+10=Pulmonary Function and Respiratory Testing
+11=Urinalysis and Body Fluid Analysis
+12=Microbiological Testing
+13=Genetic Testing
+14=Putting It Together: Test Selection and Interpretation

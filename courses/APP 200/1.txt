@@ -1,0 +1,93 @@
+# Introduction to Neurology
+
+Neurology is the study of the brain, spinal cord, peripheral nerves, neuromuscular junction, and muscle. It has a reputation for being difficult, but the discipline rests on one idea: **nervous system disease follows anatomy.** If you can work out where the lesion is, and then what kind of process caused it, most of neurology falls into place.
+
+## Why Neurology Matters to an APP
+
+* **Stroke** is a leading cause of death and the leading cause of long-term disability. Every minute of untreated large vessel stroke destroys about 1.9 million neurons.
+* **Headache, dizziness, seizure, weakness, and altered mental status** are among the most common reasons people come to the emergency department.
+* Many neurologic emergencies are **time-critical**: stroke, status epilepticus, meningitis, spinal cord compression, and raised intracranial pressure.
+* The neurologic exam is mostly **free**. It needs a reflex hammer, a pin, a tuning fork, and your eyes.
+
+> **Clinical Pearl:** In neurology, time is brain. The right first question for any acute deficit is "when was the patient last known to be well?"
+
+## The Two Core Questions
+
+### 1. Where is the lesion?
+Every neurologic problem can be placed somewhere along the pathway:
+
+* **Cerebral cortex**
+* **Subcortical white matter and deep structures** (basal ganglia, thalamus, internal capsule)
+* **Brainstem and cerebellum**
+* **Spinal cord**
+* **Nerve root**
+* **Peripheral nerve**
+* **Neuromuscular junction**
+* **Muscle**
+
+### 2. What is the lesion?
+The **tempo** (speed of onset) of symptoms is the best clue to the cause:
+
+* **Seconds to minutes:** vascular (stroke, TIA) or electrical (seizure)
+* **Minutes to hours, with recovery:** migraine, seizure, TIA
+* **Hours to days:** infection, inflammation, demyelination, toxic or metabolic cause
+* **Days to weeks:** tumor, abscess, subdural hematoma, autoimmune disease
+* **Months to years:** neurodegeneration (dementia, Parkinson disease), slow tumors
+* **Relapsing and remitting:** multiple sclerosis, migraine, myasthenia gravis
+
+## The VITAMINS Framework for Causes
+
+* **V**ascular: stroke, hemorrhage, venous thrombosis
+* **I**nfectious: meningitis, encephalitis, abscess
+* **T**raumatic: head injury, spinal cord injury
+* **A**utoimmune and inflammatory: multiple sclerosis, Guillain-Barré, myasthenia gravis
+* **M**etabolic and toxic: hypoglycemia, hyponatremia, drugs, alcohol, B12 deficiency
+* **I**diopathic and degenerative: Alzheimer disease, Parkinson disease, ALS
+* **N**eoplastic: brain tumors, metastases, paraneoplastic syndromes
+* **S**tructural, seizure, and syndromic: epilepsy, hydrocephalus, congenital disease
+
+## Taking a Neurologic History
+
+* **Onset and tempo:** exactly when and how quickly did it start?
+* **Positive versus negative symptoms:** positive (tingling, flashing lights, jerking) suggest irritation, such as migraine or seizure. Negative (numbness, weakness, vision loss) suggest loss of function, such as stroke.
+* **Course:** getting better, worse, or fluctuating?
+* **Associated symptoms:** headache, fever, neck stiffness, vomiting, confusion, vision change, speech change.
+* **Triggers:** posture, exertion, stress, sleep deprivation, alcohol.
+* **Past history:** vascular risk factors, prior stroke, seizures, cancer, immune status, pregnancy.
+* **Medications and substances:** anticoagulants, antiepileptics, recreational drugs, alcohol.
+* **Family history:** dementia, epilepsy, migraine, neuromuscular disease.
+* **Collateral history:** often essential. Patients with seizures, confusion, or stroke may not be able to give an accurate account.
+
+> **Clinical Pearl:** Always ask a witness. A patient cannot describe their own seizure, and a family member often notices a change in personality or memory before the patient does.
+
+## Handedness and Dominance
+
+Roughly 95 percent of right-handed and most left-handed people have a **left dominant hemisphere** for language. A left hemisphere stroke therefore often causes aphasia, while a right hemisphere stroke more often causes neglect. Always record handedness.
+
+## Common Neurologic Emergencies
+
+* Acute stroke and TIA
+* Subarachnoid hemorrhage
+* Status epilepticus
+* Bacterial meningitis and encephalitis
+* Raised intracranial pressure and herniation
+* Spinal cord compression and cauda equina syndrome
+* Guillain-Barré syndrome with respiratory failure
+* Myasthenic crisis
+* Giant cell arteritis
+* Acute vertigo from posterior circulation stroke
+
+## The Neurology Team
+
+* **Neurologist:** diagnoses and medically manages neurologic disease.
+* **Neurosurgeon:** operates on the brain, spine, and nerves.
+* **Neuro-intensivist:** manages critically ill neurologic patients.
+* **Neuroradiologist:** interprets brain and spine imaging.
+* **Rehabilitation team:** physical, occupational, and speech therapists, who are central to stroke and injury recovery.
+
+## Course Roadmap
+
+We begin with anatomy, cranial nerves, and physiology, then the neurologic exam and diagnostic tests. Then we move through disease by system: vascular disease, trauma, headache, epilepsy, cognition, movement, demyelination, infection, peripheral and neuromuscular disease, spine, tumors, vertigo, and finally coma and emergencies.
+
+> **Summary**
+> Neurology rests on two questions: where is the lesion, and what is the lesion. Tempo of onset points to the cause, with sudden onset suggesting vascular or electrical events and slow onset suggesting tumor or degeneration. Use VITAMINS to organize causes, always get collateral history, and recognize time-critical emergencies early.

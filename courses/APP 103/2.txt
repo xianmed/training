@@ -1,0 +1,126 @@
+# Anatomy of the Eye and Orbit
+
+Knowing the structures of the eye in order, from outside to inside, front to back, makes every disease in this course easier to understand. Each disease is simply a structure that has failed.
+
+## The Orbit
+
+The orbit is a pyramid-shaped bony socket that protects the globe. It is formed by seven bones: **frontal, maxilla, zygomatic, sphenoid, ethmoid, lacrimal, and palatine**.
+
+### Weak Points
+* **The floor** (maxillary bone) is thin and often fractures with blunt trauma, called an orbital blowout fracture.
+* **The medial wall** (lamina papyracea of the ethmoid) is paper-thin and allows infection from the ethmoid sinuses to spread into the orbit.
+
+### Openings and What Passes Through Them
+* **Optic canal:** optic nerve (CN II) and ophthalmic artery
+* **Superior orbital fissure:** CN III, CN IV, CN VI, the ophthalmic division of CN V (V1), and the superior ophthalmic vein
+* **Inferior orbital fissure:** maxillary division of CN V (V2) and the infraorbital vessels
+
+> **Clinical Pearl:** The superior ophthalmic vein drains into the cavernous sinus and has no valves. Facial and orbital infections can spread backward, which is why orbital cellulitis can lead to cavernous sinus thrombosis.
+
+## The Eyelids
+
+Each eyelid has layers, from outside to inside: skin, orbicularis oculi muscle, orbital septum, tarsal plate, and conjunctiva.
+
+* **Orbicularis oculi** closes the eyelids and is supplied by the facial nerve (CN VII).
+* **Levator palpebrae superioris** lifts the upper eyelid and is supplied by the oculomotor nerve (CN III).
+* **Müller muscle** also lifts the upper lid slightly and receives sympathetic input. Loss of sympathetic supply causes mild ptosis (Horner syndrome).
+* **Tarsal plates** are dense plates that give the lids shape. They contain **meibomian glands**, which secrete the oily layer of the tears.
+* **Orbital septum** is a thin membrane that separates the eyelid from the orbit. Infection in front of it is preseptal cellulitis. Infection behind it is orbital cellulitis.
+
+## The Conjunctiva
+
+A thin, transparent mucous membrane with three parts:
+
+* **Palpebral conjunctiva:** lines the inside of the eyelids.
+* **Bulbar conjunctiva:** covers the white of the eye (sclera).
+* **Fornices:** the folds where the two meet.
+
+## The Lacrimal System
+
+* **Lacrimal gland:** sits in the upper outer orbit and produces most of the reflex tears.
+* **Puncta:** small openings on the inner margin of each lid.
+* **Canaliculi:** drain tears from the puncta to the lacrimal sac.
+* **Lacrimal sac and nasolacrimal duct:** carry tears into the nose beneath the inferior turbinate.
+
+### The Tear Film
+The tear film has three layers:
+* **Lipid layer** (outer, from meibomian glands): slows evaporation.
+* **Aqueous layer** (middle, from lacrimal glands): nourishes and cleans.
+* **Mucin layer** (inner, from conjunctival goblet cells): helps tears stick to the cornea.
+
+## The Globe: Three Layers
+
+The wall of the eye has three concentric layers.
+
+### 1. The Fibrous Layer (outer)
+* **Cornea:** the clear front window. It is avascular and provides about two-thirds of the eye's focusing power.
+* **Sclera:** the tough white coat that gives the eye shape. The extraocular muscles attach to it.
+* **Limbus:** the border between cornea and sclera.
+
+#### Layers of the Cornea
+From front to back: **epithelium, Bowman layer, stroma, Descemet membrane, endothelium.** The endothelium pumps fluid out of the stroma to keep the cornea clear.
+
+### 2. The Vascular Layer, or Uvea (middle)
+* **Iris:** the colored diaphragm with a central pupil. The sphincter pupillae (parasympathetic) constricts the pupil. The dilator pupillae (sympathetic) widens it.
+* **Ciliary body:** produces aqueous humor and contains the ciliary muscle that changes lens shape.
+* **Choroid:** a vascular layer that feeds the outer retina.
+
+### 3. The Neural Layer, or Retina (inner)
+The light-sensing tissue. Key landmarks:
+* **Macula:** the central retina used for sharp vision.
+* **Fovea:** the center of the macula and the point of sharpest vision. It contains only cones.
+* **Optic disc:** where the optic nerve leaves the eye. It has no photoreceptors, creating the physiologic blind spot.
+* **Cup:** the central pale depression of the disc. The cup-to-disc ratio is used to assess glaucoma.
+
+## The Chambers and Contents
+
+* **Anterior chamber:** between the cornea and iris, filled with aqueous humor.
+* **Posterior chamber:** a small space between the iris and lens, also filled with aqueous humor.
+* **Angle:** where the iris meets the cornea. Aqueous humor drains here through the **trabecular meshwork** into **Schlemm canal**.
+* **Lens:** a clear, flexible, biconvex structure held in place by zonular fibers.
+* **Vitreous:** a clear gel filling the large space behind the lens. It is attached firmly to the retina at the optic disc and the vitreous base.
+
+## Retinal Cell Layers (Simplified)
+
+Light passes through the whole retina before reaching the photoreceptors at the back. The signal then travels forward:
+
+**Photoreceptors (rods and cones) &rarr; bipolar cells &rarr; ganglion cells &rarr; optic nerve**
+
+Ganglion cell axons form the nerve fiber layer, which gathers at the optic disc.
+
+## Extraocular Muscles
+
+Six muscles move each eye.
+
+* **Superior rectus:** elevates (and intorts, adducts)
+* **Inferior rectus:** depresses (and extorts, adducts)
+* **Medial rectus:** adducts
+* **Lateral rectus:** abducts
+* **Superior oblique:** intorts and depresses (when adducted)
+* **Inferior oblique:** extorts and elevates (when adducted)
+
+### Innervation: LR6 SO4
+* **Lateral rectus:** CN VI (abducens)
+* **Superior oblique:** CN IV (trochlear)
+* **All the rest:** CN III (oculomotor)
+
+## Blood Supply
+
+* **Ophthalmic artery** (a branch of the internal carotid artery) supplies the orbit and the eye.
+* **Central retinal artery:** supplies the inner retina. Blockage causes a central retinal artery occlusion.
+* **Ciliary arteries:** supply the choroid and outer retina.
+* **Venous drainage:** via the superior and inferior ophthalmic veins to the cavernous sinus.
+
+## Nerves
+
+* **CN II (optic):** vision
+* **CN III, IV, VI:** eye movements
+* **CN III parasympathetic:** pupil constriction and accommodation
+* **CN V1 (ophthalmic):** sensation to the cornea, upper lid, and forehead
+* **CN VII (facial):** eyelid closure and tear gland stimulation
+* **Sympathetic fibers:** pupil dilation and Müller muscle
+
+> **Clinical Pearl:** The cornea has one of the densest nerve supplies in the body. That is why a corneal abrasion is excruciating despite being tiny.
+
+> **Summary**
+> The eye is built in layers: fibrous (cornea, sclera), vascular (iris, ciliary body, choroid), and neural (retina). Light passes through the cornea, aqueous, lens, and vitreous to the retina. The orbit has thin medial and inferior walls. Cranial nerves III, IV, and VI move the eye (LR6 SO4), V1 provides sensation, and the superior ophthalmic vein links the orbit to the cavernous sinus.

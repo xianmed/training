@@ -1,0 +1,97 @@
+# Physiology of Vision
+
+Anatomy tells us what the eye is made of. Physiology tells us how it works. This lesson covers how the eye focuses light, converts it into nerve signals, maintains its own pressure and clarity, and sends information to the brain.
+
+## Optics and Focusing
+
+Light is bent (refracted) as it enters the eye. The **cornea** provides about 43 diopters of focusing power, roughly two-thirds of the total. The **lens** adds about 15 to 20 diopters and can change shape to fine-tune focus.
+
+In a normal eye (**emmetropia**), light from a distant object focuses exactly on the retina.
+
+### Accommodation: Focusing Up Close
+To focus on a near object, the eye does three things together:
+
+* The **ciliary muscle contracts**, which relaxes the zonular fibers.
+* The **lens becomes rounder**, increasing its power.
+* The **pupils constrict** and the **eyes converge**.
+
+This is called the near triad. Controlled by the parasympathetic fibers of CN III.
+
+> **Clinical Pearl:** With age the lens stiffens and cannot become round. This is presbyopia, and it begins around age 40 in nearly everyone.
+
+## Pupillary Reflexes
+
+### The Light Reflex
+* **Afferent limb:** optic nerve (CN II) carries the light signal to the brainstem.
+* **Efferent limb:** parasympathetic fibers of CN III travel from the Edinger-Westphal nucleus to the iris sphincter.
+
+Shining light in one eye constricts both pupils. The response in the same eye is the **direct reflex**. The response in the opposite eye is the **consensual reflex**.
+
+### The Sympathetic Pathway
+Three neurons carry sympathetic fibers from the hypothalamus, down the brainstem and spinal cord to the upper chest, back up along the carotid artery, and into the eye. This pathway dilates the pupil and supports the Müller muscle. Damage at any point causes Horner syndrome (Lesson 14).
+
+## Phototransduction: Turning Light Into Signal
+
+Photoreceptors convert light into electrical signals.
+
+* **Rods:** about 120 million. Very sensitive to dim light. Found mostly in the peripheral retina. Responsible for night vision and detecting motion. Contain the pigment **rhodopsin**, which requires vitamin A.
+* **Cones:** about 6 million. Work in bright light. Concentrated at the fovea. Responsible for sharp central vision and color. Three types respond to red, green, and blue wavelengths.
+
+### The Dark Current
+In darkness, photoreceptors are **depolarized** and constantly release neurotransmitter. When light hits a photoreceptor, a chemical cascade closes ion channels and the cell **hyperpolarizes**, which reduces neurotransmitter release. Light therefore turns the signal down, and the downstream cells interpret that change.
+
+The signal then passes **photoreceptor &rarr; bipolar cell &rarr; ganglion cell &rarr; optic nerve**.
+
+### Dark Adaptation
+Moving from bright to dim light takes 20 to 30 minutes for rods to regenerate their pigment. Vitamin A deficiency causes night blindness (nyctalopia) and, over time, corneal damage.
+
+## Aqueous Humor and Intraocular Pressure
+
+Aqueous humor is a clear fluid that nourishes the cornea and lens, which have no blood supply of their own. It also maintains the eye's pressure and shape.
+
+### Production
+The **ciliary body epithelium** produces aqueous humor. The enzyme **carbonic anhydrase** is important in this process, which is why carbonic anhydrase inhibitors lower eye pressure.
+
+### Flow
+**Ciliary body &rarr; posterior chamber &rarr; through the pupil &rarr; anterior chamber &rarr; drains at the angle**
+
+Drainage happens by two routes:
+* **Conventional (trabecular) outflow:** through the trabecular meshwork into Schlemm canal and then into episcleral veins. This accounts for most outflow.
+* **Uveoscleral outflow:** through the ciliary body into the tissues behind the eye. Prostaglandin drops increase this route.
+
+### Intraocular Pressure
+Normal IOP is about **10 to 21 mmHg**. Pressure rises when production exceeds drainage. Sustained high pressure can damage the optic nerve (glaucoma, Lesson 11).
+
+> **Clinical Pearl:** Aqueous humor must pass through the pupil to reach the drainage angle. If the iris blocks this passage, pressure builds quickly. That is the mechanism of acute angle closure.
+
+## Corneal Clarity
+
+The cornea is transparent because it is avascular, has regularly arranged collagen fibers, and is kept relatively dry by the **endothelial pump**. If the endothelium fails or pressure rises, the cornea swells and becomes cloudy.
+
+## The Visual Pathway
+
+Visual information travels as follows:
+
+**Retina &rarr; optic nerve &rarr; optic chiasm &rarr; optic tract &rarr; lateral geniculate nucleus (LGN) &rarr; optic radiations &rarr; primary visual cortex (occipital lobe)**
+
+### Key Facts
+* At the **optic chiasm**, fibers from the **nasal half** of each retina cross to the opposite side. Fibers from the temporal halves do not cross.
+* Because the lens flips the image, the **nasal retina sees the temporal visual field**. So the crossing fibers carry information from the outer parts of the visual field.
+* Each **optic tract** carries information from the **opposite visual field** (both eyes).
+* The optic radiations split: the **lower fibers** (through the temporal lobe, Meyer loop) carry the upper visual field. The **upper fibers** (through the parietal lobe) carry the lower visual field.
+* The occipital cortex receives and interprets the signal.
+
+Lesions at different points create characteristic field defects, covered in Lesson 14.
+
+## Color and Contrast
+
+Color vision depends on cones, mainly in the macula. Congenital red-green color deficiency is common in males (X-linked). Acquired color loss suggests optic nerve or macular disease, which is why color desaturation is an early sign of optic neuritis.
+
+## Protective Reflexes
+
+* **Blink reflex:** triggered by corneal touch (CN V afferent, CN VII efferent).
+* **Tear reflex:** irritation causes reflex tearing from the lacrimal gland.
+* **Bell phenomenon:** when the eyelids close, the eyes roll upward, protecting the cornea.
+
+> **Summary**
+> The cornea and lens focus light, and accommodation lets the lens round up for near vision. Rods handle dim light and cones handle sharp, colorful central vision. Light hyperpolarizes photoreceptors. Aqueous humor is made by the ciliary body, passes through the pupil, and drains at the angle, with normal IOP of 10 to 21 mmHg. The visual pathway runs from retina to occipital cortex, with crossing at the chiasm.

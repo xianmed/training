@@ -1,0 +1,139 @@
+# Multiple Sclerosis and Autoimmune CNS Disease
+
+In these diseases the immune system attacks the nervous system. Multiple sclerosis (MS) is the most common, and a group of related disorders can look similar but need different treatment.
+
+## Multiple Sclerosis (MS)
+
+A chronic, immune-mediated disease of the CNS with **inflammation, demyelination, and neurodegeneration.** It is a leading cause of non-traumatic disability in young adults.
+
+### Epidemiology and Risk Factors
+* Onset typically **age 20 to 40**
+* **Women** are affected 2 to 3 times more often than men
+* More common in **temperate latitudes** farther from the equator
+* **Risk factors:** low vitamin D, **Epstein-Barr virus infection,** smoking, obesity in adolescence, and family history
+
+### Pathophysiology
+Autoreactive T and B cells cross the blood-brain barrier and attack myelin, producing **plaques** (focal lesions) scattered through white matter. **Axonal loss** causes permanent disability.
+
+### Clinical Features
+Symptoms depend on lesion location and appear over days.
+
+* **Optic neuritis:** painful vision loss, color desaturation (often the first presentation)
+* **Brainstem and cerebellar:** double vision, **internuclear ophthalmoplegia (INO),** vertigo, dysarthria, ataxia, tremor
+* **Spinal cord:** weakness, spasticity, numbness, band-like sensation, **bladder and bowel dysfunction,** and **sexual dysfunction**
+* **Sensory:** numbness, tingling, **Lhermitte sign** (electric shock down the spine with neck flexion)
+* **Fatigue:** very common and disabling
+* **Cognitive and mood changes**
+* **Uhthoff phenomenon:** worsening of symptoms with heat or exercise
+* **Trigeminal neuralgia in a young patient** should prompt MS evaluation
+
+### Disease Courses
+* **Clinically isolated syndrome (CIS):** a first attack suggestive of MS
+* **Relapsing-remitting MS (RRMS):** about 85 percent at onset. Attacks with recovery between them.
+* **Secondary progressive MS (SPMS):** progressive worsening after an initial relapsing course
+* **Primary progressive MS (PPMS):** progressive from onset, about 10 to 15 percent. Later onset, equal in men and women, often spinal cord.
+
+### Diagnosis (McDonald Criteria)
+MS is diagnosed by showing damage **disseminated in space (different CNS regions) and in time (different points in time),** and by excluding other causes.
+
+* **MRI brain and spinal cord with gadolinium:**
+  * T2/FLAIR white matter lesions that are **periventricular, juxtacortical, infratentorial, or in the spinal cord**
+  * **Dawson fingers:** ovoid lesions perpendicular to the ventricles
+  * **Gadolinium-enhancing lesions** indicate active inflammation
+* **Lumbar puncture:** **oligoclonal bands** in CSF (and not in serum), mildly raised protein
+* **Evoked potentials** (occasionally)
+* **Exclude mimics:** B12 deficiency, vasculitis, sarcoidosis, neurosyphilis, Lyme disease, HIV, and other demyelinating diseases (NMOSD and MOGAD).
+
+### Treatment of Relapses
+* **High-dose corticosteroids:** **IV methylprednisolone 1 g daily for 3 to 5 days** (or high-dose oral equivalent), which speeds recovery but does not change long-term outcomes
+* **Plasma exchange** for severe relapses that do not respond to steroids
+* Rule out infection (such as a urinary infection) as a trigger for pseudo-relapses
+
+### Disease-Modifying Therapies (DMTs)
+These reduce relapses and new MRI lesions, and slow disability progression. Early treatment is key.
+
+* **Injectables:** **interferon beta, glatiramer acetate**
+* **Oral:** **dimethyl fumarate, teriflunomide, fingolimod, siponimod, cladribine**
+* **Infusions (high efficacy):** **natalizumab, ocrelizumab, ofatumumab, ublituximab, alemtuzumab**
+* **Important safety issues:**
+  * **Natalizumab:** risk of **progressive multifocal leukoencephalopathy (PML)** from JC virus. Test for JC antibodies.
+  * **Fingolimod:** bradycardia on starting, macular edema, infections
+  * **Anti-CD20 drugs:** infections, low immunoglobulins, and reduced vaccine response. Vaccinate before starting.
+  * **Pregnancy planning:** counsel before conception, as DMT choice depends on this.
+
+### Symptomatic Management
+* **Spasticity:** baclofen, tizanidine, physiotherapy
+* **Fatigue:** exercise, sleep, modafinil, amantadine
+* **Bladder dysfunction:** anticholinergics for overactive bladder, intermittent catheterization for retention
+* **Pain and paresthesias:** gabapentin, duloxetine, carbamazepine
+* **Walking:** **dalfampridine** can improve walking speed
+* **Depression and cognitive issues**
+* **Vitamin D, exercise, smoking cessation, and vaccinations**
+
+## Neuromyelitis Optica Spectrum Disorder (NMOSD)
+
+An autoimmune astrocytopathy, most often caused by **antibodies against aquaporin-4 (AQP4).**
+
+* **Severe optic neuritis** (often bilateral)
+* **Longitudinally extensive transverse myelitis (LETM):** a spinal cord lesion spanning **3 or more vertebral segments**
+* **Area postrema syndrome:** intractable hiccups, nausea, and vomiting
+* More common in women and people of African and Asian ancestry
+* Diagnosis: **AQP4-IgG antibody** in serum, and MRI
+* **Treat relapses** with high-dose steroids and plasma exchange
+* **Prevention:** rituximab, inebilizumab, satralizumab, eculizumab
+* **Many MS drugs (interferon beta, natalizumab, fingolimod) can worsen NMOSD,** so accurate diagnosis matters.
+
+## MOG Antibody-Associated Disease (MOGAD)
+
+Antibodies against myelin oligodendrocyte glycoprotein. Causes **optic neuritis (often with disc swelling and bilateral),** transverse myelitis, and ADEM-like presentations, particularly in children. Often steroid-responsive. Often monophasic, but relapses occur.
+
+## Acute Disseminated Encephalomyelitis (ADEM)
+
+* A **monophasic** demyelinating illness, often **after an infection or vaccination,** mainly in **children**
+* **Encephalopathy** (altered consciousness, behavior change) plus **multifocal neurologic deficits,** with fever and headache
+* MRI: large, bilateral, poorly defined lesions
+* **Treatment:** high-dose IV steroids, with IVIG or plasma exchange if there is no response
+* Most children recover well
+
+## Transverse Myelitis
+
+Inflammation across the spinal cord causing a **sensory level, weakness, and bladder and bowel dysfunction** developing over hours to days.
+
+* **Causes:** MS, NMOSD, MOGAD, infection (viral), systemic lupus, Sjögren syndrome, sarcoidosis, post-vaccination, and idiopathic
+* **MRI** of the spine and brain, and CSF analysis
+* **Treatment:** IV steroids and plasma exchange for severe cases
+
+## Autoimmune Encephalitis
+
+Antibodies against neuronal surface or intracellular antigens cause subacute (days to weeks) **encephalopathy.**
+
+### Anti-NMDA Receptor Encephalitis
+* **Young women** (and children)
+* **Prodromal flu-like illness,** then **psychiatric symptoms** (psychosis, agitation, insomnia), memory loss, **seizures,** decreased consciousness, **orofacial and limb dyskinesias,** autonomic instability, and hypoventilation
+* **CSF:** pleocytosis, **anti-NMDAR antibodies** (most sensitive in CSF)
+* **Associated with ovarian teratoma:** search with pelvic MRI or ultrasound, and remove the tumor
+* **Treatment:** high-dose steroids, **IVIG or plasma exchange,** then rituximab or cyclophosphamide if no response
+
+### Limbic Encephalitis
+Subacute memory loss, confusion, seizures, and mood change, with temporal lobe changes on MRI. Antibodies include **LGI1** (associated with hyponatremia and faciobrachial dystonic seizures) and **CASPR2.** May be **paraneoplastic** (anti-Hu with small cell lung cancer, anti-Ma2 with testicular tumors).
+
+### Paraneoplastic Syndromes
+Immune responses triggered by tumors cause neurologic disease, often **before the cancer is found.** Examples: paraneoplastic cerebellar degeneration (anti-Yo, breast and ovarian), opsoclonus-myoclonus, Lambert-Eaton syndrome (small cell lung cancer), and sensory neuronopathy (anti-Hu).
+
+## Other Inflammatory Conditions
+
+* **Neurosarcoidosis:** cranial neuropathies (especially facial), meningitis, hypothalamic involvement
+* **CNS vasculitis**
+* **Neuro-Behçet disease**
+* **Neuropsychiatric lupus**
+
+## Distinguishing MS From Its Mimics
+
+* **MS:** young adult, typical short-segment lesions, oligoclonal bands, optic neuritis with a normal-looking or mild disc
+* **NMOSD:** severe optic neuritis, **long** spinal lesions, vomiting, AQP4 antibody
+* **MOGAD:** disc swelling, children, MOG antibody
+* **ADEM:** child, post-infection, encephalopathy, monophasic
+* **Vitamin B12 deficiency and vasculitis** can mimic MS on MRI.
+
+> **Summary**
+> MS is an immune-mediated demyelinating disease of young adults, typically relapsing-remitting. It is diagnosed by MRI and CSF oligoclonal bands showing lesions disseminated in space and time. Treat relapses with IV methylprednisolone, and treat early with disease-modifying therapy, watching for PML with natalizumab. NMOSD (AQP4 antibody, long spinal lesions, severe optic neuritis) is treated differently and can be worsened by MS drugs. ADEM is a monophasic post-infectious illness in children. Anti-NMDAR encephalitis causes psychosis, seizures, and dyskinesias in young women and may be linked to an ovarian teratoma.

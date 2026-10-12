@@ -1,0 +1,176 @@
+# Liver, Cardiac, Lipid, Thyroid, and Other Blood Chemistries
+
+This lesson covers the chemistry tests beyond the basic panel: liver and pancreatic enzymes, cardiac biomarkers, lipids, thyroid tests, and other markers that guide diagnosis in everyday practice.
+
+## Liver Tests
+
+### What a "Liver Panel" Measures
+Despite the name, these tests are a mix of liver **injury** markers and liver **function** markers.
+
+#### Injury Markers (Enzymes)
+* **ALT (alanine aminotransferase):** about **7 to 56 U/L.** More specific to the liver.
+* **AST (aspartate aminotransferase):** about **10 to 40 U/L.** Also found in muscle, heart, kidney, and red cells.
+* **Alkaline phosphatase (ALP):** about **44 to 147 U/L.** Found in bile ducts, bone, and placenta.
+* **Gamma-glutamyl transferase (GGT):** confirms that a raised ALP comes from the liver and is raised with **alcohol use.**
+
+#### Function Markers
+* **Bilirubin:** total about **0.1 to 1.2 mg/dL.**
+* **Unconjugated (indirect):** raised in hemolysis, Gilbert syndrome, and newborn jaundice
+* **Conjugated (direct):** raised in **liver disease and bile duct obstruction**
+* **Albumin:** about **3.5 to 5.0 g/dL.** Falls in chronic liver disease, malnutrition, nephrotic syndrome, and inflammation (half-life of about 3 weeks, so it reflects chronic change).
+* **Prothrombin time (PT/INR):** rises when the liver cannot make clotting factors (a sensitive measure of synthetic function, Lesson 5).
+* **Ammonia:** high in hepatic encephalopathy (not required for diagnosis, and often unhelpful).
+
+### Patterns of Liver Test Abnormality
+
+#### Hepatocellular Pattern
+**ALT and AST markedly raised** compared to ALP.
+* **Viral hepatitis** (A, B, C, and others): ALT often in the hundreds to thousands
+* **Alcoholic hepatitis:** **AST:ALT ratio above 2:1,** with AST usually below 300
+* **Drug-induced liver injury:** acetaminophen overdose (very high values), statins, antibiotics, and many others
+* **Ischemic hepatitis (shock liver):** AST and ALT in the thousands, rapidly falling
+* **Autoimmune hepatitis**
+* **Non-alcoholic fatty liver disease (NAFLD or MASLD):** the **most common cause of mildly raised ALT** (ALT higher than AST)
+* **Hemochromatosis and Wilson disease**
+
+#### Cholestatic (Obstructive) Pattern
+**ALP and GGT markedly raised,** with raised bilirubin.
+* **Gallstones** in the bile duct (choledocholithiasis)
+* **Pancreatic head cancer** and bile duct cancer
+* **Primary biliary cholangitis and primary sclerosing cholangitis**
+* **Drug-induced cholestasis**
+* **Infiltrative disease**
+
+> **Clinical Pearl:** **Painless jaundice** in an older adult should prompt consideration of **pancreatic head cancer.**
+
+#### Isolated Raised ALP
+Check GGT. A raised GGT suggests liver or bile duct origin. A normal GGT suggests bone (Paget disease, metastases, fracture healing) or other sources.
+
+#### Isolated Raised Bilirubin
+* **Unconjugated:** hemolysis, **Gilbert syndrome** (benign, mild, rises with fasting and illness)
+* **Conjugated:** liver disease or obstruction
+
+### Viral Hepatitis Serology (Brief)
+* **HBsAg:** active hepatitis B infection
+* **Anti-HBs:** immunity (vaccination or past infection)
+* **Anti-HBc IgM:** acute hepatitis B
+* **Anti-HCV:** exposure to hepatitis C. **Confirm with HCV RNA** (active infection).
+* **Anti-HAV IgM:** acute hepatitis A
+
+### Pancreatic Enzymes
+* **Lipase:** more specific for **acute pancreatitis.** Diagnostic when **more than 3 times the upper limit of normal,** with compatible pain (epigastric pain radiating to the back).
+* **Amylase:** less specific (raised in salivary gland disease and other causes)
+
+## Cardiac Biomarkers
+
+### Troponin (I or T)
+The **preferred marker of myocardial injury.** Released from damaged heart muscle cells.
+
+* **High-sensitivity troponin (hs-cTn)** assays detect very small amounts. Values are reported in **ng/L** and compared with a sex-specific **99th percentile** upper reference limit.
+* **Rises** 2 to 3 hours after injury (with hs assays), **peaks** at about 24 hours, and **stays elevated for 7 to 14 days.**
+* **Serial testing** (for example at 0 and 1 hours, or 0 and 3 hours) shows a **rise or fall,** which differentiates acute injury from chronic elevation.
+* **Myocardial infarction** requires a rise and/or fall of troponin **plus** evidence of ischemia (symptoms, ECG changes, imaging).
+
+#### Causes of Raised Troponin Other Than Myocardial Infarction
+* Heart failure, myocarditis, pericarditis
+* **Pulmonary embolism**
+* Sepsis and critical illness
+* **Chronic kidney disease** (a chronic mild elevation)
+* Arrhythmias (tachycardia, atrial fibrillation)
+* Takotsubo cardiomyopathy
+* Aortic dissection
+* Strenuous exercise, cardiac contusion
+* Stroke and subarachnoid hemorrhage
+
+> **Clinical Pearl:** A raised troponin means **myocardial injury,** not necessarily a heart attack. Interpret it with the symptoms, the ECG, and the trend. A single normal troponin very early after symptom onset does not exclude MI, so repeat it.
+
+### CK-MB and Myoglobin
+Older markers. CK-MB is sometimes used to detect re-infarction. Myoglobin rises early but is not specific.
+
+### Natriuretic Peptides (BNP and NT-proBNP)
+Released from the ventricles when the heart is stretched.
+
+* **BNP:** below **100 pg/mL** makes heart failure unlikely. Above 400 makes it likely.
+* **NT-proBNP:** age-adjusted cutoffs (for example, below 300 pg/mL rules out acute heart failure at all ages, and rising cutoffs for age to rule in).
+* **Raised in:** heart failure, but also kidney disease, atrial fibrillation, pulmonary embolism, sepsis, and older age.
+* **Falsely low** in obesity.
+* **Sacubitril/valsartan** raises BNP but not NT-proBNP, so use NT-proBNP in these patients.
+
+## Lipid Panel
+
+Typically fasting is **not required** for a screening panel (nonfasting is acceptable). Measures:
+
+* **Total cholesterol:** desirable below **200 mg/dL**
+* **LDL cholesterol ("bad"):** optimal below **100 mg/dL.** Lower targets in high-risk patients (below 70 or even 55 in established cardiovascular disease).
+* **HDL cholesterol ("good"):** low if below **40 mg/dL in men** or **50 in women**
+* **Triglycerides:** normal below **150 mg/dL.** Above **500** raises the risk of **pancreatitis.**
+* **Non-HDL cholesterol** (total minus HDL) is also used.
+
+### Interpretation
+* LDL can be calculated (Friedewald or Martin-Hopkins formulas) or measured directly. Calculation is unreliable when triglycerides are very high.
+* **Secondary causes** of abnormal lipids: **hypothyroidism, diabetes, nephrotic syndrome, cholestasis, alcohol, and drugs** (steroids, thiazides, beta blockers, antipsychotics, and others). Check TSH, glucose, kidney and liver tests.
+* Treatment decisions depend on **overall cardiovascular risk,** not on the lipid number alone.
+* **Lipoprotein(a)** and **apolipoprotein B** are additional risk markers in selected patients.
+
+## Thyroid Tests
+
+### TSH (Thyroid-Stimulating Hormone)
+The **best first test.** Normal about **0.4 to 4.0 mIU/L.**
+
+* **High TSH** (with low free T4): **primary hypothyroidism.**
+* **Low TSH** (with high free T4 or T3): **hyperthyroidism.**
+* **Low or normal TSH with low free T4:** **central (pituitary) hypothyroidism.** Free T4 must be checked.
+
+### Free T4 and Free T3
+* **Free T4** (about **0.8 to 1.8 ng/dL**): the main circulating thyroid hormone
+* **Free T3:** useful when TSH is low and free T4 is normal (to detect **T3 thyrotoxicosis**)
+
+### Combinations
+* **High TSH, low free T4:** overt hypothyroidism
+* **High TSH, normal free T4:** **subclinical hypothyroidism**
+* **Low TSH, high free T4/T3:** overt hyperthyroidism
+* **Low TSH, normal free T4 and T3:** **subclinical hyperthyroidism**
+
+### Antibodies
+* **Anti-TPO antibodies:** Hashimoto thyroiditis (the most common cause of hypothyroidism)
+* **TSH receptor antibodies (TRAb):** Graves disease
+* **Thyroglobulin:** monitoring after thyroid cancer treatment
+
+### Pitfalls
+* **Acute illness** can lower TSH and T3 without thyroid disease (sick euthyroid syndrome). **Avoid testing thyroid function in acutely ill patients** unless thyroid disease is suspected.
+* **Biotin supplements** can falsely alter results.
+* **Amiodarone** and **iodine contrast** affect thyroid function.
+
+## Other Common Chemistry Tests
+
+### Lactate
+* Normal below about **2 mmol/L.**
+* **Above 2:** hyperlactatemia. **Above 4:** severe, suggesting shock, sepsis, and tissue hypoperfusion.
+* **Causes:** shock, sepsis, seizures, severe exercise, liver failure, metformin, thiamine deficiency, and **mesenteric ischemia.**
+* **Trending** lactate guides resuscitation.
+
+### Procalcitonin
+Rises in **bacterial infection** and falls with effective treatment. Can help decide whether to start or stop antibiotics. Not specific, and not helpful in all settings.
+
+### Uric Acid
+High levels are linked to gout, kidney stones, and tumor lysis. Many people with high uric acid never get gout, and a normal level during an acute gout attack does not exclude it.
+
+### Iron Studies, Vitamins, and Others
+* **Vitamin B12:** low below about **200 pg/mL** (borderline 200 to 300)
+* **Folate**
+* **25-hydroxyvitamin D**
+* **Parathyroid hormone (PTH):** key in calcium disorders
+* **Cortisol** (morning), **ACTH stimulation test** in adrenal insufficiency
+* **Prolactin, testosterone, estradiol, FSH, LH,** and **hCG** in endocrine and reproductive evaluation
+* **CK (creatine kinase):** muscle injury. **Above 5 times normal with dark urine** suggests **rhabdomyolysis.**
+* **LDH:** nonspecific marker of tissue damage and hemolysis
+* **Ammonia, ceruloplasmin, alpha-1 antitrypsin, ferritin and transferrin saturation** in specific liver diseases
+
+### Toxicology and Drug Levels
+* **Acetaminophen level** in any overdose (use the Rumack-Matthew nomogram from 4 hours after ingestion)
+* **Salicylate, ethanol, and co-ingestants**
+* **Therapeutic drug monitoring:** digoxin, lithium, vancomycin, phenytoin, valproate, carbamazepine, tacrolimus, and others, drawn at the correct time (usually a trough)
+* **Urine drug screens** are immunoassays with false positives and false negatives (Lesson 11)
+
+> **Summary**
+> Liver tests separate hepatocellular injury (ALT and AST high) from cholestasis (ALP and GGT high). AST:ALT above 2:1 suggests alcohol, and painless jaundice in older adults raises concern for pancreatic cancer. Troponin shows myocardial injury, and the trend (rise or fall) matters, as many conditions other than MI raise it. BNP rules out heart failure when low. Order a lipid panel in the context of overall cardiovascular risk. TSH is the first thyroid test, and avoid testing in acute illness. Lactate above 4 suggests serious hypoperfusion.

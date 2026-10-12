@@ -1,0 +1,245 @@
+# Electrocardiogram (EKG)
+
+The electrocardiogram records the heart's **electrical activity** from electrodes on the skin. It is fast, painless, inexpensive, and one of the most useful tests in medicine. It detects arrhythmias, ischemia and infarction, conduction disease, electrolyte problems, and signs of structural heart disease.
+
+> **Note:** "EKG" and "ECG" mean the same thing.
+
+## Basics
+
+### What the ECG Shows
+The ECG records the **sum of electrical activity** moving through the heart. A wave of depolarization moving **toward** a lead creates a **positive (upward)** deflection. Movement **away** from a lead creates a **negative (downward)** deflection.
+
+### The Normal Cardiac Cycle
+* **P wave:** atrial depolarization (starts at the **SA node**)
+* **PR interval:** from the start of the P wave to the start of the QRS. Includes the delay at the **AV node.**
+* **QRS complex:** ventricular depolarization
+* **ST segment:** the plateau between depolarization and repolarization
+* **T wave:** ventricular repolarization
+* **QT interval:** from the start of the QRS to the end of the T wave. Total time for ventricular depolarization and repolarization.
+* **U wave:** small wave after the T wave, associated with low potassium
+
+### Conduction Pathway
+**SA node &rarr; atria &rarr; AV node &rarr; bundle of His &rarr; right and left bundle branches &rarr; Purkinje fibers &rarr; ventricular muscle**
+
+## Paper and Lead Placement
+
+### The Grid
+* **Standard speed:** **25 mm/second**
+* **Small box:** 1 mm = **0.04 seconds** (40 ms) horizontally, and 0.1 mV vertically
+* **Large box:** 5 mm = **0.2 seconds** (200 ms)
+* **Standard calibration:** 10 mm = 1 mV
+
+### 12 Leads
+**Limb leads (6):** I, II, III, aVR, aVL, aVF (look at the heart in the **frontal plane**)
+**Chest (precordial) leads (6):** V1 to V6 (look at the heart in the **horizontal plane**)
+
+### Chest Lead Placement
+* **V1:** 4th intercostal space, **right** sternal border
+* **V2:** 4th intercostal space, **left** sternal border
+* **V3:** midway between V2 and V4
+* **V4:** 5th intercostal space, **midclavicular line**
+* **V5:** level with V4, **anterior axillary line**
+* **V6:** level with V4, **midaxillary line**
+
+**Limb electrodes** go on the right arm, left arm, right leg (ground), and left leg, away from the trunk if possible. **Reversal of the arm leads** produces an inverted P wave and QRS in lead I, and can mimic dextrocardia.
+
+### Anatomical Groups of Leads
+* **Inferior:** II, III, aVF (right coronary artery, usually)
+* **Lateral:** I, aVL, V5, V6 (left circumflex artery or LAD diagonal branches)
+* **Anterior:** V3, V4 (left anterior descending artery)
+* **Septal:** V1, V2 (left anterior descending artery)
+* **Right-sided leads (V4R):** right ventricle
+* **Posterior leads (V7 to V9):** posterior wall (left circumflex or right coronary artery)
+
+## A Systematic Approach to Reading an ECG
+
+Read every ECG the same way, every time.
+
+### 1. Confirm the Patient and Technical Quality
+Name, date and time, and the clinical context. Look for artifact and lead reversal.
+
+### 2. Rate
+* **Regular rhythm:** **300 divided by the number of large boxes between R waves** (300, 150, 100, 75, 60, 50...)
+* **Irregular rhythm:** count the **QRS complexes in a 6-second strip** (30 large boxes) and multiply by 10
+* **Normal:** **60 to 100 beats per minute**
+* **Bradycardia:** below 60. **Tachycardia:** above 100.
+
+### 3. Rhythm
+* Is it **regular or irregular?**
+* Is there a **P wave before every QRS,** and a **QRS after every P wave?**
+* Is the P wave morphology normal (upright in I and II)?
+* **Sinus rhythm** requires upright P waves in leads I and II, each followed by a QRS.
+
+### 4. Axis
+* **Normal axis:** **QRS positive in both lead I and aVF** (about -30 to +90 degrees)
+* **Left axis deviation:** positive in I, negative in aVF. Causes: left anterior fascicular block, inferior MI, LVH.
+* **Right axis deviation:** negative in I, positive in aVF. Causes: right ventricular hypertrophy, pulmonary embolism, COPD, left posterior fascicular block.
+
+### 5. Intervals
+* **PR interval:** **120 to 200 ms** (3 to 5 small boxes)
+* **Long (above 200 ms):** first-degree AV block
+* **Short (below 120 ms):** pre-excitation (WPW) or junctional rhythm
+* **QRS duration:** **below 120 ms** (3 small boxes)
+* **Wide (above 120 ms):** bundle branch block, ventricular rhythm, paced rhythm, hyperkalemia, drug toxicity
+* **QT interval:** correct for heart rate.
+* **QTc (Bazett) = QT / square root of the RR interval (in seconds).**
+* **Normal QTc:** below **450 ms in men** and below **460 ms in women.** Above **500 ms** carries a high risk of **torsades de pointes.**
+
+### 6. Morphology
+* **P waves:** tall (right atrial enlargement), wide and notched (left atrial enlargement)
+* **QRS:** pathologic **Q waves** (width above 40 ms or depth above 25 percent of the R wave) suggest **old infarction**
+* **R wave progression** across V1 to V6: R waves should grow, S waves should shrink, and the transition is around V3 to V4
+* **Voltage:** high amplitude suggests hypertrophy. Low voltage suggests pericardial effusion, obesity, COPD, and amyloid.
+
+### 7. ST Segments and T Waves
+* **ST elevation:** acute myocardial injury, pericarditis, early repolarization, left ventricular aneurysm, and others
+* **ST depression:** ischemia, digoxin effect, and reciprocal change
+* **T wave inversion:** ischemia, strain, normal in V1 (and sometimes V2 to V3) and in children, and in lead aVR
+
+## Rhythm Abnormalities
+
+### Sinus Rhythms
+* **Sinus bradycardia:** rate below 60 with normal P waves. Normal in athletes and in sleep. Causes: beta blockers, hypothyroidism, raised ICP, inferior MI.
+* **Sinus tachycardia:** rate above 100 with normal P waves. **Always look for the cause:** fever, pain, anxiety, hypovolemia, anemia, hypoxia, PE, thyrotoxicosis, and drugs.
+* **Sinus arrhythmia:** rate varies with breathing, normal in the young.
+
+### Supraventricular Arrhythmias
+
+#### Atrial Fibrillation (AF)
+* **Irregularly irregular rhythm,** **no distinct P waves** (a fibrillatory baseline)
+* Narrow QRS (unless there is a bundle branch block)
+* **Risks:** stroke (anticoagulation based on **CHA2DS2-VASc**), heart failure, and tachycardia-induced cardiomyopathy
+* **Treatment:** rate control (beta blockers, diltiazem, digoxin), rhythm control (cardioversion, antiarrhythmics, ablation), and anticoagulation. **Unstable patients** need **synchronized cardioversion.**
+
+#### Atrial Flutter
+* **"Sawtooth" flutter waves** (about **300 per minute**), best seen in leads II, III, and aVF
+* **Atrial rate about 300,** with a ventricular rate often **150** (2:1 block). A **regular rate of exactly 150 should prompt a search for flutter.**
+
+#### Supraventricular Tachycardia (SVT)
+* **Regular, narrow-complex tachycardia,** rate usually **150 to 250**, with no visible P waves
+* Most commonly **AV nodal re-entrant tachycardia (AVNRT)**
+* **Treatment:** **vagal maneuvers** (modified Valsalva), then **adenosine** (6 mg rapid IV push, then 12 mg), and **cardioversion** if unstable
+
+#### Wolff-Parkinson-White (WPW) Syndrome
+* **Short PR interval,** **delta wave** (slurred upstroke of the QRS), and wide QRS
+* An accessory pathway (bundle of Kent) bypasses the AV node
+* **Avoid AV nodal blockers** (adenosine, verapamil, digoxin, beta blockers) if **atrial fibrillation** develops with WPW. They can cause ventricular fibrillation. Use **procainamide** or cardioversion.
+
+### Ventricular Arrhythmias
+
+#### Premature Ventricular Contractions (PVCs)
+Early, wide QRS complexes without a preceding P wave, followed by a compensatory pause. Common and often benign.
+
+#### Ventricular Tachycardia (VT)
+* **Wide-complex tachycardia** (rate above 100, usually 150 to 250)
+* Regular (monomorphic) or varying (polymorphic)
+* **Treat wide-complex tachycardia as VT until proven otherwise.**
+* **Pulseless VT and VF:** **defibrillation,** CPR, epinephrine, and amiodarone
+* **Stable VT:** amiodarone or procainamide
+* **Unstable VT with a pulse:** **synchronized cardioversion**
+
+#### Torsades de Pointes
+* **Polymorphic VT** with a **twisting QRS axis,** in the setting of a **long QT interval**
+* **Causes:** drugs (antiarrhythmics, antipsychotics, macrolides, fluoroquinolones, ondansetron, methadone), **low potassium, low magnesium,** and congenital long QT
+* **Treatment: IV magnesium sulfate,** correct potassium, stop offending drugs, and defibrillate if pulseless
+
+#### Ventricular Fibrillation (VF)
+Chaotic, irregular waveform with no recognizable QRS. **Cardiac arrest.** Immediate defibrillation.
+
+#### Asystole and Pulseless Electrical Activity (PEA)
+**Asystole:** a flat line (confirm in two leads, and check the leads and gain). **PEA:** organized electrical activity without a pulse. Both are non-shockable. CPR, epinephrine, and treatment of the causes ("**H's and T's**").
+
+## Conduction Abnormalities
+
+### AV Blocks
+* **First-degree AV block:** **PR interval above 200 ms,** every P wave conducts. Usually benign.
+* **Second-degree, Mobitz type I (Wenckebach):** PR interval **progressively lengthens** until a beat is dropped. Usually at the AV node. Often benign.
+* **Second-degree, Mobitz type II:** **fixed PR interval** with **suddenly dropped** QRS complexes. Disease **below** the AV node. **Can progress to complete block.** **Needs a pacemaker.**
+* **Third-degree (complete) AV block:** **no relationship between P waves and QRS complexes** (AV dissociation). A slow escape rhythm. Causes: inferior MI, degenerative disease, Lyme disease, drugs. **Treat with atropine (limited efficacy), transcutaneous pacing, and a permanent pacemaker.**
+
+### Bundle Branch Blocks
+**QRS above 120 ms.**
+
+* **Right bundle branch block (RBBB):** **rSR' ("rabbit ears") in V1,** and a wide S wave in leads I and V6. May be normal, or seen with pulmonary embolism, right heart strain, and congenital heart disease.
+* **Left bundle branch block (LBBB):** **broad, notched R wave in I, aVL, V5, and V6,** and a deep S wave in V1. **Usually indicates underlying heart disease** (cardiomyopathy, hypertension, aortic stenosis). **New LBBB with chest pain is treated as a possible MI.**
+
+> **Memory aid:** **WiLLiaM MaRRoW.** In **LBBB** the **QRS is a "W" in V1** and an **"M" in V6.** In **RBBB** it is an **"M" in V1** and a **"W" in V6.**
+
+* **Left anterior fascicular block:** left axis deviation. **Left posterior fascicular block:** right axis deviation.
+* **Bifascicular block** (RBBB plus a fascicular block): risk of progression.
+
+## Myocardial Ischemia and Infarction
+
+### Acute STEMI
+**ST elevation myocardial infarction** is defined by **new ST elevation at the J point in 2 contiguous leads:**
+* **1 mm (0.1 mV) or more** in all leads other than V2 and V3
+* In **V2 and V3:** **2 mm or more in men aged 40 or older,** 2.5 mm in men under 40, and **1.5 mm or more in women**
+
+#### Evolution
+1. **Hyperacute (peaked) T waves**
+2. **ST elevation**
+3. **Q waves** form (within hours to days)
+4. **T wave inversion,** and the ST segment returns toward baseline
+
+#### Localizing the Infarct
+* **Inferior MI** (II, III, aVF): usually **right coronary artery.** Look for **right ventricular involvement** (V4R) and **bradycardia and AV block.** Avoid nitrates in RV infarction.
+* **Anterior MI** (V1 to V4): **left anterior descending artery**
+* **Lateral MI** (I, aVL, V5, V6): left circumflex or diagonal branch
+* **Posterior MI:** **ST depression in V1 to V3 with tall R waves,** confirmed by posterior leads (V7 to V9)
+
+#### Reciprocal Changes
+**ST depression in leads opposite** the area of elevation (for example in I and aVL in an inferior MI) **support** the diagnosis of true infarction.
+
+### NSTEMI and Unstable Angina
+* **ST depression or T wave inversion,** or a normal ECG
+* **Distinguished by troponin:** raised in NSTEMI, normal in unstable angina
+
+### Other High-Risk Patterns
+* **Wellens syndrome:** deeply inverted or biphasic T waves in V2 and V3 in a pain-free interval, suggesting a **critical LAD stenosis.** Avoid stress testing.
+* **De Winter T waves:** upsloping ST depression with tall symmetric T waves in the precordial leads (a STEMI equivalent)
+* **Diffuse ST depression with ST elevation in aVR:** left main or severe multivessel disease, or diffuse subendocardial ischemia
+* **LBBB with chest pain:** use the **Sgarbossa criteria** to suggest MI
+
+> **Clinical Pearl:** A normal initial ECG does **not** exclude MI. **Repeat the ECG** every 15 to 30 minutes if symptoms continue, and compare with previous tracings.
+
+### Time Goals
+For STEMI: obtain the ECG within **10 minutes of arrival,** and reperfusion with **PCI within 90 minutes** of first medical contact (or fibrinolysis within 30 minutes if PCI is not available in time).
+
+## Other Important ECG Patterns
+
+* **Acute pericarditis:** **diffuse concave-up ST elevation** across many leads (not in a single coronary territory), **PR depression,** and PR elevation in aVR
+* **Pulmonary embolism:** **sinus tachycardia** (most common), and sometimes **S1Q3T3,** right axis deviation, RBBB, and T wave inversion in V1 to V4
+* **Hyperkalemia:** **peaked T waves,** flattened P waves, **prolonged PR,** wide QRS, and sine wave pattern
+* **Hypokalemia:** flat T waves, **U waves,** and ST depression
+* **Hypercalcemia:** **short QT**
+* **Hypocalcemia:** **long QT**
+* **Hypothermia:** **Osborn (J) waves,** bradycardia, and shivering artifact
+* **Digoxin effect:** **"scooped" ST depression** ("reverse tick"). **Digoxin toxicity:** nearly any arrhythmia, particularly atrial tachycardia with block and bidirectional VT.
+* **Left ventricular hypertrophy (LVH):** high voltage (for example **S in V1 plus R in V5 or V6 above 35 mm**), with strain pattern (ST depression and T inversion in lateral leads)
+* **Right ventricular hypertrophy:** tall R in V1, right axis deviation
+* **Brugada syndrome:** coved ST elevation in V1 to V3, with a risk of sudden death
+* **Long QT syndromes:** inherited or acquired, with a risk of torsades
+* **Early repolarization:** a benign variant with concave ST elevation in young, healthy people
+* **Dextrocardia:** reversed R wave progression, with a negative P wave and QRS in lead I
+
+## Ambulatory and Related Cardiac Testing
+
+* **Holter monitor:** continuous recording for **24 to 48 hours** (and up to 14 days with patch monitors). Detects frequent arrhythmias.
+* **Event monitor:** the patient activates it when symptoms occur
+* **Implantable loop recorder:** long-term monitoring (up to 3 years) for infrequent syncope or **cryptogenic stroke**
+* **Exercise stress test:** an ECG during treadmill exercise to detect ischemia. Stops for angina, ST changes, arrhythmia, or a drop in blood pressure.
+* **Telemetry:** continuous monitoring in the hospital
+* **Signal-averaged ECG and tilt table testing** in selected cases
+* **Echocardiography, nuclear imaging, and cardiac CT or MRI** are imaging studies (covered in Diagnostics II)
+
+## Common Pitfalls
+
+* **Treating the machine's computer read** without reviewing the tracing
+* **Misplaced leads** causing false patterns
+* **Artifact** from tremor (looks like atrial flutter or fibrillation) or movement
+* **Missing a subtle ischemic pattern** because the patient is young or the pain is atypical
+* **Ignoring clinical context:** the same ST elevation has different meanings in a 25-year-old athlete and a 65-year-old with crushing chest pain
+* **Not comparing with the old ECG**
+
+> **Summary**
+> Read every ECG in order: rate, rhythm, axis, intervals, morphology, then ST segments and T waves. Normal PR is 120 to 200 ms, QRS below 120 ms, and QTc below 450 (men) or 460 (women). Atrial fibrillation is irregularly irregular without P waves. Wide-complex tachycardia is VT until proven otherwise. Mobitz II and complete heart block need a pacemaker. STEMI needs ST elevation in two contiguous leads, localized to a coronary territory with reciprocal changes. Hyperkalemia causes peaked T waves and wide QRS. Torsades is treated with magnesium.

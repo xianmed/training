@@ -1,0 +1,144 @@
+# Retinal Detachment and Macular Disease
+
+This lesson covers the conditions that separate the retina from its support (retinal tears and detachment) and the diseases that damage the macula, the center of sharp vision.
+
+## The Vitreous and Posterior Vitreous Detachment
+
+The vitreous is a clear gel that fills the back of the eye and is attached to the retina. With age it liquefies and shrinks, and eventually separates from the retina. This is called **posterior vitreous detachment (PVD).**
+
+### Presentation
+* **Flashes of light (photopsias)**, usually in the peripheral vision, from the vitreous tugging on the retina
+* **New floaters:** spots, cobwebs, a ring, or a hair (a Weiss ring)
+* Common after age 50, in myopia, and after cataract surgery
+
+### Why It Matters
+Most PVDs are harmless. However, in about **10 to 15 percent**, the vitreous pulls hard enough to cause a **retinal tear**, which can progress to a detachment. Anyone with new flashes or floaters needs a **prompt dilated examination of the entire peripheral retina**.
+
+> **Clinical Pearl:** Any patient with a sudden shower of floaters, new flashes, or a shadow or curtain in their vision must be examined urgently. Do not reassure them without a dilated exam.
+
+## Retinal Tears
+
+Treated with **laser retinopexy** or **cryotherapy**, which create scars that seal the retina in place. Done early, treatment prevents detachment in most cases.
+
+## Retinal Detachment (RD)
+
+Separation of the neurosensory retina from the underlying retinal pigment epithelium. Without treatment it leads to permanent blindness.
+
+### Rhegmatogenous Retinal Detachment
+The most common type. A retinal break allows fluid from the vitreous to pass under the retina and lift it.
+
+#### Risk Factors
+* **High myopia**
+* **Cataract surgery** (especially with complications)
+* **Trauma**
+* **Lattice degeneration** (areas of thin peripheral retina)
+* **Previous retinal detachment** or family history
+* Age
+
+### Tractional Retinal Detachment
+Scar tissue pulls the retina off. Classically seen in **proliferative diabetic retinopathy**, sickle cell disease, and after trauma.
+
+### Exudative (Serous) Retinal Detachment
+Fluid accumulates under the retina without any break. Caused by tumors, severe inflammation, central serous disease, and hypertensive emergencies. The fluid shifts with position.
+
+### Symptoms
+* **Photopsias** (flashes)
+* **A shower of new floaters**
+* **A curtain, shadow, or veil** progressing across the visual field
+* **Central vision loss** when the macula detaches (called "macula-off")
+* **Painless**
+
+### Signs
+* **RAPD** if extensive
+* Reduced visual acuity if the macula is involved
+* Often a **lower IOP** in the affected eye
+* Dilated exam: a gray, elevated, wrinkled retina that moves like a sail in the vitreous, with the retinal break often visible
+* **Tobacco dust (Shafer sign):** pigment cells in the vitreous
+* Ultrasound if the view is blocked
+
+### Urgency: Macula-On Versus Macula-Off
+* **Macula-on:** central vision still preserved. A true emergency, because surgery can save sharp central vision. Often operated within 24 hours.
+* **Macula-off:** central vision lost. Still needs urgent surgery, ideally within days, since outcomes worsen the longer the macula is detached.
+
+### Treatment
+* **Pneumatic retinopexy:** a gas bubble is injected and the retina is sealed with freezing or laser. Suitable for selected superior breaks.
+* **Scleral buckle:** a silicone band is sewn around the eye to indent the wall toward the break.
+* **Vitrectomy:** the vitreous is removed and the retina flattened, then held with a gas bubble or silicone oil.
+* **Postoperative positioning** may be required to keep the bubble against the break.
+
+> **Warning:** Patients with intraocular gas bubbles must **not fly or go to high altitude** and must not receive **nitrous oxide anesthesia,** because the gas expands and can cause blinding pressure spikes. They usually wear a wristband to alert clinicians.
+
+## Vitreous Hemorrhage
+
+Blood in the vitreous causes a sudden onset of floaters, a red haze, or marked loss of vision.
+
+* **Causes:** proliferative diabetic retinopathy (most common), retinal tears, vein occlusions, trauma, and neovascularization.
+* **Evaluation:** the retina may be hidden, so use **B-scan ultrasound** to rule out retinal tear or detachment.
+* **Management:** treat the underlying cause, sit upright to let blood settle, and observe. Vitrectomy if it does not clear or if there is a tear or detachment.
+
+## Age-Related Macular Degeneration (AMD)
+
+The leading cause of irreversible central vision loss in older adults in developed countries.
+
+### Risk Factors
+* **Age** (strongest)
+* **Smoking** (strongest modifiable)
+* **Family history and genetics**
+* White ancestry
+* Hypertension, obesity, and poor diet
+
+### Dry (Non-neovascular) AMD
+About 85 to 90 percent of cases.
+
+* **Drusen:** yellow deposits under the retina, the hallmark
+* Gradual, mild loss of central vision
+* **Geographic atrophy:** areas of retinal cell death in advanced disease
+* **Treatment:** the **AREDS2 supplement formula** (vitamins C and E, zinc, copper, lutein, and zeaxanthin) reduces progression in intermediate and advanced disease. **Stop smoking**, eat leafy greens and fish, and monitor with an Amsler grid. Newer complement inhibitors for geographic atrophy exist.
+
+### Wet (Neovascular) AMD
+About 10 to 15 percent of cases but responsible for most severe vision loss.
+
+* **Choroidal neovascularization (CNV):** abnormal vessels grow under the retina and leak fluid and blood.
+* **Symptoms:** **sudden distortion (metamorphopsia),** a central blind spot (scotoma), and blurred central vision. Straight lines look wavy.
+* **Diagnosis:** dilated exam, **OCT** (shows fluid), and fluorescein or OCT angiography.
+* **Treatment:** **intravitreal anti-VEGF injections** (aflibercept, ranibizumab, bevacizumab, faricimab) given every few weeks, long-term. These can stabilize or improve vision.
+* **Urgency:** any new distortion in a patient with drusen needs prompt ophthalmology review.
+
+> **Clinical Pearl:** Patients with dry AMD should monitor their own vision daily with an Amsler grid. New distortion or a new central blank spot means it may have converted to wet AMD and needs same-week treatment.
+
+## Other Macular Disorders
+
+### Central Serous Chorioretinopathy
+Fluid collects under the macula. Typically affects **young to middle-aged men** with stress, type A personality, or **corticosteroid use** (all routes). Presents with blurred or dim central vision, metamorphopsia, and a smaller image. Most resolve in months. Stop steroids if possible.
+
+### Epiretinal Membrane
+A thin scar-like membrane forms on the macular surface, causing distortion and blurring. Often idiopathic and age-related. Surgery (membrane peel) is considered if function is affected.
+
+### Macular Hole
+A full-thickness defect in the fovea. Causes central blur, distortion, and a central blind spot. Surgery (vitrectomy with gas bubble) can close it.
+
+### Macular Edema
+Fluid in the macula, from diabetes, vein occlusion, uveitis, or after cataract surgery. Treated by addressing the cause and using anti-VEGF, steroid, or anti-inflammatory therapy.
+
+## Inherited Retinal Disease
+
+### Retinitis Pigmentosa (RP)
+A group of genetic diseases in which **rods** degenerate first, then cones.
+
+* **Night blindness** is the first symptom, in adolescence
+* Progressive **loss of peripheral vision** with **tunnel vision**
+* **Bone spicule pigmentation** in the retina
+* Can be associated with syndromes (**Usher syndrome**: deafness and RP)
+* No cure, but supportive care and genetic counseling. Gene therapy exists for specific mutations.
+
+### Stargardt Disease
+An inherited macular dystrophy in young people, causing central vision loss.
+
+## Intraocular Tumors (Brief)
+
+* **Choroidal melanoma:** the most common primary intraocular cancer in adults. Often found incidentally as a dark elevated mass. Treated with radiation or enucleation. Liver is the most common site of metastasis.
+* **Retinoblastoma:** children (Lesson 16).
+* **Metastases:** the most common intraocular tumors overall, from breast and lung.
+
+> **Summary**
+> New flashes and floaters may signal a posterior vitreous detachment with a retinal tear and need a dilated exam. Retinal detachment presents as a painless curtain over vision. Macula-on cases are emergencies. Gas bubbles forbid air travel and nitrous oxide. AMD causes central vision loss: dry AMD has drusen and is treated with AREDS2 and smoking cessation, while wet AMD causes distortion and needs anti-VEGF injections.

@@ -1,0 +1,188 @@
+# Pulmonary Function and Respiratory Testing
+
+Respiratory testing answers four questions: **How well does the patient move air? How much air can the lungs hold? How well does gas cross into the blood? And how well does the patient oxygenate and ventilate?** This lesson covers pulmonary function tests (PFTs) and the bedside tools used to assess breathing. (Chest imaging is in Diagnostics II, and blood gases are in Lesson 6.)
+
+## Bedside Respiratory Assessment
+
+Before any test, observe:
+* **Respiratory rate** (normal 12 to 20 per minute) and **pattern**
+* **Work of breathing:** accessory muscle use, nasal flaring, tracheal tug, retractions, tripod position, inability to speak in full sentences
+* **Color** (cyanosis), **mental status,** and **oxygen saturation**
+* **Chest exam:** wheeze, crackles, reduced breath sounds, and asymmetry
+* **Peak flow** (below)
+
+> **Clinical Pearl:** Do not rely on one number. A patient who is **tiring, drowsy, silent, or unable to speak** can be in worse trouble than their oxygen saturation suggests.
+
+## Pulse Oximetry
+
+A clip on the finger (or ear or forehead) estimates **oxygen saturation (SpO2)** by comparing light absorption of oxygenated and deoxygenated hemoglobin.
+
+* **Normal:** **95 to 100 percent.** **Below 90 percent** corresponds to a PaO2 of about 60 mmHg, a steep part of the oxygen-hemoglobin curve.
+* **Targets:** **94 to 98 percent** in most patients. **88 to 92 percent** in patients at risk of **CO2 retention** (severe COPD).
+
+### Limitations
+* **Carbon monoxide poisoning:** carboxyhemoglobin is read as oxyhemoglobin, so **SpO2 is falsely normal.**
+* **Methemoglobinemia:** SpO2 stuck at about **85 percent.**
+* **Poor perfusion** (shock, cold hands, Raynaud), **motion artifact**
+* **Nail polish,** artificial nails (older oximeters)
+* **Severe anemia:** SpO2 may be normal despite poor oxygen delivery
+* **Skin pigmentation:** pulse oximeters can **overestimate** oxygen saturation in patients with darker skin, which can hide hypoxemia. Interpret with caution, and consider a blood gas if suspicion is high.
+* **It does not measure ventilation (CO2).**
+* **Delayed response** to changes in oxygenation by about 20 to 30 seconds
+
+## Capnography
+
+Measures **end-tidal CO2 (EtCO2)** in exhaled air.
+
+* **Normal EtCO2:** about **35 to 45 mmHg**
+* **Confirms endotracheal tube placement:** a sustained waveform and a stable EtCO2 over 6 breaths. **The gold standard** for confirming correct placement.
+* **Monitors ventilation** in procedural sedation, and detects **hypoventilation or apnea** earlier than pulse oximetry
+* **During CPR:** EtCO2 **below 10 mmHg** after 20 minutes predicts poor survival. A **sudden rise** suggests return of spontaneous circulation (ROSC).
+* **Waveform shapes:** a "shark fin" in **bronchospasm** (asthma, COPD), absence in **esophageal intubation,** apnea, or circuit disconnection
+
+## Peak Expiratory Flow (PEF)
+
+A simple handheld device measuring the **maximum speed of exhalation.**
+
+* **Used to monitor asthma** and assess severity in exacerbations
+* **Compared with the patient's personal best** or predicted values (based on age, height, and sex)
+* **Zones:** green (above 80 percent of personal best), yellow (50 to 80 percent), red (below 50 percent)
+* **Effort-dependent,** and less accurate than spirometry. Not used to diagnose COPD.
+
+## Spirometry
+
+The **most important and widely used pulmonary function test.** The patient takes a maximal breath in and **blows out as hard and fast as possible** into a sensor.
+
+### Measurements
+* **FVC (forced vital capacity):** the total volume exhaled forcefully after a maximal inhalation
+* **FEV1 (forced expiratory volume in 1 second):** the volume exhaled in the first second
+* **FEV1/FVC ratio:** the fraction of the FVC exhaled in the first second. **Normal is above about 0.70 (70 percent)** in adults, or above the **lower limit of normal** for age.
+* Results are reported as a **percentage of predicted value** (based on age, sex, height, and ethnicity or race-neutral reference equations), and **z-scores.**
+
+### Flow-Volume Loop
+A graph of **airflow versus volume.**
+* **Obstructive disease:** a **scooped-out (concave)** expiratory limb
+* **Restrictive disease:** a **small but normally shaped** loop
+* **Fixed upper airway obstruction:** **flattening** of both limbs
+* **Variable extrathoracic obstruction** (for example vocal cord dysfunction): flattened **inspiratory limb**
+* **Variable intrathoracic obstruction:** flattened **expiratory limb**
+
+### Quality Requirements
+* **Good effort:** a sharp, rapid start, and a smooth curve with a plateau at the end
+* **Exhale for at least 6 seconds** (3 seconds in children)
+* **At least three acceptable maneuvers,** with the best two within 150 mL of each other
+* **Contraindications or cautions:** recent myocardial infarction, unstable angina, recent eye, thoracic, or abdominal surgery, active hemoptysis, **pneumothorax,** or uncontrolled hypertension. Active infectious disease (such as TB or COVID-19) requires precautions.
+
+## Interpreting Spirometry
+
+### Step 1: Is the FEV1/FVC Ratio Reduced?
+* **Yes (below 0.70 or the lower limit of normal): obstructive pattern.**
+* **No (normal or high): move to Step 2.**
+
+### Step 2: Is the FVC Reduced?
+* **Yes, with a normal or high ratio: a restrictive pattern (possible).** **Confirm with lung volumes** (total lung capacity), because a low FVC can result from poor effort or air trapping.
+* **No: normal spirometry** (or a non-specific pattern)
+
+### Obstructive Pattern
+**Low FEV1/FVC ratio, and low FEV1,** with FVC normal or reduced (from air trapping).
+* **Conditions:** **asthma, COPD (chronic bronchitis and emphysema), bronchiectasis, cystic fibrosis,** bronchiolitis
+* **Reversibility:** repeat after a **bronchodilator** (such as albuterol). A **significant response** is an increase in **FEV1 or FVC of 12 percent and 200 mL or more.** Marked reversibility supports **asthma.** Incomplete reversibility is typical of **COPD.**
+
+#### Severity of COPD (GOLD Staging, Post-Bronchodilator FEV1)
+* **GOLD 1 (mild):** FEV1 **80 percent or more** of predicted
+* **GOLD 2 (moderate):** **50 to 79 percent**
+* **GOLD 3 (severe):** **30 to 49 percent**
+* **GOLD 4 (very severe):** **below 30 percent**
+* Spirometry confirms the diagnosis only when the **post-bronchodilator FEV1/FVC is below 0.70.**
+
+### Restrictive Pattern
+**Reduced FVC, with a normal or increased FEV1/FVC ratio.** Total lung capacity is below the normal range.
+* **Intrinsic (parenchymal) lung disease:** **idiopathic pulmonary fibrosis,** sarcoidosis, hypersensitivity pneumonitis, drug-induced (amiodarone, bleomycin, nitrofurantoin), connective tissue disease, asbestosis
+* **Extrinsic (chest wall and pleura):** **obesity,** kyphoscoliosis, pleural effusion, ascites, pregnancy, ankylosing spondylitis
+* **Neuromuscular weakness:** **myasthenia gravis, Guillain-Barré, ALS,** muscular dystrophy, diaphragm paralysis (FVC falls further when lying down)
+
+> **Clinical Pearl:** In **neuromuscular disease,** the **FVC and the maximal inspiratory and expiratory pressures** guide timing of ventilatory support.
+
+## Lung Volumes
+
+Spirometry cannot measure the air that stays in the lungs after a full exhale (the **residual volume**). Other methods measure the **total lung capacity (TLC).**
+
+* **Body plethysmography ("body box")** is the most accurate, and includes trapped air
+* **Helium dilution** and **nitrogen washout** can underestimate in obstructive disease
+* **Obstructive disease:** **raised residual volume (RV)** and TLC (**air trapping and hyperinflation**)
+* **Restrictive disease:** **reduced TLC,** which confirms restriction
+
+## Diffusing Capacity (DLCO)
+
+Measures how well gas moves **across the alveolar-capillary membrane** into the blood. The patient inhales a **small amount of carbon monoxide** and holds their breath for 10 seconds.
+
+* **Reduced DLCO:**
+* **Emphysema** (loss of alveolar surface)
+* **Interstitial lung disease** (thickened membrane)
+* **Pulmonary vascular disease** (pulmonary embolism, pulmonary hypertension)
+* **Anemia** (must adjust DLCO for hemoglobin)
+* **Smoking** (carboxyhemoglobin)
+* **Normal DLCO with obstruction:** suggests **asthma** or chronic bronchitis (rather than emphysema)
+* **Raised DLCO:** **asthma (sometimes),** **polycythemia, pulmonary hemorrhage** (diffuse alveolar hemorrhage), left-to-right shunt, obesity
+
+## Summary Patterns
+
+* **Obstructive:** low FEV1/FVC, normal or high TLC, high RV. DLCO normal in asthma, low in emphysema.
+* **Restrictive (parenchymal):** normal or high FEV1/FVC, **low TLC,** low DLCO
+* **Restrictive (chest wall or muscle):** normal or high FEV1/FVC, low TLC, **normal DLCO**
+* **Pulmonary vascular disease:** normal spirometry and volumes, **low DLCO**
+
+## Bronchoprovocation (Challenge) Testing
+
+For patients with suspected **asthma but normal spirometry.**
+* **Methacholine challenge:** the patient inhales increasing doses of methacholine. A **20 percent fall in FEV1 (PC20)** at a low dose indicates **airway hyperresponsiveness.** A **negative** test has a high negative predictive value for asthma.
+* **Exercise challenge** and **mannitol challenge**
+* **Contraindicated** with a baseline FEV1 below 60 percent of predicted (or below 1.5 L), recent heart attack or stroke, and uncontrolled hypertension
+
+## Exercise and Functional Testing
+
+* **Six-minute walk test (6MWT):** the distance a patient can walk in 6 minutes, with oxygen saturation, heart rate, and dyspnea scored. Used for COPD, interstitial lung disease, pulmonary hypertension, and heart failure. A **fall in SpO2 of 4 percent or more** or below 88 percent suggests exertional hypoxemia, and may qualify for **home oxygen.**
+* **Cardiopulmonary exercise testing (CPET):** measures oxygen uptake, CO2 output, and ventilation during exercise, to find the cause of **unexplained dyspnea** (heart, lung, deconditioning, or other)
+* **Oxygen titration and qualification testing:** documentation of hypoxemia at rest, with exertion, and during sleep
+
+## Respiratory Muscle Strength
+
+* **Maximal inspiratory pressure (MIP or NIF)** and **maximal expiratory pressure (MEP)**
+* **NIF weaker than -20 to -30 cmH2O** or **FVC below 15 to 20 mL/kg** signals impending respiratory failure in neuromuscular disease (such as **Guillain-Barré syndrome** or **myasthenic crisis**)
+
+## Sputum and Airway Sampling
+
+* **Sputum Gram stain and culture:** a good quality specimen has **few squamous epithelial cells** (below 10 per low-power field) and **many white cells** (above 25). Otherwise it represents saliva.
+* **Sputum cytology and eosinophils**
+* **Induced sputum** for TB and *Pneumocystis*
+* **Bronchoscopy:** direct visualization, **bronchoalveolar lavage (BAL)** for infection and interstitial disease, brushings and **transbronchial biopsy** for diagnosis. Complications: bleeding, pneumothorax, and hypoxemia.
+* **Endobronchial ultrasound (EBUS)** for lymph node sampling in lung cancer staging and sarcoidosis
+* **Pleural fluid analysis** (see Lesson 11)
+
+## Exhaled Nitric Oxide (FeNO)
+
+Measures **airway eosinophilic inflammation.** **Raised** (above about 50 ppb in adults) supports **eosinophilic asthma** and predicts response to inhaled steroids.
+
+## Sleep and Nocturnal Oximetry
+
+Overnight oximetry screens for **nocturnal hypoxemia.** A full sleep study (polysomnography) is covered in Lesson 9.
+
+## Diagnostic Approach to Common Respiratory Problems
+
+* **Chronic cough, wheeze, and dyspnea with variable symptoms:** spirometry with bronchodilator response, and possibly FeNO or bronchoprovocation, for **asthma**
+* **Smoker with dyspnea and cough:** spirometry for **COPD** (post-bronchodilator FEV1/FVC below 0.70)
+* **Progressive dyspnea with dry cough and crackles:** spirometry with lung volumes and DLCO (restriction, low DLCO), high-resolution CT (Diagnostics II) for **interstitial lung disease**
+* **Unexplained dyspnea:** spirometry, DLCO, ECG, CBC, BNP, then cardiopulmonary exercise testing
+* **Neuromuscular weakness:** FVC (sitting and supine), MIP, MEP
+* **Acute respiratory failure:** blood gas, capnography, chest imaging, and cause-specific tests (cultures, BNP, D-dimer, troponin)
+
+## Patient Preparation and Safety
+
+* **Withhold bronchodilators** before testing, as instructed (short-acting for 4 to 6 hours, long-acting for 12 to 24 hours or more)
+* **Avoid smoking, heavy meals, and vigorous exercise** before testing
+* **Loose clothing, and remove dentures if loose**
+* **Coach the patient** to exhale hard and long
+* **Infection control:** filters and disinfection
+
+> **Summary**
+> Pulse oximetry misses carbon monoxide and methemoglobin, and capnography confirms intubation and detects hypoventilation. In spirometry, an FEV1/FVC below 0.70 means obstruction (asthma, COPD), and a significant bronchodilator response (12 percent and 200 mL) supports asthma. A low FVC with a normal or high ratio suggests restriction, and TLC confirms it. DLCO is low in emphysema, interstitial lung disease, and pulmonary vascular disease. The six-minute walk test and CPET assess functional limitation, and NIF and FVC guide ventilatory support in neuromuscular weakness.

@@ -1,0 +1,135 @@
+# Neurodiagnostics
+
+Imaging and laboratory tests extend the neurologic exam. This lesson covers which test to order, what it shows, and how to read the key results.
+
+## Neuroimaging
+
+### Non-Contrast CT Head
+The first test in most emergencies. Fast, widely available, and excellent for blood.
+
+* **Acute blood:** bright white (hyperdense). Detects intracerebral, subarachnoid, subdural, and epidural hemorrhage.
+* **Early ischemic stroke:** often **normal** in the first hours. Subtle signs include loss of the gray-white junction, the dense MCA sign, and sulcal effacement.
+* **Mass effect, midline shift, hydrocephalus, and large tumors.**
+* **Bone:** skull fractures.
+* **Limitations:** poor for posterior fossa, small infarcts, and early ischemia.
+
+> **Clinical Pearl:** The main job of CT in acute stroke is to **exclude hemorrhage** before giving clot-dissolving drugs.
+
+### CT Angiography (CTA)
+Contrast-enhanced images of the arteries from the aortic arch to the brain. Finds **large vessel occlusions,** aneurysms, dissection, and carotid stenosis.
+
+### CT Perfusion
+Shows the infarct core and the salvageable penumbra. Helps select patients for thrombectomy beyond the early window.
+
+### MRI Brain
+More sensitive than CT for most disease, but slower and less available.
+
+* **T1:** anatomy. Fat and gadolinium appear bright.
+* **T2 and FLAIR:** fluid and edema appear bright. **FLAIR** suppresses CSF, so it is excellent for periventricular and cortical lesions such as **multiple sclerosis plaques.**
+* **Diffusion-weighted imaging (DWI):** the **most sensitive test for acute ischemic stroke,** showing infarction within minutes.
+* **Contrast (gadolinium):** highlights breakdown of the blood-brain barrier, as in tumor, abscess, and active demyelination.
+* **MRA and MRV:** noninvasive vessel imaging (arteries and veins).
+* **Contraindications:** pacemakers (some are MRI-conditional), certain metallic implants, and metal in the eye. Gadolinium is avoided in severe kidney disease.
+
+### MRI Spine
+The test for **spinal cord compression, myelopathy, disc herniation, epidural abscess, and cord lesions.**
+
+### Conventional Angiography
+The gold standard for vessel anatomy. Used for aneurysm treatment, AVMs, and thrombectomy, and has some procedural risk.
+
+### Other Imaging
+* **Carotid duplex ultrasound:** carotid stenosis
+* **Transcranial Doppler:** blood flow velocity in intracranial arteries, vasospasm
+* **PET and SPECT:** dementia, epilepsy localization
+* **DaTscan:** dopamine transporter imaging, differentiating Parkinson disease from tremor
+
+## Lumbar Puncture (LP)
+
+### Indications
+* Suspected **meningitis or encephalitis**
+* **Subarachnoid hemorrhage** when CT is negative
+* Guillain-Barré syndrome, multiple sclerosis, and other inflammatory diseases
+* Measuring pressure in idiopathic intracranial hypertension
+* Therapeutic drainage or injection
+
+### Contraindications and Cautions
+* **Signs of raised ICP or mass effect:** do imaging first.
+* **Bleeding disorders,** platelet count below about 50, or anticoagulant use
+* **Infection at the puncture site**
+* **Spinal epidural abscess or cord compression** (risk of deterioration)
+
+### When to Get CT Before LP
+Obtain imaging first in patients with:
+* Focal neurologic deficit
+* New seizure
+* Papilledema
+* Altered mental status or reduced consciousness
+* Immunocompromised state
+* Known mass or a history of CNS disease
+
+> **Clinical Pearl:** In suspected bacterial meningitis, **do not delay antibiotics** for CT or LP. Draw blood cultures, start treatment, then image and puncture.
+
+### Technique
+Patient lies on their side with knees drawn up (or sits bent forward). The needle goes between **L3-L4 or L4-L5** (below the end of the cord). Measure the **opening pressure** with the patient lying flat and relaxed.
+
+### Normal CSF
+* **Opening pressure:** 10 to 20 cm H2O (up to about 25 in obese patients)
+* **Appearance:** clear and colorless
+* **White cells:** 0 to 5 per microliter, all lymphocytes
+* **Protein:** 15 to 45 mg/dL
+* **Glucose:** about 60 percent of the blood glucose (usually above 40 mg/dL)
+
+### CSF Patterns
+* **Bacterial meningitis:** cloudy, **very high white count (neutrophils),** high protein, **low glucose**
+* **Viral meningitis:** high lymphocytes (tens to hundreds), mildly raised protein, **normal glucose**
+* **Fungal and tuberculous meningitis:** lymphocytes, high protein, **low glucose,** and high opening pressure in cryptococcus
+* **Guillain-Barré syndrome:** **raised protein with normal cell count** (albuminocytologic dissociation)
+* **Multiple sclerosis:** **oligoclonal bands** in CSF but not in serum, mildly raised protein
+* **Subarachnoid hemorrhage:** red cells that do not clear between tubes, and **xanthochromia** (yellow supernatant from bilirubin, appearing after about 6 to 12 hours)
+
+### Complications
+* **Post-LP headache:** worse upright, improves lying down. Treat with fluids, caffeine, and rest. An **epidural blood patch** is used for persistent headaches.
+* Back pain, bleeding, infection, and rarely herniation.
+
+## Electrophysiology
+
+### Electroencephalography (EEG)
+Records the brain's electrical activity from scalp electrodes.
+* Detects **epileptiform discharges** (spikes and sharp waves)
+* Identifies **nonconvulsive seizures and status epilepticus** in patients with unexplained reduced consciousness
+* Shows **diffuse slowing** in encephalopathy and delirium
+* Supports diagnosis of **brain death** in some settings (used with other tests)
+* A single normal EEG **does not rule out** epilepsy.
+
+### Nerve Conduction Studies (NCS) and Electromyography (EMG)
+* **NCS:** measures speed and amplitude of signals along nerves. **Slowed velocity** suggests demyelination. **Reduced amplitude** suggests axonal loss.
+* **EMG:** a needle in the muscle records its electrical activity. Distinguishes **neuropathic** from **myopathic** patterns, and detects denervation in motor neuron disease and radiculopathy.
+* **Repetitive nerve stimulation and single-fiber EMG:** neuromuscular junction disorders.
+
+### Evoked Potentials
+Measure conduction in the visual, auditory, and somatosensory pathways. Occasionally used to detect clinically silent demyelination.
+
+## Laboratory Tests
+
+* **Glucose:** always check first in any altered mental status or focal deficit
+* **Electrolytes and kidney and liver function**
+* **CBC, coagulation tests, ESR, CRP**
+* **Vitamin B12, folate, thyroid function, HIV, syphilis serology**
+* **Troponin and ECG** in stroke
+* **Toxicology and drug levels**
+* **Autoimmune antibodies:** acetylcholine receptor antibodies (myasthenia gravis), aquaporin-4 and MOG antibodies, anti-NMDA receptor antibodies, paraneoplastic panels
+* **Creatine kinase (CK):** muscle disease
+* **Genetic testing:** Huntington disease, muscular dystrophy, hereditary neuropathy
+
+## Choosing the Right Test
+
+* **Sudden severe headache:** non-contrast CT within 6 hours, then LP if CT is negative (or CTA, depending on the setting)
+* **Acute stroke symptoms:** glucose, then non-contrast CT and CTA
+* **Suspected meningitis:** blood cultures and antibiotics, CT if indicated, then LP
+* **Suspected cord compression:** urgent MRI of the whole spine
+* **Progressive weakness with areflexia:** LP, NCS, and spirometry
+* **First seizure:** glucose, electrolytes, CT or MRI, EEG
+* **Memory loss:** MoCA, B12, TSH, MRI, and review of medications
+
+> **Summary**
+> CT is the first test for acute emergencies, mainly to exclude bleeding. MRI with DWI is the most sensitive test for early stroke, and MRI is better for demyelination, tumors, and the spine. CTA finds large vessel occlusions and aneurysms. Lumbar puncture needs imaging first when there are focal signs, papilledema, or reduced consciousness, but antibiotics should never wait. CSF patterns distinguish bacterial, viral, and fungal meningitis, Guillain-Barré, MS, and SAH. EEG, NCS, and EMG test electrical function.

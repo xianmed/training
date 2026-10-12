@@ -1,0 +1,155 @@
+# Systemic Disease, Drug Effects, and Clinical Synthesis
+
+The eye is connected to every part of the body. This final lesson ties together systemic diseases with eye findings, medications that affect the eye, and a framework for making decisions in real cases.
+
+## Systemic Diseases and the Eye
+
+### Diabetes Mellitus
+* Retinopathy, macular edema, cataracts, glaucoma, cranial nerve palsies, and refractive changes with blood sugar swings
+* Annual dilated eye exams
+
+### Hypertension
+* Hypertensive retinopathy, retinal vein and artery occlusions, ischemic optic neuropathy, and CN palsies
+
+### Thyroid Disease
+* Graves orbitopathy: lid retraction, proptosis, double vision, optic nerve compression
+
+### Autoimmune and Inflammatory Disease
+* **Rheumatoid arthritis:** dry eye, scleritis, peripheral ulcerative keratitis
+* **Sjögren syndrome:** severe dry eye
+* **SLE:** retinal vasculopathy, scleritis, dry eye, and hydroxychloroquine toxicity
+* **Ankylosing spondylitis, reactive arthritis, psoriatic arthritis, IBD:** acute anterior uveitis (HLA-B27)
+* **Juvenile idiopathic arthritis:** chronic painless anterior uveitis
+* **Sarcoidosis:** granulomatous uveitis, lacrimal gland swelling, optic neuropathy
+* **Granulomatosis with polyangiitis:** scleritis, orbital disease
+* **Behçet disease:** recurrent uveitis with hypopyon and retinal vasculitis
+* **Giant cell arteritis:** ischemic optic neuropathy, CRAO
+
+### Neurologic Disease
+* **Multiple sclerosis:** optic neuritis, INO
+* **Neuromyelitis optica:** severe optic neuritis
+* **Myasthenia gravis:** ptosis and diplopia
+* **Idiopathic intracranial hypertension and mass lesions:** papilledema
+* **Stroke:** field defects, amaurosis fugax, cranial neuropathies
+
+### Infectious Disease
+* **HIV and immunosuppression:** CMV retinitis, herpes zoster ophthalmicus, toxoplasmosis, syphilis
+* **Syphilis:** any form of uveitis, optic neuritis, Argyll Robertson pupils
+* **Tuberculosis:** granulomatous uveitis
+* **Lyme disease:** facial palsy, uveitis, optic neuritis
+* **Toxoplasmosis and toxocariasis**
+* **Herpes zoster:** zoster ophthalmicus
+
+### Genetic and Syndromic Conditions
+* **Marfan syndrome:** lens dislocation **upward**, myopia, retinal detachment
+* **Homocystinuria:** lens dislocation **downward**
+* **Neurofibromatosis type 1:** Lisch nodules (iris), optic pathway glioma
+* **Tuberous sclerosis:** retinal astrocytic hamartomas
+* **Sturge-Weber syndrome:** port-wine stain with glaucoma
+* **Von Hippel-Lindau:** retinal hemangioblastomas
+* **Albinism:** reduced vision, nystagmus, light sensitivity
+* **Wilson disease:** Kayser-Fleischer rings
+* **Down syndrome:** keratoconus, cataracts, refractive error, strabismus
+
+### Hematologic Disease
+* **Sickle cell disease:** retinopathy, hyphema complications
+* **Leukemia and lymphoma:** retinal hemorrhages, infiltration
+* **Hyperviscosity:** retinal vein changes
+
+### Kidney and Cardiovascular
+* **Carotid disease and cardiac emboli:** amaurosis fugax, CRAO
+* **Endocarditis:** Roth spots (retinal hemorrhages with pale centers), endogenous endophthalmitis
+* **Chronic kidney disease:** hypertensive and diabetic changes
+
+## Medications That Affect the Eye
+
+Reviewing the medication list is a key step in any unexplained eye symptom.
+
+### Medications With Retinal and Optic Nerve Toxicity
+* **Hydroxychloroquine:** bull's-eye maculopathy with long-term use. Baseline exam and annual screening after about 5 years, earlier with risk factors.
+* **Ethambutol:** optic neuropathy with color vision loss. Check acuity and color before and during therapy.
+* **Amiodarone:** corneal deposits, optic neuropathy.
+* **Tamoxifen:** crystalline retinopathy.
+* **Vigabatrin:** peripheral visual field constriction.
+* **Phosphodiesterase-5 inhibitors:** rare ischemic optic neuropathy and color changes (blue tinge). Some association with NAION.
+
+### Corticosteroids
+* **Cataract (posterior subcapsular)**
+* **Glaucoma** (steroid response)
+* **Central serous chorioretinopathy**
+* Worsening of herpetic keratitis and fungal infections
+
+### Anticholinergic and Sympathomimetic Drugs
+* Can **precipitate angle closure** in anatomically narrow angles. Includes antihistamines, tricyclic antidepressants, decongestants, scopolamine, and some antipsychotics.
+* **Topiramate:** a sulfa-related drug that can cause **bilateral angle closure and myopia** within the first weeks.
+
+### Other
+* **Isotretinoin:** dry eye, blepharitis, night vision problems
+* **Bisphosphonates:** uveitis and scleritis
+* **Checkpoint inhibitors and other immunotherapies:** uveitis, dry eye
+* **Anticoagulants and antiplatelets:** subconjunctival hemorrhage, hyphema, and vitreous hemorrhage
+* **Tamsulosin:** floppy iris syndrome during cataract surgery
+* **Prostaglandin glaucoma drops:** eyelash growth, iris darkening
+* **Topical anesthetic abuse:** corneal damage
+* **Retinoids and tetracyclines:** raised intracranial pressure
+
+## A Framework for Eye Emergencies
+
+When a patient arrives with an eye complaint, work through the following in order:
+
+1. **Immediate threat:** chemical exposure (irrigate), open globe (shield), orbital compartment syndrome (canthotomy).
+2. **Check visual acuity,** pupils (look for RAPD), and eye movements.
+3. **Painless or painful?** One eye or two?
+4. **Sudden or gradual?**
+5. **Red or white?**
+6. **Examine** with fluorescein, slit lamp if available, IOP when safe, and a dilated fundus exam when appropriate.
+7. **Consider systemic causes** and check relevant vitals, blood glucose, ESR, CRP, and neurologic exam.
+8. **Treat what you can, and refer what you must.**
+
+## Putting It Together: Case Patterns
+
+### Case 1: The Painful Red Eye With Halos
+A 66-year-old hyperopic woman develops severe right eye pain, headache, and vomiting after a movie in a dark theater. Her cornea looks cloudy, and the pupil is mid-dilated and fixed. **Acute angle closure.** Lower IOP urgently, then laser iridotomy in both eyes.
+
+### Case 2: The Contact Lens Wearer
+A 24-year-old who slept in her lenses has severe pain, redness, and a white corneal spot. **Bacterial keratitis, likely Pseudomonas.** Stop lenses, culture, and start intensive fluoroquinolone drops with same-day ophthalmology.
+
+### Case 3: The Curtain
+A 58-year-old highly myopic man sees new flashes and floaters, and then a shadow coming from above. **Retinal detachment.** Urgent surgery, especially if the macula is still on.
+
+### Case 4: The Older Patient With a Headache
+A 74-year-old woman has new temporal headache, jaw pain when chewing, and sudden vision loss in the left eye. Her disc is pale and swollen. **Giant cell arteritis.** Start high-dose steroids immediately and arrange biopsy.
+
+### Case 5: The Young Woman With Painful Vision Loss
+A 29-year-old woman has a painful, blurry right eye, faded colors, and an RAPD, with a normal-looking disc. **Optic neuritis.** MRI of brain and orbits, and neurology review for MS.
+
+### Case 6: The Diabetic
+A 45-year-old man with 15 years of diabetes has had no eye exam for years and has sudden dark floaters. **Proliferative diabetic retinopathy with vitreous hemorrhage.** Ophthalmology, laser, and anti-VEGF.
+
+### Case 7: The Swollen Child's Eye
+A 6-year-old with fever, swollen right eyelid, bulging eye, and pain on looking sideways. **Orbital cellulitis.** Admit, CT, IV antibiotics.
+
+### Case 8: The White Pupil
+A mother notices a white glow in her 18-month-old's eye in a photo. **Retinoblastoma until proven otherwise.** Urgent ophthalmology.
+
+## Referral Guide: Who and When
+
+* **Immediately (minutes):** chemical injury (irrigate first), open globe, retrobulbar hemorrhage, CRAO, acute angle closure.
+* **Same day:** retinal detachment symptoms, endophthalmitis, orbital cellulitis, corneal ulcers, scleritis, hyphema, uveitis, GCA with visual symptoms, gonococcal conjunctivitis.
+* **Within days:** vitreous detachment symptoms with a normal exam, optic neuritis, new diplopia, wet AMD symptoms, new strabismus.
+* **Routine:** cataracts, glaucoma follow-up, diabetic screening, refractive errors, dry eye, chalazia.
+
+## Communication and Patient Education
+
+* Explain warning signs of retinal detachment, glaucoma, and AMD.
+* Reinforce **contact lens hygiene.**
+* Teach eye protection for work and sports.
+* Support smoking cessation: it worsens cataract, AMD, thyroid eye disease, and glaucoma.
+* Encourage regular eye exams for those at risk (diabetes, family history of glaucoma, age over 40, high myopia).
+* Avoid giving **topical anesthetics** for home use.
+* Use clear, written instructions for eye drop schedules.
+
+> **Roleplay Pearl:** In scenes, great eye care roleplay comes from the exam order: visual acuity first, then pupils, then movements, and only then drops. Patients with serious causes volunteer very little, so the provider must ask the right questions.
+
+> **Summary**
+> The eye reflects systemic disease and medication effects: diabetes, hypertension, thyroid disease, autoimmune conditions, and infections all leave marks on the eye, and many drugs (steroids, hydroxychloroquine, ethambutol, topiramate, anticholinergics) cause eye toxicity. Work through every eye complaint with the same steps: protect against immediate threats, measure vision, sort by pain, onset, laterality, and redness, examine in order, and know which conditions need the eye specialist right now.

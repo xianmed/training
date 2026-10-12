@@ -1,0 +1,130 @@
+# Movement Disorders
+
+Movement disorders are neurologic conditions that cause too little movement (hypokinetic) or too much movement (hyperkinetic). Most arise from dysfunction of the **basal ganglia** and their connections.
+
+## Hypokinetic: Parkinsonism
+
+**Parkinsonism** is a syndrome of **bradykinesia plus rest tremor and/or rigidity.** Parkinson disease is the most common cause.
+
+## Parkinson Disease (PD)
+
+### Pathophysiology
+* Loss of **dopaminergic neurons in the substantia nigra pars compacta,** reducing dopamine in the striatum
+* **Lewy bodies:** intracellular clumps of **alpha-synuclein**
+* Symptoms appear after about **60 percent** of the nigral neurons are lost.
+* **Causes:** mostly idiopathic, with a mix of age, genetic (LRRK2, GBA, SNCA, PRKN), and environmental factors (pesticides, rural living, head injury). Smoking and coffee are associated with lower risk.
+
+### Cardinal Features
+* **Bradykinesia:** slowness and decreasing amplitude of movement (required). Shown by slow finger tapping, small handwriting (**micrographia**), reduced facial expression ("masked face"), and reduced blinking.
+* **Resting tremor:** 4 to 6 Hz, **"pill-rolling,"** present at rest, reduced with action. Usually begins on one side.
+* **Rigidity:** **cogwheel** (ratchety) or lead-pipe resistance
+* **Postural instability:** a later feature, causing falls
+
+### Non-Motor Features (often come first)
+* **Hyposmia** (loss of smell)
+* **REM sleep behavior disorder**
+* **Constipation**
+* **Depression and anxiety**
+* Orthostatic hypotension, urinary urgency
+* **Cognitive decline and dementia** (late)
+* Hallucinations (often drug-induced)
+
+### Gait
+Shuffling steps, **stooped posture,** reduced arm swing, **festination** (accelerating steps), freezing, and difficulty turning.
+
+### Diagnosis
+Clinical. **Asymmetric onset** and a clear **response to levodopa** support the diagnosis. Imaging (MRI) is mainly to rule out other causes. **DaTscan** can confirm nigrostriatal loss in unclear cases.
+
+### Treatment
+Symptomatic. No proven disease-modifying therapy yet.
+
+* **Levodopa/carbidopa:** the most effective drug. Levodopa is converted to dopamine in the brain, and **carbidopa** blocks peripheral conversion, reducing nausea. Taken multiple times a day, usually separated from high-protein meals.
+  * **Complications over years:** **"wearing-off"** (symptoms return before the next dose), **dyskinesias** (involuntary writhing movements at peak dose), and on-off fluctuations.
+* **Dopamine agonists** (pramipexole, ropinirole, rotigotine): useful early or as add-on. Side effects: **impulse control disorders** (gambling, hypersexuality), sleep attacks, hallucinations, and leg edema.
+* **MAO-B inhibitors** (rasagiline, selegiline, safinamide): mild benefit.
+* **COMT inhibitors** (entacapone, opicapone): extend levodopa action.
+* **Amantadine:** helps dyskinesias.
+* **Anticholinergics** (trihexyphenidyl): may help tremor but are poorly tolerated in older people.
+* **Deep brain stimulation (DBS)** of the subthalamic nucleus or globus pallidus for patients with disabling motor fluctuations who still respond to levodopa and have no dementia.
+* **Exercise, physiotherapy, and speech therapy** are essential.
+* **Treat non-motor symptoms:** constipation, depression, sleep disorders, orthostatic hypotension.
+
+> **Clinical Pearl:** In hospitalized Parkinson disease patients, **never stop or miss levodopa doses** (risk of severe rigidity, aspiration, and a neuroleptic malignant-like syndrome), and **avoid dopamine-blocking drugs** (haloperidol, metoclopramide, prochlorperazine). For nausea use ondansetron or domperidone. For psychosis use quetiapine or pimavanserin.
+
+## Atypical Parkinsonism ("Parkinson-Plus")
+
+Features that suggest something other than PD: early falls, poor levodopa response, symmetric onset, early autonomic failure, and abnormal eye movements.
+
+* **Progressive supranuclear palsy (PSP):** **vertical gaze palsy** (especially downgaze), early backward falls, axial rigidity, and a surprised expression. "Hummingbird sign" on MRI.
+* **Multiple system atrophy (MSA):** parkinsonism or cerebellar signs with **severe autonomic failure** (orthostatic hypotension, urinary problems, erectile dysfunction), stridor.
+* **Corticobasal syndrome:** asymmetric rigidity, "alien limb," apraxia, and cortical sensory loss.
+* **Dementia with Lewy bodies:** dementia, hallucinations, fluctuations.
+
+## Drug-Induced Parkinsonism
+
+The second most common cause of parkinsonism. Caused by dopamine blockers: **antipsychotics, metoclopramide, prochlorperazine,** and some others. Usually symmetric and improves after stopping the drug, but may take months.
+
+## Hyperkinetic Disorders
+
+### Essential Tremor
+The most common movement disorder.
+* **Postural and kinetic tremor** (appears when holding a posture or moving, as in drinking or writing) of the hands, often with head or voice involvement
+* **Bilateral,** often **familial,** improves with **alcohol**
+* No rest tremor, no bradykinesia
+* **Treatment:** **propranolol** or **primidone,** topiramate. Focused ultrasound or DBS for severe cases.
+
+### Tremor Comparison
+* **Rest tremor:** Parkinson disease
+* **Postural and action tremor:** essential tremor, physiologic tremor, drug-induced tremor (valproate, lithium, steroids, caffeine), thyrotoxicosis
+* **Intention tremor:** cerebellar disease
+
+### Huntington Disease (HD)
+* **Autosomal dominant,** from a **CAG trinucleotide repeat expansion** in the **huntingtin gene (chromosome 4).** Repeats of 36 or more cause disease, and longer repeats lead to earlier onset. **Anticipation** occurs (earlier onset in successive generations, especially with paternal transmission).
+* **Pathology:** loss of striatal (caudate and putamen) neurons, with **caudate atrophy** visible on imaging.
+* **Onset:** typically age 30 to 50.
+* **Triad:** **chorea** (random, flowing movements), **psychiatric symptoms** (depression, irritability, psychosis, suicidality), and **dementia.**
+* **Diagnosis:** genetic test, with **pre-test counseling** for at-risk relatives.
+* **Treatment:** symptomatic. **VMAT2 inhibitors** (tetrabenazine, deutetrabenazine, valbenazine) for chorea. Treat depression, with close attention to suicide risk. Supportive care.
+
+### Dystonia
+Sustained or repetitive **muscle contractions** that cause twisting and abnormal postures.
+* **Focal:** cervical dystonia (torticollis), blepharospasm, writer's cramp
+* **Treatment:** **botulinum toxin injections** (mainstay for focal), anticholinergics, DBS
+* **Acute dystonic reaction:** a sudden spasm (neck twisting, oculogyric crisis, tongue protrusion) within hours to days of starting a dopamine blocker (haloperidol, metoclopramide). **Treat with IV or IM diphenhydramine or benztropine.**
+
+### Tardive Dyskinesia
+Repetitive involuntary movements, especially of the **mouth and tongue** (lip smacking, chewing, tongue protrusion), after months to years of **dopamine-blocker exposure.** **Treatment:** **VMAT2 inhibitors** (valbenazine, deutetrabenazine). Switch to a lower-risk antipsychotic (clozapine, quetiapine) if possible.
+
+### Tics and Tourette Syndrome
+* **Tics:** sudden, brief, repetitive movements (motor) or sounds (vocal). Preceded by an urge, and can be briefly suppressed.
+* **Tourette syndrome:** multiple motor tics and at least one vocal tic for more than a year, starting in childhood. Associated with **ADHD and obsessive-compulsive disorder.**
+* **Treatment:** behavioral therapy (comprehensive behavioral intervention for tics). Medications (alpha-agonists such as clonidine and guanfacine, or antipsychotics) when disabling.
+
+### Myoclonus
+Brief shock-like jerks. Causes: epilepsy, metabolic (uremia, liver failure), hypoxic brain injury (Lance-Adams syndrome), and CJD.
+
+### Wilson Disease
+**Autosomal recessive** disorder of copper metabolism (ATP7B gene), causing copper accumulation in the liver and brain (basal ganglia).
+* **Young patients** (often 5 to 35 years) with liver disease, **psychiatric symptoms,** and movement disorders (tremor, dystonia, dysarthria, parkinsonism)
+* **Kayser-Fleischer rings** (copper in the cornea, seen on slit-lamp)
+* **Low serum ceruloplasmin,** high urinary copper
+* **Treatment:** copper **chelation** (penicillamine, trientine) or zinc. Lifelong. Liver transplant for severe liver failure.
+* Think of it in any young person with unexplained movement disorder or liver disease.
+
+### Restless Legs Syndrome (RLS)
+* **Urge to move the legs** with unpleasant sensations, **worse at rest and in the evening,** relieved by movement
+* Associated with **iron deficiency,** pregnancy, kidney disease, and some drugs (antidepressants, antihistamines)
+* **Check ferritin.** Iron replacement if low (ferritin below about 75).
+* **Treatment:** **gabapentin or pregabalin** (first-line), dopamine agonists (risk of **augmentation** with long-term use). Avoid triggers.
+
+### Functional (Psychogenic) Movement Disorders
+Real, disabling movements with inconsistent features (variable, distractible, and entrainable). Diagnosed by positive signs, not by exclusion alone. **Treated with explanation and physiotherapy.**
+
+## Drug-Induced Movement Emergencies
+
+* **Neuroleptic malignant syndrome (NMS):** after dopamine blockers or abrupt withdrawal of dopaminergic drugs. **Fever, severe "lead-pipe" rigidity, altered mental status, autonomic instability, raised CK.** Develops over days. Treatment: stop the drug, cooling, fluids, and **dantrolene or bromocriptine** in severe cases.
+* **Serotonin syndrome:** after serotonergic drugs. **Agitation, fever, diarrhea, tremor, clonus, hyperreflexia.** Develops within hours. Treatment: stop the drug, benzodiazepines, and **cyproheptadine.**
+* **Malignant hyperthermia:** after volatile anesthetics or succinylcholine. Treat with **dantrolene.**
+
+> **Summary**
+> Parkinson disease features bradykinesia, rest tremor, rigidity, and postural instability from loss of nigral dopamine neurons. Levodopa/carbidopa is the most effective treatment, and dopamine-blocking drugs should be avoided. Atypical parkinsonism shows early falls, gaze palsy, or autonomic failure. Essential tremor is postural and responds to propranolol. Huntington disease is autosomal dominant (CAG on chromosome 4) with chorea, psychiatric symptoms, and dementia. Wilson disease is a treatable cause in the young. Distinguish NMS from serotonin syndrome by timing and clonus.

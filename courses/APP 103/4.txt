@@ -1,0 +1,122 @@
+# The Ophthalmic Examination
+
+A systematic eye exam takes a few minutes and answers most urgent questions. Always do the exam in the same order so nothing is missed.
+
+> **Clinical Pearl:** The only exception to "history first" is a chemical injury. Irrigate immediately, then examine.
+
+## Order of the Exam
+
+1. Visual acuity
+2. Pupils
+3. Extraocular movements
+4. Visual fields
+5. External inspection and lid eversion
+6. Fluorescein staining
+7. Slit lamp examination
+8. Intraocular pressure
+9. Dilated fundus examination
+
+Record findings for each eye separately (OD, OS).
+
+## 1. Visual Acuity
+
+Visual acuity is the **vital sign of the eye**. Test it first, before drops or anything that could blur vision, with the patient's current glasses or contacts.
+
+* **Snellen chart** at 20 feet. 20/20 means the patient sees at 20 feet what a normal eye sees at 20 feet. 20/200 means they must be at 20 feet to see what a normal eye sees at 200 feet.
+* If the patient cannot read the top letter, use lower levels in order: **counting fingers (CF)**, **hand motion (HM)**, **light perception (LP)**, and **no light perception (NLP)**.
+* **Pinhole test:** looking through a small hole removes most refractive error. If vision improves, the problem is likely a refractive error. If it does not improve, suspect disease of the eye or optic nerve.
+
+## 2. Pupils
+
+Check size, shape, symmetry, and reaction in dim light.
+
+* Describe as **PERRL** (pupils equal, round, reactive to light), or note what is abnormal.
+* A **teardrop or peaked pupil** suggests an open globe.
+* A **mid-dilated, fixed pupil** with a red, painful eye suggests acute angle closure.
+
+### The Swinging Flashlight Test
+Swing a light back and forth between the eyes, spending about two seconds on each.
+
+* Normally both pupils stay constricted.
+* If one pupil **dilates** when the light swings onto it, that eye has a **relative afferent pupillary defect (RAPD)**, also called a Marcus Gunn pupil. The affected eye does not send as strong a signal to the brain.
+
+> **Clinical Pearl:** An RAPD indicates disease of the optic nerve or a large retinal injury. Cataract and refractive error do NOT cause RAPD. It is one of the most important objective signs in ophthalmology.
+
+## 3. Extraocular Movements
+
+Ask the patient to follow a finger in an **H pattern** without moving their head. Look for limited movement, pain, double vision, or nystagmus. Note which direction produces double vision, which helps identify the affected muscle or nerve.
+
+## 4. Visual Fields by Confrontation
+
+Sit facing the patient at arm's length. Cover one eye of each of you (patient covers their right, you cover your left). Ask the patient to look at your nose and say how many fingers you hold up in each of the four quadrants. Test each eye separately. Large defects (hemianopia, quadrantanopia) are easy to find this way.
+
+## 5. External Inspection
+
+Look at:
+* Eyelid position, swelling, and lashes
+* Eyelid margins and lashes
+* Proptosis (view from above)
+* Conjunctival color and discharge
+* Cornea clarity
+* Pupil shape
+
+### Lid Eversion
+To search for a foreign body under the upper lid, ask the patient to look down, grasp the lashes, and flip the lid over a cotton swab. Never evert a lid if you suspect an open globe.
+
+## 6. Fluorescein Staining
+
+Touch a fluorescein strip to the lower lid or apply a drop. View with a **cobalt blue light** (or a Wood's lamp). Areas where the corneal epithelium is missing glow bright green.
+
+* **Linear vertical scratches** suggest a foreign body under the upper lid.
+* **Dendritic (branching) pattern** suggests herpes simplex keratitis.
+* **Seidel test:** apply concentrated fluorescein and look for a stream of clear fluid washing through the dye. A positive test means aqueous humor is leaking from the eye, indicating a full-thickness perforation.
+
+## 7. The Slit Lamp
+
+The slit lamp is a microscope with an adjustable beam of light. It allows examination of the lids, conjunctiva, cornea, anterior chamber, iris, and lens in detail.
+
+* **Cells and flare** in the anterior chamber indicate inflammation (uveitis).
+* **Hypopyon** is a layer of white cells at the bottom of the anterior chamber.
+* **Hyphema** is a layer of blood.
+* **Corneal infiltrates** indicate infection or inflammation.
+* **Cataracts** can be graded.
+
+## 8. Intraocular Pressure
+
+* **Goldmann applanation tonometry** (slit lamp) is the gold standard.
+* **Tono-Pen** and **rebound tonometers** are portable.
+* **Digital palpation** compares the firmness of the two eyes in an emergency when no device is available. It is crude.
+
+> **Warning:** Never measure pressure or push on an eye with a suspected open globe. Place a rigid shield and call for help.
+
+## 9. Fundoscopy (Dilated Exam)
+
+### The Red Reflex
+Using the direct ophthalmoscope held about a foot from the eye, look for the red-orange glow of the retina. A dull, absent, or white reflex suggests a cataract, vitreous hemorrhage, retinal detachment, or in children, retinoblastoma.
+
+### What to Look At
+Move in close and assess:
+* **Optic disc:** color (pink is normal; pale suggests damage), margins (blurred suggests swelling), and **cup-to-disc ratio** (larger or asymmetric ratios suggest glaucoma).
+* **Vessels:** arteriole narrowing, AV nicking, hemorrhages, neovascularization.
+* **Macula:** the center, for drusen, hemorrhage, or edema.
+* **Periphery:** tears or detachments (needs indirect exam).
+
+### Dilating Drops
+* **Tropicamide 1%** (anticholinergic) and **phenylephrine 2.5%** (sympathomimetic) are commonly used.
+* **Do not dilate** if a narrow angle is suspected, since dilation can trigger angle closure. Also avoid if a neurologic exam depends on pupil size.
+
+## Other Tests You Will Hear About
+
+* **Amsler grid:** a grid of lines used to detect central distortion in macular disease.
+* **Ishihara plates:** screen for color deficiency.
+* **Optical coherence tomography (OCT):** high-resolution cross-section of the retina or optic nerve.
+* **Visual field testing (perimetry):** formal mapping of field loss, used in glaucoma and neuro-ophthalmic disease.
+* **Fluorescein angiography:** dye injected into a vein to show retinal blood flow and leakage.
+* **Ultrasound (B-scan):** images the back of the eye when the view is blocked, for example by a dense cataract or hemorrhage.
+
+## Anesthetic Drops
+
+A drop of **proparacaine or tetracaine** relieves pain enough to allow examination. These are for clinic use only. Giving them to take home causes corneal damage.
+
+> **Summary**
+> Examine in a set order: visual acuity, pupils, EOM, fields, external inspection, fluorescein, slit lamp, pressure, and dilated fundus. Test acuity first, use pinhole to separate refractive error from disease, and look for an RAPD. Never press on a possibly ruptured globe. Do not dilate a suspected narrow angle.

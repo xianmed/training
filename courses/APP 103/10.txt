@@ -1,0 +1,118 @@
+# Cataracts
+
+A cataract is any opacity of the lens. It is the leading cause of reversible blindness worldwide, and cataract extraction is one of the most commonly performed and most successful surgeries in medicine.
+
+## Pathophysiology
+
+The lens is made of tightly packed proteins (crystallins) that stay clear for decades. With age, oxidative damage and protein aggregation make the lens cloudy and yellow. The lens grows throughout life, adding layers like an onion, so the center becomes denser.
+
+## Risk Factors
+
+* **Age** (the dominant factor)
+* **Ultraviolet light exposure**
+* **Smoking**
+* **Diabetes** (earlier and faster)
+* **Corticosteroids** (topical, inhaled, and systemic)
+* **Trauma**
+* **Uveitis**
+* **Prior eye surgery**
+* **Radiation**
+* **Family history, high myopia, alcohol**
+* **Genetic and metabolic conditions:** galactosemia, Wilson disease, Down syndrome, myotonic dystrophy, hypocalcemia
+
+## Types of Age-Related Cataract
+
+### Nuclear Sclerotic
+* The center of the lens hardens and yellows to brown.
+* **Myopic shift:** the lens gains focusing power, so older patients may find they can read without glasses. This is called "second sight."
+* Slow, progressive blurring, especially for distance and with color fading.
+
+### Cortical
+* White, wedge-shaped, spoke-like opacities from the edge of the lens inward.
+* Prominent **glare** and difficulty with bright lights and night driving.
+* Common in diabetes.
+
+### Posterior Subcapsular
+* A plaque of opacity at the back of the lens, right in the visual axis.
+* Early, severe **glare** and trouble reading, even when the cataract looks small.
+* Associated with **steroid use, diabetes, radiation, and uveitis.**
+* Develops in younger patients.
+
+## Other Cataracts
+
+* **Congenital:** present at birth or early childhood. Causes include genetic disorders, intrauterine infections (rubella, CMV, toxoplasmosis), and metabolic disease. Appears as **leukocoria** (white pupil) or an absent red reflex. **Urgent referral** is needed to prevent amblyopia.
+* **Traumatic:** blunt or penetrating injury, often rosette-shaped.
+* **Secondary:** from uveitis, steroids, or other eye disease.
+
+## Symptoms
+
+* Gradual, **painless** blurring of vision
+* Glare and halos around lights, especially at night
+* Reduced contrast
+* Faded colors with a yellow tinge
+* Frequent glasses changes
+* **Monocular double vision** (when one eye is covered, the double vision persists)
+* Difficulty with night driving and reading
+
+## Examination
+
+* **Visual acuity** reduced, often worse in bright light (especially posterior subcapsular)
+* **Red reflex:** dim or dark shadows against the red glow
+* **Slit lamp:** direct visualization and grading of the opacity
+* Pinhole may or may not improve vision
+* Always check the retina and optic nerve to look for other causes of poor vision
+
+## Management
+
+### Non-Surgical
+Glasses, stronger lighting, anti-glare lenses, and magnifiers can help for a while. **No eye drops, supplements, or medications can reverse a cataract.**
+
+### Surgery: Indications
+Surgery is offered when the cataract interferes with the patient's daily life, such as driving, reading, working, or safety. Also needed when it blocks the view of the retina for monitoring or treatment (for example in diabetic patients), or when it causes other eye disease.
+
+> **Clinical Pearl:** Cataract surgery does not need to wait until the cataract is "ripe." Waiting too long makes surgery more difficult and risks complications.
+
+### Phacoemulsification
+The standard technique:
+
+1. Topical or local anesthesia, with mild sedation
+2. Small incision at the edge of the cornea
+3. Circular opening in the front of the lens capsule
+4. Ultrasound probe breaks up the lens (**phaco**) and suctions out the pieces
+5. A foldable **intraocular lens (IOL)** is placed in the remaining capsular bag
+6. Small incisions usually seal themselves without stitches
+
+Outpatient, 10 to 20 minutes, with rapid recovery. Most patients return to near-normal activity within days.
+
+### IOL Options
+* **Monofocal:** one focal distance (usually set for distance, with reading glasses needed).
+* **Toric:** corrects astigmatism.
+* **Multifocal and extended depth-of-focus:** reduce dependence on glasses, with trade-offs in glare and contrast.
+
+### After Surgery
+Anti-inflammatory and antibiotic drops for several weeks, protective shield at night, avoid rubbing the eye, and avoid heavy lifting early on.
+
+## Complications
+
+* **Posterior capsule opacification (PCO):** the most common late complication. Clouding of the capsule that holds the new lens, causing recurrent blurring months to years later. Treated with a quick **YAG laser capsulotomy** in the office.
+* **Endophthalmitis:** rare (about 1 in 1,000 or fewer) but devastating.
+* **Retinal detachment**, especially in myopic eyes and after complications.
+* **Cystoid macular edema** (Irvine-Gass syndrome).
+* **Posterior capsule rupture** and vitreous loss during surgery.
+* **Raised intraocular pressure, wound leak, corneal edema, dislocated lens.**
+* Persistent inflammation.
+
+> **Clinical Pearl:** Patients taking **tamsulosin** or other alpha-1 blockers may develop **intraoperative floppy iris syndrome (IFIS)**. Tell the surgeon before surgery. Stopping the drug does not remove the risk.
+
+## Lens-Related Emergencies
+
+* **Phacomorphic glaucoma:** a swollen mature cataract pushes the iris forward and blocks the angle, causing angle closure.
+* **Phacolytic glaucoma:** leaked lens protein from a hypermature cataract blocks the outflow channels.
+* **Lens dislocation (ectopia lentis):** causes include trauma, Marfan syndrome (upward), and homocystinuria (downward).
+
+## Pediatric Cataracts
+
+A white pupil or absent red reflex in an infant is an emergency. Treatment within the first weeks of life improves outcomes by preventing deprivation amblyopia. Surgery is followed by lenses and amblyopia therapy.
+
+> **Summary**
+> Cataracts are age-related lens opacities that cause gradual painless blurring, glare, and faded colors. Nuclear, cortical, and posterior subcapsular types differ in symptoms. No drops cure them. Phacoemulsification with an IOL is the definitive and highly successful treatment, offered when function is impaired. Posterior capsule opacification is treated with YAG laser. Congenital cataracts and phacomorphic glaucoma need urgent attention.

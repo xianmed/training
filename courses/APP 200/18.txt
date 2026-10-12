@@ -1,0 +1,162 @@
+# Brain Tumors and Hydrocephalus
+
+Brain tumors are relatively uncommon, but they cause outsized disability. This lesson also covers hydrocephalus, since tumors are a frequent cause, and the two present with similar signs of raised intracranial pressure.
+
+## General Principles
+
+### Clinical Presentation
+Symptoms come from three mechanisms:
+
+* **Raised ICP:** progressive **headache** (worse in the morning, with coughing or bending), vomiting, papilledema, drowsiness, and CN VI palsy
+* **Focal deficits** from the tumor's location: weakness, aphasia, visual field loss, personality change
+* **Seizures:** the presenting symptom in about a third of patients, especially with slow-growing cortical tumors
+
+### Headache From a Brain Tumor
+Often **progressive, with features of raised ICP.** Many patients, however, have a headache that looks like a tension-type headache.
+
+### Localizing Features
+* **Frontal:** personality change, disinhibition, apathy, contralateral weakness
+* **Temporal:** seizures, memory problems, aphasia, quadrantanopia
+* **Parietal:** sensory loss, neglect, apraxia
+* **Occipital:** visual field loss
+* **Cerebellar:** ataxia, nystagmus, vomiting, early hydrocephalus
+* **Brainstem:** cranial nerve palsies and long tract signs
+* **Pituitary and suprasellar:** bitemporal hemianopia, hormonal disturbance
+
+### Diagnosis
+* **MRI brain with and without gadolinium** is the key study.
+* **CT** is done first in emergencies.
+* **Tissue diagnosis** (biopsy or resection) and molecular testing determine tumor type and guide therapy.
+* A search for a **primary cancer** (chest, abdomen, pelvis, breast) in suspected metastases.
+
+## Metastatic Brain Tumors
+
+The **most common brain tumors in adults.** Spread is hematogenous.
+
+* **Common primaries:** **lung, breast, melanoma, renal cell carcinoma, and colorectal cancer**
+* **Multiple lesions** at the **gray-white junction** of the cerebral hemispheres are typical, with **surrounding vasogenic edema** on MRI.
+* **Hemorrhagic metastases** are common with melanoma, renal cell carcinoma, thyroid carcinoma, and choriocarcinoma.
+* **Treatment:**
+  * **Dexamethasone** for symptomatic vasogenic edema
+  * **Stereotactic radiosurgery** for limited lesions, **surgery** for a single large lesion causing mass effect, and whole-brain radiotherapy in selected cases
+  * **Systemic therapy** (targeted therapy and immunotherapy have greatly improved outcomes)
+  * **Antiseizure drugs** only if the patient has had a seizure (levetiracetam is common)
+
+## Primary Brain Tumors
+
+### Glioma
+Tumors of glial cells.
+
+#### Glioblastoma (GBM, Grade 4 IDH-wildtype)
+* The **most common primary malignant brain tumor in adults.** Typical age 55 to 70.
+* **MRI:** a **ring-enhancing mass with central necrosis** and surrounding edema. Can cross the corpus callosum ("**butterfly glioma**").
+* **Treatment:** **maximal safe surgical resection,** followed by **radiotherapy with temozolomide.** Tumor-treating fields are sometimes added.
+* **Prognosis:** poor, median survival about **15 months** despite treatment.
+* **MGMT promoter methylation** predicts response to temozolomide.
+
+#### Lower-Grade Astrocytoma and Oligodendroglioma
+* Younger adults (30 to 40), often presenting with **seizures**
+* **IDH-mutant** gliomas have a better prognosis. **Oligodendroglioma** has **1p/19q codeletion** and responds well to chemotherapy. Calcification is typical.
+* Treatment includes surgery, radiation, and chemotherapy. Targeted therapy for IDH-mutant tumors.
+
+#### Pilocytic Astrocytoma
+The most common brain tumor in **children** (often cerebellar). Grade 1, slow-growing, **cystic with an enhancing nodule.** Often cured with surgery.
+
+### Meningioma
+* The **most common primary intracranial tumor overall.** Arises from **arachnoid cap cells.**
+* **More common in women,** and with increasing age. Associated with prior head radiation and neurofibromatosis type 2.
+* **Benign (Grade 1) in most.** Slow-growing, often found incidentally.
+* **MRI:** an **extra-axial** (outside the brain), **homogeneously enhancing** mass with a **dural tail.**
+* **Treatment:** observation of small asymptomatic tumors. Surgery or radiosurgery for growing or symptomatic ones.
+
+### Pituitary Adenoma
+* **Benign tumors** of the anterior pituitary. May be **functioning** or **nonfunctioning.**
+* **Prolactinoma** (the most common functioning): galactorrhea, amenorrhea, and infertility in women, and erectile dysfunction and headaches in men. **Treat with dopamine agonists (cabergoline).**
+* **Growth hormone-secreting:** acromegaly. **ACTH-secreting:** Cushing disease.
+* **Mass effect:** headaches, and **bitemporal hemianopia** from chiasm compression.
+* **Pituitary apoplexy:** sudden hemorrhage or infarction into a tumor, causing **severe headache, visual loss, ophthalmoplegia, and hypotension** from adrenal insufficiency. An emergency: **give hydrocortisone** and consult neurosurgery.
+* **Evaluation:** MRI of the pituitary, and hormone levels. Surgery (transsphenoidal) for most nonfunctioning or mass-effect tumors.
+
+### Vestibular Schwannoma (Acoustic Neuroma)
+* A benign tumor of the vestibular portion of **CN VIII,** at the **cerebellopontine angle**
+* **Unilateral sensorineural hearing loss, tinnitus, and imbalance,** then facial numbness and facial weakness with growth
+* **Bilateral schwannomas** are the hallmark of **neurofibromatosis type 2.**
+* **MRI with contrast** is diagnostic. Treatment: observation, radiosurgery, or surgery.
+
+### Primary CNS Lymphoma
+* Typically a **diffuse large B-cell lymphoma** of the brain, especially in **immunocompromised patients (HIV, associated with EBV)** and older adults
+* **Homogeneously enhancing periventricular lesions** that may cross the corpus callosum. Often **dramatically shrink on steroids** and can then be hard to biopsy, so **avoid steroids before biopsy** if lymphoma is suspected.
+* **Treatment:** high-dose methotrexate-based chemotherapy.
+
+### Medulloblastoma
+* The most common **malignant** brain tumor in **children,** arising in the **cerebellum (posterior fossa)**
+* Presents with **hydrocephalus, vomiting, headache, and ataxia** in a child
+* Treatment: surgery, craniospinal radiation, and chemotherapy. Can spread through CSF ("drop metastases").
+
+### Ependymoma
+Arises from the ventricular lining. Often in the **fourth ventricle** in children (causing hydrocephalus), and in the **spinal cord** in adults.
+
+### Craniopharyngioma
+A suprasellar tumor in children and adults. **Bitemporal hemianopia, hypopituitarism, diabetes insipidus,** and growth failure. Calcified and cystic.
+
+### Hemangioblastoma
+Cerebellar or spinal tumors, associated with **von Hippel-Lindau disease.** Can produce erythropoietin, causing **polycythemia.**
+
+## Neurocutaneous Syndromes
+
+* **Neurofibromatosis 1:** café-au-lait spots, neurofibromas, axillary freckling, **Lisch nodules,** and optic pathway gliomas
+* **Neurofibromatosis 2:** bilateral vestibular schwannomas, meningiomas
+* **Tuberous sclerosis:** seizures (including infantile spasms), cognitive disability, skin lesions (adenoma sebaceum, ash-leaf spots), **subependymal giant cell astrocytomas**
+* **Sturge-Weber syndrome:** facial port-wine stain, seizures, glaucoma
+* **Von Hippel-Lindau disease:** hemangioblastomas, renal cell carcinoma, pheochromocytoma
+
+## Managing Common Complications
+
+* **Vasogenic edema:** **dexamethasone** (for example 4 mg every 6 hours, adjusted), with gastric protection and glucose monitoring. Avoid long-term use if possible.
+* **Seizures:** treat after a seizure. **Prophylaxis is not recommended** for tumor patients who have never seized.
+* **Venous thromboembolism:** very common in brain tumor patients. Treat as in other patients.
+* **Cognitive and mood problems,** fatigue, and caregiver burden. Early **palliative care** involvement.
+
+## Hydrocephalus
+
+Excess CSF within the ventricles, from imbalance between production and absorption.
+
+### Types
+* **Obstructive (non-communicating):** a blockage within the ventricular system. Common causes: **aqueductal stenosis,** posterior fossa tumors, colloid cyst of the third ventricle, and intraventricular hemorrhage.
+* **Communicating:** CSF can flow through the ventricles, but is not absorbed adequately at the arachnoid granulations. Common causes: **subarachnoid hemorrhage, meningitis, and head trauma.**
+* **Normal pressure hydrocephalus (NPH):** chronic communicating hydrocephalus in older adults with gait disturbance, incontinence, and dementia (Lesson 12).
+* **Ex vacuo ventriculomegaly:** enlarged ventricles from brain atrophy. Not true hydrocephalus. No treatment.
+* **Congenital hydrocephalus:** neural tube defects, Chiari II malformation, aqueductal stenosis.
+
+### Presentation
+* **Acute hydrocephalus:** headache, vomiting, drowsiness, papilledema, **upgaze palsy (Parinaud syndrome),** gait problems, and potentially coma and death
+* **Infants:** **rapidly increasing head circumference,** a bulging anterior fontanelle, **"sunsetting" eyes** (downward gaze deviation), irritability, and vomiting
+* **Colloid cyst:** sudden severe headaches and sudden death in rare cases
+
+### Diagnosis
+**CT or MRI:** enlarged ventricles. **Periventricular edema** points to acute hydrocephalus.
+
+### Treatment
+* **Emergency:** **external ventricular drain (EVD)** to relieve pressure
+* **Definitive:** **ventriculoperitoneal (VP) shunt** or **endoscopic third ventriculostomy** (creates a new CSF pathway)
+* **Treat the cause** (remove obstructing tumors)
+
+### Shunt Complications
+* **Shunt malfunction or obstruction:** recurrent headache, vomiting, lethargy, and swelling along the shunt tract. A neurosurgical emergency, particularly in children.
+* **Shunt infection** (typically in the first months)
+* **Overdrainage:** low-pressure headache, subdural hematomas
+* **Peritoneal complications**
+
+> **Clinical Pearl:** In any patient with a shunt who has new headache, vomiting, or drowsiness, suspect shunt failure and obtain urgent imaging and neurosurgical review.
+
+## Chiari Malformation
+
+* **Chiari I:** the cerebellar tonsils descend through the foramen magnum. May cause **headache on coughing or straining,** neck pain, and **syringomyelia.** Often found incidentally.
+* **Chiari II:** associated with myelomeningocele and hydrocephalus in newborns.
+
+## Idiopathic Intracranial Hypertension (IIH)
+
+Raised ICP without a mass or hydrocephalus (see also the Neuro-Ophthalmology lesson in APP 103). Overweight women of childbearing age, headache, papilledema, and visual loss. **Weight loss and acetazolamide** are first-line, with surgical options for visual threat.
+
+> **Summary**
+> Brain tumors present with raised ICP, focal deficits, or seizures. Metastases are the most common adult brain tumors, usually multiple at the gray-white junction with vasogenic edema. Glioblastoma is the most common primary malignant tumor and has a poor prognosis. Meningioma is the most common primary tumor and shows a dural tail. Pituitary adenomas cause bitemporal hemianopia, and prolactinomas respond to cabergoline. Medulloblastoma is the main pediatric posterior fossa malignancy. Dexamethasone treats vasogenic edema. Hydrocephalus is obstructive or communicating, and is treated with an EVD, shunt, or ventriculostomy.

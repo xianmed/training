@@ -1,0 +1,261 @@
+# Microbiological Testing
+
+Microbiology identifies the organisms causing infection and shows which drugs will treat them. Good microbiology depends on **good specimens, collected at the right time and sent quickly.** A poor specimen gives a misleading result, no matter how advanced the laboratory.
+
+## Principles of Specimen Collection
+
+* **Collect before starting antibiotics** whenever possible, without delaying treatment in a sick patient
+* **Collect from the site of infection,** avoiding contamination with normal flora (skin, mouth, genital, and stool bacteria)
+* **Use the correct container and transport medium**
+* **Label accurately** with the patient, source, date and time, and suspected organism
+* **Transport promptly** (most within 1 to 2 hours). Some organisms die quickly, and others overgrow.
+* **Provide clinical information** (suspected diagnosis, antibiotics given, travel, immunosuppression) so the laboratory can choose the right tests
+* **Follow biosafety rules:** treat all specimens as potentially infectious (standard precautions)
+
+> **Clinical Pearl:** A culture is only as good as its specimen. A swab of the surface of a wound grows skin colonizers. A **tissue sample or deep aspirate** is far more useful.
+
+## Blood Cultures
+
+The most important microbiology test in a patient with suspected **sepsis, bacteremia, endocarditis, or fever of unknown origin.**
+
+### Collection
+* **Draw at least two sets** from **two separate venipuncture sites,** before antibiotics. One set means a single bottle pair (one **aerobic** and one **anaerobic** bottle).
+* **Adequate volume:** about **8 to 10 mL per bottle** in adults (**20 to 30 mL per set**), because more blood gives higher yield
+* **Skin antisepsis:** **chlorhexidine** (or alcohol and iodine), allowed to dry fully. **Disinfect the bottle tops.**
+* **Do not draw from existing IV lines** (unless suspected line infection, then draw one set from the line and one peripherally)
+* **Timing:** no need to wait for a fever spike
+
+### Interpretation
+* **Positive blood cultures** are a **critical result,** called to the clinician at once, with Gram stain results.
+* **Real pathogens (usually true positives):** *Staphylococcus aureus,* *Streptococcus pneumoniae,* *E. coli,* *Klebsiella,* *Pseudomonas,* *Candida,* and *Enterococcus*
+* **Common contaminants:** **coagulase-negative staphylococci** (when in only **1 of 2 sets**), *Corynebacterium* species, *Bacillus* (non-anthracis), *Cutibacterium acnes*
+* **Staphylococcus aureus in even one bottle is treated as real.**
+* **Time to positivity:** a shorter time suggests a higher burden of bacteria
+
+### Suspected Endocarditis
+Three sets from three separate sites over an hour (or more), before antibiotics.
+
+## Gram Stain
+
+A rapid stain (results in minutes) that divides bacteria into two groups by **cell wall structure** and shows their **shape.**
+
+* **Gram-positive:** retain the crystal violet, appearing **purple**
+* **Gram-negative:** lose the crystal violet and take up the safranin counterstain, appearing **pink or red**
+* **Shapes:** **cocci** (spheres), **bacilli** (rods), and their arrangement (**clusters, pairs, chains**)
+
+### Common Organisms by Gram Stain
+* **Gram-positive cocci in clusters:** ***Staphylococcus*** (including MRSA)
+* **Gram-positive cocci in chains or pairs:** ***Streptococcus,* *Enterococcus*** (pneumococcus appears as lancet-shaped diplococci)
+* **Gram-positive bacilli:** *Clostridium, Bacillus, Listeria, Corynebacterium*
+* **Gram-negative diplococci:** ***Neisseria gonorrhoeae and N. meningitidis*** (typically **intracellular** in white cells)
+* **Gram-negative bacilli:** *E. coli, Klebsiella, Pseudomonas, Proteus,* *Haemophilus* (small coccobacilli)
+* **Gram-variable and poorly staining organisms:** *Mycoplasma, Chlamydia, Legionella,* *Mycobacteria* (need special tests)
+
+### Uses and Limits
+* **Fast, guides empiric therapy,** and judges **specimen quality** (many white cells and few squamous cells in sputum)
+* **Does not identify the species,** and may miss organisms that are few in number
+* **Prior antibiotics** change the appearance
+
+## Culture and Identification
+
+### Growth Media
+* **Blood agar:** general growth, shows **hemolysis patterns**
+* **MacConkey agar:** selects for **gram-negative bacilli.** Shows **lactose fermenters** (pink: *E. coli, Klebsiella*) versus non-fermenters (colorless: *Pseudomonas, Salmonella, Shigella, Proteus*).
+* **Chocolate agar:** fastidious organisms (*Haemophilus, Neisseria*)
+* **Thayer-Martin agar:** selects for *Neisseria gonorrhoeae* and *meningitidis*
+* **Sabouraud agar:** fungi
+* **Löwenstein-Jensen and Middlebrook media:** mycobacteria (grow slowly, over weeks)
+* **Anaerobic media**
+
+### Identification Methods
+* **Colony morphology,** catalase and coagulase tests, oxidase test
+* **MALDI-TOF mass spectrometry:** rapid identification of bacteria and fungi from colonies, in minutes
+* **PCR and molecular assays**
+* **Automated biochemical panels**
+
+### Timing
+Most bacterial cultures are read at **24 to 48 hours.** **Mycobacteria** take **4 to 8 weeks** (faster with liquid media and molecular tests). **Fungi** can take several weeks.
+
+## Antimicrobial Susceptibility Testing
+
+Determines which antibiotics will work against the organism.
+
+* **Minimum inhibitory concentration (MIC):** the **lowest concentration** of the drug that stops visible growth
+* **Disk diffusion (Kirby-Bauer):** the size of a **zone of inhibition** around an antibiotic disk
+* **Reported as:**
+* **S (susceptible):** the drug is likely to work at standard doses
+* **I (intermediate or susceptible, increased exposure):** may work with higher dosing or at sites where the drug concentrates
+* **R (resistant):** the drug is unlikely to work
+* **Antibiogram:** the hospital's summary of local susceptibility patterns, used to choose empiric therapy
+
+### Resistance Mechanisms to Know
+* **MRSA** (methicillin-resistant *S. aureus*): *mecA* gene
+* **VRE** (vancomycin-resistant *Enterococcus*)
+* **ESBL** (extended-spectrum beta-lactamases): resistant to cephalosporins. Treat with carbapenems.
+* **Carbapenem-resistant Enterobacterales (CRE)**
+* **AmpC producers**
+* **Multidrug-resistant *Pseudomonas* and *Acinetobacter***
+* ***Clostridioides difficile*** (a consequence of antibiotic use)
+
+### Antimicrobial Stewardship
+* **Use the narrowest effective antibiotic** for the shortest effective time
+* **Review cultures and de-escalate** at 48 to 72 hours
+* **Avoid treating contaminants and asymptomatic bacteriuria**
+* **Use the right dose, route, and duration**
+* **Test for resistance** when needed
+
+## Rapid Diagnostic Tests
+
+### Rapid Antigen Tests (Point of Care)
+* **Rapid strep antigen test (group A *Streptococcus*):** a throat swab. **Specific, but moderately sensitive.** A **negative test in children should be confirmed with a throat culture.**
+* **Influenza and RSV rapid antigen tests:** less sensitive than PCR
+* **SARS-CoV-2 antigen tests:** fast, but less sensitive than PCR, particularly in asymptomatic people
+* **Urinary antigens:** ***Legionella pneumophila* serogroup 1** and ***Streptococcus pneumoniae***
+* **Cryptococcal antigen** (serum or CSF)
+* **Histoplasma and Blastomyces antigens**
+* **Galactomannan and beta-D-glucan** (invasive fungal infections)
+
+### Nucleic Acid Amplification Tests (NAAT) and PCR
+**Highly sensitive and specific** tests that detect the **genetic material** of the organism.
+* **Respiratory viral panels:** influenza, RSV, SARS-CoV-2, and others
+* **Multiplex panels** for meningitis and encephalitis, blood culture identification, GI pathogens, and respiratory pathogens
+* **HSV PCR in CSF** (HSV encephalitis)
+* **STI testing:** chlamydia and gonorrhea (urine, vaginal, or swab samples)
+* **TB (GeneXpert MTB/RIF):** detects *Mycobacterium tuberculosis* and **rifampin resistance** in hours
+* **Viral load tests:** HIV, hepatitis B and C, CMV, EBV
+* ***C. difficile* toxin gene**
+* **MRSA nasal screening:** PCR of the nares, with a **high negative predictive value** for MRSA pneumonia (helps de-escalate vancomycin)
+
+> **Clinical Pearl:** A **positive PCR** shows that genetic material is **present,** which may reflect infection, colonization, or residual DNA from a past infection. Interpret with the clinical picture.
+
+## Specimen-Specific Testing
+
+### Respiratory Tract
+* **Sputum:** the quality matters. A good sample has **below 10 squamous epithelial cells and above 25 white cells per low-power field.**
+* **Throat swab:** rapid strep, culture
+* **Nasopharyngeal swab:** viral PCR, pertussis PCR
+* **Bronchoalveolar lavage:** better sample in pneumonia not responding to treatment, in immunocompromised patients
+* **Atypical pathogens:** *Legionella* urinary antigen, *Mycoplasma* PCR, *Chlamydophila* PCR
+
+### Urine
+Clean catch, midstream. Culture is **positive when above 100,000 CFU/mL** (classically), and lower counts are significant in symptomatic patients and catheter specimens. See Lesson 11.
+
+### Stool
+* **Stool culture:** *Salmonella, Shigella, Campylobacter,* *E. coli* O157 (Shiga toxin testing)
+* **Multiplex GI PCR panels:** fast and sensitive, but can detect colonization
+* ***Clostridioides difficile*:** test only patients with **three or more unformed stools in 24 hours** and risk factors (recent antibiotics, hospitalization). Use a **two- or three-step algorithm:** a **glutamate dehydrogenase (GDH) antigen** screen, a **toxin enzyme immunoassay,** and **PCR** for the toxin gene as arbitrator. **Do not test for cure,** and do not test formed stool.
+* **Ova and parasites (O&P),** *Giardia* antigen, and *Cryptosporidium* tests. Send multiple samples if needed.
+* **Fecal occult blood and FIT:** bleeding, colon cancer screening
+* **Fecal calprotectin:** differentiates inflammatory bowel disease from irritable bowel syndrome
+
+### Wounds and Abscesses
+* **Deep tissue or pus aspirate** is better than a swab
+* **Aerobic and anaerobic cultures**
+* **Bone and tissue biopsy** for osteomyelitis
+
+### Genital Tract and Sexually Transmitted Infections
+* **NAAT** for **chlamydia and gonorrhea** (urine for men, vaginal swab for women, and extragenital sites as relevant)
+* **Trichomonas** NAAT or antigen
+* **HSV PCR** of a lesion
+* **Syphilis serology** (below), **HIV testing** (below)
+* **Bacterial vaginosis:** Amsel criteria, Nugent score. **Candida:** KOH wet mount.
+
+### CSF
+**Gram stain, culture, PCR,** and specific antigens (see Lesson 9). **Bacterial meningitis:** culture and Gram stain. **Viral:** HSV, VZV, enterovirus PCR. **Fungal:** cryptococcal antigen, India ink.
+
+## Mycobacterial Testing (Tuberculosis)
+
+### Latent TB Screening
+* **Tuberculin skin test (TST, Mantoux):** inject 0.1 mL of PPD intradermally, and **measure the induration (not the redness) at 48 to 72 hours.**
+* **Positive at 5 mm or more:** HIV, close contacts of active TB, organ transplant, immunosuppression, abnormal chest X-ray
+* **Positive at 10 mm or more:** recent immigrants from high-prevalence countries, IV drug users, healthcare workers, residents of congregate settings, and chronic illness
+* **Positive at 15 mm or more:** people with no risk factors
+* **False negatives:** immunosuppression, severe illness, and **overwhelming TB**
+* **False positives:** BCG vaccination and nontuberculous mycobacteria
+* **Interferon-gamma release assays (IGRAs, such as QuantiFERON-TB Gold and T-SPOT.TB):** blood tests not affected by BCG. **Preferred** in BCG-vaccinated people.
+* **Neither test distinguishes latent from active TB.**
+
+### Active TB
+* **Sputum for AFB smear** (acid-fast stain, Ziehl-Neelsen or auramine-rhodamine), **NAAT (GeneXpert),** and **culture** (the gold standard). **Three sputum samples** at least 8 hours apart, with at least one early morning.
+* **Chest X-ray:** upper lobe cavitary disease, miliary pattern
+* **Drug susceptibility testing** is essential.
+* **Airborne isolation** (negative pressure room, N95 respirator) until TB is excluded.
+* **Report to public health.**
+
+## Fungal Testing
+
+* **KOH preparation:** skin, nail, and hair scrapings
+* **Calcofluor white stain**
+* **India ink** and **cryptococcal antigen**
+* **Culture** (slow)
+* **Antigen tests:** *Histoplasma,* *Blastomyces,* galactomannan, **beta-D-glucan**
+* **PCR**
+
+## Parasitology
+
+* **Thick and thin blood smears** (Giemsa stain) for **malaria:** the thick smear is more sensitive, and the thin smear identifies the species and parasite load. **Repeat every 12 to 24 hours for three sets** if negative and suspicion remains. **Rapid antigen tests** are available.
+* **Stool O&P**
+* **Serology** for *Strongyloides,* *Toxoplasma,* *Toxocara,* schistosomiasis, and others
+
+## Serology (Antibody Testing)
+
+Detects the immune response, and is used when the organism is hard to culture.
+
+* **IgM:** appears early, and indicates **recent or acute infection**
+* **IgG:** appears later, indicates **past infection or immunity,** and a **four-fold rise in titer** between acute and convalescent samples indicates recent infection
+* **Limitations:** time lag (negative early in infection), cross-reactivity, **persistent IgM,** and false positives
+
+### HIV Testing
+* **Fourth-generation HIV antigen/antibody combination assay:** the standard screening test. Detects **p24 antigen and antibodies,** and shortens the window period to about **2 to 4 weeks.**
+* **Confirm with an HIV-1/HIV-2 antibody differentiation assay,** and **HIV-1 RNA** if results are discordant
+* **Rapid tests** at the point of care
+* **Viral load** and **CD4 count** monitor disease and treatment
+* **Genotype resistance testing** before starting therapy
+* **Window period** means a very early infection can be missed. Repeat testing after high-risk exposures.
+
+### Hepatitis B Serology
+* **HBsAg:** current infection (acute or chronic)
+* **Anti-HBs:** immunity (from vaccination or recovery)
+* **Anti-HBc IgM:** acute infection
+* **Anti-HBc total (IgG):** past or ongoing infection
+* **HBeAg and HBV DNA:** infectivity and replication
+
+### Hepatitis C
+**Anti-HCV antibody screen,** then **HCV RNA** to confirm active infection.
+
+### Syphilis
+* **Nontreponemal tests (RPR, VDRL):** quantitative titers, **used to monitor treatment response.** Can be falsely positive (pregnancy, autoimmune disease, other infections).
+* **Treponemal tests (FTA-ABS, TP-PA, EIA):** specific, and stay positive for life.
+* **Traditional algorithm:** RPR/VDRL first, confirmed with a treponemal test. **Reverse algorithm:** treponemal EIA first, then RPR.
+* **Neurosyphilis:** CSF VDRL
+* **Darkfield microscopy** of chancre fluid (rarely available)
+
+### Other Serologies
+* **Lyme disease:** two-tier testing (EIA then Western blot, or modified algorithm). **Not useful in the first few weeks.** **Erythema migrans is diagnosed clinically.**
+* **EBV:** heterophile antibody (monospot) and EBV-specific antibodies
+* **CMV, toxoplasmosis, rubella, varicella:** immunity and congenital infection
+* **COVID-19 antibody** (rarely needed clinically)
+
+## Infection Biomarkers
+
+* **Procalcitonin:** may help distinguish **bacterial** from **viral** infection and shorten antibiotic courses
+* **CRP, ESR, white cell count**
+* **Lactate**
+
+## Infection Prevention and Reporting
+
+* **Standard precautions** for all patients. **Transmission-based precautions** (contact, droplet, airborne) for specific infections.
+* **Notifiable diseases** (such as TB, HIV, hepatitis, syphilis, measles, meningococcal disease) must be **reported** to public health.
+* **Screening cultures** (MRSA, VRE, CRE) in selected high-risk settings
+* **Vaccination and prophylaxis**
+
+## Interpreting Results in Context
+
+* **Colonization versus infection:** organisms in a sputum or wound culture may be colonizers. Treat **infection,** not a positive culture.
+* **Contamination:** a single positive blood culture with skin flora is usually a contaminant
+* **No growth:** may reflect prior antibiotics, slow-growing organisms, or inadequate sampling
+* **Discordance with clinical picture:** repeat and discuss with the microbiology laboratory
+* **Prior results:** always check the patient's previous cultures and resistance history
+
+> **Summary**
+> Collect specimens before antibiotics, from the right site, and send them promptly. Draw two sets of blood cultures from separate sites with adequate volume, and treat *S. aureus* as real even in one bottle. The Gram stain is a quick guide: purple (positive) versus pink (negative), and shape. Susceptibility testing reports MIC and S, I, or R. PCR is sensitive but cannot distinguish colonization from infection. Test for *C. difficile* only in patients with diarrhea and risk factors. Use TST or IGRA for latent TB, and AFB smear, NAAT, and culture for active TB. For HIV, use a fourth-generation antigen/antibody test, and for syphilis, use treponemal and nontreponemal tests together.

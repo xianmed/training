@@ -1,0 +1,130 @@
+# Corneal Disorders and Dry Eye
+
+The cornea is the eye's clear front window, and it is extremely sensitive. Corneal problems cause pain, light sensitivity, tearing, and reduced vision. Because the cornea has no blood supply, infections can progress quickly and heal slowly.
+
+## Corneal Abrasion
+
+A scratch of the corneal epithelium.
+
+### Causes
+Fingernails, branches, paper, contact lenses, foreign bodies under the upper lid.
+
+### Presentation
+* Sudden pain, tearing, foreign body sensation, light sensitivity
+* Blurred vision, blinking, difficulty opening the eye
+
+### Diagnosis
+Fluorescein shows a green stained defect. **Multiple vertical linear scratches** point to a retained foreign body under the upper lid, so evert the lid.
+
+### Management
+* **Topical antibiotic:** erythromycin ointment or a drop. Contact lens wearers need fluoroquinolone drops for Pseudomonas coverage.
+* **Pain control:** oral NSAIDs or acetaminophen. Cycloplegic drops (such as cyclopentolate) can relieve ciliary spasm.
+* **No patching.** It does not speed healing and may raise infection risk.
+* **Do not send patients home with topical anesthetic.** Overuse delays healing and damages the cornea.
+* **Follow-up** in 24 hours for large abrasions, contact lens wearers, or poor improvement.
+* Most heal within 1 to 3 days.
+
+## Corneal Foreign Body
+
+Metal, wood, or other particles lodged in the cornea.
+
+* Anesthetize the eye, remove with a needle or spud under magnification, and treat as an abrasion.
+* A **rust ring** can form around metal and must be removed.
+* **Never attempt removal if the object may have penetrated the globe.**
+
+## Ultraviolet Keratitis
+
+Also called welder's flash or snow blindness. Intense pain, tearing, and light sensitivity appearing **6 to 12 hours after exposure** to UV from welding arcs, tanning beds, or snow glare. Both eyes. Treated like an abrasion. Resolves in 24 to 48 hours.
+
+## Infectious Keratitis
+
+Infection of the cornea is a sight-threatening emergency. The classic warning signs are **pain, redness, light sensitivity, reduced vision, and a white spot on the cornea** (an infiltrate).
+
+> **Clinical Pearl:** In a contact lens wearer, a corneal infiltrate is a bacterial ulcer until proven otherwise.
+
+### Bacterial Keratitis
+* **Risk factors:** contact lens wear (especially overnight), trauma, dry eye, prior corneal disease.
+* **Organisms:** Pseudomonas aeruginosa (most common in lens wearers), Staphylococcus, Streptococcus.
+* **Signs:** white infiltrate with an overlying epithelial defect, surrounding haze, anterior chamber reaction, possible **hypopyon**.
+* **Diagnosis:** corneal scraping for Gram stain and culture in severe cases.
+* **Treatment:** intensive topical antibiotics. Fluoroquinolone drops every 1 to 2 hours, or fortified antibiotics for severe ulcers. Close follow-up and ophthalmology involvement. Avoid steroids until infection is controlled.
+
+### Fungal Keratitis
+* **Risk factors:** plant or vegetable trauma (branch, thorn), humid climates, steroid use.
+* **Signs:** gray-white infiltrate with **feathery borders** and satellite lesions.
+* **Treatment:** topical natamycin or voriconazole. Slow to respond. Often needs oral antifungals or surgery.
+
+### Acanthamoeba Keratitis
+* **Risk factors:** contact lenses combined with water exposure (swimming, hot tubs, rinsing lenses with tap water).
+* **Signs:** **pain out of proportion to the exam findings**, a **ring-shaped infiltrate**, and nerve involvement (perineuritis).
+* **Treatment:** prolonged topical polyhexamethylene biguanide (PHMB) or chlorhexidine. Difficult to treat.
+* Often misdiagnosed as herpes simplex.
+
+### Herpes Simplex Keratitis
+* **Presentation:** pain, red eye, light sensitivity, reduced vision. Corneal sensation is often reduced.
+* **Classic sign:** **dendritic ulcer**. A branching lesion that stains with fluorescein and has **terminal bulbs**.
+* **Treatment:** topical ganciclovir gel or trifluridine, or oral acyclovir or valacyclovir. Avoid topical steroids in active epithelial disease.
+* **Recurrence:** common. Deeper stromal disease causes scarring and may need steroids under specialist guidance. Long-term oral prophylaxis helps recurrent disease.
+
+### Herpes Zoster Ophthalmicus
+Reactivation of varicella zoster in the ophthalmic division (V1) of the trigeminal nerve.
+
+* **Presentation:** painful vesicular rash on the forehead and upper lid on one side, often preceded by pain and tingling.
+* **Hutchinson sign:** vesicles on the tip or side of the nose indicate involvement of the **nasociliary nerve** and a high risk of eye involvement.
+* **Eye involvement:** keratitis, uveitis, raised IOP, scleritis, retinitis, and optic neuritis.
+* **Treatment:** oral antiviral (valacyclovir 1 g three times a day for 7 to 10 days) started within 72 hours. Ophthalmology referral for any eye symptoms or Hutchinson sign. Topical steroids for stromal disease or uveitis.
+* **Prevention:** the shingles vaccine reduces risk and complications.
+* **Post-herpetic neuralgia** can be severe.
+
+## Dry Eye Disease
+
+A very common condition of the tear film and ocular surface.
+
+### Types
+* **Aqueous deficient:** the lacrimal gland does not produce enough tears. Seen in Sjögren syndrome, aging, and some medications.
+* **Evaporative:** caused by meibomian gland dysfunction, so tears evaporate too quickly. The most common type.
+
+### Symptoms
+Burning, grittiness, foreign body sensation, fluctuating blurry vision, tearing (reflex tearing in response to dryness), worse with screens, wind, and air conditioning.
+
+### Risk Factors
+Age, female sex, screen use, contact lenses, autoimmune disease (Sjögren, RA, SLE), medications (antihistamines, antidepressants, isotretinoin, diuretics), menopause.
+
+### Diagnosis
+Tear breakup time, staining of the cornea and conjunctiva, Schirmer test (strip of paper in the lower lid measures tear production).
+
+### Management
+* Preservative-free artificial tears
+* Warm compresses and lid hygiene (for meibomian gland disease)
+* Omega-3 supplementation
+* Prescription drops: **cyclosporine** or **lifitegrast** to reduce inflammation
+* **Punctal plugs** to retain tears
+* Treat blepharitis and review medication lists
+* Environmental changes and regular screen breaks
+
+> **Clinical Pearl:** Dry eye is one of the most common reasons for a red, irritated eye with fluctuating vision. In severe cases consider Sjögren syndrome.
+
+## Exposure Keratopathy
+
+When the eyelids do not close fully, the cornea dries and breaks down.
+
+* **Causes:** facial nerve palsy, severe thyroid eye disease, sedation, coma, ICU patients.
+* **Prevention:** lubricating ointment, taping lids closed, moisture chambers in critically ill patients.
+
+## Keratoconus
+
+A progressive thinning and cone-like bulging of the cornea, usually in teenagers and young adults.
+
+* **Causes:** genetic, eye rubbing, and atopy.
+* **Symptoms:** progressive blur and distortion, frequent glasses changes, glare.
+* **Signs:** Munson sign (V-shaped lower lid indent on downgaze), Fleischer ring, Vogt striae.
+* **Diagnosis:** corneal topography.
+* **Treatment:** glasses, rigid contact lenses, **corneal cross-linking** to halt progression, and corneal transplant in advanced cases.
+* **Acute hydrops:** sudden swelling and clouding from a break in Descemet membrane.
+
+## Corneal Transplant
+
+Keratoplasty replaces diseased cornea with donor tissue. Indications include keratoconus, scarring, and endothelial failure (Fuchs dystrophy). **Rejection** can occur even years later. Warning signs are redness, pain, light sensitivity, and reduced vision, and require urgent evaluation.
+
+> **Summary**
+> Corneal abrasions are stained with fluorescein and treated with antibiotic drops without patching or take-home anesthetic. Corneal infiltrates are infections until proven otherwise, especially in contact lens wearers. Herpes simplex shows a dendritic ulcer, zoster with a nasal tip rash (Hutchinson sign) can involve the eye, and Acanthamoeba causes severe pain from tap water exposure. Dry eye is common and managed with tears, lid care, and anti-inflammatory drops.

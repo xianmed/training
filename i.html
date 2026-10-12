@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Certificate</title>
+<style>
+  :root {
+    --logo-red: #D9271D;
+    --logo-blue: #08356C;
+    --logo-primary: #f5f7fa;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 24px;
+    background: #f3f4f6;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+  }
+  .certificate-frame {
+    width: min(100%, 1200px);
+    aspect-ratio: 1200 / 850;
+    background: white;
+  }
+  #certificate-canvas {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+  #download-png {
+    padding: 11px 18px;
+    border: 0;
+    border-radius: 6px;
+    background: var(--logo-blue);
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  #download-png:hover { filter: brightness(1.12); }
+  @media print {
+    body { padding: 0; background: white; }
+    #download-png { display: none; }
+    .certificate-frame { width: 100vw; }
+  }
+</style>
+</head>
+<body>
+  <main class="certificate-frame" aria-label="Certificate">
+    <canvas id="certificate-canvas" width="1200" height="850">
+      Your browser does not support the canvas element.
+    </canvas>
+  </main>
+  <button id="download-png" type="button">Download as PNG</button>
+
+<script>
+
+  function fillTextStretch(ctx, text, x, y, targetWidth) {
+    // 1. Measure the text with zero extra spacing
+    ctx.letterSpacing = "0px";
+    const normalWidth = ctx.measureText(text).width;
+    
+    // 2. Calculate remaining space and divide it by the number of gaps
+    const totalGaps = text.length - 1;
+    
+    if (targetWidth > normalWidth && totalGaps > 0) {
+        const extraSpacePerGap = (targetWidth - normalWidth) / totalGaps;
+        // 3. Apply the calculated spacing
+        ctx.letterSpacing = `${extraSpacePerGap}px`;
+    }
+    
+    // 4. Draw the text
+    ctx.fillText(text, x+=ctx.measureText(text[0]).width/2.8, y);
+    
+    // Reset spacing for future draws
+    ctx.letterSpacing = "0px";
+}
+
+/**
+ * Draws the certificate text onto a fixed-size canvas.
+ * In production, call this function with values obtained by your server-side
+ * or application integration. There are no client-side editing fields.
+ *
+ * @param {Object} fields
+ * @param {string} fields.name
+ * @param {string} fields.specialty
+ * @param {string} fields.dateAwarded
+ * @param {string} fields.institutionName
+ * @param {string} fields.websiteUrl - Printed as text into the exported image.
+ */
+function generate_certificate({
+  name = "Alexandra Morgan",
+  specialty = "Certificate in Cardiovascular Medicine",
+  dateAwarded = "October 12, 2026",
+  institutionName = "Northbridge Institute of Medical Studies",
+  websiteUrl = "example.com/cert?number=29320348"
+} = {}) {
+  const canvas = document.getElementById("certificate-canvas");
+  const ctx = canvas.getContext("2d");
+  const W = canvas.width;
+  const H = canvas.height;
+
+/**
+ * 
+ * #D9271D;
+    --logo-blue: #08356C;
+    --logo-primary: #f5f7fa;
+ * 
+ * **/
+
+
+  // Plain white background and text only; apply your own styling here.
+  ctx.clearRect(0, 0, W, H);
+  ctx.fillStyle = "#08356C";
+  ctx.fillRect(0, 0, W, H);
+  ctx.fillStyle = "#08356C";
+  ctx.textAlign = "center";
+  ctx.textBaseline = "alphabetic";
+
+    const S1=(H/W)*103;
+
+  for(let i = 0; i < H/S1; i++) {
+    for(let j = 0; j < W/S1; j++) {
+      ctx.beginPath();
+      //ctx.fillStyle = (i + j) % 2 === 0 ? "#f5f7fa" : "#ffffff";
+      ctx.arc(j * S1, i * S1, S1/2, 0, 2 * Math.PI); 
+      ctx.strokeStyle = '#f5f7fa';
+ctx.lineWidth = 3;
+ctx.stroke();
+    }
+  }
+
+
+
+  ctx.strokeStyle = "#f5f7fa";
+  ctx.fillStyle = "#f5f7fa";
+
+  ctx.fillRect(W/5,H/5-S1,W-(2*W/5),4.1*H/5);
+
+  ctx.strokeStyle = "black";
+  ctx.fillStyle = "black";
+
+  ctx.font = "70px serif";
+  ctx.fillText("BOARD CERTIFICATE", W / 2, 170);
+
+  ctx.font = "italic 18px serif";
+  ctx.fillText("This certifies that", W / 2, 283);
+
+  ctx.font = "bold 38px serif";
+  ctx.fillText(name, W / 2, 325, 1080);
+
+  ctx.font = "italic 18px serif";
+  ctx.fillText("has completed the requirements for", W / 2, 370);
+
+  ctx.font = "bold 27px serif";
+  ctx.fillText(specialty, W / 2, 420, 1080);
+
+  ctx.font = "italic 18px serif";
+  ctx.fillText("granted by", W / 2, 460);
+
+  ctx.font = "bold 23px serif";
+  ctx.fillText(institutionName, W / 2, 500, 1080);
+
+  ctx.font = "italic 17px serif";
+  ctx.fillText("Date awarded: " + dateAwarded, W / 2, 625, 1080);
+
+  // This is drawn onto the canvas (not an HTML link), so it remains in the PNG.
+  ctx.textAlign = "left";
+  ctx.font = "15px serif";
+  ctx.fillText(String(websiteUrl), W/5+9,H/5-S1 + 4.1*H/5 -3, 600);
+
+  const img = new Image();
+
+    // 4. WAIT for the image to load before drawing it
+    img.onload = function() {
+      // Arguments: (imageObject, xPosition, yPosition)
+      ctx.drawImage(img, W/5 + W-(2*W/5) - S1*1.7, H/5-S1 + 4.1*H/5 - S1*1.7, S1*1.7, S1*1.7); 
+    };
+
+    // 5. Set the source URL (triggers the load event)
+    img.src = 'assets/xian-logo.png'; // Replace with the actual path to your logo image
+
+
+}
+
+document.getElementById("download-png").addEventListener("click", () => {
+  const canvas = document.getElementById("certificate-canvas");
+  const download = document.createElement("a");
+  download.download = "certificate.png";
+  download.href = canvas.toDataURL("image/png");
+  download.click();
+});
+
+
+async function main() {
+  // Pass the search portion of the URL (everything after the ?)
+const urlParams = new URLSearchParams(window.location.search); 
+const id = urlParams.get('q');
+const fetchCSV = async () => {
+  try {
+    const response = await fetch('/data/certlisting.txt');
+    
+    if (!response.ok) {
+      throw new Error(`HTTP error! Status: ${response.status}`);
+    }
+
+    // Read the response payload as text, not JSON
+    const csvText = await response.text(); 
+    return csvText;
+    
+  } catch (error) {
+    console.error('Error fetching CSV:', error);
+  }
+};
+
+  let records = await fetchCSV();
+  records = records.split('\n').map(line => line.split(','));
+  records.shift();
+
+  let record = records.find(r => r[0] == id);
+
+  if (record) {
+    generate_certificate({
+      name: record[1],
+      specialty: record[2],
+      dateAwarded: record[3],
+      institutionName: record[4],
+      websiteUrl: "https://xianmed.github.io/training/i.html?q=" + id
+    });
+  } else {
+    console.error('No record found for ID:', id);
+  }
+
+}
+
+// Placeholder values for now; replace these arguments in your integration.
+generate_certificate({
+  name: "Alexandra Morgan",
+  specialty: "Fellowship in Trauma and Surgical Critical Care",
+  dateAwarded: "October 12, 2026",
+  institutionName: "Xi'an Medical",
+  websiteUrl: "https://xianmed.github.io/training/i.html?q=29320348"
+});
+
+window.generate_certificate = generate_certificate;
+
+window.onload = () => {
+  main();
+};
+</script>
+</body>
+</html>

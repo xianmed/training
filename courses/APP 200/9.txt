@@ -1,0 +1,149 @@
+# Traumatic Brain Injury, Raised ICP, and Herniation
+
+Head injury is a leading cause of death and disability in young people. The brain is injured twice: first by the impact (**primary injury**), and then by swelling, low oxygen, and low blood pressure afterward (**secondary injury**). Emergency care aims to prevent the second.
+
+## Severity Classification
+
+Based on the Glasgow Coma Scale (GCS) after resuscitation:
+
+* **Mild:** GCS 13 to 15
+* **Moderate:** GCS 9 to 12
+* **Severe:** GCS 8 or less
+
+## Types of Traumatic Brain Injury
+
+### Concussion
+A transient disturbance of brain function from a blow or force to the head, **without structural injury on standard imaging.**
+
+* **Symptoms:** headache, confusion, amnesia, dizziness, nausea, light and noise sensitivity, and trouble concentrating. Loss of consciousness is **not required.**
+* **Management:** brief rest, then **gradual** return to school or work and then to sport. Avoid return to contact sports until symptoms have resolved and the athlete has progressed through a stepwise program.
+* **Second impact syndrome:** a second head injury before recovery can cause rapid, catastrophic swelling, especially in adolescents.
+* Most recover in days to weeks. A minority have **persistent post-concussive symptoms.**
+
+### Contusion
+Bruising of brain tissue. Common at the frontal and temporal poles. **Coup** (at the site of impact) and **contrecoup** (opposite side) injuries occur. May expand in the first 24 to 48 hours, so repeat imaging is common.
+
+### Diffuse Axonal Injury (DAI)
+Shearing of axons from rotational acceleration and deceleration, as in motor vehicle crashes. Patients may be unconscious from the moment of impact, with **a normal-looking CT.** MRI shows small hemorrhages at the gray-white junction, corpus callosum, and brainstem. Prognosis depends on the severity.
+
+### Intracranial Hemorrhage
+Epidural, subdural, subarachnoid, and intracerebral bleeding (Lesson 8).
+
+### Skull Fractures
+* **Linear:** often benign, but can tear the middle meningeal artery.
+* **Depressed:** bone pushed inward, may need surgery.
+* **Basilar skull fracture:** **raccoon eyes** (periorbital bruising), **Battle sign** (bruising behind the ear), **hemotympanum,** and **CSF leakage** from the nose or ear. Do not place nasal tubes.
+
+## Initial Management
+
+1. **ABCs with cervical spine protection.**
+2. **Avoid hypoxia and hypotension.** A single episode of hypotension (systolic below 90 mmHg) or low oxygen markedly worsens outcome.
+3. **Assess GCS, pupils, and focal deficits.**
+4. **Secure the airway** for GCS 8 or less, or if the patient cannot protect it.
+5. **Check glucose.**
+6. **Non-contrast CT head** (and cervical spine as needed).
+7. **Identify and treat other injuries.**
+
+### Who Needs a CT? (Mild TBI)
+Use validated decision rules, such as the **Canadian CT Head Rule** or **New Orleans criteria.** High-risk features include:
+* GCS below 15 at 2 hours after injury
+* Suspected open or depressed skull fracture, or signs of a basilar fracture
+* Vomiting two or more times
+* Age 65 or older
+* Dangerous mechanism (high-speed crash, pedestrian struck, fall from height)
+* Retrograde amnesia of 30 minutes or more
+* **Anticoagulant use** (a low threshold for imaging, and sometimes a repeat CT)
+* Post-traumatic seizure
+
+For children, the **PECARN rules** guide imaging to limit radiation.
+
+> **Clinical Pearl:** Anticoagulated older adults can have delayed intracranial bleeding. Do not discharge a patient on a blood thinner after head injury without a normal CT and clear return precautions.
+
+## Raised Intracranial Pressure
+
+### Causes
+Mass lesions (hematoma, tumor, abscess), brain swelling (edema from stroke, trauma, or infection), hydrocephalus, venous outflow obstruction, and idiopathic intracranial hypertension.
+
+### Types of Cerebral Edema
+* **Vasogenic:** breakdown of the blood-brain barrier, seen around tumors and abscesses. Responds to **corticosteroids.**
+* **Cytotoxic:** cell swelling from energy failure, as in stroke and cardiac arrest. Does **not** respond to steroids.
+* **Interstitial:** CSF crossing the ventricular wall in hydrocephalus.
+
+### Symptoms and Signs
+* **Headache** (worse when lying down, in the morning, or with coughing)
+* **Vomiting,** sometimes without nausea
+* **Decreasing level of consciousness**
+* **Papilledema** (late in acute rises)
+* **Cranial nerve VI palsy**
+* **Cushing triad (late, ominous):**
+  * **Hypertension** (with a widened pulse pressure)
+  * **Bradycardia**
+  * **Irregular respirations**
+
+### Management of Raised ICP
+Stepwise approach (general principles):
+
+* **Head of bed elevated 30 degrees,** head midline to promote venous drainage
+* Keep **normal oxygen and carbon dioxide,** normothermia, and **normal sodium**
+* **Avoid hypotension** and maintain cerebral perfusion pressure (60 to 70 mmHg)
+* **Sedation and analgesia,** control of agitation, pain, and seizures
+* **Hyperosmolar therapy:** **mannitol** (0.25 to 1 g/kg IV) or **hypertonic saline** (for example 3 percent, or a 23.4 percent bolus through central access). Monitor serum sodium and osmolality.
+* **Brief hyperventilation** (target PaCO2 30 to 35 mmHg) only as a **temporary bridge** for acute herniation, since the effect is short-lived and can cause ischemia.
+* **CSF drainage** with an external ventricular drain (EVD)
+* **Second-tier therapies:** barbiturate coma, therapeutic hypothermia, and neuromuscular paralysis
+* **Surgical:** evacuate mass lesions. **Decompressive craniectomy** removes a portion of skull to give the brain room, and can be life-saving.
+* **Dexamethasone** is used for **tumor-related vasogenic edema** but is **not** used in traumatic brain injury (increased mortality).
+
+### ICP Monitoring
+An intraparenchymal monitor or EVD is placed in severe TBI (GCS 8 or less with an abnormal CT). Treat ICP above **20 to 22 mmHg.**
+
+## Brain Herniation
+
+When pressure differences push brain tissue across rigid barriers, it compresses vital structures. A neurologic emergency.
+
+### Uncal (Transtentorial) Herniation
+The medial temporal lobe (uncus) pushes down through the tentorial opening.
+
+* **Compression of CN III:** ipsilateral **dilated, fixed ("blown") pupil,** then ptosis and eye deviated down and out
+* **Compression of the cerebral peduncle:** **contralateral hemiparesis.** Sometimes the opposite peduncle is pressed against the tentorial edge (**Kernohan notch phenomenon**), which causes **false-localizing ipsilateral weakness.**
+* Compression of the **posterior cerebral artery:** occipital infarction
+* Progression to coma, posturing, and respiratory failure
+
+### Central Transtentorial Herniation
+Downward displacement of the diencephalon and midbrain. Drowsiness, small reactive pupils, and posturing, progressing to fixed mid-position pupils and loss of brainstem reflexes.
+
+### Subfalcine Herniation
+The cingulate gyrus moves under the falx cerebri. May compress the **anterior cerebral artery** and cause leg weakness.
+
+### Tonsillar Herniation
+The cerebellar tonsils move through the foramen magnum and compress the medulla. **Sudden apnea, bradycardia, and death.** This is a risk with a lumbar puncture in the presence of a posterior fossa mass or high ICP.
+
+### Upward Herniation
+Posterior fossa mass pushes the cerebellum up through the tentorium.
+
+### Posturing
+* **Decorticate (flexor):** arms flexed, legs extended. Lesion above the red nucleus.
+* **Decerebrate (extensor):** arms and legs extended. Lesion at the midbrain or pons, a worse sign.
+
+## Emergency Herniation Protocol
+
+If signs of herniation appear (dilating pupil, posturing, Cushing response, falling GCS):
+1. Call for help and neurosurgery.
+2. **Secure the airway** and ventilate.
+3. **Hyperosmolar therapy** (mannitol or hypertonic saline).
+4. **Brief hyperventilation.**
+5. **Elevate the head** of the bed.
+6. **Urgent imaging** and surgical decompression.
+
+## Post-Traumatic Complications
+
+* **Post-traumatic seizures:** early prophylaxis (such as levetiracetam for 7 days) in severe TBI
+* **Post-traumatic hydrocephalus**
+* **Cranial nerve injuries,** especially anosmia (CN I)
+* **CSF leak, meningitis**
+* **Hormonal dysfunction** (hypopituitarism, diabetes insipidus)
+* **Cognitive, behavioral, and emotional problems,** depression, and sleep disturbance
+* **Chronic traumatic encephalopathy** with repeated head trauma (a topic of ongoing research)
+
+> **Summary**
+> TBI is classified by GCS, and secondary injury from hypoxia, hypotension, and swelling is preventable. Concussion is a functional injury with a normal CT. Use decision rules to select CT, and image anticoagulated older adults liberally. Raised ICP presents with headache, vomiting, falling consciousness, and Cushing triad. Treat with head elevation, osmotic therapy, sedation, and surgery. Uncal herniation causes an ipsilateral blown pupil and contralateral weakness. Steroids help tumor edema but not trauma.

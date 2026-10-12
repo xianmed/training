@@ -1,0 +1,130 @@
+# Introduction to Diagnostics
+
+Every diagnosis begins with a story and an examination. Tests do not replace that work. They **confirm, refine, or exclude** the possibilities you have already built. A clinician who orders tests without a question in mind collects numbers. A clinician who orders tests with a question in mind makes decisions.
+
+## The Purpose of Testing
+
+A test is worth ordering when its result could **change what you do next.** Tests are used to:
+
+* **Diagnose:** confirm or rule out a suspected condition
+* **Screen:** detect disease in people without symptoms (mammography, cholesterol, colon cancer screening)
+* **Stage and grade severity:** how advanced or dangerous is the problem?
+* **Guide treatment:** choose a drug, set a dose, or select candidates for a therapy
+* **Monitor:** track response to treatment or progression (INR on warfarin, HbA1c in diabetes)
+* **Prognosticate:** estimate outcome
+
+> **Clinical Pearl:** Before you order any test, ask: "What will I do if it is positive, and what will I do if it is negative?" If the answer is the same, the test is probably not needed.
+
+## Diagnostic Reasoning
+
+### Pretest Probability
+How likely is the disease **before** the test? It comes from the history, the exam, the patient's risk factors, and how common the disease is in that setting.
+
+* A positive test in a patient with a **high** pretest probability usually confirms disease.
+* A positive test in a patient with a **very low** pretest probability is often a **false positive.**
+* Testing a patient with very low probability can cause more harm than good, through unnecessary follow-up tests and anxiety.
+
+### Test Performance Measures
+* **Sensitivity:** the proportion of people **with** the disease who test positive. A highly sensitive test is good for **ruling out** disease when negative ("SnNout").
+* **Specificity:** the proportion of people **without** the disease who test negative. A highly specific test is good for **ruling in** disease when positive ("SpPin").
+* **Positive predictive value (PPV):** if the test is positive, the probability the patient has the disease. Depends on how common the disease is.
+* **Negative predictive value (NPV):** if the test is negative, the probability the patient does not have the disease.
+* **Likelihood ratios:** how much a result changes the odds of disease. A high positive likelihood ratio (above 10) strongly raises probability, and a low negative likelihood ratio (below 0.1) strongly lowers it.
+
+### Screening Versus Diagnostic Tests
+* **Screening tests** are meant to be **sensitive** and are used in people without symptoms. Positive results need confirmation.
+* **Diagnostic tests** are meant to be **specific** and are used to confirm disease in people with symptoms or positive screens.
+
+> **Clinical Pearl:** Common screening tests (such as a D-dimer) are good at ruling a disease out but poor at ruling it in. A positive D-dimer does not diagnose a clot.
+
+## Reference Ranges
+
+A **reference range** is the range of results found in about **95 percent of healthy people.** This means that:
+
+* About **5 percent of healthy people** will have a value outside the range for any single test.
+* If you run many tests, an abnormal result becomes likely by chance alone.
+* Ranges **differ between laboratories,** populations, ages, and sexes.
+* An abnormal value is a **clue,** not a diagnosis. Interpret it in context, and look at **trends** over time.
+
+Throughout this course, values are typical adult reference ranges in conventional units. Always check the range printed on your own laboratory report.
+
+### Critical Values
+Some results are so abnormal that they are life-threatening and must be **called to the clinician immediately** by the laboratory. Examples include very low or high potassium, very low glucose, very high troponin, markedly abnormal blood gases, and positive blood cultures.
+
+## From Order to Result: The Testing Process
+
+Errors can occur at three stages:
+
+### 1. Pre-Analytic (Before the Test)
+Most laboratory errors happen here.
+* **Wrong patient or wrong label:** always use two patient identifiers
+* **Wrong tube,** or the wrong **order of draw**
+* **Hemolysis** (red cells broken in the tube): falsely raises potassium, LDH, AST, and phosphate
+* **Contamination from an IV line:** blood drawn above an infusion is diluted or contaminated with fluids or drugs
+* **Prolonged tourniquet time:** raises potassium and other values
+* **Wrong timing:** drug levels, cortisol (diurnal), glucose (fasting versus random)
+* **Patient factors:** fasting state, posture, recent exercise, medications, supplements (biotin can interfere with many assays, including troponin and thyroid tests)
+* **Delay in transport:** glucose falls and potassium rises if the sample sits too long
+
+### 2. Analytic (During Testing)
+Instrument error, calibration, and interfering substances. Laboratories run quality control to limit these.
+
+### 3. Post-Analytic (After the Test)
+Transcription error, delay in reporting, and, most importantly, **misinterpretation** or failure to act on the result.
+
+## Order of Draw for Blood Tubes
+
+Tubes are filled in a set order to prevent additives from carrying over between tubes. A commonly used sequence is:
+
+1. **Blood culture bottles** (sterile)
+2. **Light blue** (sodium citrate): coagulation studies
+3. **Red or gold** (clot activator, with or without gel): serum chemistry, serology
+4. **Green** (heparin): plasma chemistry
+5. **Lavender** (EDTA): CBC, HbA1c, blood bank
+6. **Gray** (fluoride and oxalate): glucose, lactate
+
+A common memory aid is **"Be Careful, Really Good Lab Gives Good Results"** or an equivalent used at your institution.
+
+> **Warning:** Always follow your own facility's protocol. Orders of draw differ slightly between systems.
+
+## Specimen Types
+
+* **Whole blood:** CBC, blood gas, HbA1c
+* **Serum:** the liquid part of clotted blood. Most chemistry and serology.
+* **Plasma:** the liquid part of anticoagulated blood. Coagulation studies and some chemistry.
+* **Urine, stool, sputum, swabs, CSF, and other body fluids**
+* **Tissue** (biopsy) for pathology
+
+## Point-of-Care Testing (POCT)
+
+Tests performed at the bedside or in the clinic, with results in minutes.
+
+* **Examples:** fingerstick glucose, urine dipstick, urine pregnancy test, rapid strep and influenza tests, pulse oximetry, ECG, i-STAT blood gas and chemistry, INR meters, and troponin cartridges
+* **Advantages:** speed, small samples, and quicker decisions
+* **Limitations:** sometimes less accurate than central laboratory testing, requiring operator training, quality control, and documentation
+
+## Responsible Ordering
+
+* **Order tests that answer a specific question.** Avoid "fishing."
+* **Avoid duplication** and unnecessary repeat testing, which cause blood loss (**hospital-acquired anemia**), cost, and incidental findings.
+* **Follow evidence-based guidelines** (Choosing Wisely recommendations discourage low-value tests).
+* **Consider the patient:** discomfort, cost, risks (such as contrast or radiation), and what they would want done.
+* **Explain** to patients why a test is being done and what the next step will be.
+
+## Consent, Communication, and Documentation
+
+* **Explain the procedure** and obtain consent as required (always for invasive procedures and genetic tests).
+* **Label specimens at the bedside,** in front of the patient.
+* **Follow up on every result,** including those that return after the patient has left.
+* **Document** the indication, result, interpretation, and plan.
+* **Communicate abnormal and critical results** promptly to the patient and the care team.
+* **Protect confidentiality** of results.
+
+## Course Roadmap
+
+The next lessons teach you how to read the most common tests: blood counts, chemistry panels, coagulation studies, and blood gases; then ECG, EEG, and other neurological tests; pulmonary testing; urine and body fluid analysis; microbiology; and genetics. The last lesson brings the tests together in clinical scenarios. Imaging is covered in **Diagnostics II.**
+
+> **Roleplay Pearl:** In scenes, a great provider states the reason for each order out loud ("I'm checking a troponin because of the chest pain"), explains it to the patient, and then reads the result in context, not in isolation.
+
+> **Summary**
+> Order tests to answer a specific question, and only if the result could change management. Pretest probability, sensitivity, and specificity determine what a result means: sensitive tests rule disease out, specific tests rule it in. Reference ranges cover 95 percent of healthy people, so some normal people will have abnormal values. Most errors occur before the test runs (wrong tube, hemolysis, timing, line contamination), so identify patients carefully and follow the order of draw. Always act on critical values, document your reasoning, and communicate results clearly.

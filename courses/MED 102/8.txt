@@ -1,0 +1,178 @@
+# Electroencephalogram (EEG)
+
+The electroencephalogram records the **electrical activity of the cerebral cortex** through electrodes on the scalp. It measures brain function in real time, with a time resolution of milliseconds. It is the key test for **epilepsy, seizures, encephalopathy, and coma,** and it supports the evaluation of sleep and brain death.
+
+## What the EEG Measures
+
+The EEG detects the **summed postsynaptic potentials** of large groups of cortical neurons firing together, mainly in the **pyramidal cells** near the brain surface. Deep structures (hippocampus, thalamus) are seen only indirectly. The skull and scalp filter the signal.
+
+## Electrode Placement: The 10-20 System
+
+Electrodes are placed at positions that are **10 or 20 percent** of the distance between skull landmarks (the **nasion, inion,** and **preauricular points**).
+
+* **Letters** show the region: **Fp** (frontopolar), **F** (frontal), **C** (central), **P** (parietal), **T** (temporal), **O** (occipital)
+* **Odd numbers** are on the **left,** **even numbers** on the **right,** and **"z"** is the midline
+* Typically **19 recording electrodes** plus ground and reference
+* **Montages** (bipolar and referential) display the signal in different ways. Reading both helps localization.
+
+## Normal EEG Rhythms
+
+Brain waves are classified by **frequency** (cycles per second, Hz).
+
+* **Delta (0.5 to 4 Hz):** slow, high amplitude. **Normal in deep sleep and in infants.** In an awake adult, delta suggests **dysfunction.**
+* **Theta (4 to 8 Hz):** normal in drowsiness and light sleep and in children. In awake adults, excessive theta suggests dysfunction.
+* **Alpha (8 to 13 Hz):** the **posterior dominant rhythm** in a relaxed adult with **eyes closed.** It **attenuates with eye opening** or mental effort. This is the key landmark of a normal awake EEG.
+* **Beta (above 13 Hz):** fast, low amplitude, seen **frontally.** Increased by **benzodiazepines and barbiturates** (diffuse beta excess is a drug effect).
+* **Gamma (above 30 Hz):** research and cognitive tasks
+
+### Development and Aging
+* **Newborns:** discontinuous patterns, which become continuous with age
+* **Children:** slower background (posterior rhythm about 4 to 6 Hz at 1 year, reaching 8 to 10 Hz by about age 10)
+* **Older adults:** mild slowing can be normal
+
+### Sleep on the EEG
+* **Stage N1 (drowsiness):** alpha fades, replaced by theta, with slow rolling eye movements
+* **Stage N2:** **sleep spindles** (12 to 14 Hz bursts) and **K complexes**
+* **Stage N3 (slow wave sleep):** high-amplitude delta
+* **REM sleep:** low-amplitude mixed-frequency activity, **rapid eye movements,** and muscle atonia
+
+## Types of EEG Recording
+
+* **Routine EEG:** **20 to 40 minutes,** awake and drowsy
+* **Sleep-deprived EEG:** increases the chance of finding epileptiform activity. Sleep itself is an activating factor.
+* **Ambulatory EEG:** recording at home over 24 to 72 hours
+* **Video-EEG monitoring (epilepsy monitoring unit):** **days of continuous recording with video,** to capture and characterize typical events. The **gold standard** for diagnosing seizures, distinguishing epileptic from **psychogenic nonepileptic events,** and **localizing the seizure focus** before surgery.
+* **Continuous EEG (cEEG) in the ICU:** detects **nonconvulsive seizures** and **nonconvulsive status epilepticus** in patients with unexplained altered consciousness, post-cardiac arrest, or after status epilepticus
+* **Intraoperative EEG:** monitoring during carotid and brain surgery
+* **Invasive recordings** (electrocorticography, stereo-EEG) for surgical planning
+* **Bispectral index (BIS):** a processed EEG used to monitor the depth of anesthesia
+
+## Activation Procedures
+
+To increase the chance of finding abnormality:
+
+* **Hyperventilation (3 minutes):** provokes **generalized 3-Hz spike-and-wave (absence seizures)** in children. Avoid in patients with recent stroke, severe cardiopulmonary disease, or sickle cell disease.
+* **Photic stimulation:** flashing lights at varying frequencies. A **photoparoxysmal response** suggests photosensitive epilepsy.
+* **Sleep and sleep deprivation**
+* **Eyes open and closed**
+
+## Abnormal Findings
+
+### Epileptiform Activity
+Specific for an **increased tendency to have seizures.**
+
+* **Spikes (under 70 ms) and sharp waves (70 to 200 ms):** brief, sharply contoured discharges, often followed by a slow wave
+* **Focal epileptiform discharges:** focal epilepsy. Their location helps localize the seizure onset zone (for example, **anterior temporal spikes** in temporal lobe epilepsy).
+* **Generalized spike-and-wave:** generalized epilepsy
+* **3-Hz generalized spike-and-wave:** **childhood absence epilepsy**
+* **Polyspike-and-wave:** juvenile myoclonic epilepsy
+* **Slow (below 2.5 Hz) spike-and-wave:** **Lennox-Gastaut syndrome**
+* **Hypsarrhythmia:** chaotic, high-amplitude, disorganized background in **infantile spasms (West syndrome)**
+* **Ictal activity:** the EEG pattern of an actual seizure. **Evolves** in frequency, amplitude, and location over time.
+
+> **Clinical Pearl:** **Interictal epileptiform discharges** (between seizures) support the diagnosis of epilepsy, but they can occasionally be seen in healthy people. **The diagnosis of epilepsy is clinical,** and the EEG is supporting evidence.
+
+### Focal Slowing
+Persistent focal **delta or theta slowing** suggests a **structural lesion** (stroke, tumor, abscess, trauma). Imaging (MRI) is the next step.
+
+### Diffuse Slowing
+Generalized slowing of the background suggests **diffuse encephalopathy:** metabolic, toxic, infectious, and degenerative causes. The **degree of slowing** correlates with the severity of encephalopathy.
+
+### Characteristic Patterns
+* **Triphasic waves:** three-phase sharp waves with a frontal predominance, in **metabolic encephalopathy** (hepatic, uremic), though not specific
+* **Periodic lateralized discharges (LPDs, formerly PLEDs):** repetitive discharges on one side, seen in **acute structural lesions** (stroke, HSV encephalitis, tumor)
+* **Generalized periodic discharges:** many causes, including **hypoxic injury, metabolic problems, and nonconvulsive status**
+* **Periodic sharp wave complexes (about 1 Hz):** **Creutzfeldt-Jakob disease** (in the right clinical setting)
+* **Burst suppression:** bursts of activity alternating with flat segments. Seen in **deep anesthesia, severe hypoxic injury, hypothermia, and severe drug intoxication.** A **very poor prognosis** if persistent after cardiac arrest.
+* **Alpha coma, spindle coma:** patterns in coma, of mixed prognosis
+* **Electrocerebral silence:** **no detectable brain activity** (recorded at high sensitivity). A supportive test for brain death, in the right setting.
+* **Triphasic waves** and **epileptiform patterns** can also be caused by **drugs.**
+
+### Normal Variants and Benign Patterns
+Some patterns look abnormal but are **benign.** Over-reading them is a **common cause of misdiagnosis of epilepsy.**
+* **Wicket spikes**
+* **Benign epileptiform transients of sleep (BETS)**
+* **Rhythmic mid-temporal theta of drowsiness**
+* **Mu rhythm**
+* **Lambda waves**
+* **Positive occipital sharp transients of sleep (POSTS)**
+
+## Artifacts
+
+Electrical signals that do not come from the brain.
+
+* **Eye blinks and movements:** frontal slow waves
+* **Muscle (EMG) artifact:** fast, spiky, high-frequency activity (jaw clenching, tension)
+* **ECG artifact:** rhythmic spikes time-locked to the heart
+* **Electrode pop and loose contact:** sudden, isolated, single-electrode spikes
+* **Sweat artifact:** very slow waves
+* **60 (or 50) Hz electrical interference**
+* **Movement and ICU equipment** (ventilators, IV pumps)
+* **Pulse and respiratory artifact**
+
+## Clinical Uses
+
+### Epilepsy
+* **Support the diagnosis,** classify the epilepsy syndrome, and determine seizure type
+* **Predict the risk of recurrence** after a first unprovoked seizure
+* **Guide treatment** (for example choice of drug in generalized versus focal epilepsy)
+* **Pre-surgical evaluation**
+* **Monitor treatment response** in some conditions (such as infantile spasms)
+
+### Sensitivity of the EEG in Epilepsy
+* A **single routine EEG** shows epileptiform discharges in about **30 to 50 percent** of patients with epilepsy
+* **Repeated or prolonged recordings** (including with sleep) raise this to about **80 to 90 percent**
+* **A normal EEG does not rule out epilepsy.**
+
+### Altered Consciousness and Critical Care
+* **Nonconvulsive status epilepticus (NCSE):** a common cause of unexplained coma or confusion. Requires EEG for diagnosis.
+* **Encephalopathy and delirium:** shows diffuse slowing
+* **Post-cardiac arrest prognostication:** burst suppression, malignant patterns, and absent reactivity predict poor outcome. Used with clinical exam, imaging, and other tests, **never alone.**
+* **Monitoring of burst suppression** during treatment of refractory status epilepticus and raised ICP
+* **Cerebral ischemia monitoring** (after subarachnoid hemorrhage)
+
+### Brain Death
+EEG is an **ancillary test.** It is not required in most protocols, and the diagnosis rests on the clinical exam and apnea test. Electrocerebral silence supports the diagnosis if confounders cannot be excluded.
+
+### Other Uses
+* **Encephalitis:** HSV encephalitis shows periodic lateralized discharges in the temporal region
+* **Dementia and CJD**
+* **Sleep disorders** (as part of polysomnography)
+* **Differentiating epileptic events from other events:** syncope, psychogenic nonepileptic seizures, movement disorders, and sleep disorders
+
+## Medication Effects on EEG
+
+* **Benzodiazepines and barbiturates:** increased beta activity
+* **Antiepileptic drugs:** can slow background activity at high levels
+* **Sedatives and anesthetics:** slowing, then burst suppression
+* **Withdrawal** from alcohol or benzodiazepines can cause epileptiform discharges
+* **Antiepileptic drug levels and withdrawal** may change results. Do not stop drugs for an outpatient EEG unless instructed by a specialist.
+
+## Preparing the Patient
+
+* **Wash the hair** the night before. **No oils, gels, or sprays.**
+* **Eat normally** (low blood sugar changes the EEG). Avoid caffeine on the day if instructed.
+* **Continue regular medicines** unless told otherwise.
+* **Sleep deprivation** if requested (stay up late the night before)
+* **Explain** that the test is **painless,** the electrodes only record, and no electricity is applied to the patient.
+* **Duration:** routine EEG takes about 1 hour including setup.
+
+## Reading an EEG: A Simple Approach
+
+1. **Check technical quality** and the patient state (awake, drowsy, asleep)
+2. **Assess the background:** frequency of the posterior dominant rhythm, symmetry, reactivity, presence of normal sleep features
+3. **Look for slowing** (focal or generalized)
+4. **Look for epileptiform discharges** and their location
+5. **Look for artifacts** and normal variants that mimic abnormality
+6. **Correlate with clinical context,** the age, medications, and state
+
+## Limitations
+
+* A **normal EEG does not exclude** epilepsy or a seizure
+* **Abnormal findings can be nonspecific**
+* **Deep and small foci** may be missed by scalp electrodes
+* **Interpretation requires training.** Over-reading benign variants is common.
+* **The EEG should never be interpreted without the clinical history.**
+
+> **Summary**
+> The EEG records cortical electrical activity through the 10-20 electrode system. Alpha (8 to 13 Hz) is the awake posterior rhythm that attenuates with eye opening, delta and theta are slow rhythms, and beta increases with sedatives. Spikes, sharp waves, and 3-Hz spike-and-wave indicate epilepsy, and focal slowing suggests a structural lesion, while diffuse slowing and triphasic waves point to encephalopathy. Burst suppression indicates severe suppression of the brain. A single routine EEG often misses epilepsy, so a normal result does not rule it out. Video-EEG is the gold standard for diagnosing seizure events, and continuous EEG finds nonconvulsive status in unexplained coma.

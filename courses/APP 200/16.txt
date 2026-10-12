@@ -1,0 +1,215 @@
+# Peripheral Neuropathy and Neuromuscular Disease
+
+This lesson covers diseases of the **peripheral nerve, neuromuscular junction, motor neuron, and muscle.** Their hallmark is **lower motor neuron signs** (weakness with reduced reflexes and atrophy) without the cognitive or brain signs of central disease.
+
+## Approach to Neuromuscular Weakness
+
+Ask three questions:
+* **Is it motor, sensory, or both?**
+* **Is it proximal or distal?**
+* **Is it symmetric or asymmetric, and how fast is the onset?**
+
+### Patterns
+* **Distal, symmetric, sensory and motor:** polyneuropathy
+* **Single nerve distribution:** mononeuropathy
+* **Several nerves in a stepwise pattern:** mononeuritis multiplex (vasculitis, diabetes)
+* **Proximal, symmetric, no sensory loss:** myopathy
+* **Fatigable, ptosis, diplopia, fluctuating:** neuromuscular junction
+* **Mixed UMN and LMN signs, no sensory loss:** motor neuron disease
+
+## Polyneuropathy
+
+Damage to many peripheral nerves, usually **length-dependent.** Longest nerves are affected first, so symptoms begin in the toes and feet and later reach the hands (**stocking-glove**).
+
+### Types by Fiber
+* **Large fiber:** numbness, loss of vibration and position sense, **sensory ataxia,** loss of reflexes
+* **Small fiber:** **burning pain,** paresthesias, loss of pain and temperature sense, autonomic symptoms, **normal reflexes and strength,** normal nerve conduction studies
+
+### Axonal Versus Demyelinating
+* **Axonal:** reduced amplitude on NCS. Most common (diabetes, toxins).
+* **Demyelinating:** slowed velocities (GBS, CIDP, hereditary neuropathy).
+
+### Causes
+* **Diabetes mellitus:** the most common cause worldwide
+* **Alcohol use**
+* **Vitamin deficiencies:** **B12 (also causes myelopathy),** B1, B6 (deficiency and **toxicity**), and folate
+* **Chronic kidney disease, liver disease, hypothyroidism**
+* **Drugs and toxins:** **chemotherapy** (cisplatin, vincristine, taxanes, bortezomib), isoniazid, amiodarone, nitrofurantoin, metronidazole, linezolid, heavy metals
+* **Infections:** HIV, **leprosy,** hepatitis C, Lyme disease
+* **Autoimmune:** CIDP, vasculitis, Sjögren syndrome, lupus
+* **Paraproteinemias and amyloidosis:** monoclonal gammopathy, myeloma
+* **Hereditary:** **Charcot-Marie-Tooth disease** (high arches, hammertoes, "inverted champagne bottle" legs)
+* **Idiopathic** (about one quarter)
+
+### Workup
+* **Glucose, HbA1c, B12 (and methylmalonic acid), TSH, kidney and liver function, CBC, ESR**
+* **Serum protein electrophoresis with immunofixation**
+* HIV, hepatitis, and syphilis testing when appropriate
+* **NCS and EMG**
+* Further tests as directed (autoimmune panel, genetics, nerve biopsy, skin biopsy for small fibers)
+
+### Diabetic Neuropathy
+* **Distal symmetric polyneuropathy** is the most common form, with painful or numb feet that increase **risk of ulcers and amputation.**
+* **Autonomic neuropathy:** orthostatic hypotension, gastroparesis, bladder and sexual dysfunction
+* **Mononeuropathies:** carpal tunnel, CN III palsy (pupil-sparing)
+* **Diabetic amyotrophy:** painful proximal thigh weakness
+* **Prevention:** **tight glycemic control,** blood pressure and lipid control, and **foot care.**
+* **Painful neuropathy treatment:** **duloxetine, pregabalin, gabapentin,** tricyclic antidepressants (amitriptyline), and topical capsaicin or lidocaine. Opioids are generally avoided.
+
+### General Treatment
+Treat the cause, protect the feet, avoid toxins, manage pain, and refer for physical therapy and falls prevention.
+
+## Guillain-Barré Syndrome (GBS)
+
+An **acute inflammatory demyelinating polyradiculoneuropathy.** The most common cause of acute flaccid paralysis.
+
+### Cause
+An autoimmune attack on peripheral nerves, **1 to 3 weeks after an infection** (especially ***Campylobacter jejuni*** gastroenteritis, also respiratory infections, CMV, EBV, Zika, and rarely after vaccines).
+
+### Presentation
+* **Rapidly progressive, symmetric weakness** that begins in the legs and **ascends,** over days to up to 4 weeks (peak by 4 weeks)
+* **Areflexia or hyporeflexia**
+* Mild sensory symptoms, back or leg pain
+* **Facial weakness** (bilateral), bulbar weakness
+* **Autonomic dysfunction:** labile blood pressure, arrhythmias, urinary retention, ileus
+* **Respiratory failure** in about 25 percent
+
+### Diagnosis
+* **CSF:** **raised protein with normal white cell count** (albuminocytologic dissociation), possibly normal in the first week
+* **NCS:** slowed conduction, conduction block
+* **MRI of the spine** may show nerve root enhancement, and helps exclude cord compression
+* Rule out other causes (cord compression, myelopathy, hypokalemia, botulism, poliomyelitis)
+
+### Variants
+**Miller Fisher syndrome:** ophthalmoplegia, ataxia, and areflexia (anti-GQ1b antibodies). **Acute motor axonal neuropathy (AMAN):** common in Asia, associated with *Campylobacter.*
+
+### Management
+* **Admit and monitor closely,** often in intensive care.
+* **Monitor respiratory function:** **forced vital capacity (FVC) and negative inspiratory force (NIF).** Intubate for **FVC below 20 mL/kg (or a falling trend), NIF weaker than -30 cmH2O,** bulbar failure, or exhaustion. Check frequently, because patients can deteriorate quickly.
+* **Monitor ECG and blood pressure** for autonomic instability.
+* **Immunotherapy:** **IV immunoglobulin (IVIG) 0.4 g/kg daily for 5 days,** or **plasma exchange.** Combining them gives no extra benefit. **Steroids are not effective.**
+* **DVT prophylaxis,** pain control, and early rehabilitation.
+* Most recover over weeks to months, but about 20 percent have significant residual disability and mortality is around 3 to 7 percent.
+
+> **Clinical Pearl:** In any patient with ascending weakness and absent reflexes, check respiratory function at the bedside, and do not rely on oxygen saturation, which stays normal until late.
+
+## CIDP
+
+**Chronic inflammatory demyelinating polyneuropathy:** a chronic or relapsing form of GBS-like illness, progressing **over more than 8 weeks.** Treated with steroids, IVIG, or plasma exchange.
+
+## Mononeuropathies
+
+### Carpal Tunnel Syndrome (Median Nerve at the Wrist)
+* **Night-time hand numbness and tingling** in the thumb, index, middle, and half of the ring finger, often waking the patient and relieved by shaking the hand ("flick sign")
+* Weak thumb abduction and thenar wasting in later disease
+* **Tinel and Phalen signs** (not very specific)
+* **Risk factors:** repetitive wrist use, pregnancy, diabetes, hypothyroidism, rheumatoid arthritis, obesity
+* **Diagnosis:** clinical and **nerve conduction studies**
+* **Treatment:** **night wrist splint,** steroid injection, and **surgical release** for persistent or severe cases (weakness, wasting)
+
+### Ulnar Neuropathy (Elbow, Cubital Tunnel)
+Numbness of the little and ring fingers, hand weakness, and **claw hand.** Avoid leaning on the elbow.
+
+### Radial Neuropathy
+**Wrist drop** with preserved triceps. "Saturday night palsy" (compression against a chair or bench in sleep or intoxication).
+
+### Common Peroneal Neuropathy
+**Foot drop** with loss of sensation over the dorsum of the foot, from compression at the fibular head (crossing legs, prolonged bed rest, casts, weight loss).
+
+### Meralgia Paresthetica
+Burning and numbness of the **lateral thigh** from compression of the lateral femoral cutaneous nerve (obesity, tight belts, pregnancy).
+
+## Bell Palsy
+
+An **acute, unilateral lower motor neuron facial paralysis** of unknown cause, likely related to **herpes simplex virus** reactivation.
+
+* **Sudden weakness of the entire half of the face,** including **forehead,** developing over hours to 2 days
+* Possible ear or mastoid pain, taste disturbance, hyperacusis, reduced tearing
+* Inability to close the eye, with a **Bell phenomenon** (the eye rolls up)
+* **Diagnosis:** clinical. Exclude stroke (forehead spared), Lyme disease, **herpes zoster (Ramsay Hunt syndrome, with ear vesicles),** tumor, and otitis.
+* **Treatment:** **prednisolone 50 to 60 mg daily for 7 to 10 days, started within 72 hours.** Antivirals add little, and may be given with steroids in severe cases.
+* **Eye protection:** lubricating drops by day, ointment and taping the lid at night.
+* **Prognosis:** about 70 to 85 percent recover fully, often within weeks to months.
+
+## Neuromuscular Junction Disorders
+
+### Myasthenia Gravis (MG)
+Autoimmune disease with **antibodies against the acetylcholine receptor** (AChR, in about 85 percent) or **MuSK,** reducing receptors at the neuromuscular junction.
+
+* **Fatigable weakness:** worse with activity and late in the day, better with rest
+* **Ocular:** **ptosis and diplopia** (often the first symptoms). **Pupils are spared.**
+* **Bulbar:** difficulty chewing, swallowing, and speaking, with a nasal voice
+* **Limb weakness,** usually proximal
+* **Respiratory weakness**
+* Women under 40 and men over 60 are most often affected. **Thymoma** in about 10 to 15 percent, and thymic hyperplasia in many more.
+
+#### Diagnosis
+* **Ice pack test:** ptosis improves after 2 minutes of cooling
+* **AChR and MuSK antibodies**
+* **Repetitive nerve stimulation** (decremental response) and **single-fiber EMG** (most sensitive)
+* **CT or MRI of the chest** for thymoma
+
+#### Treatment
+* **Pyridostigmine** (acetylcholinesterase inhibitor): symptomatic
+* **Immunosuppression:** prednisone, azathioprine, mycophenolate, and others. Newer targeted agents (eculizumab, efgartigimod, rituximab).
+* **Thymectomy:** for thymoma, and often in AChR-positive generalized disease up to about age 50 to 60
+* **Myasthenic crisis:** respiratory failure from MG. Treat with intubation if needed, **plasma exchange or IVIG,** and then steroids. Monitor FVC and NIF.
+
+#### Drugs That Can Worsen MG
+**Fluoroquinolones, aminoglycosides, macrolides, magnesium (IV), beta blockers, botulinum toxin, and some others.** Review any new drug before prescribing.
+
+### Lambert-Eaton Myasthenic Syndrome (LEMS)
+* **Antibodies against presynaptic voltage-gated calcium channels**
+* **Proximal leg weakness,** autonomic dysfunction (dry mouth), and **absent reflexes that improve with repeated effort** (post-exercise facilitation)
+* **Strongly associated with small cell lung cancer.** Screen with chest imaging.
+* **Treatment:** 3,4-diaminopyridine, treatment of the cancer, immunotherapy
+
+### Botulism
+Descending flaccid paralysis with dilated pupils (Lesson 15).
+
+## Motor Neuron Disease
+
+### Amyotrophic Lateral Sclerosis (ALS)
+Progressive degeneration of **both upper and lower motor neurons.**
+
+* **Presentation:** progressive asymmetric weakness of limbs, **or bulbar** (slurred speech, difficulty swallowing)
+* **Mixed UMN signs** (spasticity, hyperreflexia, Babinski) **and LMN signs** (atrophy, fasciculations, cramps)
+* **Sensation, eye movements, bladder and bowel function, and the intellect are typically spared** (although about 15 percent develop frontotemporal dementia)
+* Typical onset 55 to 75 years. Median survival about **3 to 5 years,** with death from respiratory failure.
+* **Genes:** **C9orf72** (most common familial), SOD1, TARDBP, FUS
+* **Diagnosis:** clinical, with **EMG** showing widespread denervation, and exclusion of mimics (cervical myelopathy, MMN, B12 deficiency, hyperthyroidism)
+* **Treatment:** **riluzole,** edaravone, tofersen (for SOD1). **Multidisciplinary care:** noninvasive ventilation, feeding tube, speech and communication aids, and palliative care.
+
+### Spinal Muscular Atrophy (SMA)
+A genetic disease (SMN1 gene) causing **pure lower motor neuron** weakness in infants and children. **Disease-modifying treatments** (nusinersen, onasemnogene gene therapy, risdiplam) exist, and are most effective when started early.
+
+### Poliomyelitis
+Asymmetric flaccid paralysis from poliovirus. Prevented by vaccination.
+
+## Myopathies
+
+Diseases of the muscle itself. **Proximal, symmetric weakness** (difficulty standing from a chair, climbing stairs, raising the arms), preserved sensation and reflexes, and often a raised **creatine kinase (CK).**
+
+### Inflammatory Myopathies
+* **Polymyositis:** subacute proximal weakness in adults, high CK
+* **Dermatomyositis:** also with **heliotrope rash, Gottron papules, and shawl sign.** Associated with **malignancy** in adults, so screen for cancer.
+* **Inclusion body myositis:** older patients, asymmetric weakness of **quadriceps and finger flexors,** slowly progressive, **steroid-resistant**
+* **Treatment:** corticosteroids and immunosuppressants for polymyositis and dermatomyositis
+* **Diagnosis:** CK, EMG, MRI, **muscle biopsy,** and antibody panels
+
+### Statin Myopathy
+Muscle pain, weakness, and a raised CK. **Rhabdomyolysis** in severe cases (dark urine, very high CK, kidney injury). Stop the statin.
+
+### Muscular Dystrophies
+* **Duchenne muscular dystrophy:** X-linked, boys, onset by age 3 to 5, **calf pseudohypertrophy,** **Gowers sign** (climbing up the legs with the hands to stand), very high CK, cardiomyopathy. Loss of dystrophin.
+* **Becker:** milder dystrophinopathy
+* **Myotonic dystrophy:** the most common adult muscular dystrophy. **Myotonia** (delayed muscle relaxation), distal weakness, cataracts, frontal balding, and cardiac conduction defects.
+
+### Channelopathies
+**Periodic paralysis:** episodic weakness with potassium changes (hypokalemic or hyperkalemic), triggered by rest after exercise or high-carbohydrate meals.
+
+### Endocrine and Toxic Myopathies
+Hypothyroidism, hyperthyroidism, Cushing syndrome, steroid myopathy, and alcohol.
+
+> **Summary**
+> Peripheral nerve disease causes LMN signs: weakness, reduced reflexes, and atrophy. Polyneuropathy is stocking-glove, most often from diabetes, alcohol, and B12 deficiency, and neuropathic pain is treated with duloxetine, pregabalin, or gabapentin. Guillain-Barré causes ascending weakness with areflexia and high CSF protein: monitor FVC and NIF and give IVIG or plasma exchange, not steroids. Bell palsy involves the forehead and is treated with early prednisolone. Myasthenia gravis causes fatigable ptosis and diplopia with pupil sparing. ALS combines UMN and LMN signs with preserved sensation. Myopathies cause proximal weakness with high CK.

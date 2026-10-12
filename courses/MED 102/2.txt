@@ -1,0 +1,162 @@
+# Complete Blood Count and Hematologic Testing
+
+The complete blood count (CBC) is the most frequently ordered blood test. It counts and describes the three main cell lines: **red blood cells, white blood cells, and platelets.** It is the starting point for evaluating anemia, infection, bleeding, and many systemic illnesses.
+
+> **Specimen:** Whole blood in a **lavender-top (EDTA)** tube.
+
+## Red Blood Cell Parameters
+
+### What Is Measured
+* **Hemoglobin (Hgb):** the oxygen-carrying protein
+* Adult men: about **13.5 to 17.5 g/dL**
+* Adult women: about **12.0 to 16.0 g/dL**
+* **Hematocrit (Hct):** the percentage of blood volume made of red cells
+* Men: about **41 to 53 percent**
+* Women: about **36 to 46 percent**
+* **Red blood cell (RBC) count:** about 4.5 to 5.9 million per microliter in men, 4.1 to 5.1 in women
+* **Mean corpuscular volume (MCV):** average red cell size, about **80 to 100 fL**
+* **Mean corpuscular hemoglobin (MCH)** and **MCHC:** hemoglobin amount and concentration per cell
+* **Red cell distribution width (RDW):** variation in red cell size. Normal about **11.5 to 14.5 percent.** High RDW means mixed cell sizes (anisocytosis).
+* **Reticulocyte count:** young red cells, about **0.5 to 2.5 percent.** Shows whether the marrow is responding.
+
+### Anemia
+Anemia means a low hemoglobin. The cause is found by combining the MCV, the reticulocyte count, and clinical context.
+
+> **Clinical Pearl:** In acute bleeding the hemoglobin may be **normal at first,** because red cells and plasma are lost together. It falls later, as fluids shift and the patient is resuscitated.
+
+#### Step 1: Classify by MCV
+
+**Microcytic (MCV below 80 fL):**
+* **Iron deficiency:** the most common. Blood loss (GI, menstrual), poor intake, malabsorption (celiac disease).
+* **Thalassemia:** inherited. Microcytosis disproportionate to the degree of anemia, with a normal or high RBC count and a normal RDW. Target cells on the smear.
+* **Anemia of chronic disease:** often normocytic, but can be microcytic.
+* **Sideroblastic anemia** and **lead poisoning** (rare).
+
+**Normocytic (MCV 80 to 100 fL):**
+* **Acute blood loss**
+* **Hemolysis**
+* **Chronic kidney disease** (low erythropoietin)
+* **Anemia of chronic disease** (infection, inflammation, cancer)
+* **Bone marrow failure** or infiltration
+* Mixed deficiencies
+
+**Macrocytic (MCV above 100 fL):**
+* **Vitamin B12 deficiency and folate deficiency** (megaloblastic)
+* **Alcohol use**
+* **Liver disease**
+* **Hypothyroidism**
+* **Myelodysplastic syndrome**
+* **Drugs** (methotrexate, hydroxyurea, zidovudine, many chemotherapies)
+* **Reticulocytosis** (young cells are larger)
+
+#### Step 2: Check the Reticulocyte Count
+* **High reticulocytes:** the marrow is working, so think **blood loss or hemolysis.**
+* **Low or normal reticulocytes:** the marrow is **not responding** (deficiency, marrow failure, kidney disease, chronic disease).
+
+#### Step 3: Confirm the Cause
+* **Iron studies:**
+* **Ferritin:** low (below about 30 ng/mL) is the most specific sign of iron deficiency. It is also an acute phase reactant, so it rises in inflammation, and a "normal" ferritin does not exclude iron deficiency in an inflamed patient.
+* **Serum iron:** low in iron deficiency and chronic disease
+* **Total iron-binding capacity (TIBC):** **high** in iron deficiency, low or normal in chronic disease
+* **Transferrin saturation:** low (below 20 percent) in iron deficiency
+* **Vitamin B12 and folate levels.** Add **methylmalonic acid** when B12 is borderline (it is raised in B12 deficiency, but not in folate deficiency).
+* **Peripheral blood smear**
+* **Kidney function, liver function, thyroid tests**
+
+> **Clinical Pearl:** Iron deficiency in an adult man or a postmenopausal woman is **GI blood loss until proven otherwise,** and needs investigation of the GI tract.
+
+### Hemolysis
+Red cells are destroyed faster than the marrow can replace them. Suspect it with anemia, jaundice, and dark urine.
+
+* **Raised reticulocytes**
+* **Raised LDH**
+* **Low haptoglobin**
+* **Raised indirect (unconjugated) bilirubin**
+* **Raised free hemoglobin and urine hemoglobin** in intravascular hemolysis
+* **Direct antiglobulin (Coombs) test:** positive in **autoimmune hemolytic anemia**
+* **Smear:** **spherocytes** (hereditary spherocytosis, autoimmune), **schistocytes** (fragmented cells in TTP, HUS, DIC, mechanical valves), **sickle cells,** **bite cells** (G6PD deficiency)
+
+### Polycythemia (High Hemoglobin and Hematocrit)
+* **Relative:** dehydration
+* **Secondary:** chronic hypoxia (COPD, sleep apnea, high altitude), smoking, testosterone, EPO-producing tumors
+* **Primary (polycythemia vera):** JAK2 mutation, with low EPO and often high white cell and platelet counts
+
+## White Blood Cell Parameters
+
+### Total WBC Count
+Normal about **4,500 to 11,000 per microliter.**
+
+* **Leukocytosis** (high): infection (especially bacterial), inflammation, stress and steroids, smoking, tissue injury, and leukemia
+* **Leukopenia** (low): viral infection, bone marrow suppression, autoimmune disease, drugs, and marrow failure
+
+### Differential and What Each Cell Does
+
+* **Neutrophils** (about 40 to 70 percent): bacterial defense
+* **Neutrophilia:** bacterial infection, steroids, stress, inflammation, myeloproliferative disease
+* **Left shift:** an increase in **bands** (immature neutrophils), suggesting active bacterial infection
+* **Neutropenia:** **absolute neutrophil count (ANC) below 1,500 per microliter.** **Below 500 is severe.** **Fever with neutropenia is an emergency** (febrile neutropenia): start broad-spectrum antibiotics immediately. Causes: chemotherapy, drugs (clozapine, carbamazepine, antithyroid drugs), viral infection, autoimmune, and marrow failure.
+* **Lymphocytes** (about 20 to 40 percent): viral defense and adaptive immunity
+* **Lymphocytosis:** viral infection (EBV, CMV), pertussis, and chronic lymphocytic leukemia
+* **Lymphopenia:** HIV, steroids, and severe illness
+* **Monocytes** (about 2 to 8 percent): raised in chronic infections (TB), recovery from infection, and monocytic leukemias
+* **Eosinophils** (about 1 to 4 percent): **allergy, asthma, parasites, drug reactions, and eosinophilic disease.** Also adrenal insufficiency.
+* **Basophils** (0 to 1 percent): raised in myeloproliferative disease
+
+> **Clinical Pearl:** Calculate the **absolute count** (total WBC multiplied by the percentage), not just the percentage, to avoid being misled when the total count is very high or low.
+
+### Leukemia Clues
+Very high WBC (often above 50,000 to 100,000), **blasts** on the smear, low platelets, and anemia, with fatigue, bleeding, infections, and bone pain. This needs urgent hematology evaluation (flow cytometry and bone marrow biopsy).
+
+## Platelet Parameters
+
+* **Platelet count:** about **150,000 to 400,000 per microliter**
+* **Mean platelet volume (MPV)**
+
+### Thrombocytopenia (Below 150,000)
+Bleeding risk generally rises below **50,000,** and spontaneous bleeding occurs below about **10,000 to 20,000.**
+
+* **Decreased production:** marrow failure, chemotherapy, viral infections, alcohol, B12 or folate deficiency, leukemia
+* **Increased destruction:** **immune thrombocytopenia (ITP),** drugs, **heparin-induced thrombocytopenia (HIT),** **TTP and HUS,** **DIC**
+* **Sequestration:** enlarged spleen (cirrhosis, portal hypertension)
+* **Dilution:** massive transfusion
+* **Pregnancy-related:** gestational thrombocytopenia, **HELLP syndrome,** preeclampsia
+* **Pseudothrombocytopenia:** platelets clump in the EDTA tube, giving a falsely low count. **Check the smear** and repeat in a citrate tube.
+
+### Thrombocytosis (Above 400,000)
+* **Reactive:** iron deficiency, infection, inflammation, cancer, and after splenectomy
+* **Primary:** essential thrombocythemia, polycythemia vera
+
+## The Peripheral Blood Smear
+
+A trained eye reviewing the blood under the microscope adds information that counts alone cannot give.
+
+* **Sickle cells:** sickle cell disease
+* **Target cells:** thalassemia, liver disease, and hemoglobin C
+* **Schistocytes:** microangiopathic hemolysis (TTP, HUS, DIC, mechanical valve)
+* **Spherocytes:** autoimmune hemolysis and hereditary spherocytosis
+* **Teardrop cells:** myelofibrosis
+* **Howell-Jolly bodies:** absent or poorly functioning spleen
+* **Rouleaux:** stacked red cells, with raised ESR, seen in myeloma and inflammation
+* **Blasts:** acute leukemia
+* **Hypersegmented neutrophils:** B12 or folate deficiency
+* **Toxic granulation and Döhle bodies:** severe bacterial infection
+* **Malaria parasites and other organisms**
+
+## Inflammatory Markers
+
+* **Erythrocyte sedimentation rate (ESR):** nonspecific. Raised in infection, inflammation, cancer, and anemia, and with age. **Very high (above 100)** points to **giant cell arteritis, myeloma, severe infection, or malignancy.**
+* **C-reactive protein (CRP):** rises and falls faster than ESR. Better for following acute inflammation.
+
+## Blood Bank Testing
+
+* **ABO and Rh typing:** determines blood group
+* **Antibody screen:** detects antibodies against red cell antigens
+* **Type and screen:** done in advance, so blood can be matched quickly if needed
+* **Crossmatch:** mixing donor cells with the patient's plasma to confirm compatibility, before transfusion
+* **Emergency release:** group O Rh-negative (or O Rh-positive in men and older women) red cells when there is no time
+* **Transfusion triggers:** a **restrictive threshold of hemoglobin about 7 g/dL** in most stable patients (about 8 g/dL in cardiovascular disease or orthopedic surgery). Transfuse based on **symptoms and context,** not just a number.
+* **Platelet transfusion:** generally below 10,000 (or below 50,000 with active bleeding or before major procedures)
+* **Always verify the patient and unit at the bedside** to prevent ABO-incompatible transfusion.
+
+> **Summary**
+> The CBC covers red cells, white cells, and platelets. Classify anemia by MCV, check the reticulocyte count to see if the marrow is responding, and confirm with iron studies, B12, folate, and a smear. Iron deficiency in an adult man or postmenopausal woman needs a GI evaluation. Hemolysis shows high reticulocytes, high LDH, low haptoglobin, and high indirect bilirubin. Neutropenia with fever is an emergency. Check the smear for clumped platelets, schistocytes, sickle cells, and blasts. Transfuse red cells at a hemoglobin of about 7 in stable patients.

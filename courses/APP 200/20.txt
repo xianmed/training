@@ -1,0 +1,206 @@
+# Coma, Brain Death, and Neurologic Emergencies
+
+This final lesson covers the unconscious patient, the determination of brain death, and a synthesis of the time-critical conditions across the course. The approach to these patients is systematic, and many of them can be saved with fast, correct first steps.
+
+## Consciousness and Its Disorders
+
+Consciousness has two components:
+* **Arousal (wakefulness):** depends on the **brainstem reticular activating system** and thalamus
+* **Awareness (content):** depends on the **cerebral cortex**
+
+### Levels of Impaired Consciousness
+* **Confusion:** reduced clarity of thinking and attention
+* **Delirium:** acute fluctuating confusion with inattention (Lesson 12)
+* **Lethargy and somnolence:** drowsy but arousable
+* **Stupor:** arousable only with vigorous or painful stimulation
+* **Coma:** **unarousable,** with no purposeful response and eyes closed. No sleep-wake cycles.
+
+### Chronic Disorders of Consciousness
+* **Unresponsive wakefulness syndrome (vegetative state):** eyes open and sleep-wake cycles return, but **no awareness.** Reflex movements only.
+* **Minimally conscious state:** inconsistent but reproducible signs of awareness (following simple commands, purposeful movements)
+* **Locked-in syndrome:** conscious and aware, but **paralyzed** except for vertical eye movements and blinking. Caused by a **pontine lesion** (basilar artery stroke). Often mistaken for coma. **Always test eye movements in a seemingly comatose patient.**
+
+## Causes of Coma: AEIOU TIPS
+
+* **A**lcohol, **A**ntidotes needed
+* **E**pilepsy (post-ictal, nonconvulsive status), **E**ndocrine, **E**ncephalopathy
+* **I**nsulin (hypoglycemia and DKA)
+* **O**verdose, **O**xygen deficiency (hypoxia)
+* **U**remia
+* **T**rauma, **T**emperature (hypothermia and hyperthermia), **T**umor
+* **I**nfection (meningitis, encephalitis, sepsis)
+* **P**sychiatric, **P**oisoning
+* **S**troke, **S**ubarachnoid hemorrhage, **S**hock, **S**eizure
+
+### Structural Versus Metabolic Causes
+* **Structural** (stroke, hemorrhage, mass): **focal signs, asymmetric** findings, abnormal brainstem reflexes
+* **Metabolic and toxic:** **symmetric** findings, **preserved pupillary light reflexes** (an important clue), and generalized signs
+
+## Approach to the Unconscious Patient
+
+### 1. Stabilize: ABCs
+* **Airway protection:** intubate for GCS of 8 or less, or if unable to protect the airway
+* **Breathing and circulation,** vital signs, oxygen saturation
+* **Cervical spine precautions** if trauma is possible
+
+### 2. Immediate Treatable Causes
+* **Check blood glucose.** Give **dextrose** if low.
+* **Give thiamine** (before or with glucose) if there is any possibility of alcohol use or malnutrition.
+* **Naloxone** for suspected opioid toxicity (pinpoint pupils, slow breathing)
+* Treat **seizures,** hypoxia, shock, **hypothermia,** and severe electrolyte disturbances
+* **Antibiotics and acyclovir** if CNS infection is possible (do not wait for tests)
+* Look for **a Medic Alert bracelet,** and gather history from family and witnesses
+
+### 3. Examination
+
+#### Level of Consciousness
+Use the **GCS** (Lesson 5). Record the best response to voice and then painful stimuli.
+
+#### Vital Signs and Patterns
+* **Cushing triad:** hypertension, bradycardia, irregular breathing (raised ICP)
+* **Fever** (infection, heat stroke, drug toxicity, central causes), **hypothermia**
+
+#### Respiratory Patterns
+* **Cheyne-Stokes:** cycles of gradually deepening then shallowing breathing, with apnea. Bilateral hemispheric or diencephalic dysfunction, or heart failure and metabolic causes.
+* **Central neurogenic hyperventilation:** sustained rapid breathing from a midbrain or upper pons lesion
+* **Apneustic breathing:** prolonged pauses at full inspiration (pontine lesion)
+* **Ataxic (Biot) breathing:** irregular and unpredictable. Medullary lesion. Precedes respiratory arrest.
+
+#### Pupils
+* **Small reactive pupils:** metabolic, **opioids,** and diencephalic or pontine damage. **Pinpoint** pupils suggest **pontine hemorrhage** or opioids.
+* **Unilateral dilated, fixed pupil:** **CN III compression,** uncal herniation
+* **Midposition, fixed pupils:** midbrain lesion
+* **Dilated pupils:** anticholinergic, sympathomimetic, or anoxic injury
+* **Preserved light reflexes with coma** suggest a **metabolic or toxic** cause.
+
+#### Eye Movements and Brainstem Reflexes
+* **Spontaneous eye position:** a gaze deviated **toward** the lesion in a hemispheric stroke, or **away** from the lesion in a pontine lesion or seizure focus
+* **Oculocephalic reflex ("doll's eyes"):** turn the head side to side. In a comatose patient with an intact brainstem, the eyes **move opposite to head movement.** **Do not test if there is any possibility of cervical spine injury.**
+* **Oculovestibular reflex (cold caloric test):** irrigating the ear with ice water in an unconscious patient with an intact brainstem causes **tonic deviation of the eyes toward the irrigated ear.**
+* **Corneal reflex** (CN V and VII), **gag reflex** (IX and X), and **cough reflex**
+
+#### Motor Responses
+* **Localizing to pain:** cortical function present
+* **Withdrawal**
+* **Decorticate posturing (flexion):** arms flexed, legs extended. Lesion above the midbrain.
+* **Decerebrate posturing (extension):** arms and legs extended, internally rotated. Midbrain or pons lesion. A worse sign.
+* **Flaccid:** very poor prognosis (or a spinal cause)
+* **Asymmetric motor findings** or hemiparesis suggest a structural lesion.
+
+#### Other Signs
+* **Meningismus:** meningitis or subarachnoid hemorrhage
+* **Papilledema:** raised ICP (but often absent in acute events)
+* **Skin:** petechiae (meningococcus), jaundice, needle marks, trauma signs
+* **Odor:** alcohol, ketones, uremic breath, liver breath
+* **Myoclonus or subtle twitching:** consider nonconvulsive seizures
+
+### 4. Investigations
+* **Bloods:** glucose, electrolytes (sodium, calcium), kidney and liver function, ammonia, CBC, coagulation, blood gas, **toxicology screen,** cultures, and lactate
+* **CT head** (urgent, before LP). Add CTA if stroke is suspected.
+* **LP** if infection is suspected (after imaging if indicated)
+* **EEG** to detect nonconvulsive status epilepticus
+* **MRI** for diffuse or brainstem injury, or when CT is unrevealing
+* **ECG** and chest X-ray
+
+## Specific Metabolic and Toxic Encephalopathies
+
+* **Hepatic encephalopathy:** liver failure, **asterixis** ("flapping tremor"), high ammonia. Treat with **lactulose** and rifaximin, and treat triggers (GI bleeding, infection).
+* **Uremic encephalopathy:** treat with dialysis
+* **Hyponatremia:** confusion and seizures. Correct slowly (about 8 mmol/L per day or less) to avoid **osmotic demyelination syndrome (central pontine myelinolysis).**
+* **Hypercalcemia, hypoglycemia, hypothyroid myxedema coma, adrenal crisis**
+* **Wernicke encephalopathy:** triad of confusion, ophthalmoplegia, and ataxia. **IV thiamine** (500 mg three times daily for the first days) given before or with glucose.
+* **Hypertensive encephalopathy and PRES (posterior reversible encephalopathy syndrome):** headache, seizures, visual disturbance, and confusion, with posterior white matter edema on MRI. Controlled BP lowering, treat seizures, and stop precipitants (immunosuppressants).
+* **Hypoxic-ischemic encephalopathy** after cardiac arrest
+* **Carbon monoxide poisoning:** headache, confusion, cherry-red skin (late). **100 percent oxygen,** hyperbaric oxygen in selected cases.
+* **Drug and alcohol intoxication and withdrawal**
+
+## Brain Death
+
+**Brain death (death by neurologic criteria)** is the **irreversible cessation of all functions of the entire brain, including the brainstem.** It is **legal death** in most jurisdictions. It differs from a vegetative state, in which the brainstem is functioning.
+
+### Prerequisites
+* **Known, irreversible cause of catastrophic brain injury** (confirmed on imaging)
+* **Exclusion of confounders:**
+  * **Hypothermia** (core temperature should be above 36 C)
+  * **Hypotension** (systolic blood pressure should be adequate, such as 100 mmHg or above)
+  * **Drug intoxication,** sedatives, neuromuscular blockers (allow enough time for clearance, and check levels)
+  * **Severe metabolic or endocrine disturbance**
+
+### Clinical Examination
+1. **Coma:** no response to painful stimuli (spinal reflexes may persist)
+2. **Absent brainstem reflexes:**
+   * **Pupils fixed** (midsize or dilated)
+   * **Absent corneal reflexes**
+   * **Absent oculocephalic reflex and absent oculovestibular (cold caloric) response**
+   * **Absent gag and cough reflexes**
+   * **No facial grimace** to pain
+3. **Apnea test:** the patient is preoxygenated and disconnected from the ventilator while oxygen is provided. **No respiratory effort despite a rise in PaCO2 to 60 mmHg or more (or a rise of at least 20 mmHg above baseline)** confirms apnea.
+
+### Ancillary Tests
+Used when the clinical exam or apnea test cannot be completed or confounders cannot be excluded: **cerebral blood flow studies** (nuclear medicine scan, CT or conventional angiography), **EEG,** and **transcranial Doppler.**
+
+### Important Points
+* **Spinal reflexes** and movements (Lazarus sign) can occur and do not exclude brain death.
+* **Two examinations** by qualified physicians, separated in time, are required in some jurisdictions.
+* Brain death must be **clearly communicated** to the family, and supports **organ donation** discussions through the organ procurement organization. Donor management is part of care.
+* **Diabetes insipidus** and hemodynamic instability are common after brain death and need management when donation is possible.
+
+## Neurologic Emergencies: Rapid Review
+
+Time-critical conditions from across the course, with the key first actions.
+
+* **Acute ischemic stroke:** glucose, last known well, CT and CTA, **thrombolysis within 4.5 hours,** thrombectomy for large vessel occlusion (Lesson 7)
+* **Intracerebral hemorrhage:** reverse anticoagulation, BP to about 140 systolic, neurosurgery (Lesson 8)
+* **Subarachnoid hemorrhage:** CT within 6 hours, secure the aneurysm, **nimodipine** (Lesson 8)
+* **Status epilepticus:** **benzodiazepine at 5 minutes,** then levetiracetam, fosphenytoin, or valproate (Lesson 11)
+* **Bacterial meningitis:** **cultures, antibiotics, and dexamethasone immediately** (Lesson 15)
+* **HSV encephalitis:** **IV acyclovir** without delay (Lesson 15)
+* **Raised ICP and herniation:** head up, osmotic therapy, brief hyperventilation, neurosurgery (Lesson 9)
+* **Spinal cord compression and cauda equina:** urgent MRI, dexamethasone for malignancy, decompression (Lesson 17)
+* **Guillain-Barré syndrome:** monitor FVC and NIF, IVIG or plasma exchange (Lesson 16)
+* **Myasthenic crisis:** airway, plasma exchange or IVIG (Lesson 16)
+* **Giant cell arteritis:** **start high-dose steroids immediately** (Lesson 10 and Ophthalmology)
+* **Posterior circulation stroke:** HINTS exam, MRI (Lesson 19)
+* **Wernicke encephalopathy:** **IV thiamine** (Lesson 12)
+* **Neuroleptic malignant syndrome and serotonin syndrome:** stop the drug, supportive care, specific antidotes (Lesson 13)
+* **Autonomic dysreflexia:** sit up, remove the trigger (Lesson 17)
+
+## Putting It Together: Case Patterns
+
+### Case 1: The Sudden Weakness
+A 72-year-old man with atrial fibrillation develops right arm weakness and slurred speech while at breakfast. Glucose is normal. **Left MCA ischemic stroke.** Get a CT and CTA, and activate the stroke team for thrombolysis or thrombectomy.
+
+### Case 2: The Worst Headache
+A 45-year-old woman has a sudden, severe headache while lifting. CT head within 3 hours of onset is negative. A normal early CT read by an experienced radiologist makes **subarachnoid hemorrhage** very unlikely, but if any doubt remains (late presentation, poor scan quality, or high suspicion), perform CT angiography or LP for xanthochromia.
+
+### Case 3: The Confused Febrile Patient
+A 25-year-old student has fever, headache, neck stiffness, and a purpuric rash. **Meningococcal meningitis.** Cultures, ceftriaxone, dexamethasone, and isolation immediately. Prophylaxis for contacts.
+
+### Case 4: The Fit That Will Not Stop
+A man has had a generalized tonic-clonic seizure for 8 minutes. **Status epilepticus.** Lorazepam IV, then levetiracetam or fosphenytoin. Check glucose and look for the cause.
+
+### Case 5: The Weak Legs
+A 55-year-old woman with breast cancer has back pain and rapidly worsening leg weakness with a sensory level. **Malignant cord compression.** Dexamethasone, urgent whole-spine MRI, radiotherapy or surgery.
+
+### Case 6: The Ascending Weakness
+A 30-year-old man has tingling and weakness climbing from the legs, with absent reflexes, 2 weeks after diarrhea. **Guillain-Barré syndrome.** Admit, monitor FVC and NIF, and give IVIG.
+
+### Case 7: The Young Woman With Vertigo
+A 22-year-old woman has brief spinning vertigo when she rolls over in bed. A Dix-Hallpike test is positive. **BPPV.** Epley maneuver.
+
+### Case 8: The Unresponsive Patient
+A 60-year-old man is found unresponsive with pinpoint pupils and slow breathing. **Opioid overdose.** Naloxone, airway support, and then assess for other causes.
+
+## Communication and Ethics in Neurology
+
+* **Break bad news** clearly and compassionately. Use plain language and allow time for questions.
+* **Capacity and consent:** assess capacity for decisions in patients with cognitive or language impairments. Involve surrogates when capacity is lacking.
+* **Prognosis:** avoid premature pessimism in acute brain injury, since early prognostication is unreliable. Allow time and re-evaluation.
+* **Driving, work, and safety:** counsel patients with seizures, dementia, or stroke and understand local reporting rules.
+* **Palliative care:** early involvement for ALS, dementia, brain tumors, and severe stroke.
+* **Brain death and organ donation:** communicate clearly and separate the declaration of death from donation discussions.
+
+> **Roleplay Pearl:** Great neurology roleplay starts with the "last known well" time, a glucose check, and a quick neurologic exam in order. Patients with serious conditions should reveal key symptoms (such as speech change or neck stiffness) only when asked directly.
+
+> **Summary**
+> Treat the unconscious patient systematically: secure the airway, check glucose, give thiamine and naloxone when indicated, then examine the GCS, pupils, brainstem reflexes, motor response, and respiratory pattern. Preserved pupillary reflexes with coma suggest a metabolic cause, while asymmetric signs suggest a structural lesion. Locked-in syndrome mimics coma. Brain death requires an irreversible catastrophic cause, exclusion of confounders, absent brainstem reflexes, and a positive apnea test. Know the first actions for every neurologic emergency, and always consider infection, stroke, seizures, and toxins.

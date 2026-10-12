@@ -1,0 +1,243 @@
+# Putting It Together: Test Selection and Interpretation
+
+Knowing each test in isolation is only half the skill. The harder half is **choosing the right test for a given patient, in the right order, and combining the results into a coherent story.** This final lesson teaches a framework for ordering and interpreting tests, with common presentations and worked cases.
+
+## A Framework for Test Selection
+
+### 1. Define the Question
+What are you trying to find out? What are the **dangerous diagnoses** that must not be missed, and the **likely diagnoses**?
+
+### 2. Estimate the Pretest Probability
+Use the history, exam, and risk factors. High-probability disease may need **confirmation and treatment,** and low-probability disease may need **no test at all.**
+
+### 3. Choose the Test With the Right Properties
+* **To rule out a dangerous disease:** a **highly sensitive** test (negative means safe)
+* **To rule in a disease:** a **highly specific** test
+* **To monitor:** a reproducible test with a known response to treatment
+
+### 4. Consider Risks, Costs, and Timing
+* **Invasive or radiation-based tests** carry risk
+* **Some tests need time:** troponin is repeated, cultures take days, and creatinine lags
+* **Treatment shouldn't wait** for tests in emergencies (sepsis, meningitis, stroke, STEMI)
+
+### 5. Act on the Result
+If the answer does not change what you do, reconsider the test.
+
+### 6. Reassess
+**Repeat tests,** watch trends, and revisit the diagnosis if the patient does not improve.
+
+> **Clinical Pearl:** Treat the **patient,** not the number. A mildly abnormal lab in a well-appearing patient often needs only a repeat, while a "normal" lab in a sick patient does not exclude disease.
+
+## Initial Testing by Presentation
+
+### Chest Pain
+* **ECG within 10 minutes,** with serial ECGs if symptoms continue
+* **High-sensitivity troponin** at 0 and 1 to 3 hours
+* **CBC, BMP, glucose, coagulation** if needed, and **lipids**
+* **Chest X-ray** (Diagnostics II)
+* **D-dimer** only if a **pulmonary embolism is possible** with low or intermediate probability (then CT angiography if positive)
+* **Consider:** aortic dissection (imaging), pericarditis (ECG), pneumothorax, GERD
+
+### Shortness of Breath
+* **Pulse oximetry,** vital signs, and **ABG** if severely ill or retaining CO2
+* **ECG, chest X-ray**
+* **BNP or NT-proBNP** (heart failure), **troponin**
+* **D-dimer** if PE is considered and probability is not high
+* **CBC** (anemia, infection), **BMP**
+* **Spirometry** (outpatient, for chronic dyspnea)
+* **Peak flow and spirometry** in asthma and COPD
+
+### Abdominal Pain
+* **CBC, BMP, liver panel, lipase**
+* **Urinalysis** (and **pregnancy test** in every woman of childbearing age)
+* **Lactate** if ischemia or sepsis is suspected
+* **Imaging** depending on location (Diagnostics II)
+* **Type and screen** if bleeding is possible
+
+### Altered Mental Status or Confusion
+* **Fingerstick glucose** immediately
+* **BMP (sodium, calcium, creatinine), liver panel, ammonia (selectively), CBC**
+* **Blood gas,** lactate, and **oxygen saturation**
+* **Urinalysis,** blood and urine cultures, and chest X-ray for infection
+* **Toxicology screen,** alcohol level, acetaminophen and salicylate levels
+* **ECG**
+* **TSH, B12, thiamine** as appropriate
+* **CT head,** and **LP if meningitis or encephalitis is suspected**
+* **EEG** if nonconvulsive seizures are possible
+
+### Syncope
+* **Orthostatic vital signs,** **ECG** (all patients), **glucose**
+* **CBC** (anemia), BMP, **troponin** if cardiac
+* **Pregnancy test**
+* **Telemetry,** Holter or event monitor, **echocardiography** (Diagnostics II) if cardiac syncope is suspected
+* **Tilt table testing** in selected patients
+
+### Fever and Suspected Infection
+* **CBC with differential,** BMP, **lactate**
+* **Blood cultures (two sets) before antibiotics**
+* **Urinalysis and urine culture**
+* **Chest X-ray,** and source-specific cultures (sputum, wound, CSF, stool)
+* **Procalcitonin** (adjunct)
+* **Rapid viral testing** where indicated
+* **Febrile neutropenia** and **sepsis** need immediate empiric antibiotics
+
+### Bleeding or Easy Bruising
+* **CBC with platelets,** peripheral smear
+* **PT/INR, aPTT, fibrinogen**
+* **Type and screen**
+* **Liver and kidney function**
+* **Von Willebrand and platelet function testing** if mucosal bleeding
+
+### Acute Kidney Injury
+* **BMP, creatinine trend,** urinalysis with microscopy, urine electrolytes (FeNa or FeUrea)
+* **Bladder scan,** renal ultrasound (Diagnostics II)
+* **Potassium and ECG** if hyperkalemia is possible
+* **CK** if rhabdomyolysis is suspected
+
+### Seizure
+* **Fingerstick glucose,** sodium, calcium, magnesium
+* **Drug levels** (for known epilepsy), **toxicology, pregnancy test**
+* **Prolactin** (limited use)
+* **ECG** (to exclude convulsive syncope)
+* **CT or MRI, EEG,** and LP if infection is suspected
+
+### Anemia or Fatigue
+* **CBC with indices, reticulocytes,** and smear
+* **Ferritin, iron studies, B12, folate**
+* **TSH, BMP, liver panel, inflammatory markers**
+* **Celiac serology** and GI evaluation as indicated
+
+### Joint Pain With Swelling
+* **Arthrocentesis** for fluid analysis, crystals, and culture
+* **CBC, ESR, CRP, uric acid**
+* **Rheumatoid factor and anti-CCP, ANA** where inflammatory disease is suspected (not in isolation, as they are non-specific)
+
+### Pregnancy-Related
+* **Urine or serum hCG**
+* **Blood type and Rh, CBC, infectious screening**
+* **Prenatal screening and diagnostics** (see Lesson 13)
+* **Urinalysis** and culture
+
+## Common Laboratory Patterns
+
+* **Low Hgb, low MCV, low ferritin:** iron deficiency
+* **Low Hgb, high MCV, hypersegmented neutrophils:** B12 or folate deficiency
+* **Low Hgb, high retic, high LDH, low haptoglobin, high indirect bilirubin:** hemolysis
+* **Low platelets, schistocytes, normal PT and aPTT, kidney injury, neurologic signs:** TTP
+* **Low platelets, prolonged PT and aPTT, low fibrinogen, high D-dimer:** DIC
+* **High K, high creatinine, peaked T waves:** hyperkalemia from kidney failure
+* **High glucose, high anion gap acidosis, ketones:** DKA
+* **High AST and ALT (thousands) in a hypotensive patient:** ischemic hepatitis
+* **AST:ALT above 2:1, high GGT, macrocytosis:** alcohol-related liver disease
+* **High ALP, GGT, and bilirubin:** cholestasis
+* **High TSH, low free T4:** primary hypothyroidism
+* **Low TSH, high free T4:** hyperthyroidism
+* **High BNP, pleural effusion (transudate):** heart failure
+* **High lipase (3 times normal) with epigastric pain:** acute pancreatitis
+* **High troponin, ST elevation:** STEMI
+* **Pyuria, positive nitrite, bacteria:** UTI
+* **Cloudy CSF, high neutrophils, low glucose, high protein:** bacterial meningitis
+* **SAAG above 1.1 and ascitic neutrophils of 250 or more:** SBP in cirrhosis
+
+## Putting It Together: Worked Cases
+
+### Case 1: The Breathless Diabetic
+A 58-year-old man with diabetes, vomiting for 2 days, presents with rapid deep breathing and abdominal pain.
+* **Fingerstick glucose:** 480 mg/dL
+* **ABG:** pH 7.12, PaCO2 22, HCO3 7
+* **BMP:** Na 133, K 5.8, Cl 96, creatinine 1.8. **Anion gap = 133 − (96 + 7) = 30.**
+* **Urine ketones:** strongly positive
+* **Interpretation:** **diabetic ketoacidosis** (a high anion gap metabolic acidosis, with Kussmaul respirations as respiratory compensation). The potassium looks high, but **total body potassium is low,** and it will **fall** with insulin. **Replace potassium** once serum K is below about 5.0 to 5.3 and **do not start insulin if K is below 3.3.** Treat with IV fluids and insulin infusion, and look for the trigger (infection, missed insulin, MI). Check an ECG and troponin.
+
+### Case 2: The Weak Alcoholic
+A 45-year-old man with alcohol use disorder has jaundice, abdominal swelling, fever, and confusion.
+* **CBC:** WBC 14,000, platelets 80,000, MCV 104
+* **Liver panel:** AST 150, ALT 60, bilirubin 6, albumin 2.4, **INR 1.9**
+* **Paracentesis:** SAAG 1.5 g/dL, **neutrophils 600/microliter**
+* **Interpretation:** **alcohol-associated cirrhosis with spontaneous bacterial peritonitis** and hepatic encephalopathy. Start **IV ceftriaxone and albumin,** culture ascitic fluid in blood culture bottles, and treat the encephalopathy (lactulose).
+
+### Case 3: The Unexplained Fatigue
+A 62-year-old woman has fatigue and shortness of breath on exertion.
+* **Hgb 8.5, MCV 72, RDW high, ferritin 8, TIBC high**
+* **Interpretation:** **iron deficiency anemia.** In a **postmenopausal woman,** search for **GI blood loss** (endoscopy and colonoscopy) and test for **celiac disease.**
+
+### Case 4: The Anticoagulated Fall
+An 80-year-old woman on **warfarin** falls and hits her head. She is drowsy.
+* **INR 4.8,** CT head shows an intracranial hemorrhage
+* **Interpretation:** **warfarin-related intracranial hemorrhage.** **Emergency reversal** with **4F-PCC and IV vitamin K.** Recheck the INR. Neurosurgery consult. Blood pressure control.
+
+### Case 5: The Swollen Knee
+A 55-year-old man has a hot, swollen knee with fever.
+* **Arthrocentesis:** cloudy fluid, **WBC 68,000, 92 percent neutrophils,** Gram stain shows gram-positive cocci in clusters, **needle-shaped negatively birefringent crystals**
+* **Interpretation:** **septic arthritis (likely *S. aureus*)** with **coexisting gout.** **Crystals do not exclude infection.** Start IV antibiotics after cultures and arrange orthopedic drainage.
+
+### Case 6: The Pale and Sleepy Patient
+A 24-year-old woman has headache, bruising, confusion, fever, and dark urine.
+* **Platelets 18,000, Hgb 7.9,** schistocytes on the smear, high LDH, low haptoglobin, high creatinine
+* **PT and aPTT normal,** fibrinogen normal
+* **Interpretation:** **thrombotic thrombocytopenic purpura (TTP).** This is an emergency. Send **ADAMTS13** and start **plasma exchange** (and steroids) without waiting for the result. **Avoid platelet transfusion** unless life-threatening bleeding.
+
+### Case 7: The Persistent Cough
+A 70-year-old long-term smoker has chronic cough and breathlessness.
+* **Spirometry:** post-bronchodilator **FEV1/FVC 0.58, FEV1 55 percent predicted,** with minimal reversibility
+* **DLCO:** reduced
+* **Interpretation:** **COPD (GOLD 2, with an emphysema pattern).** Smoking cessation, inhaled bronchodilators, vaccination, and pulmonary rehabilitation.
+
+### Case 8: The First Seizure
+A 28-year-old man has a witnessed generalized tonic-clonic seizure. He is now alert.
+* **Glucose, sodium, calcium:** normal. **Toxicology:** negative.
+* **MRI:** normal. **Routine EEG:** normal.
+* **Interpretation:** an unprovoked first seizure. A **normal EEG does not exclude epilepsy.** A **sleep-deprived EEG** may help. Discuss recurrence risk, driving, and safety. The decision to start treatment is individualized.
+
+### Case 9: The Pregnant Patient With a Positive Screen
+A 36-year-old woman at 11 weeks has a **cell-free DNA screen positive for trisomy 21.**
+* **Interpretation:** a **screening test** with high but not perfect accuracy. **Offer diagnostic testing** with **CVS or amniocentesis,** after genetic counseling. Do not make irreversible decisions on a screening test alone.
+
+## Common Pitfalls in Interpretation
+
+* **Anchoring:** fixing on the first result or diagnosis, and ignoring contradictory data
+* **Treating the number:** a mildly abnormal value without clinical correlation
+* **Over-testing:** panels ordered "just in case," producing incidental abnormalities and cascades of testing
+* **Under-testing:** missing a dangerous diagnosis because of an unusual presentation
+* **Ignoring pre-analytic problems:** a hemolyzed sample, contaminated line, or wrong tube
+* **Not repeating an unexpected result** (especially potassium, platelet count, or critical values)
+* **Forgetting that tests lag:** creatinine, troponin early, and cultures
+* **Misinterpreting normal results** (a normal ECG, a normal D-dimer in a high-risk patient)
+* **Not comparing with prior results**
+* **Failing to follow up pending results** and incidental findings
+* **Not considering drugs and supplements** (biotin, vitamin C, medications) as sources of interference
+
+## Critical Values to Know
+
+Typical results that need an **immediate phone call** and action (laboratory lists vary):
+* **Glucose:** below 50 or above 500 mg/dL
+* **Potassium:** below 2.8 or above 6.0 mmol/L
+* **Sodium:** below 120 or above 160 mmol/L
+* **Calcium:** below 6.5 or above 13 mg/dL
+* **Hemoglobin:** below 7 g/dL
+* **Platelets:** below 20,000 per microliter
+* **WBC:** below 2,000 or above 30,000 per microliter, **blasts** on the smear
+* **INR:** above 5
+* **Troponin:** above the critical threshold (typically significantly raised)
+* **pH:** below 7.2 or above 7.6
+* **Lactate:** above 4 mmol/L
+* **Positive blood cultures and positive CSF Gram stain**
+* **Positive malaria smear**
+
+## Communicating Results
+
+* **Tell the patient the result,** what it means, and the next step
+* **Use plain language,** and check understanding
+* **Be honest about uncertainty,** and about incidental findings
+* **Protect confidentiality,** and **document** the discussion
+* **Close the loop:** track tests that were ordered, and tell the patient when they result
+* **Share critical results** with the team (**read back** values when taking calls)
+
+> **Roleplay Pearl:** Strong diagnostic roleplay shows the **reasoning,** not just the order. State what you suspect, which test answers it, and what you will do with each possible result. When a result surprises you, **say so and revisit your assumptions** rather than ignoring it.
+
+## Where This Leads
+
+Diagnostics I covers laboratory, physiologic, and microbiologic testing. **Diagnostics II** moves to **imaging** (X-ray, ultrasound, CT, MRI, and nuclear medicine), including when to order each study, how to interpret common findings, and how imaging combines with the tests you have learned here.
+
+> **Summary**
+> Select tests by defining the question, estimating pretest probability, choosing the right sensitivity and specificity, and asking whether the result will change management. Start with a standard set of tests for each presentation (chest pain, dyspnea, altered mental status, syncope, fever, bleeding, AKI). Recognize common laboratory patterns, and avoid pitfalls: anchoring, treating the number, over-testing, pre-analytic errors, and not repeating unexpected results. Know critical values, communicate results clearly, and close the loop on every test you order.

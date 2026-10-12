@@ -1,0 +1,119 @@
+# The Red Eye: Conjunctiva, Episclera, and Sclera
+
+A red eye is one of the most common complaints in primary care and the emergency department. Most causes are harmless. A few are dangerous. The goal is to sort them quickly.
+
+## Approach to the Red Eye
+
+Ask and examine for the key discriminators:
+
+* **Vision:** normal or reduced?
+* **Pain:** none, scratchy, or deep and severe?
+* **Discharge:** watery, mucoid, or purulent?
+* **Photophobia:** present?
+* **Pattern of redness:** diffuse, sectoral, or around the cornea?
+* **Contact lens use or trauma?**
+
+### Types of Redness
+* **Conjunctival injection:** diffuse redness, worse peripherally and in the fornices. Seen in conjunctivitis.
+* **Ciliary flush (circumcorneal injection):** a violaceous ring of redness around the cornea. Suggests **keratitis, uveitis, or acute angle closure**, and is a warning sign.
+
+### Dangerous Red Eye Causes
+* Acute angle closure glaucoma
+* Keratitis (bacterial, fungal, herpetic, Acanthamoeba)
+* Anterior uveitis
+* Scleritis
+* Endophthalmitis
+* Chemical burn or open globe
+
+> **Clinical Pearl:** A red eye that is painful, has reduced vision, light sensitivity, or ciliary flush is NOT simple conjunctivitis. Do not prescribe drops and send home without ophthalmology input.
+
+## Conjunctivitis
+
+Inflammation of the conjunctiva. Most cases are viral, bacterial, or allergic.
+
+### Viral Conjunctivitis
+* **Cause:** usually adenovirus. Highly contagious.
+* **Symptoms:** watery discharge, gritty feeling, red eye. Often starts in one eye and spreads to the other within days. Often follows a cold.
+* **Signs:** follicles on the lower lid, **preauricular lymph node** (tender, swollen).
+* **Treatment:** supportive. Cool compresses, artificial tears, and strict hygiene (hand washing, no shared towels). Lasts 1 to 3 weeks.
+* **Epidemic keratoconjunctivitis:** a severe adenoviral form with corneal involvement (subepithelial infiltrates) that may blur vision for weeks. Sometimes needs topical steroids from ophthalmology.
+* **Contagious period:** about 10 to 14 days. Patients should avoid close contact and stay out of work or school if symptoms are severe.
+
+### Bacterial Conjunctivitis
+* **Causes:** Staphylococcus aureus, Streptococcus pneumoniae, Haemophilus influenzae, Moraxella.
+* **Symptoms:** thick purulent discharge, eyelids stuck together in the morning, red eye.
+* **Treatment:** topical antibiotics such as erythromycin ointment, polymyxin B-trimethoprim drops, or a fluoroquinolone. Contact lens wearers should receive a drop with Pseudomonas coverage (a fluoroquinolone) and stop wearing lenses.
+* Often self-limited, but antibiotics shorten the course.
+
+### Hyperacute (Gonococcal) Conjunctivitis
+A true ophthalmic emergency.
+
+* **Cause:** *Neisseria gonorrhoeae.*
+* **Presentation:** sudden, copious, thick purulent discharge, marked eyelid swelling, a very red eye, and tender preauricular node.
+* **Danger:** the organism can penetrate an intact cornea and cause **perforation** within 24 to 48 hours.
+* **Management:** urgent Gram stain and culture, **ceftriaxone 1 g IM**, saline irrigation, topical antibiotics, and treatment for chlamydia as well. Check partners and test for other STIs. Ophthalmology the same day.
+
+### Chlamydial (Inclusion) Conjunctivitis
+* **Cause:** *Chlamydia trachomatis*, sexually transmitted in adults.
+* **Presentation:** chronic or recurrent follicular conjunctivitis that has not responded to antibiotics for weeks.
+* **Treatment:** oral azithromycin (single 1 g dose) or doxycycline, plus partner treatment.
+* **Trachoma:** a different serotype that is a leading infectious cause of blindness worldwide, spread in crowded, low-sanitation settings. Causes scarring, trichiasis, and corneal opacity.
+
+### Allergic Conjunctivitis
+* **Symptoms:** itching (the hallmark), watery discharge, stringy mucus, swollen lids, bilateral.
+* **Signs:** papillae on the inner lids, pale or pink swollen conjunctiva.
+* **Treatment:** avoid allergens, cool compresses, artificial tears, topical antihistamine and mast cell stabilizer drops (olopatadine, ketotifen), and in severe cases short courses of low-potency steroids under specialist supervision.
+* **Vernal keratoconjunctivitis:** severe form in young males with atopy, causing giant "cobblestone" papillae and shield ulcers.
+* **Giant papillary conjunctivitis:** in contact lens wearers.
+
+### Ophthalmia Neonatorum
+Conjunctivitis in a newborn in the first month. Covered in Lesson 16.
+
+## Subconjunctival Hemorrhage
+
+A bright red patch on the white of the eye from a ruptured small vessel.
+
+* **Causes:** coughing, sneezing, straining, minor trauma, anticoagulants.
+* **Painless, vision is normal.**
+* **Management:** reassurance. It resolves in 1 to 3 weeks. Check blood pressure and clotting if recurrent. Trauma with a 360 degree hemorrhage should raise concern for an open globe.
+
+## Pinguecula and Pterygium
+
+* **Pinguecula:** a yellowish raised conjunctival bump near the cornea. Harmless, caused by UV exposure.
+* **Pterygium:** a fleshy, wedge-shaped growth that extends onto the cornea, usually from the nasal side. Caused by UV, dust, and wind. Treatment is lubricants and UV protection. Surgery if it threatens vision, causes astigmatism, or is persistently inflamed.
+
+## Episcleritis
+
+Inflammation of the thin layer between the conjunctiva and sclera.
+
+* **Presentation:** sudden, sectoral redness, mild discomfort, normal vision. Young adults.
+* **Key sign:** the redness **blanches** when phenylephrine 2.5% drops are applied.
+* **Course:** self-limited over 1 to 3 weeks. Recurrences are common.
+* **Treatment:** lubricants, cold compresses, topical or oral NSAIDs if needed.
+
+## Scleritis
+
+Deeper and more serious inflammation of the sclera.
+
+* **Presentation:** **severe, boring pain** that is worse at night, may wake the patient, radiates to the face or jaw, and is tender to touch. Eye is red with a violaceous hue.
+* **Key sign:** redness **does not blanch** with phenylephrine.
+* **Complications:** peripheral ulcerative keratitis, uveitis, scleral thinning and perforation (especially in necrotizing scleritis), vision loss.
+* **Associations:** about half have a systemic disease, such as **rheumatoid arthritis, granulomatosis with polyangiitis, SLE, and other vasculitides**. Infection (shingles, syphilis, TB) also occurs.
+* **Workup:** ophthalmology referral and rheumatologic workup.
+* **Treatment:** oral NSAIDs for mild disease; oral steroids and immunosuppressants for severe or necrotizing disease. Topical drops alone do not work.
+
+> **Clinical Pearl:** Episcleritis is mild and blanches. Scleritis is painful and does not. The phenylephrine test separates them.
+
+## Summary of Red Eye Patterns
+
+* **Watery, itchy, both eyes, allergy history:** allergic conjunctivitis
+* **Watery, gritty, preauricular node, recent cold:** viral conjunctivitis
+* **Thick pus, stuck lids:** bacterial conjunctivitis
+* **Sudden profuse pus, swollen lids:** gonococcal, emergency
+* **Painless red patch, normal vision:** subconjunctival hemorrhage
+* **Sectoral red, mild, blanches:** episcleritis
+* **Severe boring pain, violaceous, does not blanch:** scleritis
+* **Ciliary flush, pain, photophobia, reduced vision:** keratitis, uveitis, or angle closure
+
+> **Summary**
+> Sort the red eye by vision, pain, discharge, and pattern. Ciliary flush, severe pain, photophobia, or vision loss means more than conjunctivitis. Viral conjunctivitis is supportive. Bacterial is treated with topical antibiotics. Gonococcal is an emergency requiring ceftriaxone. Episcleritis blanches with phenylephrine and is mild. Scleritis is painful, does not blanch, and is often tied to systemic autoimmune disease.

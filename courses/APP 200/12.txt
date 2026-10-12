@@ -1,0 +1,172 @@
+# Dementia and Delirium
+
+Cognitive disorders are among the most important conditions for an aging population. This lesson separates two states that are often confused: **delirium** (acute, reversible, and an emergency) and **dementia** (chronic and progressive).
+
+## Delirium Versus Dementia
+
+### Delirium
+* **Acute onset** (hours to days)
+* **Fluctuating course,** worse at night
+* **Inattention** is the core feature
+* Altered level of consciousness (hyperactive, hypoactive, or mixed)
+* Often caused by a **medical illness, drug, or surgery**
+* **Usually reversible** if the cause is treated, but is linked to higher mortality
+
+### Dementia
+* **Gradual onset** (months to years)
+* Stable level of alertness until late
+* Progressive memory and cognitive decline
+* Usually **irreversible**
+
+> **Clinical Pearl:** Delirium is common in hospitalized older adults, and is often missed, especially the quiet (hypoactive) type. A patient with dementia is more prone to delirium, and **sudden worsening in a patient with dementia is delirium until proven otherwise.**
+
+## Delirium
+
+### Risk Factors
+Older age, dementia, multiple medical problems, sensory impairment, polypharmacy, surgery, and previous delirium.
+
+### Common Causes and Triggers
+* **Infection:** urinary tract infection, pneumonia, sepsis
+* **Withdrawal:** alcohol, benzodiazepines
+* **Acute metabolic:** hypoxia, hypoglycemia, hyponatremia, uremia, hepatic encephalopathy
+* **Trauma and surgery,** pain
+* **CNS disease:** stroke, seizure, meningitis, hemorrhage
+* **Hypoxia and cardiac events**
+* **Deficiencies:** thiamine, B12
+* **Endocrine:** thyroid, adrenal
+* **Acute vascular**
+* **Toxins and drugs:** **anticholinergics, opioids, benzodiazepines, steroids, sedatives**
+* **Heavy metals,** urinary retention, constipation
+
+### Diagnosis
+**Confusion Assessment Method (CAM):** acute onset and fluctuating course, plus **inattention,** plus either **disorganized thinking** or **altered level of consciousness.**
+
+### Management
+* **Find and treat the cause:** review medications, check vitals, glucose, oxygen, electrolytes, infection screen, urinalysis, and ECG. Image or perform an LP if indicated.
+* **Non-drug measures (first-line):** reorientation, glasses and hearing aids, good sleep hygiene, avoid restraints and catheters, mobilize early, hydrate, treat pain, and involve family.
+* **Medication:** **avoid benzodiazepines** (except in alcohol or sedative withdrawal). Use low-dose **haloperidol or a second-generation antipsychotic only** for severe agitation that threatens safety, for the shortest possible time. **Avoid antipsychotics in Lewy body dementia** (severe sensitivity).
+* **Alcohol-related:** **thiamine,** and benzodiazepines for withdrawal.
+
+## Dementia
+
+A syndrome of acquired decline in at least **two cognitive domains** (memory, language, executive function, visuospatial ability, behavior) that interferes with daily function.
+
+### Mild Cognitive Impairment (MCI)
+Cognitive decline greater than expected for age, but independent in daily activities. About 10 to 15 percent progress to dementia each year.
+
+### Evaluating Memory Complaints
+* **History from the patient and an informant:** onset, course, and function.
+* **Cognitive screening:** MoCA or MMSE.
+* **Medication review** (anticholinergics, sedatives).
+* **Screen for depression** (pseudodementia).
+* **Look for reversible causes:**
+  * Vitamin **B12** deficiency
+  * **Hypothyroidism**
+  * **Depression**
+  * Medications
+  * Normal pressure hydrocephalus
+  * Subdural hematoma
+  * Brain tumor
+  * **Syphilis, HIV**
+  * Alcohol and substance use
+  * Metabolic problems (calcium, glucose, sodium, kidney, liver)
+  * Sleep apnea
+  * Hearing loss and vision loss
+* **Neuroimaging:** MRI (or CT) to find structural causes and pattern of atrophy.
+
+## Alzheimer Disease (AD)
+
+The most common cause of dementia (about 60 to 70 percent).
+
+### Pathology
+* **Extracellular beta-amyloid plaques**
+* **Intracellular neurofibrillary tangles** (hyperphosphorylated tau)
+* Atrophy beginning in the **hippocampus and medial temporal lobe,** spreading to the cortex
+* Loss of **acetylcholine** neurons
+
+### Risk Factors
+Age (the strongest), family history, **APOE e4 allele,** Down syndrome (early onset), head injury, cardiovascular risk factors, low education, hearing loss.
+
+### Clinical Features
+* **Early:** **impaired recent memory** (repeating questions, misplacing items, getting lost), word-finding difficulty
+* **Middle:** disorientation, impaired judgment, trouble with daily tasks, behavioral change, agitation, wandering
+* **Late:** loss of language, incontinence, inability to walk, swallow problems, bedbound
+
+### Diagnosis
+Clinical, supported by MRI (hippocampal atrophy), **amyloid and tau biomarkers** (PET, CSF, and blood tests in specialist settings).
+
+### Treatment
+* **Cholinesterase inhibitors:** **donepezil, rivastigmine, galantamine** for mild to moderate disease. Modest benefit. Side effects: nausea, diarrhea, bradycardia, vivid dreams.
+* **Memantine** (NMDA antagonist) for moderate to severe disease.
+* **Anti-amyloid monoclonal antibodies** (lecanemab, donanemab) for early AD with confirmed amyloid. They slow decline modestly and require monitoring for **amyloid-related imaging abnormalities (ARIA)** (brain swelling and microbleeds), especially in APOE e4 carriers and those on anticoagulants.
+* **Non-drug care:** structured routine, exercise, social engagement, safety, caregiver support.
+* **Treat behaviors** non-pharmacologically first. Antipsychotics carry a **boxed warning** for increased mortality in dementia.
+
+## Vascular Dementia
+
+Second most common. Caused by strokes (large or small), small vessel disease, or hemorrhage.
+
+* **Stepwise decline** or abrupt onset, sometimes with a fluctuating course
+* **Executive dysfunction** and slowed processing early (more than memory loss)
+* Focal neurologic signs, gait problems, and emotional lability
+* MRI: infarcts and white matter changes
+* **Treatment:** control vascular risk factors (blood pressure, diabetes, cholesterol, antiplatelet therapy, smoking). Cholinesterase inhibitors may help a little.
+
+## Dementia With Lewy Bodies (DLB)
+
+* **Core features:** **fluctuating cognition,** **recurrent well-formed visual hallucinations** (often people or animals), **spontaneous parkinsonism,** and **REM sleep behavior disorder** (acting out dreams, which can precede dementia by years)
+* **Parkinsonism and dementia:** if dementia begins within 1 year of motor symptoms, it is DLB. If dementia appears more than 1 year after established Parkinson disease, it is **Parkinson disease dementia.**
+* **Severe neuroleptic sensitivity:** typical antipsychotics (haloperidol) can cause **serious, sometimes fatal reactions.**
+* **Treatment:** cholinesterase inhibitors (rivastigmine, donepezil) help cognition and hallucinations. Careful use of levodopa. Use quetiapine or pimavanserin with caution if needed.
+
+## Frontotemporal Dementia (FTD)
+
+* **Younger onset** (often 45 to 65)
+* **Behavioral variant:** early personality change, **disinhibition, apathy, loss of empathy, compulsive behaviors, and dietary changes,** with relatively preserved memory early
+* **Primary progressive aphasia variants:** progressive language loss
+* Frontal and temporal atrophy on MRI. Pick bodies (tau) in some cases.
+* Genetic forms exist (MAPT, GRN, C9orf72). C9orf72 is linked to ALS.
+* **No disease-modifying treatment.** SSRIs may help behaviors. Avoid cholinesterase inhibitors (can worsen).
+
+## Normal Pressure Hydrocephalus (NPH)
+
+A potentially **reversible** dementia caused by impaired CSF absorption.
+
+### Classic Triad: "Wet, Wobbly, Wacky"
+* **Gait disturbance** (magnetic, wide-based, shuffling), usually first and most prominent
+* **Urinary incontinence**
+* **Cognitive decline** (slowed thinking, apathy)
+
+### Diagnosis
+* **MRI/CT:** enlarged ventricles out of proportion to cortical atrophy
+* **Large-volume lumbar puncture** (30 to 50 mL) with improvement in gait afterward predicts response to a shunt.
+
+### Treatment
+**Ventriculoperitoneal shunt.** Gait improves most.
+
+## Creutzfeldt-Jakob Disease (CJD)
+
+A prion disease with **rapidly progressive dementia** over weeks to months, **startle myoclonus,** ataxia, and visual disturbance. Diagnosis: MRI (cortical ribboning on DWI), **RT-QuIC** testing of CSF, and EEG with periodic sharp waves. No treatment, and death within about a year. Transmission precautions apply to neurosurgical instruments.
+
+## Other Causes
+
+* **Parkinson disease dementia, corticobasal syndrome, progressive supranuclear palsy**
+* **Chronic traumatic encephalopathy**
+* **Huntington disease**
+* **HIV-associated neurocognitive disorder**
+* **Wernicke-Korsakoff syndrome:** thiamine deficiency in alcohol use disorder
+  * **Wernicke encephalopathy:** confusion, **ophthalmoplegia/nystagmus, and ataxia.** Give **IV thiamine immediately** (before or with glucose).
+  * **Korsakoff syndrome:** severe anterograde amnesia with **confabulation.**
+* **Neurosyphilis**
+
+## Supporting Patients and Caregivers
+
+* Safety assessment (driving, firearms, stove, wandering)
+* **Advance care planning** early, while the patient can participate
+* Caregiver support and respite
+* Treat depression and sleep problems
+* Social services and community resources
+* Address hearing and vision
+
+> **Summary**
+> Delirium is acute, fluctuating, and inattentive and is usually caused by a medical problem or drug, so find and treat the cause. Dementia is chronic and progressive. Alzheimer disease causes early memory loss with amyloid and tau pathology, and is treated with cholinesterase inhibitors, memantine, and anti-amyloid antibodies in early disease. Vascular dementia causes stepwise decline with executive dysfunction. Lewy body dementia has fluctuations, visual hallucinations, parkinsonism, and antipsychotic sensitivity. FTD affects behavior or language in younger patients. NPH (wet, wobbly, wacky) is reversible with a shunt. Always screen for reversible causes.

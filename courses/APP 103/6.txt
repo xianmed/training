@@ -1,0 +1,120 @@
+# Eyelid, Lacrimal, and Orbital Disorders
+
+This lesson covers the structures around the eye: the eyelids, the tear drainage system, and the orbit. Many of these problems are minor, but orbital infection and thyroid eye disease are serious.
+
+## Eyelid Infections and Inflammation
+
+### Hordeolum (Stye)
+An acute, painful infection of an eyelid gland, usually **Staphylococcus aureus**.
+
+* **External hordeolum:** infection of the glands of Zeis or Moll at the lid margin.
+* **Internal hordeolum:** infection of a meibomian gland within the lid.
+* **Presentation:** a tender, red swelling, sometimes with a visible pustule.
+* **Treatment:** warm compresses four times a day for 10 to 15 minutes. Antibiotics are rarely required unless there is spreading cellulitis. Incision and drainage if it does not resolve.
+
+### Chalazion
+A chronic, painless, granulomatous inflammation caused by a blocked meibomian gland.
+
+* **Presentation:** a firm, non-tender lump within the eyelid, developing over weeks.
+* **Treatment:** warm compresses and lid massage. If persistent, steroid injection or incision and curettage.
+* **Warning:** recurrent chalazion in the same location in an older patient may be **sebaceous gland carcinoma** and needs biopsy.
+
+### Blepharitis
+Chronic inflammation of the eyelid margins.
+
+* **Anterior blepharitis:** staphylococcal or seborrheic. Crusting and scales at the base of lashes, redness, itching.
+* **Posterior blepharitis (meibomian gland dysfunction):** blocked glands, foamy tears, frothy appearance.
+* **Treatment:** daily lid hygiene (warm compresses, gentle scrubs), artificial tears, and in severe cases topical antibiotics or oral doxycycline. This is a chronic condition that needs ongoing care.
+
+## Eyelid Position Problems
+
+* **Ptosis:** drooping of the upper lid. Causes include aging (levator aponeurosis weakness, the most common), third nerve palsy, Horner syndrome, myasthenia gravis, and congenital ptosis. Always check pupils and eye movements in new ptosis.
+* **Entropion:** the lid turns inward, so lashes rub the cornea. Common in older adults. Causes irritation and may cause corneal ulcers.
+* **Ectropion:** the lid turns outward. Causes tearing and exposure. Seen in older adults and facial nerve palsy.
+* **Trichiasis:** misdirected lashes rubbing the eye. Treated with lash removal, electrolysis, or surgery.
+
+## Eyelid Tumors
+
+* **Basal cell carcinoma:** the most common eyelid malignancy. Usually a pearly nodule on the lower lid, often with telangiectasia and a central ulcer. Slow-growing. Treated with surgical excision.
+* **Squamous cell carcinoma** and **sebaceous carcinoma:** rarer and more aggressive.
+
+> **Clinical Pearl:** Any eyelid lesion with loss of lashes, ulceration, or bleeding should be considered malignant until proven otherwise.
+
+## Lacrimal Disorders
+
+### Nasolacrimal Duct Obstruction
+Blockage of the duct that drains tears into the nose.
+
+* **Congenital:** very common in newborns (about 6%). Presents with tearing and mucous discharge. About 90% resolve by 1 year with massage of the lacrimal sac area. Probing if it persists.
+* **Acquired:** in adults, from age, chronic inflammation, sinus disease, or trauma. Presents with constant tearing. Treated with surgery (dacryocystorhinostomy).
+
+### Dacryocystitis
+Infection of the lacrimal sac, usually from an obstructed duct.
+
+* **Presentation:** painful, red, swollen area just below and inside the medial corner of the eye, with pus expressed from the puncta.
+* **Treatment:** warm compresses, systemic antibiotics (such as cephalexin or, if severe, IV therapy), possible drainage. Definitive treatment is surgery once infection clears.
+
+### Dacryoadenitis
+Inflammation of the lacrimal gland, causing swelling at the upper outer lid and an S-shaped lid. Causes include viral infection (mumps, EBV), bacteria, sarcoidosis, and IgG4-related disease.
+
+## Preseptal Versus Orbital Cellulitis
+
+This is one of the most important distinctions in the course.
+
+### Preseptal Cellulitis
+Infection **in front** of the orbital septum, in the eyelid.
+
+* Swollen, red, warm eyelid
+* **Normal vision, normal eye movements, no proptosis, no pain with movement, normal pupils**
+* Often from a bug bite, skin infection, or stye
+* **Treatment:** oral antibiotics (such as amoxicillin-clavulanate, with MRSA coverage if risk factors) and close follow-up.
+
+### Orbital Cellulitis
+Infection **behind** the orbital septum, in the tissues of the orbit. Usually spreads from the **ethmoid sinuses**, especially in children.
+
+* Fever, eyelid swelling, redness
+* **Proptosis (bulging eye)**
+* **Pain with eye movement and limited eye movement (ophthalmoplegia)**
+* **Reduced vision or RAPD**
+* Double vision
+
+#### Management
+* **Emergency.** Admit.
+* **CT scan with contrast** to evaluate for abscess and sinus disease.
+* **IV antibiotics** covering Staphylococcus, Streptococcus, and anaerobes (for example vancomycin plus ceftriaxone, with metronidazole added if appropriate).
+* Surgical drainage for abscess or vision threat.
+* Monitor visual acuity, pupils, and eye movements frequently.
+
+#### Complications
+Subperiosteal abscess, orbital abscess, vision loss from optic nerve compression, **cavernous sinus thrombosis**, meningitis, and brain abscess.
+
+> **Clinical Pearl:** In a swollen eye, always ask: can the eye move normally and can the patient see? Any ophthalmoplegia, pain on movement, proptosis, or visual change means orbital until proven otherwise.
+
+## Thyroid Eye Disease (Graves Orbitopathy)
+
+An autoimmune inflammation of the orbital muscles and fat, most often with Graves disease, but it can occur with normal thyroid function.
+
+### Features
+* **Eyelid retraction** (staring appearance)
+* **Lid lag** on downgaze
+* **Proptosis**
+* Red, irritated, dry eyes
+* **Double vision** (restricted eye movement, commonly of the inferior and medial rectus)
+* Compressive optic neuropathy (vision loss, color loss) in severe cases
+
+### Risk Factors
+Smoking is the strongest modifiable risk. Smoking cessation is essential.
+
+### Management
+* Mild: lubricants, selenium, sunglasses, head elevation at night.
+* Active inflammation: IV steroids, teprotumumab (an IGF-1R inhibitor), radiation.
+* Compressive neuropathy: emergent steroids and orbital decompression.
+* Once inactive: surgery for double vision and lid position.
+* Keep thyroid function controlled.
+
+## Orbital Tumors and Masses (Brief)
+
+New unilateral proptosis in adults can be due to thyroid disease, orbital pseudotumor, lymphoma, or other masses. In children, rhabdomyosarcoma and capillary hemangioma are important. Imaging and specialist evaluation are needed.
+
+> **Summary**
+> Styes are acute infections and chalazia are chronic painless lumps, both treated with warm compresses. Chronic recurrent chalazion in an older adult may be cancer. Preseptal cellulitis spares vision and eye movements, while orbital cellulitis causes proptosis, painful limited eye movement, and vision change, and requires admission, CT, and IV antibiotics. Thyroid eye disease causes lid retraction, proptosis, and double vision, and smoking worsens it.

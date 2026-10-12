@@ -1,0 +1,170 @@
+# Metabolic Panels: Electrolytes, Kidney Function, and Glucose
+
+The basic and comprehensive metabolic panels (BMP and CMP) are the workhorse chemistry tests. They show electrolyte balance, kidney function, blood glucose, calcium, and, with the CMP, liver and protein tests. They are ordered for almost every acutely ill patient.
+
+> **Specimen:** Serum (red or gold top) or plasma (green top).
+
+## The Basic Metabolic Panel (BMP)
+
+Eight measurements:
+* **Sodium (Na)**
+* **Potassium (K)**
+* **Chloride (Cl)**
+* **Bicarbonate (HCO3, or total CO2)**
+* **Blood urea nitrogen (BUN)**
+* **Creatinine (Cr)**
+* **Glucose**
+* **Calcium**
+
+### Comprehensive Metabolic Panel (CMP)
+The BMP **plus** albumin, total protein, ALT, AST, alkaline phosphatase, and total bilirubin (covered in Lesson 4).
+
+## Sodium
+
+Normal: about **135 to 145 mmol/L.** Sodium mainly reflects **water balance,** not just salt intake.
+
+### Hyponatremia (Below 135)
+Always check the **serum osmolality** and the volume status.
+
+* **Hypovolemic:** vomiting, diarrhea, diuretics, adrenal insufficiency, and burns
+* **Euvolemic:** **SIADH** (lung disease, CNS disease, drugs such as SSRIs and carbamazepine, cancers), hypothyroidism, primary polydipsia, low solute intake ("tea and toast," beer potomania)
+* **Hypervolemic:** heart failure, cirrhosis, nephrotic syndrome, kidney failure
+* **Pseudohyponatremia:** high lipids or protein in older assays
+* **Hyperglycemia** drags water into the blood, lowering sodium. **Add about 1.6 mmol/L to sodium for every 100 mg/dL of glucose above 100** to correct.
+
+**Symptoms:** nausea, headache, confusion, seizures, and coma in severe or rapid cases.
+
+> **Warning:** In chronic severe hyponatremia, **correcting too fast** (more than about 8 mmol/L in 24 hours) risks **osmotic demyelination syndrome** (central pontine myelinolysis), with quadriparesis, dysarthria, and locked-in syndrome. Correct slowly. Treat **seizures or severe symptoms** with a small bolus of hypertonic saline.
+
+### Hypernatremia (Above 145)
+Almost always **water loss or inadequate water intake:** dehydration, fever, diabetes insipidus, osmotic diuresis, and impaired thirst (older adults, infants, the sedated). Correct slowly with free water (oral or IV dextrose water) to avoid cerebral edema.
+
+## Potassium
+
+Normal: about **3.5 to 5.0 mmol/L.** Small changes can disturb cardiac rhythm.
+
+### Hyperkalemia (Above 5.0)
+* **Causes:** **kidney failure,** drugs (ACE inhibitors, ARBs, spironolactone, NSAIDs, trimethoprim, heparin), acidosis, tissue breakdown (rhabdomyolysis, tumor lysis, burns), adrenal insufficiency, and **pseudohyperkalemia** (hemolyzed sample, high platelets or white cells, tight tourniquet).
+* **ECG changes** (in order of severity): **peaked T waves,** loss of P waves, **widened QRS,** and a **sine wave pattern,** then ventricular fibrillation or asystole.
+* **Treatment of significant hyperkalemia:**
+* **Stabilize the heart:** IV **calcium** (gluconate or chloride)
+* **Shift potassium into cells:** **IV insulin with glucose,** nebulized albuterol, and sodium bicarbonate if acidotic
+* **Remove potassium:** loop diuretics, potassium binders (sodium zirconium cyclosilicate, patiromer), and **dialysis** for severe or refractory cases
+* **Stop contributing drugs** and repeat the level
+
+> **Clinical Pearl:** If the potassium is unexpectedly high in a well patient, **repeat the test** with a non-hemolyzed sample before treating.
+
+### Hypokalemia (Below 3.5)
+* **Causes:** diarrhea, vomiting, **diuretics,** **hypomagnesemia,** insulin and beta agonists, and low intake
+* **Features:** weakness, cramps, constipation, and **ECG changes** (flat T waves, U waves, ST depression, arrhythmias including torsades)
+* **Treatment:** replace potassium (oral preferred, IV with monitoring if severe), and **correct magnesium,** which makes potassium replacement fail if low.
+
+## Chloride and Bicarbonate
+
+* **Chloride:** about **98 to 106 mmol/L**
+* **Bicarbonate:** about **22 to 28 mmol/L.** Low bicarbonate suggests **metabolic acidosis** (or compensation for respiratory alkalosis). High bicarbonate suggests **metabolic alkalosis** (or compensation for respiratory acidosis).
+
+### The Anion Gap
+**Anion gap = Na minus (Cl plus HCO3).** Normal is about **8 to 12 mmol/L** (without potassium). It estimates unmeasured anions.
+
+* A **high anion gap** acidosis means extra acid is present. Remember **MUDPILES:**
+* **M**ethanol
+* **U**remia
+* **D**KA (and other ketoacidosis, including alcoholic and starvation)
+* **P**ropylene glycol (and paraldehyde)
+* **I**soniazid, **I**ron
+* **L**actic acidosis
+* **E**thylene glycol
+* **S**alicylates
+* A **normal anion gap** (non-gap) acidosis suggests loss of bicarbonate: **diarrhea, renal tubular acidosis,** large-volume saline, acetazolamide.
+* **Low albumin** lowers the anion gap, so **correct it:** add about **2.5 mmol/L to the gap for every 1 g/dL that albumin is below 4.**
+
+(Acid-base interpretation is covered in full in Lesson 6.)
+
+## Kidney Function Tests
+
+### Creatinine
+Normal: about **0.6 to 1.2 mg/dL** (varies with muscle mass, so lower in women, the elderly, and the malnourished). Creatinine is made at a steady rate by muscle and cleared by the kidneys.
+
+* A **rise** in creatinine indicates reduced kidney function (**acute kidney injury** or chronic kidney disease).
+* A **doubling** of the creatinine is about a 50 percent drop in function.
+* **Creatinine lags:** it can take 24 to 48 hours to rise after kidney injury.
+* **Muscle mass, protein intake, and some drugs** (trimethoprim, cimetidine) affect it independent of true kidney function.
+
+### Estimated GFR (eGFR)
+Calculated from creatinine, age, and sex (CKD-EPI). Normal is above **90 mL/min/1.73 m2.** Chronic kidney disease stages:
+* **G1:** 90 or above (with damage markers)
+* **G2:** 60 to 89
+* **G3a:** 45 to 59
+* **G3b:** 30 to 44
+* **G4:** 15 to 29
+* **G5:** below 15 (kidney failure)
+
+**Cystatin C** can be used when creatinine is unreliable. Adjust drug doses for eGFR.
+
+### Blood Urea Nitrogen (BUN)
+Normal: about **7 to 20 mg/dL.**
+
+* **BUN-to-creatinine ratio above about 20:1** suggests **prerenal** causes (dehydration, heart failure, GI bleeding).
+* **Raised BUN** also with high-protein diet, steroids, and GI bleeding (blood is digested protein).
+* **Low BUN:** liver failure, malnutrition, overhydration, and pregnancy.
+
+### Acute Kidney Injury (AKI)
+A rapid decline in kidney function: creatinine rise of 0.3 mg/dL or more in 48 hours, or 1.5 times baseline within 7 days (KDIGO), or low urine output.
+
+* **Prerenal:** low blood flow (dehydration, hypotension, heart failure, cirrhosis). BUN/Cr above 20, **FeNa below 1 percent.**
+* **Intrinsic (renal):** acute tubular necrosis (ischemia, nephrotoxins, contrast), glomerulonephritis, interstitial nephritis. FeNa above 2 percent, muddy brown casts.
+* **Postrenal:** obstruction (stones, prostate enlargement, tumor). Check a bladder scan and ultrasound.
+
+## Glucose
+
+* **Fasting glucose:** normal about **70 to 99 mg/dL**
+* **Impaired fasting glucose (prediabetes):** 100 to 125 mg/dL
+* **Diabetes:** fasting glucose of **126 mg/dL or higher** (on two occasions), or a **random glucose of 200 or higher with symptoms,** or a **2-hour oral glucose tolerance test result of 200 or higher,** or an **HbA1c of 6.5 percent or higher**
+
+### Hypoglycemia
+Below **70 mg/dL** (level 1), below **54** (level 2, clinically significant), and severe if requiring assistance. Symptoms: sweating, tremor, hunger, confusion, seizure, and coma. **Treat promptly** with oral glucose if able to swallow, or IV dextrose or IM glucagon if not.
+
+### Hyperglycemia
+* **Diabetic ketoacidosis (DKA):** glucose usually above 250 mg/dL, **high anion gap acidosis,** and positive ketones. Treat with IV fluids, **insulin infusion,** and potassium replacement (check potassium **before** starting insulin).
+* **Hyperosmolar hyperglycemic state (HHS):** very high glucose (often above 600 mg/dL), high osmolality, severe dehydration, altered mental status, and little or no ketosis.
+
+### HbA1c
+Reflects average glucose over about **3 months.**
+* **Normal:** below **5.7 percent**
+* **Prediabetes:** 5.7 to 6.4 percent
+* **Diabetes:** **6.5 percent or higher**
+* **Unreliable** in anemia, hemoglobin variants, recent transfusion, and pregnancy.
+* Typical target in most adults with diabetes: **below 7 percent,** individualized.
+
+## Calcium
+
+Normal total calcium: about **8.5 to 10.5 mg/dL.** Part is bound to albumin.
+
+* **Corrected calcium = measured calcium + 0.8 × (4.0 − albumin).**
+* **Ionized calcium** is the active fraction (about 4.5 to 5.3 mg/dL) and is the best test in critically ill patients.
+
+### Hypercalcemia
+* **Most common causes:** **primary hyperparathyroidism** (outpatients) and **malignancy** (inpatients)
+* Others: vitamin D excess, granulomatous disease, thiazide diuretics, and immobilization
+* **Symptoms:** "stones, bones, groans, and psychiatric overtones" (kidney stones, bone pain, abdominal pain and constipation, depression and confusion), polyuria, and dehydration
+* **ECG:** short QT interval
+* **Treatment:** IV fluids first, then bisphosphonates, calcitonin, and treatment of the cause
+
+### Hypocalcemia
+* **Causes:** low albumin (which gives a falsely low total calcium), hypoparathyroidism (after thyroid surgery), vitamin D deficiency, kidney disease, pancreatitis, and low magnesium
+* **Symptoms:** **perioral numbness, muscle cramps and tetany, seizures,** **Chvostek sign** (facial twitch on tapping) and **Trousseau sign** (carpal spasm with a blood pressure cuff inflated)
+* **ECG:** long QT interval
+* **Treatment:** IV calcium for symptomatic cases, vitamin D, and replace magnesium
+
+## Magnesium and Phosphate
+
+* **Magnesium:** about **1.7 to 2.2 mg/dL.** **Low magnesium** (alcohol, diuretics, PPIs, diarrhea) causes arrhythmias, weakness, and refractory hypokalemia and hypocalcemia.
+* **Phosphate:** about **2.5 to 4.5 mg/dL.** High in kidney failure. Low in refeeding syndrome, alcoholism, and DKA treatment.
+
+## Serum Osmolality
+
+**Calculated osmolality = 2 × Na + glucose/18 + BUN/2.8.** Normal about **275 to 295 mOsm/kg.** The **osmolar gap** (measured minus calculated) above about 10 suggests **toxic alcohols** (methanol, ethylene glycol) or other unmeasured osmoles.
+
+> **Summary**
+> The BMP gives sodium, potassium, chloride, bicarbonate, BUN, creatinine, glucose, and calcium. Sodium reflects water balance, and hyponatremia must be corrected slowly. Hyperkalemia causes peaked T waves and needs calcium, insulin with glucose, and removal. The anion gap (Na minus Cl plus HCO3) separates high-gap acidoses (MUDPILES) from non-gap acidoses. Creatinine and eGFR measure kidney function, and BUN/Cr above 20 suggests a prerenal cause. Diagnose diabetes by fasting glucose of 126 or higher or HbA1c of 6.5 or higher. Correct calcium for albumin.

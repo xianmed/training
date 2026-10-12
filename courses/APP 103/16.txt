@@ -1,0 +1,161 @@
+# Pediatric Ophthalmology
+
+Children are not small adults when it comes to the eye. The visual system is still developing, and vision problems in early childhood can cause **permanent** loss if not corrected during a critical window. Children also cannot always tell you that something is wrong.
+
+> **Clinical Pearl:** The brain learns to see during the first 7 to 8 years of life. An eye that is not used or sees a blurred image during this time can become permanently weak even if the eye itself is healthy.
+
+## Screening and the Red Reflex
+
+* **Red reflex test:** performed at every newborn and well-child visit. Hold the ophthalmoscope about an arm's length away in a dim room. Both eyes should glow equal, bright red-orange.
+* An **abnormal reflex** (dull, absent, white, or different between eyes) requires urgent ophthalmology referral.
+* **Photoscreening and visual acuity testing** are done from age 3 to 4.
+* **Premature infants** need retinal screening.
+
+## Leukocoria (White Pupil)
+
+A white pupillary reflex is **retinoblastoma until proven otherwise.**
+
+### Differential Diagnosis
+* **Retinoblastoma**
+* **Congenital cataract**
+* **Retinopathy of prematurity**
+* **Persistent fetal vasculature**
+* **Coats disease**
+* **Ocular toxocariasis**
+* **Retinal detachment, coloboma, and vitreous hemorrhage**
+
+Parents often notice it in flash photographs, where one eye shows white instead of red.
+
+## Retinoblastoma
+
+The **most common primary intraocular malignancy of childhood.**
+
+### Genetics
+* Caused by loss of both copies of the **RB1 tumor suppressor gene** (the "two-hit" hypothesis).
+* **Hereditary (about 40 percent):** a germline mutation, often bilateral and multifocal, and presents earlier.
+* **Sporadic:** unilateral and unifocal.
+
+### Presentation
+* **Leukocoria** (most common)
+* **Strabismus**
+* Red, painful eye or glaucoma in advanced disease
+* Usually under 5 years of age
+
+### Diagnosis
+Dilated exam under anesthesia, with ultrasound and MRI. **Biopsy is avoided** because of the risk of tumor spread.
+
+### Treatment
+Based on the stage: **laser, cryotherapy, chemotherapy** (including intra-arterial and intravitreal), **radiation,** and **enucleation** for advanced disease. Survival is more than 95 percent in developed countries with early treatment.
+
+### Long-Term Concerns
+* Hereditary cases have a risk of **second cancers,** such as osteosarcoma and soft tissue sarcomas. Radiation increases this risk.
+* **Genetic counseling** and screening of siblings and offspring.
+
+## Strabismus
+
+Misalignment of the eyes.
+
+### Types
+* **Esotropia:** inward turning. Infantile esotropia appears in the first 6 months. **Accommodative esotropia** presents around age 2 to 3 in hyperopic children.
+* **Exotropia:** outward turning, often intermittent and worse when tired or looking far away.
+* **Hypertropia:** vertical deviation.
+
+### Why It Matters
+In a child, the brain suppresses the image from the deviating eye to avoid double vision. Over time this causes **amblyopia.** In an adult, new strabismus causes double vision and suggests a nerve palsy.
+
+> **Clinical Pearl:** A **new** eye misalignment in a child over 4 months of age is abnormal. Infants may have intermittent misalignment before 4 months, but persistent misalignment at any age needs referral.
+
+### Pseudostrabismus
+Broad nasal bridges and prominent epicanthal folds make eyes appear crossed in infants, but the eyes are actually straight. The light reflex is centered in both pupils.
+
+### Examination
+* **Hirschberg test (corneal light reflex):** shine a light and look where it reflects on each cornea. The reflex should be symmetric and slightly nasal to center.
+* **Cover test:** cover one eye and watch the other for a refixation movement.
+
+### Treatment
+* Correct refractive error with glasses
+* Treat amblyopia
+* **Prisms,** botulinum toxin
+* **Eye muscle surgery** to align the eyes
+
+## Amblyopia
+
+Reduced vision in one or both eyes caused by abnormal visual development, **without** any structural eye disease. Affects 2 to 4 percent of children.
+
+### Causes
+* **Strabismic:** the brain suppresses the deviating eye.
+* **Refractive (anisometropic):** a big difference in refraction between the eyes, so the brain favors the clearer eye.
+* **Bilateral high refractive error.**
+* **Deprivation:** something blocks vision, such as a congenital cataract, ptosis, or corneal scar. This is the **most severe** form and needs urgent treatment.
+
+### Treatment
+Treat the cause first, and then force the brain to use the weaker eye:
+* **Correct refractive error** with glasses
+* **Patching the better eye** for several hours daily
+* **Atropine drops** in the better eye to blur it
+* Digital binocular therapies
+* **The earlier, the better.** Treatment is most effective before age 7 to 8, though some benefit remains later.
+
+## Retinopathy of Prematurity (ROP)
+
+A vascular disease of the immature retina in premature infants.
+
+### Risk Factors
+* **Gestational age under 31 weeks** and **birth weight under 1500 g** (screening criteria vary)
+* **Oxygen exposure,** fluctuating oxygen, and sepsis
+
+### Pathophysiology
+Retinal blood vessels do not finish growing until close to term. After premature birth, exposure to higher oxygen levels stops normal vessel development, and the avascular retina then releases VEGF, leading to abnormal vessel growth, scarring, and retinal detachment.
+
+### Screening
+Serial dilated retinal exams by an ophthalmologist, starting at 4 weeks of age (or 31 weeks postmenstrual age) in at-risk infants and continuing until the retina is fully vascularized.
+
+### Treatment
+* **Laser photocoagulation** of the avascular retina
+* **Intravitreal anti-VEGF injections** (bevacizumab or ranibizumab)
+* Surgery (vitrectomy or scleral buckle) for detachment
+* Prevention: careful oxygen monitoring and targeting
+
+## Nasolacrimal Duct Obstruction in Infants
+
+Tearing and mucous discharge from about 2 to 4 weeks of age, from a membrane at the lower end of the nasolacrimal duct that has not opened.
+
+* About **90 percent** open on their own by 1 year.
+* **Massage** over the lacrimal sac and clean the lids with warm water.
+* Treat infection with topical antibiotics.
+* **Probing** at about 12 months if persistent.
+* **Dacryocystocele:** a bluish swelling at the inner corner of the eye in newborns. Needs prompt attention.
+
+## Ophthalmia Neonatorum
+
+Conjunctivitis in the first month of life. The timing points to the cause.
+
+* **Chemical (first 1 to 2 days):** reaction to silver nitrate prophylaxis (rarely used now). Self-limited.
+* **Gonococcal (days 2 to 5):** severe, hyperacute purulent discharge with swollen lids. Risk of corneal perforation. **Treat with IV or IM ceftriaxone,** saline irrigation, and test for other infections.
+* **Chlamydial (days 5 to 14):** the most common infectious cause. Mucopurulent discharge, with possible associated pneumonia. **Treat with oral azithromycin** or erythromycin. Topical treatment alone is not enough.
+* **Herpes simplex (days 5 to 14):** vesicles on the lids, keratitis, possibly with systemic disease. **IV acyclovir.**
+* **Prophylaxis** at birth with erythromycin ointment is standard in many places.
+
+## Congenital Glaucoma
+
+Presents with **tearing, light sensitivity, eyelid spasm, and large, hazy corneas** (buphthalmos). Needs urgent surgery.
+
+## Pediatric Orbital Cellulitis
+
+Often from **ethmoid sinusitis** spreading through the thin medial wall. Fever, swollen lids, proptosis, and limited eye movements. **Admission, CT, IV antibiotics,** and drainage of abscesses (Lesson 6).
+
+## Child Abuse and the Eye
+
+**Retinal hemorrhages** that are numerous, multilayered, and extend to the periphery in an infant with unexplained head injury strongly suggest abusive head trauma. Ophthalmology examination and a child protection evaluation are required.
+
+## Common Eye Problems in Children
+
+* **Chalazia** and styes
+* **Allergic and viral conjunctivitis**
+* **Refractive errors,** especially myopia
+* **Blepharitis**
+* **Nasolacrimal duct problems**
+* **Blunt trauma and sports injuries**
+
+> **Summary**
+> The red reflex test screens for serious disease: a white or asymmetric reflex needs urgent referral, with retinoblastoma the leading concern. Strabismus and refractive differences cause amblyopia, which is reversible only during early childhood and treated by correcting the cause and patching or blurring the stronger eye. ROP affects premature infants and is treated with laser or anti-VEGF. Ophthalmia neonatorum timing suggests the cause, and gonococcal infection needs ceftriaxone.

@@ -1,0 +1,140 @@
+# Intracranial Hemorrhage
+
+Bleeding within the skull can occur inside the brain, around it, or in the spaces between its coverings. Some of these bleeds are survivable only with immediate recognition. Treatment depends on where the blood is.
+
+## Types at a Glance
+
+* **Intracerebral hemorrhage (ICH):** bleeding into brain tissue
+* **Subarachnoid hemorrhage (SAH):** bleeding into the CSF space around the brain
+* **Subdural hematoma (SDH):** blood between the dura and arachnoid
+* **Epidural hematoma (EDH):** blood between the skull and dura
+* **Intraventricular hemorrhage (IVH):** bleeding into the ventricles
+
+## Intracerebral Hemorrhage (ICH)
+
+About 10 to 15 percent of strokes. High mortality, and worse outcomes than ischemic stroke.
+
+### Causes
+* **Chronic hypertension** (most common), damaging small deep arteries. Typical sites: **putamen/basal ganglia, thalamus, pons, and cerebellum.**
+* **Cerebral amyloid angiopathy:** older adults, causing **lobar** (cortical) bleeds
+* **Anticoagulant and antiplatelet therapy**
+* **Vascular malformations** (AVM, cavernoma) and aneurysms
+* **Tumors** and hemorrhagic metastases
+* **Drugs:** cocaine and amphetamines
+* **Coagulopathy, thrombolysis, trauma, and venous sinus thrombosis**
+
+### Presentation
+Sudden focal deficit, often with **headache, vomiting, and decreasing level of consciousness** (symptoms evolve over minutes to hours as the bleed expands). Seizures can occur.
+
+### Diagnosis
+**Non-contrast CT head:** bright (hyperdense) blood. MRI and CT angiography to look for a cause (especially in young patients or atypical locations).
+
+### Management
+* **ABCs, and secure the airway** if consciousness is reduced.
+* **Reverse anticoagulation immediately:**
+  * **Warfarin:** four-factor prothrombin complex concentrate (4F-PCC) and IV vitamin K
+  * **Dabigatran:** idarucizumab
+  * **Factor Xa inhibitors (apixaban, rivaroxaban):** andexanet alfa or 4F-PCC
+  * **Heparin:** protamine
+* **Blood pressure:** lower acutely to a systolic of about **140 mmHg** (and avoid dropping below 110), using IV agents such as nicardipine or labetalol.
+* **Treat raised ICP** (Lesson 9). Avoid steroids.
+* **Neurosurgical consult:** surgery is considered for **cerebellar hemorrhages** with brainstem compression or hydrocephalus, and for selected superficial bleeds in deteriorating patients. An **external ventricular drain** treats hydrocephalus.
+* **Seizure treatment** if seizures occur (no prophylaxis is generally recommended).
+* **ICH score** (GCS, volume, intraventricular blood, location, age) predicts 30-day mortality.
+
+## Subarachnoid Hemorrhage (SAH)
+
+### Causes
+* **Trauma** (the most common cause overall)
+* **Ruptured saccular (berry) aneurysm:** the most common non-traumatic cause (about 85 percent). Typical locations are the anterior communicating artery, posterior communicating artery, and middle cerebral artery bifurcation.
+* AVM, perimesencephalic hemorrhage, and dissection
+
+### Risk Factors
+Smoking, hypertension, heavy alcohol use, family history, and **polycystic kidney disease, Ehlers-Danlos syndrome,** and coarctation of the aorta.
+
+### Presentation
+* **Sudden, severe "thunderclap" headache** reaching peak intensity within seconds to a minute. Classically described as "the worst headache of my life."
+* **Vomiting,** neck stiffness, photophobia
+* **Loss of consciousness** or seizure at onset
+* **Third nerve palsy** (posterior communicating aneurysm)
+* **Sentinel headache** days to weeks before the rupture in some patients
+
+> **Clinical Pearl:** Any thunderclap headache is a subarachnoid hemorrhage until proven otherwise. A normal neurologic exam does not exclude it.
+
+### Diagnosis
+1. **Non-contrast CT head:** very sensitive within **6 hours** of onset on a modern scanner. Sensitivity falls over time.
+2. **Lumbar puncture** if CT is negative and suspicion remains, looking for **xanthochromia** (wait at least 6 to 12 hours after onset) and red cells that do not clear.
+3. **CT angiography or catheter angiography** to find the aneurysm.
+
+### Grading
+Severity scales include **Hunt and Hess** and **WFNS,** which predict outcome.
+
+### Management
+* **Secure the aneurysm early** (within 24 hours): **endovascular coiling** or **surgical clipping.**
+* **Blood pressure control** before the aneurysm is secured.
+* **Nimodipine 60 mg orally every 4 hours for 21 days** to improve outcomes by reducing delayed ischemia.
+* **Admit to a neurointensive care unit.**
+* Treat hydrocephalus (EVD) and seizures.
+* Maintain euvolemia and avoid hyponatremia.
+
+### Complications
+* **Rebleeding** (highest in the first 24 hours): often fatal
+* **Delayed cerebral ischemia from vasospasm:** typically **days 4 to 14.** Monitor with transcranial Doppler. Treat with induced hypertension, volume, and endovascular therapy.
+* **Acute hydrocephalus**
+* **Hyponatremia** (cerebral salt wasting or SIADH)
+* **Seizures,** cardiac arrhythmias, and neurogenic pulmonary edema
+
+## Subdural Hematoma (SDH)
+
+Blood collects between the dura and the arachnoid, from tearing of **bridging veins.**
+
+### Risk Factors
+Older age (brain atrophy stretches the veins), **alcohol use, anticoagulation,** falls, and child abuse (shaken baby syndrome).
+
+### Types
+* **Acute (hours to days):** from significant trauma. Rapid deterioration.
+* **Subacute and chronic (weeks):** often after a minor head injury that the patient may not remember. Presents with **headache, confusion, personality change, gait problems, or fluctuating consciousness.** Easily mistaken for dementia.
+
+### CT Appearance
+**Crescent-shaped** (concave) collection that **crosses suture lines** but does not cross the midline falx. Acute is bright, subacute is isodense, and chronic is dark.
+
+### Management
+* Small, asymptomatic: observation and serial imaging
+* **Symptomatic or with significant mass effect:** surgical evacuation (burr holes for chronic, craniotomy for acute)
+* Reverse anticoagulation
+
+## Epidural Hematoma (EDH)
+
+Arterial bleeding, most often from the **middle meningeal artery,** after a **temporal bone fracture** (at the pterion).
+
+### Presentation
+* **Lucid interval:** brief loss of consciousness, then apparent recovery, followed within hours by rapid deterioration, headache, vomiting, and a dilated pupil. Only about one in five has the classic lucid interval.
+
+### CT Appearance
+**Biconvex (lens-shaped)** collection that **does not cross suture lines** (because the dura is firmly attached at sutures).
+
+### Management
+A **neurosurgical emergency.** Urgent evacuation. Prognosis is excellent if treated before herniation.
+
+## Intraventricular Hemorrhage
+
+Blood in the ventricles, from extension of an ICH or SAH, or in premature infants. Causes hydrocephalus. Managed with an external ventricular drain.
+
+## Cerebral Venous Sinus Thrombosis (CVST)
+
+A clot in a dural venous sinus can cause venous infarction and hemorrhage.
+
+* **Risk factors:** pregnancy and postpartum, oral contraceptives, thrombophilia, dehydration, infection, malignancy
+* **Presentation:** headache (often progressive), seizures, focal deficits, papilledema, reduced consciousness
+* **Diagnosis:** **CT or MR venography**
+* **Treatment:** **anticoagulation** (heparin, then warfarin or a DOAC), even with associated hemorrhage
+
+## Comparing the Bleeds
+
+* **EDH:** lens-shaped, does not cross sutures, arterial, lucid interval
+* **SDH:** crescent-shaped, crosses sutures, venous, older or alcoholic patients
+* **SAH:** blood in the sulci and cisterns, thunderclap headache, aneurysm
+* **ICH:** blood within the brain, hypertension or amyloid, focal deficit
+
+> **Summary**
+> Intracerebral hemorrhage appears as bright blood on CT and is managed with immediate anticoagulation reversal and blood pressure control to about 140 systolic. SAH presents with thunderclap headache. It is diagnosed with CT within 6 hours or with LP, and treated by securing the aneurysm and giving nimodipine. Watch for rebleeding, vasospasm (days 4 to 14), and hydrocephalus. SDH is crescent-shaped and crosses sutures, while EDH is lens-shaped, arterial, and does not cross sutures.

@@ -1,0 +1,227 @@
+# Genetic Testing
+
+Genetic testing examines a person's **DNA, chromosomes, genes, or gene products** to find changes that cause or raise the risk of disease, or that influence how a patient responds to a drug. It has moved from rare specialist use to routine care in cancer, pregnancy, pediatrics, cardiology, and pharmacology. This lesson teaches the basics, the main kinds of tests, and the clinical and ethical issues that surround them.
+
+## Genetics Essentials
+
+### DNA, Genes, and Chromosomes
+* **DNA** is the code, made of four bases (A, T, C, G)
+* **Genes** are stretches of DNA that code for proteins
+* Humans have **46 chromosomes** (23 pairs): 22 pairs of **autosomes** and **one pair of sex chromosomes** (XX or XY)
+* **Variants** are differences in DNA sequence. Most are harmless.
+
+### Types of Variants
+* **Single nucleotide variants (SNVs):** one base changed
+* **Missense:** changes an amino acid
+* **Nonsense:** creates a stop signal, producing a truncated protein
+* **Silent:** no change in amino acid
+* **Insertions and deletions (indels)**
+* **Frameshift:** shifts the reading frame, usually severe
+* **Copy number variants (CNVs):** deletions or duplications of larger segments
+* **Chromosomal changes:** extra or missing chromosomes (**aneuploidy**), translocations, inversions
+* **Repeat expansions:** unstable repeats of a short sequence, such as **CAG repeats in Huntington disease**
+* **Epigenetic changes:** such as DNA methylation, affecting gene activity without changing the sequence (imprinting disorders)
+
+### Genotype, Phenotype, and Penetrance
+* **Genotype:** the genetic makeup. **Phenotype:** the observable traits or disease.
+* **Penetrance:** the proportion of people with a variant who show the disease. **Incomplete penetrance** means some carriers stay healthy (for example, BRCA1).
+* **Expressivity:** the degree of severity. It can vary even within a family.
+* **Anticipation:** disease appearing earlier or more severely in successive generations (trinucleotide repeat disorders).
+
+## Patterns of Inheritance
+
+### Autosomal Dominant
+* **One altered copy** is enough to cause disease
+* **Vertical transmission:** appears in every generation. **50 percent** risk to each child. Males and females equally affected.
+* **Examples:** Huntington disease, **familial hypercholesterolemia,** BRCA1/2 hereditary cancer, neurofibromatosis, Marfan syndrome, polycystic kidney disease (ADPKD), Lynch syndrome, hereditary hemorrhagic telangiectasia
+
+### Autosomal Recessive
+* **Two altered copies** needed. Parents are usually **healthy carriers.**
+* **25 percent** risk for each child of two carriers
+* **Horizontal pattern:** siblings affected, often not parents
+* More common with **consanguinity**
+* **Examples:** **cystic fibrosis,** sickle cell disease, thalassemia, phenylketonuria, Tay-Sachs disease, hemochromatosis (HFE), Wilson disease, spinal muscular atrophy
+
+### X-Linked Recessive
+* The gene is on the X chromosome. **Males** (one X) are usually affected, and **females** are carriers.
+* **No male-to-male transmission**
+* **Examples:** **hemophilia A and B, Duchenne muscular dystrophy, G6PD deficiency,** red-green color blindness, fragile X syndrome (more complex)
+
+### X-Linked Dominant
+Rare. Affected fathers pass the condition to all daughters but no sons. **Example:** Rett syndrome and vitamin D-resistant rickets.
+
+### Mitochondrial Inheritance
+**Maternal inheritance:** passed only from mothers, to all children. Variable severity (heteroplasmy). **Examples:** MELAS, Leber hereditary optic neuropathy, and Kearns-Sayre syndrome.
+
+### Multifactorial and Polygenic
+Many genes plus environment: **diabetes, hypertension, coronary disease, most cancers.** Risk is modeled with **polygenic risk scores** (still being studied for routine clinical use).
+
+### Pedigree
+A **family tree** drawn with standard symbols (squares for males, circles for females, shaded for affected). **Taking a three-generation family history** is a core skill, and often more informative than a test.
+
+## Types of Genetic Tests
+
+### Cytogenetic Tests (Chromosomes)
+* **Karyotype:** images chromosomes under the microscope. Detects **aneuploidy** (Down syndrome, Turner syndrome, Klinefelter syndrome) and large structural changes. Resolution about 5 to 10 million base pairs.
+* **FISH (fluorescence in situ hybridization):** fluorescent probes detect specific deletions, duplications, or translocations (such as **BCR-ABL** in chronic myeloid leukemia, **22q11 deletion** in DiGeorge syndrome)
+* **Chromosomal microarray (CMA):** detects small deletions and duplications (CNVs). **First-tier test** for developmental delay, autism, and multiple congenital anomalies.
+
+### Molecular Tests (DNA)
+* **Targeted variant testing:** looks for a **known** familial variant or a common variant (such as **Factor V Leiden, HFE C282Y**)
+* **Single-gene sequencing:** the full sequence of one gene when a specific condition is suspected
+* **Gene panels:** a group of genes related to a condition (for example, **hereditary cancer panels, cardiomyopathy panels, epilepsy panels**)
+* **Exome sequencing (WES):** the protein-coding regions of **all genes** (about 1 to 2 percent of the genome). Diagnoses about 25 to 40 percent of children with undiagnosed genetic disease.
+* **Genome sequencing (WGS):** the **entire genome,** including non-coding regions and structural variants
+* **Repeat expansion testing (PCR or Southern blot):** Huntington disease, fragile X, myotonic dystrophy, Friedreich ataxia
+* **Methylation testing:** imprinting disorders (Prader-Willi and Angelman syndromes)
+* **MLPA and deletion/duplication analysis:** exon-level deletions (such as in **Duchenne muscular dystrophy** and **BRCA**)
+* **Mitochondrial DNA testing**
+
+### Biochemical and Other Tests
+* **Enzyme assays** and **metabolic tests** (organic acids, amino acids, acylcarnitine) in metabolic disease
+* **Newborn screening** (see below)
+* **Protein analysis:** hemoglobin electrophoresis
+
+### Somatic (Tumor) Testing
+Tests the **genetic changes in the tumor,** which are different from inherited changes.
+* **Guides targeted therapy:** **EGFR, ALK, ROS1, KRAS, BRAF** in lung and colorectal cancer, **HER2** in breast cancer, **BRCA** for PARP inhibitors, **BCR-ABL** for tyrosine kinase inhibitors
+* **Microsatellite instability (MSI) and tumor mutational burden:** predicts response to immunotherapy
+* **Liquid biopsy** (circulating tumor DNA)
+* **Tumor findings sometimes suggest an inherited (germline) variant** that needs confirmation
+
+## Clinical Applications
+
+### Diagnostic Testing
+Confirms or rules out a genetic condition in someone with **symptoms** (a child with developmental delay, a patient with cardiomyopathy, a family with early-onset cancers).
+
+### Carrier Screening
+Identifies **healthy carriers** of recessive conditions before or during pregnancy. **Expanded carrier screening** panels cover many conditions. Guidelines recommend offering screening for **cystic fibrosis, spinal muscular atrophy, hemoglobinopathies,** and others.
+
+### Prenatal Screening and Diagnosis
+
+#### Screening (estimates risk, does not diagnose)
+* **First-trimester combined screening:** nuchal translucency ultrasound, with PAPP-A and hCG blood tests
+* **Quad screen** (second trimester): AFP, hCG, estriol, inhibin A
+* **Cell-free DNA (cfDNA, NIPT):** a maternal blood test from about **10 weeks.** **Highly sensitive** for trisomy 21, 18, and 13 (above 99 percent for trisomy 21), **but still a screening test.** A **positive result needs diagnostic confirmation,** because of false positives (especially in younger women, for rarer conditions).
+
+#### Diagnostic
+* **Chorionic villus sampling (CVS):** **10 to 13 weeks.** Small risk of miscarriage (under 1 percent).
+* **Amniocentesis:** **15 to 20 weeks.** Karyotype, microarray, or sequencing. Small risk of miscarriage (about 1 in 500 or less).
+* **Preimplantation genetic testing (PGT)** with IVF
+
+### Newborn Screening
+A **heel-prick blood spot** in the first days of life screens for dozens of treatable conditions: **phenylketonuria (PKU), congenital hypothyroidism, cystic fibrosis, sickle cell disease, congenital adrenal hyperplasia, galactosemia, severe combined immunodeficiency (SCID), spinal muscular atrophy,** and others. **Early diagnosis prevents disability and death.** A positive screen needs confirmatory testing.
+
+### Predictive and Presymptomatic Testing
+Tests an **unaffected person** for a variant that will cause disease later (such as **Huntington disease**).
+* **Genetic counseling is essential** before and after testing
+* **Protocols** for Huntington testing include counseling, psychological assessment, and support
+* The result **cannot be undone,** and may affect the patient, family, insurance, and mental health
+* **Minors** are usually not tested for adult-onset conditions without a medical benefit in childhood
+
+### Susceptibility Testing and Hereditary Cancer
+* **BRCA1 and BRCA2:** hereditary breast, ovarian, prostate, and pancreatic cancer. Risk-reducing options include **enhanced screening, risk-reducing surgery, and chemoprevention.**
+* **Lynch syndrome (mismatch repair genes MLH1, MSH2, MSH6, PMS2):** colorectal, endometrial, and other cancers. Screen with **colonoscopy** every 1 to 2 years from early adulthood.
+* **Familial adenomatous polyposis (APC),** **Li-Fraumeni syndrome (TP53),** **MEN syndromes,** **von Hippel-Lindau**
+* **Indicators for referral:** early age at diagnosis, multiple primary cancers, rare cancers, **several relatives with the same or related cancers,** and known familial variant
+
+### Cardiovascular Genetics
+* **Familial hypercholesterolemia** (LDLR, APOB, PCSK9): very high LDL, early heart disease. **Cascade screening** of relatives.
+* **Cardiomyopathies and channelopathies:** long QT syndrome, Brugada syndrome, hypertrophic cardiomyopathy, arrhythmogenic cardiomyopathy
+* **Aortopathies:** Marfan, Loeys-Dietz, vascular Ehlers-Danlos
+
+### Neurogenetics
+* **Huntington disease:** CAG repeat expansion in HTT
+* **Hereditary neuropathies** (Charcot-Marie-Tooth, PMP22)
+* **Spinocerebellar ataxias, ALS genes (C9orf72, SOD1), early-onset Alzheimer genes** (APP, PSEN1, PSEN2)
+* **Muscular dystrophies,** SMA
+* **Epilepsy panels**
+
+### Hematology and Others
+* **Sickle cell disease and thalassemia:** hemoglobin electrophoresis, then genetic testing
+* **Hemochromatosis (HFE),** **factor V Leiden, prothrombin G20210A**
+* **Cystic fibrosis:** CFTR variant testing, sweat chloride
+* **Hemophilia**
+
+## Pharmacogenomics
+
+Genetic variants that change **how a patient responds to a drug.** Testing helps choose the right drug and dose.
+
+* **CYP2C19 and clopidogrel:** **poor metabolizers** do not activate clopidogrel, so alternatives (ticagrelor, prasugrel) are recommended after stent placement
+* **CYP2D6:** metabolism of codeine, tramadol, tamoxifen, and many antidepressants. **Ultrarapid metabolizers of codeine** can have **life-threatening opioid toxicity,** especially breastfed infants and children after tonsillectomy.
+* **CYP2C9 and VKORC1:** warfarin dosing
+* **HLA-B*5701:** **abacavir hypersensitivity.** **Test before starting abacavir** (a positive result means do not use).
+* **HLA-B*1502:** **carbamazepine** (and oxcarbazepine) **Stevens-Johnson syndrome** in people of Asian ancestry
+* **HLA-B*5801:** **allopurinol** hypersensitivity
+* **TPMT and NUDT15:** **thiopurine toxicity** (azathioprine, 6-mercaptopurine). Check before starting.
+* **DPYD:** **fluorouracil and capecitabine** severe toxicity
+* **G6PD deficiency:** hemolysis with **rasburicase, primaquine, dapsone,** and some others. **Test before use.**
+* **SLCO1B1:** statin-related myopathy risk
+* **UGT1A1:** irinotecan toxicity
+
+> **Clinical Pearl:** Some pharmacogenomic tests (HLA-B*5701, G6PD, TPMT, DPYD) **prevent serious harm** and should be done **before** the drug is started.
+
+## Interpreting Genetic Test Results
+
+### Classification of Variants (ACMG Standards)
+* **Pathogenic:** causes disease
+* **Likely pathogenic:** very probably causes disease (about 90 percent or greater certainty)
+* **Variant of uncertain significance (VUS):** **not enough evidence** to say. **Do not act on a VUS** (it is not a diagnosis, and should not drive clinical decisions or family testing). Reclassification occurs over time.
+* **Likely benign and benign:** not disease-causing
+
+### Positive, Negative, and Uninformative Results
+* **Positive (pathogenic or likely pathogenic):** a diagnosis, or a high risk. Guides management and **cascade testing** of relatives.
+* **Negative:** no variant found **in the genes tested.** It does **not** rule out a genetic cause (the test may not cover the right gene, or the variant may be of a type not detected).
+* **True negative:** when a **known familial variant** is absent in a relative. Strongly reassuring.
+* **Uninformative negative:** no known familial variant, so the test cannot say much.
+* **Incidental (secondary) findings:** unexpected results unrelated to the reason for testing (for example, a **BRCA variant found in exome sequencing** for a child's developmental delay). Policies for returning them vary, and should be discussed in advance.
+
+### Limitations
+* **Not all variants are detectable** by every test
+* **Penetrance and expressivity** mean a variant does not always predict the outcome
+* **Ancestry bias:** reference databases are weighted toward people of European descent, and more VUS are found in other groups
+* **Mosaicism**
+* **False reassurance and false alarm** with screening tests
+
+## Genetic Counseling
+
+A **communication process** where a trained professional helps patients understand and adapt to a genetic condition.
+
+### Pre-Test
+* **Take a detailed family history** and pedigree
+* **Discuss the purpose, benefits, limitations, and risks** of the test (and the possible results, including VUS and incidental findings)
+* **Discuss potential consequences:** psychological, family, insurance, employment
+* **Obtain informed consent**
+
+### Post-Test
+* **Explain the results** in plain language, and the implications for the patient and relatives
+* **Offer psychological support**
+* **Plan follow-up,** screening, or treatment
+* **Encourage sharing** with at-risk relatives (**cascade testing**)
+
+> **Clinical Pearl:** Pretest counseling is **more than a form.** Many patients do not understand that a genetic result can affect their siblings and children.
+
+## Ethical, Legal, and Social Issues
+
+* **Autonomy and informed consent:** a patient has the **right not to know**
+* **Confidentiality and family disclosure:** patients are encouraged to inform relatives. Clinicians face difficult questions when a patient refuses and relatives are at serious preventable risk.
+* **Privacy:** genetic data is **uniquely identifying** and can reveal information about relatives
+* **Discrimination:** in the **United States,** the **Genetic Information Nondiscrimination Act (GINA)** protects against discrimination in **health insurance and employment.** It does **not** cover **life, disability, or long-term care insurance.**
+* **Testing children:** generally test children only when results change management in childhood
+* **Direct-to-consumer (DTC) tests:** results may be **inaccurate, incomplete, or misinterpreted.** Positive results usually need confirmation in a clinical laboratory.
+* **Equity and access:** differences in access and reference data
+* **Reproductive decisions:** support non-directive counseling
+* **Data sharing and research**
+
+## When to Order Genetic Testing
+
+Consider testing when there is:
+* **A clinical picture** suggesting a genetic condition (congenital anomalies, developmental delay, specific syndromes)
+* **A family history** of early-onset or multiple related diseases
+* **A diagnosis that changes treatment** (targeted therapy, drug choice, surveillance)
+* **A reproductive risk**
+
+**Refer to genetics** when it is complex, and always **involve a genetic counselor** where available.
+
+> **Summary**
+> Genetic conditions follow patterns of inheritance: autosomal dominant (50 percent risk, vertical transmission), autosomal recessive (carrier parents, 25 percent risk), X-linked recessive (males affected, no male-to-male transmission), and mitochondrial (maternal). Choose the test by the question: karyotype and microarray for chromosomes, gene panels for known conditions, exome or genome sequencing for undiagnosed disease, and repeat expansion testing for conditions like Huntington. Prenatal cfDNA is a screen that needs confirmation, while CVS and amniocentesis diagnose. Newborn screening saves lives. Test for HLA-B*5701, G6PD, TPMT, and DPYD before certain drugs. Do not act on a VUS, and provide counseling before and after testing.

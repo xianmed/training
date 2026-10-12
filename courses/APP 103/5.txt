@@ -1,0 +1,117 @@
+# Refractive Errors and Presbyopia
+
+Refractive errors are the most common cause of reduced vision worldwide, and the most treatable. They occur when the eye's optical system does not focus light exactly on the retina.
+
+## The Basics
+
+Light focuses depend on two things: the **power** of the cornea and lens, and the **length** of the eye. A mismatch causes blur. Power is measured in **diopters (D)**. Minus (-) lenses diverge light. Plus (+) lenses converge light.
+
+> **Clinical Pearl:** A patient whose vision improves with a pinhole almost certainly has a refractive error.
+
+## Myopia (Nearsightedness)
+
+**Distant objects are blurry. Near objects are clear.**
+
+### Mechanism
+The eye is too long (axial myopia) or the cornea too steep, so light focuses in front of the retina.
+
+### Features
+* Usually begins in childhood or adolescence
+* Increasing worldwide
+* Squinting to see distant objects
+
+### Correction
+**Minus (concave) lenses.**
+
+### Risks of High Myopia
+High myopia stretches the retina and raises the risk of **retinal tears and detachment, glaucoma, cataract, and myopic macular degeneration**. Patients with high myopia should be taught the warning signs of retinal detachment.
+
+### Slowing Progression in Children
+Low-dose atropine drops (0.01%), special multifocal contact lenses, orthokeratology (overnight shaping lenses), and outdoor time all slow progression.
+
+## Hyperopia (Farsightedness)
+
+**Near objects are blurry. Distant objects may be clear.**
+
+### Mechanism
+The eye is too short or the lens too weak, so light would focus behind the retina.
+
+### Features
+* Young people compensate by accommodating (using their lens), so distance vision may seem normal
+* Symptoms: eye strain, headaches, difficulty reading, crossing of the eyes in children (accommodative esotropia)
+* As accommodation fades with age, symptoms worsen
+
+### Correction
+**Plus (convex) lenses.**
+
+### Risk
+Shallow anterior chambers in hyperopic eyes predispose to **angle closure glaucoma**.
+
+## Astigmatism
+
+**Blurry vision at all distances, with distortion of shapes.**
+
+### Mechanism
+The cornea (or lens) is shaped more like a football than a basketball, so it has different curvatures in different directions. Light focuses at two different points.
+
+### Correction
+**Cylindrical lenses** in glasses or **toric** contact lenses. Surgery can reshape the cornea.
+
+## Presbyopia
+
+**Age-related loss of near focusing.**
+
+### Mechanism
+The lens hardens and the ciliary muscle weakens, so the lens cannot round up for near work.
+
+### Features
+* Onset around age 40 to 45
+* Needing to hold reading material farther away
+* Worse in dim light and at the end of the day
+
+### Correction
+Reading glasses, bifocals, progressive lenses, multifocal contact lenses, or monovision (one eye set for distance and one for near).
+
+## Anisometropia
+
+A large difference in refractive error between the two eyes. In young children it can cause **amblyopia**, because the brain favors the clearer eye (Lesson 16).
+
+## Methods of Correction
+
+### Spectacles
+Safe and simple. Updated prescriptions every 1 to 2 years.
+
+### Contact Lenses
+Soft, rigid gas permeable, and specialty lenses. They provide wider vision and are used in sports, but they carry risk.
+
+#### Complications of Contact Lenses
+* **Microbial keratitis** (including Pseudomonas and Acanthamoeba)
+* Giant papillary conjunctivitis
+* Corneal neovascularization from chronic oxygen deprivation
+* Dry eye
+
+#### Safe Use Rules
+* Never sleep in lenses unless specifically designed for it
+* Never use tap water, swim, or shower with lenses
+* Replace the case frequently
+* Remove lenses and seek care for any red, painful eye
+
+### Refractive Surgery
+* **LASIK:** a flap is created and the corneal stroma reshaped with a laser.
+* **PRK:** surface laser reshaping with no flap. Longer recovery, but better for thin corneas.
+* **SMILE:** a small lenticule is removed through a tiny incision.
+* **Implantable lenses (ICL):** for high myopia in patients who are not good laser candidates.
+
+#### Surgical Risks
+Dry eye, glare and halos at night, under- or overcorrection, and rarely corneal ectasia (weakening and bulging). **Keratoconus** and thin corneas are contraindications.
+
+## Related Condition: Keratoconus
+
+A progressive thinning and cone-shaped bulging of the cornea, usually beginning in teenage years. It causes irregular astigmatism and glare. Linked to eye rubbing, atopy, and genetics. Treated with specialty contact lenses and **corneal cross-linking** to stiffen the cornea (Lesson 8).
+
+## Key Concept: Refraction
+
+The process of finding the correct lenses is called **refraction**. The patient views a chart and chooses between lens options ("one or two?") until the sharpest vision is found. Results are written as **sphere / cylinder / axis**, for example -2.00 -0.75 x 180.
+
+> **Summary**
+> Myopia is a long eye corrected with minus lenses. Hyperopia is a short eye corrected with plus lenses and is a risk factor for angle closure. Astigmatism is uneven corneal curvature. Presbyopia is age-related loss of accommodation beginning around age 40. High myopia raises the risk of retinal detachment. Contact lens wearers with a painful red eye must be seen the same day.

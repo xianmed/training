@@ -1,0 +1,175 @@
+# Neuro-Ophthalmology
+
+Neuro-ophthalmology sits where the eye meets the brain. It covers diseases of the optic nerve, visual pathways, pupils, and the nerves that move the eye. Many of these conditions are neurologic emergencies that first appear as eye symptoms.
+
+## Visual Field Defects and Localization
+
+Where the field defect lies tells you where the lesion is.
+
+* **Optic nerve lesion:** loss of vision in **one eye** (monocular), often with RAPD.
+* **Optic chiasm lesion:** **bitemporal hemianopia** (loss of the outer half of the visual field in both eyes). Caused by **pituitary adenomas, craniopharyngiomas, meningiomas**, and aneurysms. The crossing nasal fibers are affected.
+* **Optic tract lesion:** **contralateral homonymous hemianopia** (same side of the field lost in both eyes), often incongruous.
+* **Temporal lobe (Meyer loop):** **contralateral superior quadrantanopia**, called "pie in the sky."
+* **Parietal lobe:** **contralateral inferior quadrantanopia,** called "pie on the floor."
+* **Occipital cortex:** **contralateral homonymous hemianopia with macular sparing**, classically from a posterior cerebral artery stroke.
+
+> **Clinical Pearl:** Field defects that respect the vertical midline point to the chiasm or beyond. Field loss restricted to one eye points to the eye or optic nerve.
+
+## Papilledema
+
+**Optic disc swelling caused by raised intracranial pressure.** Always bilateral (though often asymmetric).
+
+### Signs
+* Blurred disc margins, elevated disc, hyperemia, loss of venous pulsations
+* Hemorrhages and cotton wool spots around the disc in later stages
+* **Vision is usually normal early.** Enlarged blind spot on field testing.
+
+### Symptoms
+* Headaches, worse lying down or in the morning
+* **Transient visual obscurations:** seconds-long grayouts, often with posture change
+* Nausea, pulsatile tinnitus, double vision (CN VI palsy)
+
+### Causes
+* Brain tumor or mass
+* Hydrocephalus
+* **Cerebral venous sinus thrombosis**
+* Meningitis
+* **Idiopathic intracranial hypertension (IIH)**
+
+### Management
+**Image the brain first,** with MRI or CT and venography to look for mass lesion or venous thrombosis. Then lumbar puncture shows raised opening pressure.
+
+### Idiopathic Intracranial Hypertension
+Classically seen in **young, overweight women of childbearing age**.
+
+* Opening pressure above 25 cm water with normal imaging and normal spinal fluid composition
+* Some medications are linked (tetracyclines, vitamin A and retinoids, steroid withdrawal)
+* **Treatment:** weight loss, **acetazolamide**, stop offending drugs, and repeat visual field testing. Optic nerve sheath fenestration or CSF shunting if vision is threatened.
+* **Risk:** progressive vision loss from the optic neuropathy.
+
+## Optic Neuritis
+
+Inflammation of the optic nerve, most often demyelinating and associated with **multiple sclerosis (MS).**
+
+### Presentation
+* **Young women (20 to 40)** most commonly
+* Subacute loss of vision over hours to days in **one eye**
+* **Pain with eye movement,** often before or at the time of vision loss
+* **Color desaturation** (reds look faded)
+* Central scotoma and reduced contrast
+* **RAPD**
+* **Normal-appearing disc** in about two thirds (retrobulbar neuritis), swollen disc in others
+
+### Evaluation
+* **MRI of the brain and orbits** with contrast. White matter lesions predict future MS.
+* Evaluate for neuromyelitis optica spectrum disorder (NMOSD) with aquaporin-4 antibodies, and MOG antibody disease, which behave differently and need different treatment.
+
+### Treatment
+* **High-dose IV methylprednisolone** (1 g daily for 3 days) speeds visual recovery, but **does not change final vision.**
+* Most patients recover vision over weeks to months.
+* Refer to neurology for MS evaluation and disease-modifying therapy.
+
+> **Clinical Pearl:** Standard-dose oral prednisone alone increased recurrence of optic neuritis in the Optic Neuritis Treatment Trial. Avoid it. Use IV high-dose steroids or observation.
+
+## Ischemic Optic Neuropathy
+
+### Arteritic Anterior Ischemic Optic Neuropathy: Giant Cell Arteritis (GCA)
+**An emergency. Missed GCA causes blindness in the second eye within days.**
+
+#### Who
+Patients **over 50** (average age in the 70s), more common in women.
+
+#### Symptoms
+* **New headache** or scalp tenderness
+* **Jaw claudication** (pain on chewing), the most specific symptom
+* **Visual loss,** sudden, often severe, or transient
+* Fever, malaise, weight loss, and **polymyalgia rheumatica** symptoms
+* Diplopia
+
+#### Signs
+* **Pale, chalky white swollen optic disc**
+* RAPD, markedly reduced vision
+* **Tender, thickened temporal artery** with reduced pulse
+
+#### Workup
+* **ESR and CRP** are usually raised, with high platelets. Normal values do not fully exclude it.
+* **Temporal artery biopsy** is the gold standard, and ultrasound is increasingly used.
+
+#### Treatment
+**Start high-dose corticosteroids immediately** (often IV methylprednisolone 1 g daily for 3 days, followed by oral prednisone) based on clinical suspicion. **Do not wait for biopsy.** Biopsy results remain valid for days to weeks after starting steroids. Add steroid-sparing agents such as tocilizumab.
+
+### Nonarteritic Anterior Ischemic Optic Neuropathy (NAION)
+* Older patients (usually 50 to 70) with **painless, sudden vision loss,** often noted on waking
+* **Swollen, hyperemic disc** with flame hemorrhages
+* **Small, crowded optic disc** (a "disc at risk" with a small cup) in the other eye
+* **Risk factors:** hypertension, diabetes, sleep apnea, atherosclerosis, nocturnal hypotension, and a possible link with PDE-5 inhibitors and amiodarone
+* No proven treatment. Control vascular risk factors and screen for GCA. About 15 to 20 percent develop it in the second eye.
+
+## Ocular Motor Nerve Palsies
+
+### Cranial Nerve III (Oculomotor)
+* **Down and out** eye position (unopposed lateral rectus and superior oblique)
+* **Ptosis**
+* **Dilated pupil** if parasympathetic fibers are affected
+
+#### Compressive Versus Ischemic
+* **Pupil involved (dilated, poorly reactive):** suspect **compression**, classically a **posterior communicating artery aneurysm.** An emergency needing urgent vascular imaging (CT or MR angiography).
+* **Pupil spared:** suggests microvascular ischemia, typically from diabetes or hypertension, in older patients. Pain may be present. Usually resolves in 3 months. Still needs close follow-up, as imaging may be needed.
+* Also consider: trauma, uncal herniation, cavernous sinus lesions, giant cell arteritis, and myasthenia.
+
+### Cranial Nerve IV (Trochlear)
+* **Vertical double vision,** worst on looking down and toward the nose (reading, stairs)
+* **Head tilt** away from the affected side to reduce the double vision
+* Most commonly from head trauma, congenital, or microvascular
+
+### Cranial Nerve VI (Abducens)
+* **Horizontal double vision,** worse at distance and on looking toward the affected side
+* **Esotropia** with failure of abduction
+* Causes: microvascular ischemia, **raised intracranial pressure (false localizing sign** because of the long nerve course), trauma, tumors, and multiple sclerosis
+* In children or with papilledema, obtain neuroimaging
+
+### Internuclear Ophthalmoplegia (INO)
+A lesion of the medial longitudinal fasciculus. Failure of adduction of one eye on lateral gaze, with nystagmus of the abducting eye. Classic in **multiple sclerosis** in young adults, and stroke in older adults.
+
+## Horner Syndrome
+
+Disruption of the sympathetic pathway to the eye.
+
+### Triad
+* **Ptosis** (mild)
+* **Miosis** (small pupil, with the anisocoria worse in dim light)
+* **Anhidrosis** (reduced sweating, depends on the lesion site)
+
+### Three-Neuron Pathway and Causes
+* **First order (central):** hypothalamus to spinal cord. Brainstem stroke (lateral medullary or Wallenberg syndrome), tumor, MS, syrinx.
+* **Second order (preganglionic):** spinal cord to the superior cervical ganglion, passing over the lung apex. **Pancoast tumor,** thoracic surgery, neck trauma, and thyroid or neck masses.
+* **Third order (postganglionic):** along the carotid artery. **Carotid artery dissection** (neck or face pain), cavernous sinus lesions, cluster headache.
+
+### Evaluation
+* Confirm with **apraclonidine drops** (the Horner pupil dilates because of denervation hypersensitivity).
+* **Painful Horner syndrome** or associated neck pain demands urgent imaging for carotid dissection.
+* Imaging of brain, neck, and chest is typical.
+
+## Other Pupil Abnormalities
+
+* **Adie tonic pupil:** a large, poorly reactive pupil, usually in young women, with slow constriction to near. Benign. Often with absent deep tendon reflexes.
+* **Argyll Robertson pupil:** small, irregular pupils that **accommodate but do not react to light** (light-near dissociation). Classic for neurosyphilis.
+* **Pharmacologic mydriasis:** a large, fixed pupil from exposure to anticholinergic or dilating agents, such as scopolamine patches or nebulized ipratropium. Does not constrict with pilocarpine.
+* **Physiologic anisocoria:** a small difference (up to 1 mm), the same in light and dark.
+
+## Ocular Myasthenia Gravis
+
+Autoimmune disease at the neuromuscular junction.
+
+* **Fluctuating ptosis and diplopia,** worse with fatigue and later in the day
+* Can mimic any cranial nerve palsy, but **pupils are spared**
+* **Ice pack test:** ptosis improves after cooling the lid for 2 minutes
+* Confirm with AChR antibodies, single fiber EMG, and chest CT for thymoma
+* Treated with pyridostigmine, immunosuppression, and thymectomy if indicated
+
+## Nystagmus (Brief)
+
+Rhythmic, involuntary eye oscillation. Can be physiologic, congenital, or acquired from cerebellar or brainstem disease, drugs (phenytoin, alcohol), or vestibular disease.
+
+> **Summary**
+> Field defect patterns localize lesions: bitemporal for the chiasm, homonymous for tract and beyond. Papilledema means raised ICP and needs imaging before lumbar puncture. Optic neuritis causes painful vision loss with color desaturation and RAPD in young adults and is linked with MS. Giant cell arteritis is an emergency: start steroids immediately in any older patient with jaw claudication, headache, and vision change. A CN III palsy with a dilated pupil suggests a PCOM aneurysm. Horner syndrome has three neuron sites, and painful Horner suggests carotid dissection.

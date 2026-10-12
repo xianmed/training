@@ -1,0 +1,179 @@
+# Other Neurological Tests
+
+Beyond the EEG, neurologists rely on a range of tests to examine the **nerves, muscles, spinal fluid, sleep, cognition, balance, and autonomic function.** This lesson covers the most important of these. Brain and spine imaging are covered in Diagnostics II.
+
+## Lumbar Puncture and CSF Analysis
+
+(The procedure and basic CSF findings were introduced in the Neurology course. This section adds detail on analysis.)
+
+### Pressure and Collection
+* **Opening pressure:** normal about **10 to 20 cm H2O** (up to 25 in obese patients), measured with the patient **lying on their side, relaxed, and legs extended.**
+* **Four tubes** are usually collected in order:
+* **Tube 1:** chemistry and protein, glucose
+* **Tube 2:** microbiology (Gram stain, culture, PCR)
+* **Tube 3:** cell count and differential
+* **Tube 4:** cell count (repeat, to compare for a traumatic tap), or special tests
+
+### Normal CSF
+* **Appearance:** clear and colorless
+* **White cells:** 0 to 5 per microliter (mononuclear)
+* **Red cells:** none
+* **Protein:** about **15 to 45 mg/dL**
+* **Glucose:** about 60 percent of blood glucose (CSF glucose above about 40 to 45 mg/dL)
+* **Lactate:** below about 3.5 mmol/L
+
+### Interpretation of Common Patterns
+* **Bacterial meningitis:** **high neutrophils (often above 1,000),** high protein, **low glucose (CSF to serum ratio below 0.4),** raised lactate (above 3.5 to 4 mmol/L), cloudy fluid
+* **Viral meningitis or encephalitis:** **lymphocytes** (tens to hundreds), mildly raised protein, **normal glucose.** PCR for HSV, VZV, enterovirus.
+* **Tuberculous and fungal meningitis:** lymphocytes, **markedly raised protein, low glucose.** AFB stain, TB PCR, cryptococcal antigen, India ink, fungal culture.
+* **Guillain-Barré syndrome:** **high protein with a normal cell count** (albuminocytologic dissociation)
+* **Multiple sclerosis:** **oligoclonal bands** in CSF (not in serum), raised IgG index, mild lymphocytosis
+* **Subarachnoid hemorrhage:** raised red cells (not clearing between tubes) and **xanthochromia** (yellow supernatant), from at least 6 to 12 hours after onset
+* **Carcinomatous or lymphomatous meningitis:** **cytology and flow cytometry** show malignant cells
+* **Autoimmune encephalitis:** neuronal antibodies (NMDAR antibodies are more sensitive in CSF than in serum)
+* **Prion disease:** **RT-QuIC** (highly sensitive and specific), 14-3-3 protein (less specific)
+* **Alzheimer biomarkers:** reduced **amyloid-beta 42** (or reduced 42/40 ratio) and raised **phosphorylated tau**
+
+### The Traumatic Tap
+Blood contamination from the needle. Red cells **decrease from tube 1 to tube 4,** and there is **no xanthochromia.** **Correct the white cell count:** subtract about **1 white cell for every 500 to 1,000 red cells** per microliter.
+
+### Pitfalls
+* **Antibiotics before LP** reduce culture yield, but do **not** significantly change CSF cell count and chemistry in the first few hours. PCR remains useful.
+* **High opening pressure** (above 25 cm H2O) suggests **raised ICP,** idiopathic intracranial hypertension, cryptococcal meningitis, or venous sinus thrombosis. Therapeutic drainage may be needed.
+* **Always compare CSF with simultaneous serum glucose.**
+
+## Nerve Conduction Studies (NCS) and Electromyography (EMG)
+
+Together called **electrodiagnostic testing.** They assess **peripheral nerves, the neuromuscular junction, and muscles.** They are an **extension of the clinical examination.**
+
+### Nerve Conduction Studies
+Small electrical pulses stimulate a nerve, and electrodes record the response from the nerve or muscle.
+
+* **Sensory nerve action potential (SNAP):** amplitude shows the number of working sensory axons
+* **Compound muscle action potential (CMAP):** amplitude shows the number of working motor axons
+* **Conduction velocity:** how fast the signal travels (normal about **50 to 60 m/s** in arm nerves and **40 to 50 m/s** in leg nerves)
+* **Distal latency:** time for the signal to travel to the muscle
+* **F waves and H reflexes:** test the proximal nerve segments and roots
+
+#### Patterns
+* **Axonal neuropathy:** **reduced amplitude** with relatively normal velocity (diabetes, toxins, alcohol, most polyneuropathies)
+* **Demyelinating neuropathy:** **slowed conduction velocity,** prolonged latency, **conduction block,** and temporal dispersion (Guillain-Barré, CIDP, Charcot-Marie-Tooth type 1)
+* **Focal entrapment (for example carpal tunnel):** slowing of conduction across the compressed segment (for example prolonged median distal sensory and motor latency at the wrist)
+* **Radiculopathy:** **normal sensory responses** (because the lesion is proximal to the dorsal root ganglion), with abnormal EMG in the root distribution
+* **Motor neuron disease:** reduced CMAPs with **normal sensory studies**
+
+### Needle EMG
+A fine needle electrode is inserted into selected muscles. It records **at rest, during minimal contraction, and with maximal effort.**
+
+* **At rest:** healthy muscle is **electrically silent.**
+* **Fibrillation potentials and positive sharp waves:** signs of **denervation** (seen 2 to 3 weeks after nerve injury), or active muscle membrane irritability (inflammatory myopathy)
+* **Fasciculation potentials:** spontaneous firing of a whole motor unit, as in **ALS** (and benign in many people)
+* **Myotonic discharges:** "dive bomber" sound, in myotonic dystrophy and channelopathies
+* **Motor unit action potentials (MUAPs):**
+* **Neuropathic:** **large, long, and polyphasic** units with **reduced recruitment** (few units firing quickly) due to reinnervation
+* **Myopathic:** **small, short, polyphasic** units with **early recruitment** (many units firing for little force)
+
+### Neuromuscular Junction Testing
+* **Repetitive nerve stimulation (RNS):**
+* **Decrement (above 10 percent) at low-rate stimulation (2 to 3 Hz):** **myasthenia gravis**
+* **Incremental response (above 100 percent) at high-rate stimulation or after brief exercise:** **Lambert-Eaton myasthenic syndrome** (and botulism, with variable findings)
+* **Single-fiber EMG:** the **most sensitive test for myasthenia gravis** (increased jitter)
+
+### Indications and Limits
+* Useful for **diagnosing neuropathy, radiculopathy, myopathy, motor neuron disease, and neuromuscular junction disease,** and for **localizing** and **grading** the injury
+* **Timing matters:** early after nerve injury, EMG may be normal. **Wait 2 to 3 weeks** to see denervation.
+* **Small-fiber neuropathy** may be missed (NCS tests large fibers). Use a skin biopsy or quantitative sensory testing.
+* **Painful and uncomfortable,** although well tolerated. Tell patients to avoid skin creams on the day. **Anticoagulation** is a relative caution for needle EMG.
+* **Pacemakers and defibrillators** need consideration for NCS in some cases.
+
+## Evoked Potentials
+
+Evoked potentials record the **brain's electrical response to a sensory stimulus,** averaged over many trials. They test the **integrity and conduction speed** of sensory pathways.
+
+* **Visual evoked potentials (VEP):** the optic nerve and visual pathway. **Delayed latency** suggests **demyelinating optic neuropathy** (optic neuritis, MS).
+* **Brainstem auditory evoked responses (BAER or ABR):** the auditory nerve and brainstem. Used to screen **newborn hearing,** detect **acoustic neuromas,** and assess brainstem function.
+* **Somatosensory evoked potentials (SSEP):** the dorsal column pathways, from peripheral nerves to the cortex. Used in **spinal cord disease, intraoperative monitoring during spine surgery,** and in prognostication after cardiac arrest (**bilateral absent N20 responses** predict poor outcome).
+* **Motor evoked potentials (MEP):** the corticospinal tract by transcranial magnetic stimulation. Used intraoperatively and for myelopathy.
+
+## Sleep Studies
+
+### Polysomnography (PSG)
+An overnight recording in a sleep laboratory (or at home with simplified tests) of **EEG, eye movements, chin and leg EMG, ECG, airflow, respiratory effort, oxygen saturation, and body position.**
+
+* **Obstructive sleep apnea (OSA):**
+* **Apnea-hypopnea index (AHI):** events per hour. **5 to 14 mild, 15 to 29 moderate, 30 or more severe.**
+* **Features:** snoring, witnessed apneas, daytime sleepiness, morning headaches, resistant hypertension
+* **Treatment:** **CPAP,** weight loss, oral appliance, upper airway surgery, and **hypoglossal nerve stimulation**
+* **Periodic limb movements** and **REM sleep behavior disorder** (loss of the normal REM atonia, an early marker of **synucleinopathies,** including Parkinson disease)
+* **Home sleep apnea testing:** acceptable for uncomplicated, moderate-to-high risk suspected OSA
+
+### Multiple Sleep Latency Test (MSLT)
+Done the day after PSG. The patient is given **five nap opportunities** at 2-hour intervals.
+* **Mean sleep latency below 8 minutes** shows pathological sleepiness
+* **Two or more sleep-onset REM periods (SOREMPs)** supports **narcolepsy**
+
+### Maintenance of Wakefulness Test (MWT)
+Measures the ability to **stay awake,** used for occupational safety assessment.
+
+## Cognitive and Neuropsychological Testing
+
+### Bedside Screening
+* **Montreal Cognitive Assessment (MoCA):** scored out of 30. **Below 26** suggests impairment. More sensitive than the MMSE for mild impairment and executive dysfunction.
+* **Mini-Mental State Examination (MMSE):** scored out of 30. **Below 24** suggests impairment.
+* **Clock drawing test:** executive function and visuospatial skills
+* **Mini-Cog, SLUMS, and others**
+* **Confusion Assessment Method (CAM)** for delirium
+* **Education, language, and culture** affect scores.
+
+### Formal Neuropsychological Evaluation
+A **detailed battery** by a neuropsychologist testing memory, attention, language, executive function, and visuospatial skills.
+* Differentiates **dementia types,** distinguishes **depression from dementia,** quantifies **deficits after brain injury,** and documents **baseline function**
+* Tests **effort and validity** where relevant
+
+## Autonomic Testing
+
+Used for **orthostatic hypotension, syncope, small-fiber neuropathy, and suspected autonomic failure.**
+
+* **Orthostatic vital signs:** supine for 5 minutes, then standing at 1 and 3 minutes. **Positive: a fall in systolic of 20 mmHg or diastolic of 10 mmHg.**
+* **Neurogenic orthostatic hypotension:** little rise in heart rate (**less than about 15 beats per minute**) with the fall in blood pressure
+* **Tilt table test:** assesses **vasovagal syncope** and **postural orthostatic tachycardia syndrome (POTS)** (a heart rate rise of 30 beats per minute or more, without hypotension)
+* **Valsalva maneuver, deep breathing tests (heart rate variability)**
+* **Quantitative sudomotor axon reflex test (QSART)** and **thermoregulatory sweat test:** sweating function
+* **Skin biopsy:** intraepidermal nerve fiber density in **small-fiber neuropathy**
+
+## Vestibular and Hearing Tests
+
+* **Audiometry:** pure tone testing of hearing. **Sensorineural versus conductive hearing loss.**
+* **Tympanometry**
+* **Videonystagmography (VNG) and caloric testing:** record eye movements to detect vestibular dysfunction
+* **Video head impulse test (vHIT):** objective measure of the vestibulo-ocular reflex
+* **Rotary chair testing and vestibular evoked myogenic potentials (VEMP)**
+* **BAER** for retrocochlear lesions (see above)
+
+## Biopsies and Special Tests
+
+* **Nerve biopsy** (often the sural nerve): vasculitis, amyloidosis, and some inherited or inflammatory neuropathies. Reserved for selected cases.
+* **Muscle biopsy:** inflammatory myopathy, muscular dystrophy, metabolic myopathies, and mitochondrial disease
+* **Brain biopsy:** when the cause of a focal lesion or encephalopathy is unclear after noninvasive evaluation
+* **Skin biopsy:** small fiber neuropathy, and for **phosphorylated alpha-synuclein** in suspected synucleinopathy
+* **Edrophonium (Tensilon) test:** historical test for myasthenia. Rarely used now.
+* **Ice pack test:** a simple bedside test for ptosis in myasthenia gravis
+
+## Neuroimaging and Vascular Studies Mentioned Elsewhere
+
+**CT, MRI, angiography, carotid duplex, and transcranial Doppler** are covered in **Diagnostics II** (imaging).
+
+## Serum Biomarkers and Antibody Tests
+
+* **Acetylcholine receptor (AChR) and MuSK antibodies:** myasthenia gravis
+* **Aquaporin-4 and MOG antibodies:** NMOSD and MOGAD
+* **Paraneoplastic antibodies** (anti-Hu, anti-Yo, anti-Ri, and others), **neuronal surface antibodies** (NMDAR, LGI1, CASPR2)
+* **Anti-ganglioside antibodies:** Guillain-Barré variants (anti-GQ1b in Miller Fisher)
+* **Neurofilament light chain (NfL):** marker of axonal injury, used in research and increasingly in practice
+* **Plasma biomarkers for Alzheimer disease** (phosphorylated tau)
+* **Genetic testing:** Huntington disease, hereditary neuropathy, muscular dystrophy, spinocerebellar ataxias, and others (Lesson 13)
+
+> **Clinical Pearl:** Choose neurological tests by **localization.** Brain and cortex: EEG, imaging. Nerve and muscle: NCS and EMG. CSF: infection, inflammation, bleeding. Cognitive complaint: MoCA, neuropsychology, biomarkers. Sleepiness: PSG and MSLT. Dizziness or syncope: orthostatic vitals and tilt table.
+
+> **Summary**
+> CSF analysis distinguishes bacterial (neutrophils, low glucose), viral (lymphocytes, normal glucose), Guillain-Barré (high protein, normal cells), MS (oligoclonal bands), and SAH (xanthochromia). NCS and EMG separate axonal from demyelinating neuropathy, radiculopathy, myopathy, and neuromuscular junction disease, and repetitive stimulation shows decrement in myasthenia and increment in Lambert-Eaton. Evoked potentials test conduction through sensory pathways. Polysomnography diagnoses sleep apnea (AHI of 5 or more), and MSLT supports narcolepsy. MoCA screens cognition, and tilt table and orthostatic vitals evaluate autonomic failure.

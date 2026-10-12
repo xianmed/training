@@ -1,0 +1,143 @@
+# Retinal Vascular Disease
+
+The retina has one of the highest metabolic demands in the body, and it depends on a delicate vascular supply. Diabetes, hypertension, atherosclerosis, and clotting disorders damage that supply, and the retina is the only place where small vessels can be seen directly.
+
+## Retinal Blood Supply
+
+* **Central retinal artery:** feeds the inner retina.
+* **Choroid:** feeds the outer retina and photoreceptors.
+* **Venous drainage:** through the central retinal vein.
+
+## Diabetic Retinopathy
+
+A leading cause of blindness in working-age adults. Damage to retinal capillaries from chronic high blood sugar.
+
+### Risk Factors
+* **Duration of diabetes** (the strongest factor)
+* Poor glycemic control
+* Hypertension and hyperlipidemia
+* Pregnancy, kidney disease, smoking
+
+### Nonproliferative Diabetic Retinopathy (NPDR)
+Vessel damage without new vessel growth.
+
+* **Microaneurysms:** small red dots, the earliest sign
+* **Dot-and-blot hemorrhages**
+* **Hard exudates:** yellow lipid deposits
+* **Cotton wool spots:** fluffy white patches from nerve fiber ischemia
+* **Venous beading** and **intraretinal microvascular abnormalities (IRMA)**
+
+#### Severe NPDR: The 4-2-1 Rule
+Severe disease is defined by any one of:
+* **Hemorrhages** in all **4** quadrants
+* **Venous beading** in **2** or more quadrants
+* **IRMA** in **1** or more quadrant
+
+Severe NPDR carries a high risk of progressing to proliferative disease within a year.
+
+### Proliferative Diabetic Retinopathy (PDR)
+Ischemia drives release of **vascular endothelial growth factor (VEGF)**, causing abnormal new vessels.
+
+* **Neovascularization** of the disc (NVD) or elsewhere (NVE)
+* New vessels are fragile and bleed, causing **vitreous hemorrhage** (sudden floaters or loss of vision).
+* Scar tissue contracts and pulls the retina, causing **tractional retinal detachment.**
+* New vessels on the iris and angle cause **neovascular glaucoma.**
+
+### Diabetic Macular Edema (DME)
+Leaking vessels thicken the macula. **The most common cause of vision loss in diabetic patients** and can occur at any stage of retinopathy. Causes blurred or distorted central vision.
+
+### Screening
+* **Type 1 diabetes:** dilated eye exam within 5 years of diagnosis.
+* **Type 2 diabetes:** exam **at diagnosis** (the disease may already be present).
+* Then **every year**, more often if disease is present.
+* **Pregnancy:** exam before conception or early in pregnancy, and each trimester.
+
+### Treatment
+* **Control** of glucose, blood pressure, and lipids (the foundation).
+* **Anti-VEGF intravitreal injections** (aflibercept, ranibizumab, bevacizumab, faricimab) for DME and for PDR.
+* **Panretinal photocoagulation (PRP):** laser to the peripheral retina to reduce ischemia and VEGF production in PDR. Can cause reduced night and peripheral vision.
+* **Focal or grid laser** for certain macular edema.
+* **Intravitreal steroid implants** in selected cases.
+* **Vitrectomy** for nonclearing vitreous hemorrhage and tractional detachment.
+
+> **Clinical Pearl:** Diabetic retinopathy is often asymptomatic until late. Patients with diabetes need annual dilated eye exams even if vision is perfect.
+
+## Hypertensive Retinopathy
+
+### Chronic Changes
+* **Arteriolar narrowing**
+* **AV nicking:** arteries crossing veins indent them
+* **Copper and silver wiring** (light reflex changes)
+* **Flame-shaped hemorrhages**, cotton wool spots, hard exudates
+
+### Hypertensive Emergency
+Marked hypertension can cause **optic disc swelling** and macular exudate in a star-shaped pattern. This indicates end-organ damage and needs urgent blood pressure management.
+
+## Central Retinal Artery Occlusion (CRAO)
+
+An ophthalmic emergency often described as a "stroke of the eye."
+
+### Presentation
+**Sudden, painless, profound loss of vision in one eye**, often counting fingers or worse. May be preceded by amaurosis fugax.
+
+### Signs
+* **RAPD**
+* **Pale, edematous retina** with a **cherry red spot** at the fovea (the thin fovea lets the choroid show through)
+* **Boxcarring** (segmentation) of vessels
+* An embolus may be visible
+
+### Causes
+* **Carotid atherosclerosis** (cholesterol plaque emboli)
+* **Cardiac emboli** (atrial fibrillation, endocarditis, valve disease)
+* **Giant cell arteritis**: must be ruled out in anyone over 50
+* Hypercoagulability, vasculitis, sickle cell, trauma
+
+### Management
+* **Time-critical:** retinal tissue starts dying within about 90 to 100 minutes of complete occlusion, and recovery is unlikely after several hours.
+* **Treat as acute stroke:** emergency evaluation at a stroke center, imaging of the brain, carotid imaging, ECG, echocardiogram, and vascular risk workup.
+* Check **ESR, CRP**, and platelets to screen for giant cell arteritis. Start high-dose steroids if suspected.
+* Ocular massage, lowering IOP (acetazolamide, anterior chamber paracentesis), and in some settings thrombolysis may be considered, although evidence is limited.
+* Long-term: antiplatelet therapy, statins, blood pressure control, and treatment of the embolic source.
+
+### Branch Retinal Artery Occlusion
+A sector of retina is affected, producing a segment of field loss. Same workup as CRAO.
+
+## Central Retinal Vein Occlusion (CRVO)
+
+### Presentation
+Sudden, painless, usually less severe vision loss in one eye.
+
+### Signs
+**"Blood and thunder" appearance:** diffuse flame hemorrhages in all four quadrants, dilated tortuous veins, disc swelling, and cotton wool spots.
+
+### Risk Factors
+Hypertension, diabetes, hyperlipidemia, glaucoma, age, and hypercoagulable states. In young patients, search for clotting disorders and vasculitis.
+
+### Types
+* **Nonischemic:** milder, better vision.
+* **Ischemic:** poor vision, RAPD, widespread capillary non-perfusion, and a high risk of neovascularization.
+
+### Complications
+* **Macular edema:** the main cause of vision loss. Treated with **anti-VEGF injections** or steroid implants.
+* **Neovascularization:** treated with PRP and anti-VEGF.
+* **Neovascular glaucoma** typically appears about 3 months later ("100-day glaucoma").
+
+### Branch Retinal Vein Occlusion (BRVO)
+Occurs at **arteriovenous crossings**, with a wedge of hemorrhage in one sector. Managed like CRVO. Address vascular risk factors.
+
+## Amaurosis Fugax
+
+Transient monocular vision loss, often described as a **curtain or shade** descending over the vision, lasting seconds to minutes with complete recovery. It is a **retinal TIA**, typically from carotid or cardiac emboli. Urgent stroke and carotid workup is required.
+
+## Sickle Cell Retinopathy
+
+Sickling in retinal vessels causes peripheral ischemia and neovascularization ("sea fan" vessels). Seen especially in SC and S-thalassemia. Managed by laser and surveillance.
+
+## Other Retinal Vasculopathies
+
+* **Retinal vasculitis:** from lupus, Behçet, sarcoidosis, and infections.
+* **Ocular ischemic syndrome:** from severe carotid stenosis.
+* **Radiation retinopathy.**
+
+> **Summary**
+> Diabetic retinopathy progresses from nonproliferative (microaneurysms, hemorrhages, exudates) to proliferative (new vessels, vitreous hemorrhage, traction), and macular edema is the main cause of vision loss. Annual dilated exams and glycemic control are key, and anti-VEGF and laser are the main treatments. CRAO causes sudden profound painless vision loss with a cherry red spot and demands a stroke workup and giant cell arteritis check. CRVO shows diffuse hemorrhages and can lead to neovascular glaucoma.

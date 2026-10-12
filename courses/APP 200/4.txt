@@ -1,0 +1,120 @@
+# Neurophysiology
+
+Anatomy tells you where things are. Physiology tells you how the nervous system works and why it fails. This lesson covers how neurons signal, how pathways carry information, and how pressure and blood flow are controlled within the skull.
+
+## The Neuron
+
+* **Cell body (soma):** contains the nucleus.
+* **Dendrites:** receive signals.
+* **Axon:** carries signals away. Long axons run up to a meter.
+* **Myelin:** a fatty insulating sheath. In the CNS it is made by **oligodendrocytes**, and in the PNS by **Schwann cells.**
+* **Nodes of Ranvier:** gaps in the myelin where the signal is regenerated.
+
+### Glia
+* **Astrocytes:** support neurons, maintain the blood-brain barrier, and regulate the chemical environment.
+* **Oligodendrocytes:** myelinate CNS axons.
+* **Microglia:** immune cells of the CNS.
+* **Ependymal cells:** line the ventricles and produce CSF.
+
+## The Action Potential
+
+* At rest, a neuron has a **resting membrane potential of about -70 mV**, maintained by the sodium-potassium pump and potassium leak channels.
+* A stimulus that reaches threshold (about -55 mV) opens **voltage-gated sodium channels**, so sodium rushes in and the cell **depolarizes.**
+* Sodium channels then inactivate and **potassium channels** open, so the cell **repolarizes.**
+* The signal travels down the axon. In **myelinated axons** it jumps from node to node (**saltatory conduction**), which is faster and more energy efficient.
+
+> **Clinical Pearl:** Loss of myelin slows or blocks conduction. That is the basis of multiple sclerosis in the CNS and Guillain-Barré syndrome in the PNS. Nerve conduction studies measure this directly.
+
+### Ion Channels in Disease
+* **Antiepileptic drugs** (such as carbamazepine, phenytoin, lamotrigine) block sodium channels to dampen abnormal firing.
+* **Local anesthetics** block sodium channels.
+* Inherited channelopathies cause some epilepsies, periodic paralysis, and migraine syndromes.
+
+## The Synapse
+
+When an action potential reaches the nerve terminal, **calcium** enters and triggers release of **neurotransmitter** into the synaptic cleft. The transmitter binds receptors on the next cell, which either excites or inhibits it. It is then removed by reuptake, enzymatic breakdown, or diffusion.
+
+### Key Neurotransmitters
+* **Glutamate:** the main excitatory transmitter in the brain. Excess causes excitotoxicity in stroke and seizure.
+* **GABA:** the main inhibitory transmitter. Benzodiazepines and barbiturates enhance GABA-A receptors, which is why they stop seizures.
+* **Glycine:** inhibitory in the spinal cord and brainstem. Blocked by strychnine and tetanus toxin.
+* **Acetylcholine:** neuromuscular junction, autonomic ganglia, and memory circuits. Reduced in Alzheimer disease.
+* **Dopamine:** movement, reward, and motivation. Lost in Parkinson disease. Excess is associated with psychosis.
+* **Serotonin:** mood, sleep, and pain modulation.
+* **Norepinephrine:** alertness and the sympathetic response.
+
+## Motor Pathways
+
+### Upper Motor Neurons (UMN)
+Cell bodies in the motor cortex send axons down the **corticospinal tract** to synapse on lower motor neurons in the spinal cord or brainstem.
+
+### Lower Motor Neurons (LMN)
+Cell bodies in the **anterior horn** (or cranial nerve nuclei) send axons out to muscle.
+
+### UMN Versus LMN Signs
+**Upper motor neuron lesion:**
+* Weakness in a pattern (for example, extensors of the arm and flexors of the leg)
+* **Increased tone** (spasticity, "clasp-knife")
+* **Hyperreflexia** and clonus
+* **Babinski sign** (upgoing great toe)
+* No significant atrophy early on
+
+**Lower motor neuron lesion:**
+* Weakness in the distribution of the affected nerve or root
+* **Reduced tone** (flaccidity)
+* **Hyporeflexia or areflexia**
+* **Atrophy** and **fasciculations**
+* No Babinski sign
+
+> **Clinical Pearl:** After an acute UMN lesion (such as a stroke or spinal cord injury), the limb can first be flaccid and areflexic for days or weeks. Spasticity and hyperreflexia develop later.
+
+### The Cerebellum and Basal Ganglia Loops
+Both modulate movement. The basal ganglia select and initiate movements, and the cerebellum compares intended and actual movement and corrects errors in real time.
+
+## Sensory Pathways
+
+* **Dorsal column-medial lemniscus pathway:** fine touch, vibration, and proprioception. Ascends on the **same side** of the cord, crosses in the medulla, and goes to the thalamus and cortex.
+* **Spinothalamic pathway:** pain and temperature. **Crosses in the spinal cord** soon after entering, then ascends to the thalamus and cortex.
+* **Pain processing:** nociceptors send signals through **A-delta fibers** (sharp, fast pain) and **C fibers** (dull, slow pain). The brain and spinal cord can amplify or suppress pain (central sensitization, descending inhibition).
+
+## Reflexes
+
+A reflex arc is the simplest circuit: **sensory receptor &rarr; afferent nerve &rarr; spinal cord synapse &rarr; efferent nerve &rarr; muscle.** The **stretch reflex** (for example, the knee jerk) is monosynaptic. The **cortex normally dampens** these reflexes, so in a UMN lesion they are exaggerated.
+
+## Cerebral Blood Flow and Metabolism
+
+The brain is about 2 percent of body weight but uses **20 percent of the body's oxygen and glucose.** It has almost no energy reserves, so **a few minutes** without blood flow causes irreversible injury.
+
+### Autoregulation
+Cerebral blood flow stays steady across a mean arterial pressure (MAP) of about **60 to 150 mmHg.** In chronic hypertension the range shifts upward, which is why a patient with long-standing hypertension is less tolerant of low pressures.
+
+### Effects of CO2
+* **High CO2** (hypercapnia): cerebral vessels **dilate**, increasing blood flow and ICP.
+* **Low CO2** (hypocapnia, as in hyperventilation): vessels **constrict**, lowering ICP. This is used briefly as an emergency measure but can cause ischemia if prolonged.
+
+## Intracranial Pressure and the Monro-Kellie Doctrine
+
+The skull is a rigid box containing three things: **brain tissue (about 80 percent), blood (about 10 percent), and CSF (about 10 percent).** If one increases, another must decrease, or pressure rises.
+
+* **Normal ICP:** about **5 to 15 mmHg** in adults. Treatment is usually started above **20 mmHg.**
+* **Cerebral perfusion pressure (CPP) = mean arterial pressure (MAP) minus ICP.** The target is generally **60 to 70 mmHg.**
+* Early on, the body compensates by displacing CSF and venous blood. Once these reserves are used up, **small additional volume causes steep pressure increases.**
+
+> **Clinical Pearl:** In raised ICP, lowering blood pressure aggressively reduces CPP and can cause ischemia. Treat the pressure, not just the blood pressure number.
+
+## Consciousness and Sleep
+
+* **Arousal (wakefulness)** depends on the **reticular activating system** in the upper brainstem and thalamus.
+* **Awareness (content of consciousness)** depends on the cerebral cortex.
+* Loss of consciousness requires either **bilateral hemispheric dysfunction** or **brainstem** dysfunction.
+
+## Neuroplasticity
+
+The nervous system can reorganize after injury. This is the basis of **rehabilitation:** repeated, task-specific practice strengthens alternative pathways. Recovery after stroke is greatest in the first 3 months, but meaningful gains can continue for much longer.
+
+## Neurotoxicity: Excitotoxicity in Stroke
+
+When blood flow stops, neurons run out of energy, the sodium-potassium pump fails, and glutamate accumulates. Calcium floods in and triggers cell death. The area around the core of dead tissue, the **penumbra,** is damaged but salvageable. **Reperfusion therapies aim to rescue the penumbra.**
+
+> **Summary**
+> Neurons signal with action potentials, which myelin speeds up through saltatory conduction. Glutamate excites and GABA inhibits, and many drugs act on these systems. UMN lesions cause spasticity and hyperreflexia, while LMN lesions cause flaccid weakness, atrophy, and fasciculations. Dorsal column fibers stay ipsilateral and cross in the medulla, while spinothalamic fibers cross in the cord. Cerebral perfusion pressure equals MAP minus ICP, and the Monro-Kellie doctrine explains why added volume in the skull raises pressure.

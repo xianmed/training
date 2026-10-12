@@ -1,0 +1,87 @@
+# Introduction to Ophthalmology
+
+Vision is the sense patients fear losing most, and the eye is one of the few organs where a clinician can look directly at nerves, blood vessels, and living tissue without surgery. This course covers the anatomy, physiology, examination, and diseases of the eye, with a focus on what an advanced practice provider needs to recognize, treat, and refer.
+
+## Why the Eye Matters in General Practice
+
+Eye complaints make up a large share of emergency department and urgent care visits. Most are benign (conjunctivitis, small abrasions, styes), but a small number threaten vision within hours. The core skill of this course is **telling the two apart quickly**.
+
+> **Clinical Pearl:** The eye often reveals systemic disease first. Diabetes, hypertension, multiple sclerosis, giant cell arteritis, sarcoidosis, and HIV can all announce themselves through the eye.
+
+## The Eye Care Team
+
+* **Ophthalmologist:** a physician (MD) who diagnoses and treats all eye disease and performs eye surgery.
+* **Optometrist:** a doctor of optometry who performs eye exams, prescribes glasses and contacts, and manages many common eye conditions.
+* **Optician:** fits and dispenses glasses and contact lenses.
+* **Ophthalmic technician:** performs testing such as visual acuity, visual fields, and imaging.
+
+## Essential Terminology
+
+* **OD** (oculus dexter): right eye
+* **OS** (oculus sinister): left eye
+* **OU** (oculus uterque): both eyes
+* **VA:** visual acuity
+* **IOP:** intraocular pressure
+* **RAPD:** relative afferent pupillary defect
+* **EOM:** extraocular movements
+* **Photophobia:** pain with light
+* **Photopsia:** flashes of light
+* **Floaters:** moving spots or strands in vision
+* **Metamorphopsia:** distorted or wavy vision
+* **Scotoma:** a blind or reduced area within the visual field
+* **Diplopia:** double vision
+* **Hyphema:** blood in the anterior chamber
+* **Hypopyon:** layered white blood cells in the anterior chamber
+
+## Taking an Eye History
+
+Ask these questions in order for any eye complaint:
+
+* **Onset:** sudden (seconds to minutes), over hours to days, or gradual over months?
+* **Pain:** is there pain, and is it mild, aching, or severe?
+* **Monocular or binocular:** cover one eye at a time. Double vision that disappears when one eye is covered is binocular (a muscle or nerve problem). Double vision that persists with one eye covered is monocular (lens, cornea, or retina problem).
+* **Which parts of vision:** central, peripheral, curtain, or generalized blur?
+* **Associated symptoms:** redness, discharge, light sensitivity, flashes, floaters, headache, nausea, jaw pain.
+* **Trauma or exposure:** chemicals, metal grinding, hammering, sports, UV light.
+* **Contact lens use:** type, wear schedule, sleeping in lenses, water exposure.
+* **Past eye history:** prior surgery, glaucoma, lazy eye, previous injuries.
+* **Systemic disease and medications:** diabetes, hypertension, autoimmune disease, steroids, anticoagulants.
+* **Family history:** glaucoma, macular degeneration, retinal detachment.
+
+## The Three Great Sorting Questions
+
+Nearly every eye complaint can be sorted with three questions.
+
+### 1. Is vision reduced?
+Reduced vision means the problem is in the cornea, lens, retina, or optic nerve (not just the surface). Normal vision with a red eye usually means a less dangerous surface problem.
+
+### 2. Is it painful?
+* **Painless sudden vision loss:** retinal artery or vein occlusion, retinal detachment, vitreous hemorrhage, ischemic optic neuropathy, stroke.
+* **Painful vision loss:** acute angle closure glaucoma, optic neuritis, uveitis, keratitis, endophthalmitis.
+* **Painless gradual vision loss:** cataract, open-angle glaucoma, macular degeneration, diabetic retinopathy, refractive error.
+
+### 3. Is it one eye or both?
+Sudden loss in one eye points toward the eye itself or its blood supply. Sudden loss in both eyes, or a field loss that affects both eyes in the same pattern, points toward the brain.
+
+## Red Flags: Same-Day Ophthalmology
+
+Any of these should be treated as an emergency and escalated:
+
+* Sudden painless loss of vision in one eye
+* Severe eye pain with nausea, vomiting, or halos
+* Chemical splash (irrigate first, then escalate)
+* Suspected open globe or penetrating injury
+* New flashes and a shower of floaters with a shadow or curtain
+* Red eye with reduced vision and a corneal infiltrate or hypopyon
+* Fever, proptosis, painful eye movements, or double vision with a swollen eyelid
+* Vision loss, jaw claudication, or headache in an older patient (think giant cell arteritis)
+* Contact lens wearer with a painful red eye
+
+> **Roleplay Pearl:** In the hospital, the strongest ED roleplay comes from asking the three sorting questions out loud. Patients should reveal pain, onset, and vision changes only when asked.
+
+## Course Roadmap
+
+The next lessons build in order. We start with anatomy and physiology, learn the examination, and then work through disease by structure: refractive error, the eyelids and orbit, the conjunctiva and cornea, the uvea, the lens, the optic nerve and glaucoma, and the retina. We finish with neuro-ophthalmology, trauma, children, and systemic disease.
+
+> **Summary**
+> The eye is a window to systemic disease. Sort every complaint by three questions: is vision reduced, is it painful, and is it one eye or both. Sudden vision loss, severe pain, trauma, chemicals, and signs of infection or ischemia are same-day emergencies.

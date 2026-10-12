@@ -1,0 +1,142 @@
+# Seizures and Epilepsy
+
+A **seizure** is a transient episode of abnormal, excessive, or synchronous neuronal activity. **Epilepsy** is a brain condition with a persistent tendency to have unprovoked seizures. About 1 in 10 people will have a seizure in their lifetime, but only about 1 in 26 will develop epilepsy.
+
+## Definitions
+
+* **Provoked (acute symptomatic) seizure:** caused by an acute insult. Not epilepsy.
+* **Unprovoked seizure:** no acute cause.
+* **Epilepsy** is diagnosed when there are **two or more unprovoked seizures** more than 24 hours apart, or one unprovoked seizure with a high risk (about 60 percent or more) of recurrence, or an epilepsy syndrome.
+
+## Seizure Classification
+
+### Focal Onset
+Starts in one area of one hemisphere.
+* **Aware:** the person remains conscious. May have motor, sensory, autonomic, or emotional symptoms. Includes the **aura** (such as a rising epigastric sensation, déjà vu, or an odd smell).
+* **Impaired awareness:** consciousness is reduced. Often staring, lip-smacking, hand fumbling (automatisms), and confusion afterward.
+* **Focal to bilateral tonic-clonic:** spreads to both hemispheres.
+
+### Generalized Onset
+Involves both hemispheres from the start.
+* **Tonic-clonic ("grand mal"):** sudden loss of consciousness, **stiffening (tonic phase)**, then **rhythmic jerking (clonic phase),** often with cyanosis, tongue biting, and incontinence, followed by **post-ictal** confusion, drowsiness, and headache.
+* **Absence ("petit mal"):** sudden **staring** for 5 to 15 seconds with no post-ictal state, in children. Hyperventilation can provoke it. EEG shows **3-Hz spike-and-wave** discharges.
+* **Myoclonic:** brief shock-like jerks. Typical of juvenile myoclonic epilepsy, often in the morning.
+* **Atonic:** sudden loss of muscle tone ("drop attacks").
+* **Tonic:** sustained stiffening.
+
+### Unknown Onset
+
+## Causes
+
+### Provoked Seizures
+* **Metabolic:** low glucose, sodium, calcium, or magnesium; uremia; liver failure
+* **Toxic and drugs:** alcohol withdrawal, benzodiazepine withdrawal, cocaine, amphetamines, tramadol, bupropion, theophylline, isoniazid overdose
+* **Infection:** meningitis, encephalitis
+* **Acute neurologic insult:** stroke, trauma, hemorrhage
+* **Eclampsia**
+* **Sleep deprivation, fever (in children)**
+
+### Epilepsy by Age
+* **Neonates:** hypoxic-ischemic injury, infection, metabolic problems, malformations
+* **Children:** genetic epilepsies, febrile seizures (benign), infantile spasms
+* **Adults:** head trauma, stroke, tumors, alcohol, infection
+* **Older adults:** **stroke (most common),** dementia, and tumors
+* **Mesial temporal sclerosis:** the most common cause of focal epilepsy in adults
+
+## Evaluating a First Seizure
+
+### History
+Details from a **witness** are essential. Ask about triggers, duration, features of onset (aura, focal onset), tongue biting (lateral tongue biting is fairly specific), incontinence, and post-ictal state.
+
+### Mimics of Seizures
+* **Syncope:** brief, with a trigger (standing, pain, heat), pallor and sweating beforehand, **rapid recovery.** Brief jerking may occur.
+* **Psychogenic nonepileptic events:** long duration, eyes closed during the event, side-to-side head movement, asynchronous movements, fluctuating course, and rapid recovery
+* **Migraine aura, TIA, movement disorders, sleep disorders, hypoglycemia**
+
+### Tests
+* **Glucose, electrolytes (sodium, calcium, magnesium), kidney and liver function,** toxicology, pregnancy test
+* **ECG** to exclude arrhythmias
+* **MRI brain** (CT in emergencies) for a structural cause
+* **EEG:** looking for epileptiform activity. A single normal EEG does not exclude epilepsy.
+* **LP** if infection is suspected
+
+## Management of an Acute Tonic-Clonic Seizure
+
+Most seizures stop within 1 to 2 minutes without treatment.
+
+* Protect from injury, **do not restrain** and **do not put anything in the mouth**
+* Turn the patient onto their side once the jerking stops (recovery position)
+* Time the seizure
+* Give oxygen, check airway and glucose
+* **Treat as status epilepticus if it lasts longer than 5 minutes** or if seizures recur without recovery
+
+## Status Epilepticus
+
+A seizure lasting **5 minutes or more,** or two or more seizures without recovery of consciousness in between. A **neurologic emergency** with a significant risk of brain injury and death, especially after 30 minutes.
+
+### Management
+
+1. **ABCs.** Oxygen, monitor, IV access, **check glucose** (give glucose if low, **with thiamine** in suspected alcohol use).
+2. **First-line (immediately, at about 5 minutes): a benzodiazepine.**
+   * **Lorazepam** IV 0.1 mg/kg (usual maximum 4 mg per dose), may repeat once, or
+   * **Midazolam IM** (10 mg if over 40 kg, 5 mg for 13 to 40 kg), or
+   * **Diazepam** IV (or rectal when there is no access)
+3. **Second-line (if seizure continues at about 20 minutes): a long-acting antiseizure medication,** one of:
+   * **Levetiracetam** 60 mg/kg IV (maximum 4,500 mg)
+   * **Fosphenytoin** 20 mg PE/kg IV (maximum 1,500 mg PE), with cardiac monitoring
+   * **Valproate** 40 mg/kg IV (maximum 3,000 mg). Avoid in women of childbearing age, liver disease, and pregnancy.
+4. **Third-line (refractory status, usually after about 40 minutes):** ICU admission, intubation, and anesthetic infusions (midazolam, propofol, or pentobarbital) with **continuous EEG monitoring.**
+5. **Find and treat the cause:** metabolic, infection, stroke, drug toxicity, and withdrawal.
+
+> **Clinical Pearl:** Patients who remain unresponsive after convulsions stop may be in **nonconvulsive status epilepticus.** Order an EEG.
+
+## Long-Term Treatment of Epilepsy
+
+### Starting Antiseizure Medications (ASMs)
+After a first unprovoked seizure, treatment is individualized. It is generally started after a second seizure, or after a first seizure if there is a high recurrence risk (abnormal EEG or MRI, a structural cause, a nocturnal seizure).
+
+### Choosing a Drug
+* **Focal seizures:** **lamotrigine, levetiracetam, carbamazepine, oxcarbazepine.**
+* **Generalized tonic-clonic and myoclonic seizures:** **valproate, lamotrigine, levetiracetam.** Valproate is **avoided in women who could become pregnant** (neural tube defects and impaired child development).
+* **Absence seizures:** **ethosuximide** (first-line for absence alone), valproate, or lamotrigine.
+* **Avoid** carbamazepine, oxcarbazepine, and phenytoin in generalized epilepsies (can worsen myoclonic and absence seizures).
+
+### Common Adverse Effects
+* **Carbamazepine:** hyponatremia, dizziness, rash (**HLA-B*1502** in people of Asian ancestry predicts Stevens-Johnson syndrome), enzyme induction
+* **Phenytoin:** gum overgrowth, hirsutism, ataxia, bone loss, nystagmus
+* **Valproate:** weight gain, tremor, hair loss, liver toxicity, pancreatitis, teratogenicity
+* **Lamotrigine:** rash (including **Stevens-Johnson syndrome** if titrated too quickly)
+* **Levetiracetam:** irritability, mood changes
+* **Topiramate:** kidney stones, cognitive slowing, weight loss, acute angle closure
+* **Enzyme-inducing drugs** reduce the effectiveness of **hormonal contraceptives.**
+
+### Counseling
+* **Adherence:** missed doses are a common trigger of breakthrough seizures.
+* **Driving:** restrictions vary by location, with a seizure-free period generally required.
+* **Safety:** avoid swimming alone and bathing alone, heights, and operating dangerous machinery.
+* **Pregnancy:** plan ahead. Take **folic acid** (higher doses are often advised), and choose safer ASMs (lamotrigine and levetiracetam have lower risk).
+* **Sleep, alcohol, and stress** can lower the seizure threshold.
+* **SUDEP** (sudden unexpected death in epilepsy) is a rare but real risk, highest with uncontrolled tonic-clonic seizures.
+
+### Refractory Epilepsy
+About one third of patients continue to have seizures despite two adequate drug trials. Refer to an **epilepsy center** for evaluation for **surgery** (such as temporal lobectomy), **vagus nerve stimulation,** responsive neurostimulation, or the **ketogenic diet.**
+
+## Special Situations
+
+### Febrile Seizures
+Occur in children aged 6 months to 5 years with fever, are usually brief and generalized, and are **benign.** They do not cause epilepsy in most children. Treat the fever source and reassure.
+
+### Alcohol Withdrawal Seizures
+Occur 6 to 48 hours after the last drink. Treat with **benzodiazepines.** Antiseizure drugs like phenytoin are not effective.
+
+### Eclampsia
+Seizures in pregnancy with hypertension. Treat with **IV magnesium sulfate** and deliver the baby.
+
+### Post-Stroke and Post-Traumatic Seizures
+Early seizures often do not require long-term ASMs. Late seizures usually recur.
+
+### Todd Paralysis
+Temporary focal weakness after a seizure, resolving within hours to a day. A stroke mimic.
+
+> **Summary**
+> Seizures are classified as focal (aware or impaired awareness) or generalized (tonic-clonic, absence, myoclonic, atonic). First evaluation includes glucose, electrolytes, ECG, MRI, EEG, and a witness account. Status epilepticus is a seizure over 5 minutes: give a benzodiazepine immediately, then levetiracetam, fosphenytoin, or valproate, then anesthetic infusions. Match the ASM to seizure type, avoid valproate in women of childbearing age, and counsel on adherence, driving, safety, and pregnancy.

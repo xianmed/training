@@ -1,0 +1,151 @@
+# Ocular Trauma and Emergencies
+
+Eye injuries are common and many are preventable. A systematic approach protects vision, and knowing which injuries cannot wait is one of the most valuable skills in this course.
+
+## General Approach
+
+* Follow standard trauma priorities first (airway, breathing, circulation, cervical spine). Eye injuries are rarely immediately life-threatening, but associated head, facial, and spine injuries may be.
+* **Measure visual acuity early,** even if it is only counting fingers or light perception.
+* Obtain a clear **mechanism of injury** (high-velocity projectile, hammering metal on metal, chemical, blunt object, sharp object).
+* **Do not apply pressure to the eye** if open globe is possible.
+* **Do not remove any embedded foreign object.**
+* Apply a **rigid shield** (not a pressure patch).
+* Check tetanus status and give prophylaxis if needed.
+
+## Chemical Injuries
+
+**The one eye emergency where treatment comes before examination.** Seconds count.
+
+### Alkali Versus Acid
+* **Alkali** (lye, drain cleaner, cement, lime, ammonia): **more dangerous.** They cause liquefactive necrosis and penetrate deep, reaching the inside of the eye.
+* **Acid** (battery acid, pool cleaner, vinegar): coagulate proteins, which limits penetration. Generally less severe, except for hydrofluoric acid.
+
+### Management
+1. **Immediate, copious irrigation** with water, saline, or Ringer lactate. Start at the scene or on arrival. Use a topical anesthetic to allow lids to be opened, and use an eyelid speculum or Morgan lens if needed.
+2. **Continue irrigation for at least 30 minutes** and at least 1 to 2 liters.
+3. **Check pH** with litmus paper, 5 minutes after stopping irrigation. Continue until the pH is **7.0 to 7.4.**
+4. **Evert the lids** and sweep the fornices to remove particles.
+5. Then perform a full eye examination, including visual acuity and fluorescein.
+6. Ophthalmology referral. Treatment includes topical antibiotics, steroids, cycloplegics, and sometimes oral vitamin C and doxycycline.
+
+> **Clinical Pearl:** A white, ischemic eye (blanched conjunctiva and cloudy cornea) after chemical injury is a grave sign and indicates limbal stem cell loss.
+
+## Open Globe (Ruptured Globe)
+
+A full-thickness wound of the cornea or sclera. A surgical emergency.
+
+### Mechanisms
+Sharp objects, projectiles, metal on metal (hammer and chisel), airbag or sports injuries, firearms and fireworks, and severe blunt trauma that bursts the globe.
+
+### Signs
+* Reduced vision, often severe
+* **Teardrop or peaked pupil** pointing to the wound
+* **Positive Seidel test** (stream of aqueous humor)
+* **Deep or flat anterior chamber**
+* **360-degree subconjunctival hemorrhage** (bright red, bulging)
+* **Hyphema**
+* Exposed uveal tissue or vitreous
+* Low IOP, enophthalmos or a soft eye
+* Often an obvious foreign body
+
+### Management
+* **Do NOT** check IOP, apply pressure, or manipulate the eye. Do not remove protruding objects.
+* **Apply a rigid shield** (such as a Fox shield) or a cup without touching the eye.
+* **Nothing by mouth** (NPO) for possible surgery.
+* **Antiemetics and analgesia** to prevent vomiting and straining.
+* **Tetanus prophylaxis.**
+* **Systemic antibiotics** (for example IV fluoroquinolone, or vancomycin plus ceftazidime for contaminated wounds).
+* **CT of the orbits** to look for intraocular foreign bodies. Avoid MRI if a metal foreign body is possible.
+* **Emergency surgical repair** (ideally within 24 hours).
+
+### Intraocular Foreign Body
+High-speed metal fragments (grinding, hammering) can enter the eye through a tiny wound with few symptoms. Suspect it with any high-risk mechanism and obtain CT imaging.
+
+## Hyphema
+
+Blood in the anterior chamber, usually from blunt trauma.
+
+### Grading
+Based on the amount of blood layering in the anterior chamber, from microhyphema to total (**"eight ball"**) hyphema.
+
+### Management
+* **Elevate the head** about 30 to 45 degrees so blood settles
+* **Rigid shield,** bed rest, and activity restriction
+* **Avoid aspirin and NSAIDs** (they increase bleeding risk)
+* Topical steroids and cycloplegics
+* **Monitor IOP** closely. Treat elevated pressure with drops, avoiding carbonic anhydrase inhibitors in sickle cell patients.
+* **Rebleeding** is the main risk, typically **days 3 to 5**. It is often worse than the first bleed.
+* **Test for sickle cell trait or disease** in at-risk patients. Even trait can cause severe pressure rises and optic nerve damage.
+* Surgical washout for uncontrolled pressure or corneal blood staining.
+
+## Orbital Fractures
+
+### Blowout Fracture
+Blunt trauma raises orbital pressure, and the thin floor (and sometimes medial wall) breaks.
+
+#### Signs
+* **Diplopia, especially on upgaze** (the inferior rectus or surrounding tissue is entrapped)
+* **Limited upgaze or downgaze**
+* **Enophthalmos** (sunken eye) or hypoglobus
+* **Infraorbital numbness** (V2 involvement)
+* **Subcutaneous emphysema** (crepitus), from sinus air
+* Periorbital swelling and bruising
+
+#### Management
+* **CT scan** of the orbits (coronal views show the floor)
+* Instruct the patient **not to blow their nose** (it can push air into the orbit)
+* Antibiotics (commonly) and decongestants
+* **Examine the globe** for associated injury (commotio, hyphema, rupture, retinal tear)
+* **Surgical repair** for persistent diplopia, large defects, enophthalmos, or entrapment.
+
+#### Pediatric "Trapdoor" Fracture
+A **greenstick** floor fracture in a child that snaps back and traps the muscle. The eye may look white and quiet but cannot move. The child may have **bradycardia, nausea, and vomiting** (the **oculocardiac reflex**). This is a surgical emergency, because muscle ischemia is rapid.
+
+## Retrobulbar Hemorrhage
+
+Bleeding behind the eye that raises orbital pressure, creating an **orbital compartment syndrome** that can blind within about 90 minutes.
+
+### Signs
+* **Severe pain**
+* **Proptosis** and a tense, firm orbit
+* **Reduced vision, RAPD, limited eye movements**
+* **High IOP**
+* Follows trauma, facial fractures, and orbital or eyelid surgery
+
+### Management
+**Emergency lateral canthotomy and cantholysis** at the bedside. Do not wait for imaging if vision is threatened. This releases the lateral lid attachments and decompresses the orbit. Add medical IOP lowering and call ophthalmology.
+
+## Other Traumatic Injuries
+
+* **Eyelid lacerations:** involvement of the lid margin, tear duct (canaliculus), or levator needs specialist repair. Evaluate for globe injury.
+* **Traumatic iritis:** pain, photophobia, and reduced vision a day after blunt injury. Treated with steroids and cycloplegics.
+* **Traumatic mydriasis and sphincter tears.**
+* **Lens dislocation and traumatic cataract.**
+* **Commotio retinae:** whitening of the retina after impact (Berlin edema).
+* **Vitreous hemorrhage, retinal tears, and retinal detachment.**
+* **Traumatic optic neuropathy:** vision loss with RAPD after head injury and a normal-appearing disc early on.
+* **Solar retinopathy:** from staring at the sun or an eclipse, causing a central scotoma.
+* **Shaken baby syndrome** in infants: retinal hemorrhages in multiple layers suggest abusive head trauma, and should trigger child protection evaluation.
+
+## Eye Protection and Prevention
+
+Safety glasses and goggles at work, in sports, and when using power tools prevent most injuries. Fireworks, BB guns, and paintball cause devastating trauma.
+
+## Same-Day Ophthalmic Emergency Checklist
+
+* Acute angle-closure glaucoma
+* Central retinal artery occlusion
+* Retinal detachment (especially macula-on)
+* Endophthalmitis
+* Orbital cellulitis
+* Chemical burn (irrigate first)
+* Open globe
+* Retrobulbar hemorrhage
+* Giant cell arteritis with visual symptoms
+* Gonococcal conjunctivitis
+* Infectious keratitis with hypopyon
+* Pediatric blowout fracture with entrapment
+* Papilledema with visual loss
+
+> **Summary**
+> In chemical injury, irrigate first until pH reaches 7.0 to 7.4. Suspected open globe means rigid shield, no pressure or tonometry, NPO, antibiotics, tetanus, CT, and emergency surgery. Hyphema needs head elevation, no NSAIDs, and monitoring for rebleeding and pressure rises, with sickle cell testing. Blowout fractures cause diplopia and numbness, and pediatric trapdoor fractures are emergencies. Retrobulbar hemorrhage with vision loss needs immediate lateral canthotomy.
