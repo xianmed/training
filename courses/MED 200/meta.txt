@@ -12,4 +12,4 @@ amt-lessons=11
 8=Neuro/Psych antidepressants, antipsych, antiepileptics
 9=EM/CC epi,norepi,dopamine,adenosine,amiodarone,atropine,Ca,Mg ***May delete this lesson.
 10=Toxicology and Antidotes naloxone, flumazenil, N-acetylcysteine, protamine, vit K
-11=Volume Expanders and Electrolytes *for correcting the electrolyte derangements.
+11=Volume Expanders and Electrolytes

@@ -22,7 +22,7 @@ body{
 
 header{
     height:70px;
-    background:var(--logo-blue);
+    background:var(--logo-red);
     color:white;
 
     display:flex;
