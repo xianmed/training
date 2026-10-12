@@ -1,2 +1,3 @@
 id,name,date,specialty,institution
 1478214808917770304,shadowxx01,10/12/2026,Fellowship in Trauma and Surgical Critical Care,Xi'an Medical
+1319339277783404575,Sophie Chen,10/12/2026,Doctor of Medicine (M.D.),Xi'an Medical
